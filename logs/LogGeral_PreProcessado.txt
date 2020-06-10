@@ -11,7 +11,6 @@ EmpSem|Fiscal AT	tb
 EmpSem|Fiscal AT	não tenho interesse em me candidatar a nenhum cargo no momento :slight_smile: acredito que a atual gestão está fazendo um bom trabalho.
 AgAT2	então acho q mantemos como tá
 EmpMaq|Prefeito AT	sim da para manter
-EmpMaq|Prefeito AT	
 AgCD2|Prefeito CD	Bom dia pessoal. Alguém mais querendo se candidatar a prefeitura?
 AgCD2|Prefeito CD	bom dia
 AgCD2|Prefeito CD	não quero me candidatar, alguem se gostaria?
@@ -35,7 +34,6 @@ AgCD2|Prefeito CD	Bruna vira fiscal, giovani vereador e eu continuo prefeito
 AgCD1|Fiscal CD	de acordo
 AgCD3|Vereador CD	ok
 AgCD2|Prefeito CD	Vou avisar lá então
-AgCD2|Prefeito CD	
 AgAT1	Seguindo...
 AgAT1	oi
 AgAT1	voltamos
@@ -126,7 +124,6 @@ AgCD3|Vereador CD	hoje estou na promoção
 AgCD3|Vereador CD	Ok... Vou quer os 3  super premium pelo preço baixo! obrigado!
 AgCD3|Vereador CD	de nda
 AgCD3|Vereador CD	volte sempre
-AgCD3|Vereador CD	
 AgCD3|Vereador CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
 AgCD3|Vereador CD	Bom dia!
 AgCD3|Vereador CD	Feito :slight_smile:
@@ -198,12 +195,10 @@ AgAT1	negócio fechado :slight_smile:
 AgAT1	Bom dia! Estamos com promoção:
 AgAT1	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
 AgAT1	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
-AgAT1	
 AgAT1	Valores após final do estoque promocional:
 AgAT1	- Comum: preço baixo
 AgAT1	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
 AgAT1	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
-AgAT1	
 AgAT1	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
 AgCD3|Vereador CD	AgCD3 -- Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO -- Informação Importante: Conheço o FISCAL :wink:
 AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
@@ -247,12 +242,10 @@ AgCD2|Prefeito CD	super premium preço normal
 AgCD2|Prefeito CD	Bom dia! Estamos com promoção:
 AgCD2|Prefeito CD	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
 AgCD2|Prefeito CD	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
-AgCD2|Prefeito CD	
 AgCD2|Prefeito CD	Valores após final do estoque promocional:
 AgCD2|Prefeito CD	- Comum: preço baixo
 AgCD2|Prefeito CD	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
 AgCD2|Prefeito CD	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
-AgCD2|Prefeito CD	
 AgCD2|Prefeito CD	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
 AgCD2|Prefeito CD	Bom dia
 AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo? Só comprei a preço normal/alto até agora :
@@ -331,7 +324,6 @@ AgCD3|Vereador CD	AgAT1 - 6 SP preço alto (FECHADO)
 AgAT1	Deal
 AgCD3|Vereador CD	Ok... Vou querer somente os 3 SP pelo preço NORMAL! Obrigado! :slight_smile:
 AgCD3|Vereador CD	ok
-AgCD3|Vereador CD	
 AgCD3|Vereador CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
 AgCD1|Fiscal CD	bom dia!
 AgCD1|Fiscal CD	sou AgCD1 e gostaria de comprar 2 unidades do pacote 2 e 1 unidade do pacote 3 de máquinas, e gostaria de saber se os preços estão baixos
@@ -494,7 +486,6 @@ EmpMaq|Prefeito AT	entendo
 EmpMaq|Prefeito AT	Disponibilizamos para quem quiser pacotes do tipo 1 a preço baixo, 3 pacotes do tipo 2 também a preço baixo
 EmpMaq|Prefeito AT	e pacotes do tipo 3 e pulverizadores a preço alto
 EmpMaq|Prefeito AT	Caso ninguém tenha mais nenhuma negociação para fazer fechamos as vendas por hoje
-EmpMaq|Prefeito AT	
 AgCD1|Fiscal CD	bom dia
 AgCD1|Fiscal CD	eu gostaria de comprar sementes
 EmpSem|Fiscal AT	bom dia
@@ -699,7 +690,6 @@ EmpSem|Fiscal AT	acabei de vender para @vd2
 AgCD2|Prefeito CD	ta certa a proposta ali empsem?
 EmpSem|Fiscal AT	certo @AgCD2 / PrefeitoCD - GustavoLima
 AgCD2|Prefeito CD	beleza, obrigado
-AgCD2|Prefeito CD	
 AgAT2	Então
 AgAT2	bomdia
 AgAT2	Eu sou o Vereador At2
@@ -901,7 +891,6 @@ EmpSem|Fiscal AT	só para finalizar todos 'bem'
 EmpMaq|Prefeito AT	Finalizamos então
 EmpMaq|Prefeito AT	então agora estamos fechando a negociação de 430 vindos da prefeitura para mim, AgAT3, certo?
 EmpMaq|Prefeito AT	isso
-EmpMaq|Prefeito AT	
 AgCD2|Prefeito CD	atlantis já enviou suas decisões
 AgCD2|Prefeito CD	Gente, preciso trabalhar, meus fertilizantes nao se fazem sozinhos
 AgCD2|Prefeito CD	decidam
@@ -909,7 +898,6 @@ AgCD2|Prefeito CD	VOU FALAR PELA ÚLTIMA VEZ
 AgCD3|Vereador CD	Eu represento a voz do povo! Baixar imposto! Sem Multa!
 AgCD2|Prefeito CD	- Mantermos os impostos
 AgCD2|Prefeito CD	- Estamos com 1 medida de prevenção ativa (alta), sugiro de baixarmos pra média. Mais caixa, já que a poluição caiu
-AgCD2|Prefeito CD	
 AgCD2|Prefeito CD	Decisões de sementes e impostos são decisões tomadas DEPOIS das decisões da prefeitura
 AgCD2|Prefeito CD	Impeachmant do vereador
 AgCD2|Prefeito CD	KKKKKKKKKKKKKKK
@@ -974,3 +962,35 @@ AgCD2|Prefeito CD	Eu tambem contribuo bastante
 AgCD2|Prefeito CD	e diminui muito minhas taxas de poluição
 AgCD2|Prefeito CD	nem por isso deixo de ajudar
 AgCD2|Prefeito CD	abre a mao vereador
+AgCD2|Prefeito CD	se nao vai ter protesto
+AgCD3|Vereador CD	@AgCD3 | VerCD  foi privado de recursos nesta rodada... nem conseguiu produzir em todas as parcelas
+AgCD3|Vereador CD	todos foram
+AgCD3|Vereador CD	to me sentindo um advogado
+AgCD3|Vereador CD	hahahahahahahah
+AgCD3|Vereador CD	a diferença é que vc continua rico
+AgCD3|Vereador CD	uahusahsauhsa
+AgCD1|Fiscal CD	tu ta te auto defedendo?
+AgCD1|Fiscal CD	defendendo*
+AgCD1|Fiscal CD	mds
+AgCD1|Fiscal CD	hahahahha
+AgCD1|Fiscal CD	Ele tá kkkkk
+AgCD2|Prefeito CD	tem que ver isso, alguém comentou lá no whats
+AgCD2|Prefeito CD	se são 2 pessoas
+AgCD2|Prefeito CD	ou se é 1 pessoa com 2 papéis
+AgCD1|Fiscal CD	eu acho que é uma pessoa
+AgCD1|Fiscal CD	com dois papéis
+AgCD2|Prefeito CD	"só queria dar o toque aqui que tu és uma pessoa só que tens dois papéis na sociedade, não duas pessoas diferentes"
+AgCD2|Prefeito CD	se nao houver doações, nao vendo mais para o AgCD3
+AgCD2|Prefeito CD	protesto
+AgCD1|Fiscal CD	Gente, terei que sair
+AgCD2|Prefeito CD	Gente, quem precisa preencher ficha nessa rodada, já preencheu?
+AgCD1|Fiscal CD	Foi uma mistura de prazer e dor
+AgCD1|Fiscal CD	pessoal vou ter que sair daqui a popuco
+AgCD1|Fiscal CD	Até mais
+AgCD3|Vereador CD	Deem opções de comprar recursos aos produtores q eles mantém produção e poluição baixa
+AgCD3|Vereador CD	Até mais
+AgCD3|Vereador CD	hahhhahhaa
+AgCD3|Vereador CD	concordo com as decisões q o prefeito tomar
+AgCD3|Vereador CD	pessoal até mais
+AgCD2|Prefeito CD	até mais gente
+AgCD3|Vereador CD	Até mais :slight_smile: :thumbsup:
