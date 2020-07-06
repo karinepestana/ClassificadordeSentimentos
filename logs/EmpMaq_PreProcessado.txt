@@ -1,0 +1,162 @@
+AgCD3|Vereador CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
+AgCD1|Fiscal CD	bom dia!
+AgCD1|Fiscal CD	sou AgCD1 e gostaria de comprar 2 unidades do pacote 2 e 1 unidade do pacote 3 de máquinas, e gostaria de saber se os preços estão baixos
+EmpMaq|Prefeito AT	AgCD3 tudo certo
+EmpMaq|Prefeito AT	Preços baixos
+AgCD3|Vereador CD	AgCD3 -- OK... Obrigado por vender 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
+EmpMaq|Prefeito AT	AgCD1 pacote 3  valor normal
+EmpMaq|Prefeito AT	queres ?
+EmpMaq|Prefeito AT	e pacote 2 valor baixo ?
+AgCD1|Fiscal CD	pode ser
+AgCD1|Fiscal CD	obrigada
+EmpMaq|Prefeito AT	Disponha
+EmpMaq|Prefeito AT	Bom dia! Hoje os pulverizadores estão em promoção com preços baixos
+EmpMaq|Prefeito AT	Recebemos novos estoques de pacotes então aproveitem então ainda temos em estoque
+AgCD2|Prefeito CD	AgCD2 - Gostaria de alugar 6 máquinas 3. Consegue fazer pelo preço baixo?
+AgCD1|Fiscal CD	Olá, sou AgCD1 e gostaria de alugar 6 pacotes de máquinas 2
+EmpMaq|Prefeito AT	ultimamente nossas vendas foram grandes desta maneira possuímos 3 unidades do pacote 3 ao preço normal apenas
+AgAT2	AgAt2- gostaria do pacote 3 de maquinas
+EmpMaq|Prefeito AT	para o pacote 2 possuímos mais de 10 máquinas ao preço normal
+EmpMaq|Prefeito AT	e o pacote 1 está com preço baixo
+AgCD2|Prefeito CD	Putz, 3 no preço normal?
+AgCD2|Prefeito CD	Mas ai tu consegue fazer preço baixo no pacote 2?
+AgCD1|Fiscal CD	Eu gostaria de 1 do pacote 2 no preço baixo então
+EmpMaq|Prefeito AT	agat2 quantas máquinas ?
+AgCD1|Fiscal CD	e os outros com preço normal
+AgCD1|Fiscal CD	fechando 6
+EmpMaq|Prefeito AT	apenas o pacote 1 está com preço baixo, e o pulverizador
+EmpMaq|Prefeito AT	AgCD1 pacote 2 apenas preço normal
+AgAT2	quantas tu tens
+AgCD1|Fiscal CD	não tem nenhuma promoção para o pacote 2?
+AgCD2|Prefeito CD	Bom, pode fazer 3 máquinas 3 (normal) e 3 máquinas 2 (normal)?
+EmpMaq|Prefeito AT	AgCD1  negocio fechado, 3 máquinas do tipo 3 pelo preço normal e mais 3 do tipo 2 pelo preço normal
+EmpMaq|Prefeito AT	agat2 pacote 3 tenho apenas a preço alto agora 3 unidades, tenho mais unidades do pacote 2 a preço normal
+AgCD1|Fiscal CD	Oi, eu sou AgCD1
+EmpMaq|Prefeito AT	e o pacote 1 e pulverizantes estão em promoção a preço baixo
+AgCD1|Fiscal CD	não negociei dessa forma
+AgCD1|Fiscal CD	Gostaria de 3 do pacote 1 e 3 do pacote 2 então
+AgCD2|Prefeito CD	Tem 6 unidades do pacote 2 a preço normal?
+AgCD1|Fiscal CD	Sou AgCD1
+AgCD1|Fiscal CD	pacote 1 baixo e 2 normal, certo?
+EmpMaq|Prefeito AT	10 unidades de pacote 2 a preço normal, 3 unidades de pacote 3 a preço nomal, 3 unidades de pacote 3 a preço alto, varias unidades de pacote 1 a preço baixo
+EmpMaq|Prefeito AT	e pulverizadores a preço baixo também
+AgAT2	AgAt2- Então pode ser 6 Pacotes 2?
+AgCD1|Fiscal CD	Quero 3 do pacote 1 e 3 do pacote 2 - AgCD1
+EmpMaq|Prefeito AT	AgAt2 feito
+AgCD2|Prefeito CD	AgCD2 - Pode ser 6 unidades do pacote 2 a preço normal?
+AgCD1|Fiscal CD	Quero 3 do pacote 1 e 3 do pacote 2 - AgCD1
+AgCD1|Fiscal CD	?
+EmpMaq|Prefeito AT	AgCD2 temos agora apenas 4  unidades do pacote 2
+AgCD1|Fiscal CD	Empresário estou falando com vocÊ
+AgCD2|Prefeito CD	e tem mais duas do pacote 3 a preço normal então?
+EmpMaq|Prefeito AT	AgCD1  ok
+AgCD1|Fiscal CD	preciso saber o que vamos acertar
+AgCD2|Prefeito CD	Da pra fechar 4 pacote 2 normal e 2 pacote 3 normal?
+EmpMaq|Prefeito AT	AgCD1 podemos fechar sim
+AgCD1|Fiscal CD	ok
+EmpMaq|Prefeito AT	Caso não queiram mais realizar negociações, vamos encerrar nossas atividades.
+AgCD2|Prefeito CD	Eu não recebi resposta ainda
+EmpMaq|Prefeito AT	AgCD2 fechamos em 4 pacotes 2 pelo preço normal e 2 pacotes 3 pelo preço normal
+AgCD2|Prefeito CD	Certo, obrigado
+EmpMaq|Prefeito AT	você quer mudar algo ?
+AgCD2|Prefeito CD	Não, eu só queria confirmação
+EmpMaq|Prefeito AT	ok
+AgCD2|Prefeito CD	AgCD2 - Gostaria de alugar 3 pacotes 3 e 3 pacotes 2. Consegue fazer pelo preço baixo?
+AgCD3|Vereador CD	AgCD3 -- Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO!
+EmpMaq|Prefeito AT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
+AgCD1|Fiscal CD	AgCD1 - Olá, gostaria de comprar 3 unidades do pacote 2 e 3 unidades do pacote 3
+AgCD1|Fiscal CD	Tem que dividir o pacote 3 então
+EmpMaq|Prefeito AT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
+AgCD2|Prefeito CD	Quero os 4 pacotes tipo 2 e os 2 tipo 3 a preço normal então, pode ser?
+AgCD2|Prefeito CD	AgCD3 /\
+EmpMaq|Prefeito AT	certo AgCD3 6 pacotes ao total.
+AgCD2|Prefeito CD	Não é cd2?
+AgCD1|Fiscal CD	AgCD1 - quero 3 do pacote 2 e 3 do pacote 3
+EmpMaq|Prefeito AT	não sei você que falou, algo o seu ?
+AgCD2|Prefeito CD	Eu tinha dito 4 tipo 2 e 2 tipo 3 a preço normal, que era o que tu tinha comentaod antes
+AgCD2|Prefeito CD	Fechado?
+EmpMaq|Prefeito AT	fechado voce é o agcd3 correto ?
+AgCD2|Prefeito CD	AgCD2
+AgCD2|Prefeito CD	2
+EmpMaq|Prefeito AT	ok
+AgCD2|Prefeito CD	Obrigado
+EmpMaq|Prefeito AT	AgCD1  preços apenas altos agora, ok?
+AgCD3|Vereador CD	Eu quero 6 pacotes do tipo 3... Era isso que vc confirmou?
+AgCD3|Vereador CD	AgCD3
+AgCD1|Fiscal CD	AgCD1 - eu fui a segunda a pedir
+AgCD1|Fiscal CD	isso está errado
+AgCD1|Fiscal CD	Gostaria de 3 do pacote 2 e 3 do pacote 3
+EmpMaq|Prefeito AT	O pedido que se confirmou foi o do agcd2, agora disponibilizamos apenas pacotes altos 2 e 3, pacote normal 1 e pulverizantes baixos
+EmpMaq|Prefeito AT	agcd1 gostaria de fazer o pedido com o valor alto  totalizando 5 pacotes ?
+AgCD1|Fiscal CD	AgCD1 - Gostaria de 6 pacotes
+AgCD1|Fiscal CD	pode ser 2 de cada então?
+AgCD3|Vereador CD	AgCD3 -- Eu quero 6 pacotes 3... Qual o valor?
+AgCD1|Fiscal CD	2 do 1, 2 do 2 e 2 do 3?
+EmpMaq|Prefeito AT	agcd1 pode, compra fechada 2 tipo 1 baixo, 2 tipo 2 alto e 2 tipo 3 alto
+EmpMaq|Prefeito AT	agcd3 agora valores apenas alto
+EmpMaq|Prefeito AT	agcd3 vai fechar ?
+AgCD3|Vereador CD	AgCD3 -- Ok... 6 pacotes do tipo 3 por valor ALTO. Obrigado!
+EmpMaq|Prefeito AT	agcd3 fechado
+AgAT2	AgAt2- gostaria de 3 padotes de maquina 3
+AgAT2	tem como
+AgAT2	alguem ai
+EmpMaq|Prefeito AT	AgAt2 desculpe
+EmpMaq|Prefeito AT	ok preço alto
+AgAT2	ja tava até indo embora
+AgAT2	3 pacote 3
+EmpMaq|Prefeito AT	pedido fechado 3 do pacote 3 pelo preço alto
+AgAT2	opa
+AgAT2	nem pelo normal amigo
+AgAT2	:frowning:
+EmpMaq|Prefeito AT	infelizmente não amigo
+AgAT2	é so 3
+EmpMaq|Prefeito AT	tivemos baixas e tivemos que aumentar os preços.
+EmpMaq|Prefeito AT	mas o pacote 1 está com preço baixo caso queira
+AgAT2	vai o 1 então
+AgAT2	3 1
+EmpMaq|Prefeito AT	ok
+AgAT2	3 pacotes 1
+EmpMaq|Prefeito AT	fechado 3 do pacote 1 preço baixo.
+EmpMaq|Prefeito AT	mais alguém gostaria de algo ?
+EmpMaq|Prefeito AT	caso ninguém queira fechamos
+EmpMaq|Prefeito AT	Negociações fechadas
+AgCD3|Vereador CD	Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3. Qual o valor? :slight_smile:
+EmpMaq|Prefeito AT	Ola pacotes do tipo 3 e pulverizadores apenas preço alto
+EmpMaq|Prefeito AT	pacotes tipo 2 e 1 temos 3 unidades cada preço baixo e o resto medio
+AgCD1|Fiscal CD	Olá, gostaria de 6 do pacote 2
+EmpMaq|Prefeito AT	agcd1 3 pelo preço baixo e 3 pelo medio do tipo 2 correto ?
+AgCD1|Fiscal CD	correto
+AgCD1|Fiscal CD	obrigada
+AgCD2|Prefeito CD	Bom dia, como estão os preços dos pacotes 2 e 3?
+EmpMaq|Prefeito AT	agcd2 pacote 2 preços medios e pacote 3 alto
+AgCD2|Prefeito CD	Não da pra negociar os preços do pacote 3?
+AgCD2|Prefeito CD	Estou quase falindo haha
+EmpMaq|Prefeito AT	infelizmente não preços altos apenas
+AgCD2|Prefeito CD	Quantas unidades do 2 e do 3 tem?
+EmpMaq|Prefeito AT	temos 3 do pacote 1 a preço baixo
+AgCD2|Prefeito CD	E do pacote 2?
+EmpMaq|Prefeito AT	temos 4 unidades do pacote 2 e 8 do pacote 3
+AgCD2|Prefeito CD	Me vê 3 do pacote 1 (baixo) e 3 do pacote 2 (médio) então, fechado?
+AgCD2|Prefeito CD	bom dia! gostaria de negociar alguns pacotes a preço baixo, o que consegues fazer pra mim?
+EmpMaq|Prefeito AT	agcd2 fechado 6 pacotes ao total
+AgCD2|Prefeito CD	Certo, obrigado
+EmpMaq|Prefeito AT	agAT3 preço baixo temos apenas pacote do tipo 1
+EmpMaq|Prefeito AT	certo, gostaria de comprar 6 pacotes a preço baixo então.
+EmpMaq|Prefeito AT	agat3 fechamos então em 6 pacotes do tipo 1 a preço baixo
+AgCD1|Fiscal CD	Empresário de máquinas
+AgCD1|Fiscal CD	vou ter que cancelar a compra
+AgCD1|Fiscal CD	não tenho saldo
+AgCD1|Fiscal CD	desculpe
+EmpMaq|Prefeito AT	eita ok
+EmpMaq|Prefeito AT	voce quer cancelar toda ?
+EmpMaq|Prefeito AT	tinha 3 pacotes do tipo 2 a preço baixo e 3 a preço normal
+AgCD1|Fiscal CD	isso
+AgCD1|Fiscal CD	toda
+EmpMaq|Prefeito AT	ok
+EmpMaq|Prefeito AT	AgAt3 agora temos pacotes do tipo 2 a preço baixo caso queira
+EmpMaq|Prefeito AT	agCD1 compra cancelada
+EmpMaq|Prefeito AT	obrigada! mas estou tendo que diminuir custos de produção
+EmpMaq|Prefeito AT	entendo
+EmpMaq|Prefeito AT	Disponibilizamos para quem quiser pacotes do tipo 1 a preço baixo, 3 pacotes do tipo 2 também a preço baixo
+EmpMaq|Prefeito AT	e pacotes do tipo 3 e pulverizadores a preço alto
+EmpMaq|Prefeito AT	Caso ninguém tenha mais nenhuma negociação para fazer fechamos as vendas por hoje
