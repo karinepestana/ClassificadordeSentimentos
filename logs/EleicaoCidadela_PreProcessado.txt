@@ -1,0 +1,23 @@
+AgCD2|Prefeito CD	Bom dia pessoal. Alguém mais querendo se candidatar a prefeitura?
+EmpAgro	bom dia
+EmpAgro	não quero me candidatar, alguem se gostaria?
+AgCD3|Vereador CD	Bom dia!
+AgCD3|Vereador CD	Eu voto por manter os papeis
+AgCD3|Vereador CD	dai não precisa alterar as fichas
+AgCD1|Fiscal CD	Bom dia
+AgCD1|Fiscal CD	Eu voto em mudar o fiscal
+AgCD1|Fiscal CD	E o vereador
+AgCD1|Fiscal CD	Eu era vereadora
+AgCD1|Fiscal CD	E agora me candidato fiscal
+AgCD2|Prefeito CD	O outro candidato fiscal concorda com isso? Se tu sair de vereador, quem assume?
+AgCD1|Fiscal CD	Precisamos votar
+AgCD3|Vereador CD	Se quiser trocar de papel cmg Bruna eu topo
+AgCD3|Vereador CD	tu vira fiscal
+AgCD3|Vereador CD	e eu vereador
+AgCD3|Vereador CD	so tem que avisar a Karine
+AgCD1|Fiscal CD	Certo
+AgCD2|Prefeito CD	Alguém tem alguma objeção aos cargos então?
+AgCD2|Prefeito CD	Bruna vira fiscal, giovani vereador e eu continuo prefeito
+AgCD1|Fiscal CD	de acordo
+AgCD3|Vereador CD	ok
+AgCD2|Prefeito CD	Vou avisar lá então

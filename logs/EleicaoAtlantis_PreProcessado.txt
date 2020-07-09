@@ -1,0 +1,13 @@
+AgAT1	Não tenho interesse em me candidatar
+AgAT2	então fica como ta ?
+AgAT2	tipo a unica posibilidade  é ou o outro|a agricultor se candidata, ou eu e a prefeita trocar de papeis
+AgAT2	e ja deixo claro q pra mim tanto faz
+EmpMaq|Prefeito AT	pra mim tanto faz tbm
+EmpMaq|Prefeito AT	se alguém quiser trocar de papel ou pegar a prefeitura sem objeções
+AgAT2	então caso o|a agricultor q falta n se manifestar, mantemos assim
+AgAT2	a tem o fiscal tbm
+EmpSem|Fiscal AT	sou fiscal, se alguém quiser trocar de papel tranquilo
+EmpSem|Fiscal AT	tb
+AgAT3	não tenho interesse em me candidatar a nenhum cargo no momento :slight_smile: acredito que a atual gestão está fazendo um bom trabalho.
+AgAT2	então acho q mantemos como tá
+EmpMaq|Prefeito AT	sim da para manter

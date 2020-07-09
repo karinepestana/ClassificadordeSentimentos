@@ -1,91 +1,94 @@
+RODADA 1
 AgAT1	Seguindo...
-AgAT1	oi
-AgAT1	voltamos
+EmpAgro	oi
+EmpAgro	voltamos
 AgAT1	Sao SEIS unidades de SP para mim, quais as condições para nossa transação?
-AgAT1	entao posso te fazer a preço normal
+EmpAgro	entao posso te fazer a preço normal
 AgAT1	Entendo, gostaria de comprar mas tenho uma outra proposta por valor reduzido sendo duas das unidades a preço baixo, tens interesse de cobrir a oferta?
 AgAT1	Ou oferecer outra proposta, se for do teu interesse...
-AgAT1	te faço 3 a preço baixo e 3  a preço normal
-AgAT1	é o melhor q posso fazer
+EmpAgro	te faço 3 a preço baixo e 3  a preço normal
+EmpAgro	é o melhor q posso fazer
 AgAT1	Ótimo, deal!
 AgAT1	Obg
-AgAT1	fechado
-AgAT1	qual é o teu nome
+EmpAgro	fechado
+EmpAgro	qual é o teu nome
 AgAT1	AgAT1
-AgAT1	ta bem
-AgAT1	obrigada
-AgAT1	alguém mais gostaria de comprar
-AgAT1	pessoal promoção no agrotoxico comum
-AgCD3|Vereador CD	AgCD3 -- Olá! Gostaria de comprar 6 sacos de agrotóxico SUPER PREMIUM pelo preço BAIXO! Eu conheço o Fiscal :wink:
-AgCD3|Vereador CD	e o fiscal nao vai me multar?
-AgCD3|Vereador CD	posso fazer 4 por preço baixo e 2 por preço normal
-AgCD3|Vereador CD	:wink:
+EmpAgro	ta bem
+EmpAgro	obrigada
+EmpAgro	alguém mais gostaria de comprar
+RODADA 2
+EmpAgro	pessoal promoção no agrotoxico comum
+AgCD3|Fiscal CD	AgCD3 -- Olá! Gostaria de comprar 6 sacos de agrotóxico SUPER PREMIUM pelo preço BAIXO! Eu conheço o Fiscal :wink:
+EmpAgro	e o fiscal nao vai me multar?
+EmpAgro	posso fazer 4 por preço baixo e 2 por preço normal
+EmpAgro	:wink:
 AgAT2	Giovani te invajo
 AgAT2	suahsausha
-AgCD3|Vereador CD	Se forem todos por preço Baixo consigo diminuir uma unidade na multa
-AgCD3|Vereador CD	mas nem fui multada na rodada anterior
-AgCD3|Vereador CD	hahahahah
-AgCD3|Vereador CD	ahhahaa
-AgCD3|Vereador CD	olha q o preço q tô fazendo é especial
-AgCD3|Vereador CD	Por o Fiscal é Bonzinho :wink:
-AgCD3|Vereador CD	capz eu q cuidei do ambiente
-AgCD3|Vereador CD	Giovani to fazendo um preço especial pra ti
-AgCD3|Vereador CD	:wink:
-AgCD3|Vereador CD	AgCD3 --  Então faz os 6 super premium por preço baixo?
-AgCD3|Vereador CD	tu já está tendo a maior parte por preço baixo
-AgCD3|Vereador CD	só apenas duas por preço normal
-AgCD3|Vereador CD	:wink:
-AgCD3|Vereador CD	alguém mais gostaria de comprar agrotoxico??
-AgCD3|Vereador CD	AgCD3 -- Ok... 6 super premium -- 2 preço normal 4 preço baixo
-AgCD3|Vereador CD	sim
-AgCD3|Vereador CD	vendido
-AgCD3|Vereador CD	:slight_smile:
-AgCD3|Vereador CD	Só hoje no agrotóxico, promoção!!!
-AgCD3|Vereador CD	https://tenor.com/view/sigh-le-sad-gif-5687809
+AgCD3|Fiscal CD	Se forem todos por preço Baixo consigo diminuir uma unidade na multa
+EmpAgro	mas nem fui multada na rodada anterior
+AgCD3|Fiscal CD	hahahahah
+EmpAgro	ahhahaa
+EmpAgro	olha q o preço q tô fazendo é especial
+AgCD3|Fiscal CD	Por o Fiscal é Bonzinho :wink:
+EmpAgro	capz eu q cuidei do ambiente
+EmpAgro	Giovani to fazendo um preço especial pra ti
+EmpAgro	:wink:
+AgCD3|Fiscal CD	AgCD3 --  Então faz os 6 super premium por preço baixo?
+EmpAgro	tu já está tendo a maior parte por preço baixo
+EmpAgro	só apenas duas por preço normal
+EmpAgro	:wink:
+EmpAgro	alguém mais gostaria de comprar agrotoxico??
+AgCD3|Fiscal CD	AgCD3 -- Ok... 6 super premium -- 2 preço normal 4 preço baixo
+EmpAgro	sim
+EmpAgro	vendido
+EmpAgro	:slight_smile:
+EmpAgro	Só hoje no agrotóxico, promoção!!!
+EmpAgro	https://tenor.com/view/sigh-le-sad-gif-5687809
 AgAT2	sfxagsfdjgnwpaoçjfn
 AgAT2	culpa os fiscal
 AgAT2	tudo careta
-AgAT2	pois eh
-AgAT2	vao falir minha empresa
-AgAT2	pessoal promoção!!!
-AgAT2	bom dia pessoal! Temos promoção hoje
-AgAT2	Promoção, bora comprar agrotóxico
+EmpAgro	pois eh
+EmpAgro	vao falir minha empresa
+EmpAgro	pessoal promoção!!!
+RODADA 3
+EmpAgro	bom dia pessoal! Temos promoção hoje
+EmpAgro	Promoção, bora comprar agrotóxico
 AgAT2	ta
 AgAT2	vo compra 3 comum
-AgAT2	ta bem
+EmpAgro	ta bem
 AgAT2	so pra tu n ficar sem
 AgAT2	suahsuah
 AgAT2	AgAt2
-AgAT2	hahahah
-AgAT2	faço a preço baixo
+EmpAgro	hahahah
+EmpAgro	faço a preço baixo
 AgAT2	mas presiso q seja no barato
 AgAT2	vlw
 AgAT2	hushaus
-AgAT2	ahahha
-AgAT2	qtos vc vai querer?
+EmpAgro	ahahha
+EmpAgro	qtos vc vai querer?
 AgAT2	3
-AgAT2	fechado
-AgAT2	Promoção, bora comprar agrotóxico
-AgAT2	Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	fechado
+EmpAgro	Promoção, bora comprar agrotóxico
+EmpAgro	Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+RODADA 4
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
 AgAT2	me ve 6 comum
 AgAT2	plis
-AgAT2	sim
-AgAT2	a preço baixo
-AgAT2	:slight_smile:
+EmpAgro	sim
+EmpAgro	a preço baixo
+EmpAgro	:slight_smile:
 AgAT2	feito
-AgAT2	clientes antigos tem privilégios
-AgAT2	:slight_smile:
-AgAT2	@everyone Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
-AgAT2	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	clientes antigos tem privilégios
+EmpAgro	:slight_smile:
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
 AgCD3|Vereador CD	3 SUPER PREMIU PREÇO BAIXO?
-AgCD3|Vereador CD	sim
-AgCD3|Vereador CD	hoje estou na promoção
+EmpAgro	sim
+EmpAgro	hoje estou na promoção
 AgCD3|Vereador CD	Ok... Vou quer os 3  super premium pelo preço baixo! obrigado!
-AgCD3|Vereador CD	de nda
-AgCD3|Vereador CD	volte sempre
-AgCD3|Vereador CD	
+EmpAgro	de nda
+SIMULAÇÃO 5 ENCERRADA

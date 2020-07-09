@@ -1,0 +1,206 @@
+RODADA 1
+AgAT2	Então
+AgAT2	bomdia
+AgAT2	Eu sou o Vereador At2
+AgAT2	so pra avisar a poluição do mundo estava em 20%
+AgAT2	e agora esta em 31.963%
+EmpSem|Fiscal AT	Sou fiscal. Achei um absurdo os índices de poluição, em especial dos agricultores AT1 e AT2
+EmpSem|Fiscal AT	gostariam de tentar se explicar?
+AgAT2	q isso
+AgAT2	pra q essa agrecividade
+AgAT2	shuahsua
+AgAT2	bom
+EmpSem|Fiscal AT	aé, se não vão levar multa direto kk
+AgAT2	calma
+AgAT2	deixa eu explicar
+EmpMaq|Prefeito AT	Bom dia Sou a Prefeita de Atlantis
+AgAT2	nossa prefeita tem meios para diminuir a poluição
+AgAT2	dessa forma poluiremos so esse turno
+AgAT2	e apartir do proximo vamos ser verdes
+EmpMaq|Prefeito AT	Notei que alguns agricultores estão gerando uma grande poluição
+AgAT2	assim nosso faturamento vai ser maior q o da cidade vizinha
+AgAT2	nos so inclinamos a curva do crecimento da poluição
+AgAT2	no caso foi isso oq o AgAT2 me disse
+EmpMaq|Prefeito AT	peço que planejem melhores suas plantações e os recursos que usam em suas fazendas, pois não estão gerando problemas apenas para vocês, mas para todos na cidade
+AgAT2	eu acredito
+AgAT2	o AgAt2 parece ser um cara legal
+EmpMaq|Prefeito AT	Algumas pedidas precisão ser tomadas para assegurar o bem estar de todos
+EmpSem|Fiscal AT	sem chances de sairem sem multa. irei considerar o tipo que será aplicado
+EmpMaq|Prefeito AT	e para conscientizar os habitantes
+AgAT1	At1
+AgAT1	Informamos que como instituição visaremos melhorias em nosso plano de atividade e aplicação afim de extinguir a poluição de nossas lavouras .
+AgAT1	Se cabe punição e é justa tomamos a devida responsabilidade.
+AgAT1	Lamento não ter notado isso todavia visamos lucro em demasia assim negligenciando nossa postura diante do ano em questão.
+EmpMaq|Prefeito AT	por conta disso, será implantação tratamento de água e lixo, também será aumentado os impostos, principalmente dos agricultores que geram uma maior poluição
+AgAT2	fiscal teria como compartilhar quanto cada agricultor poluiu
+AgAT2	e Prefeita teria como Compartilhar o quanto a prefeitura tem de verba
+AgAT2	e quais os metodos que temos pra diminuir a poluição e quanto custa cada uma
+AgAT2	para como vereador analisar e criar uma proposta para alteração de impostos
+EmpSem|Fiscal AT	somando as poluições médias dos agricultores, ficou em 626
+EmpSem|Fiscal AT	um absurdo
+EmpSem|Fiscal AT	pessoal está visando apenas o lucro
+AgAT2	mas n existe muita discrepância entre os agricultores?
+EmpSem|Fiscal AT	só que se esquecem que se a poluição está alta, a produtividade irá diminuir...
+EmpSem|Fiscal AT	apenas 1 agricultor pensou no mundo, com 26 de poluição média
+EmpMaq|Prefeito AT	Toda a plantação deveria ser feita, sem a utilização de agrotóxicos, qualquer um é nocivo para o meio ambiente, entendo que em algumas plantações é preciso usar, deste modo, deve ser utilizado o produto mais simples possível. É preferivel plantar hortaliças ao invés de soja
+EmpMaq|Prefeito AT	O Tratamento de água reduz em 5% a poluição e o tratamento de lixo em 10%
+AgAT2	Duvida: a prefeita pode aumentar os impostos sem a sugestaõ do vereador
+EmpAgro	Olá bom dia, sou a representante da empresa de agrotóxicos, mas se vocês tomarem a medida de não utilizar agrotóxicos irão levar minha empresa a falência. Concordo que deva haver cuidado, mas se formos radicais prejudicaremos os empresários
+EmpAgro	que também pagam imposto e tem familia
+EmpMaq|Prefeito AT	Existe discrepância sim enquanto alguns agricultores poluem 26 outros poluem 300
+AgAT2	então
+AgAT2	devemos levar isso em consideração na hora de mudar os impostos
+EmpMaq|Prefeito AT	Por isso o conselho da prefeitura é usar o agrotóxico mais simples, que gera o menor número de poluição
+EmpMaq|Prefeito AT	A prefeitura tem um caixa de 4799.5, com este caixa atualmente não conseguimos implantar um sistema de esgoto, como gostaríamos, desta maneira aumentar os impostos é um ato imprescindível
+AgAT2	então esgoto é o método mais barato
+AgAT2	e aumentar de todos os agricultores?
+EmpMaq|Prefeito AT	ou implantamos o sistema de agua e lixo ou o de esgoto e ( agua ou lixo)
+EmpMaq|Prefeito AT	os 3 juntos não conseguimos
+AgAT2	agora acabou op tempo
+AgAT2	tem q preencher la
+EmpMaq|Prefeito AT	impostos apenas para os agricultores com maior poluição aumentados
+RODADA 2
+AgAT2	Então
+AgAT2	Como estamos
+EmpSem|Fiscal AT	muito bem pessoal
+EmpSem|Fiscal AT	nossas plantações livres de agrotóxico
+EmpMaq|Prefeito AT	Bom dia Pessoal, o caixa da prefeitura melhorou consideravelmente, com isso conseguimos implantar um sistema de esgoto na cidade
+EmpMaq|Prefeito AT	Quero chamar a atenção principalmente dos empresários que estão com um nivel de poluição altos
+EmpMaq|Prefeito AT	Proponho que seja reduzido os impostos para as pequenas produções
+EmpMaq|Prefeito AT	e para as grandes seja mantido o valor atual
+EmpSem|Fiscal AT	ótimo, acho uma boa pois os produtores tiveram pouca produtividade
+AgAT2	Sem objeções
+EmpMaq|Prefeito AT	Caso ninguém tenha nenhuma objeção ou algo a acrescentar encerramos por aqui
+RODADA 3
+EmpMaq|Prefeito AT	Bom dia pessoal,infelizmente verifiquei que o nosso nivel de poluição aumentou significativamente
+AgAT2	entao galera
+AgAT2	como estamos
+EmpMaq|Prefeito AT	isso não é algo bom, infelizmente os impostos deveram ser aumentados, fechamos o dia ontem com 15 de poluição, hoje estamos com 20
+EmpMaq|Prefeito AT	atualmente o caixa da prefeitura é de apenas 4400 com isso só conseguimos implantar 2 tratamentos
+EmpSem|Fiscal AT	acredito que o pessoal da outra cidade que está poluindo
+AgAT2	nos abaixamos os impostos na ultima não?
+EmpMaq|Prefeito AT	proponho implantar o  esgoto e o tratamento de lixo caso ninguem tenha objeção
+EmpSem|Fiscal AT	as poluições nossas continuaram baixas
+EmpMaq|Prefeito AT	sim, abaixamos e a poluição aumentou
+EmpSem|Fiscal AT	desse jeito eles irão enriquecer as nossas custas
+AgAT2	mas como o fiscal falou a culpa n é nossa
+AgAT2	n acho q almentar os impostoss seja a melhor solução
+AgAT2	bom eles da outra cidade estão fazendo oq eu falei no inicio
+EmpSem|Fiscal AT	(como empresário agora) vereador e prefeito, acho que não devemos implementar tratamentos e deixar eles sofrerem as consequência também
+EmpMaq|Prefeito AT	ok mantemos os impostos baixos para as que produzem menos e o imposto medio para quem produz mais
+AgAT2	acho ok
+EmpMaq|Prefeito AT	e sobre os tratamentos, a prefeitura tem em caixa 4400 podemos implantar 2  tratamentos
+EmpMaq|Prefeito AT	com agua e lixo resumimos 15% e nos sobra um valor maior com lixo e esgoto reduzimos 25% e nos sobra um pouco menos que o anterior
+EmpSem|Fiscal AT	(emp) implementa apenas 1 (o mais barato), com a crise a prefeitura vai precisar ajudar os agricultores que não utilizaram agrotóxico e tem baixa produtividade
+AgAT2	acho q vale mais apena n agir nesse turno e guardar o dinheiro
+EmpSem|Fiscal AT	também acho
+EmpMaq|Prefeito AT	ok não implantamos nenhum tratamento
+EmpMaq|Prefeito AT	mas com isso talvez nossa poluição suba consideravelmente
+AgAT2	acho  a unica ação teria q ser mandar um representante pra outra cidade pra perguntar se eles n tem vergonha não
+EmpMaq|Prefeito AT	precisamos pensar em todos os bonus e onus que poderemos ter
+AgAT2	hsuahsuahs
+AgAT2	prefeita quanto é o tratamento mais barato
+EmpMaq|Prefeito AT	800
+EmpMaq|Prefeito AT	o de agua
+AgAT2	acho q podemos deixar apenas esse turno sem nada
+EmpSem|Fiscal AT	acho que os empresários de atlantis precisam considerar vender mais caro e produtos que não gerem grande produção para os da cidadela, previlegiar a nossa cidade
+AgAT2	so pra dar um susto
+AgAT2	neles
+EmpSem|Fiscal AT	também acho
+AgAT2	e depois a gente volta
+AgAT2	quais são os nossos Emp
+EmpMaq|Prefeito AT	Finalizamos então esse turno sem implantar novos tratamentos e com os impostos mantidos, baixos para quem tem a sua produção pequena e medios para quem tem a produção maior
+EmpSem|Fiscal AT	eu e mais o de maquinas
+EmpSem|Fiscal AT	ok prefeita
+AgAT2	cara tu é o q controla o game
+AgAT2	se eles continurem assim
+EmpMaq|Prefeito AT	Sim fiscal a ação de vender os produtos que mais poluem com valor mais caro é muito melhor para a cidade
+EmpSem|Fiscal AT	sem multa para ninguem de atlantis
+AgAT2	é tudo q e semente
+AgAT2	pelo preço alto
+EmpSem|Fiscal AT	vou vender só hortaliça
+EmpSem|Fiscal AT	que a produção é super baixa
+EmpSem|Fiscal AT	nós vamos fazer eles poluirem menos de qualquer forma
+AgAT2	mas so pros de cidadela
+EmpSem|Fiscal AT	sim
+AgAT2	boa
+EmpSem|Fiscal AT	vocês produzam bastante nesta rodada
+AgAT2	tinha q falar
+AgAT2	com o das maquins tbm
+EmpMaq|Prefeito AT	EmpMaq aqui
+EmpMaq|Prefeito AT	já estou vendendo os produtos que poluem mais a preços altos
+EmpMaq|Prefeito AT	Prefeita - Medidas de imposto e tratamentos terminadas por essa rodada
+AgAT2	ok
+AgAT2	etapa terminada então
+RODADA 4
+EmpMaq|Prefeito AT	Boa tarde pessoal, Nossa poluição deu uma aumentada para 22
+EmpSem|Fiscal AT	fomos bem
+EmpMaq|Prefeito AT	temos um total em caixa de  5.490,57
+EmpMaq|Prefeito AT	quero chamar a atenção do EmpSem e do agricul at2 que estão com seus niveis de poluição aumentados
+EmpMaq|Prefeito AT	como nossa poluição está maior que 20 os tratamentos aumentam agora
+EmpMaq|Prefeito AT	preciso fazer as contas para ver quais tratamentos poderemos implantar
+EmpSem|Fiscal AT	mais uma vez ninguém sem multa, boa pessoal
+AgAT3	olá, gostaria de agradecer os incentivos feitos neste ano na forma de redução dos custos de sementes e máquinas, mas pedir que seja pensada alguma redução de impostos que favoreça os produtores orgânicos como eu. Acredito que a próxima produção melhorará minhas finanças mas ainda me encontro com dívidas.
+EmpMaq|Prefeito AT	Conseguimos implantar os 3 tratamentos e o caixa ainda sobra um valor significativo
+EmpMaq|Prefeito AT	Os produtores que tem uma baixa produção já tem seus impostos baixos, infelizmente é impossivel baixar mais
+EmpMaq|Prefeito AT	os produtores medianos e empresarios tem seus impostos médios tbm e não altos
+EmpMaq|Prefeito AT	Proponho que instalamos os 3 niveis de tratamento e mantenhamos os impostos como estão
+EmpSem|Fiscal AT	(emp) consegui uma renda extra com um agricultor da outra cidade, vou doar 80% para o caixa da nossa cidade
+AgAT2	gostaria de informar a todos(q é a unica coisa q eu posso fazer como vereador) q o fiscal é um ipocrita
+AgAT2	hipocrita*
+EmpMaq|Prefeito AT	Emp acredito que isso possa ajudar bastante a nossa cidade, principalmente a controlar a questão da poluição
+AgAT2	mds ipocrita é complicado hashausha
+AgAT2	a gente combinou aki n vender pracidadela a soja
+EmpSem|Fiscal AT	o empresário voce quer dizer @AgAt2
+EmpMaq|Prefeito AT	Mas a sua doação não o deixa em uma situação melhor da poluição
+AgAT2	e o cara foi la e vendeu( se recebesse propina)
+EmpMaq|Prefeito AT	voce deve tomar medidas para controlar a sua poluição que está alta
+EmpSem|Fiscal AT	apenas para 1 e consegui dinheiro para nossa cidade
+AgAT2	ss
+AgAT2	isso
+AgAT2	(q e a msm pessoa mas tudo bem)
+EmpSem|Fiscal AT	ok, vou doar os 100%
+AgAT2	ai fiquei quieto
+EmpSem|Fiscal AT	e a prefeitura pode redistribuir
+EmpSem|Fiscal AT	para os produtores que estão com dificuldade  de dinheiro
+EmpSem|Fiscal AT	acredito que a outra cidade não gostou das vendas de hortaliça...
+EmpMaq|Prefeito AT	O dinheiro que a prefeitura receber será distribuido entre os produtores proporcional ao nivel de poluição
+EmpMaq|Prefeito AT	quem polui menos recebe mais
+EmpSem|Fiscal AT	(fiscal) concordo prefeita
+AgAT2	acho justo
+AgAT3	Acredito que seja uma ótima ação, visto que em meio a dificuldades financeiras fica inviável manter uma produção orgânica de qualidade.
+EmpMaq|Prefeito AT	Emp doação feita de 100% então, qual seria o valor
+EmpSem|Fiscal AT	(emp) não é muito, mas foi de 500
+EmpSem|Fiscal AT	(fiscal) então é isso pessoal, todos sem multa pois poluiram menos que o necessário para serem multados
+EmpMaq|Prefeito AT	O dinheiro sera repartido assim at1 recebe 40% do valor, at2 recebe 25% do valor e at3 35%  do valor
+AgAT3	Talvez seja justo que os agricultores se manifestem se precisam realmente do dinheiro.
+AgAT3	Eu acredito ser a única produtora desta cidade que desde o início se comprometeu com o meio ambiente e o não uso de poluentes, e agora me encontro numa situação financeira possivelmente mais delicada que os demais.
+EmpMaq|Prefeito AT	o  AGAT2 tem um nivel de poluição bem superior aos outros acredito que ele deveria pensar e abrir mao deste valor
+EmpSem|Fiscal AT	(fiscal) pessoal está bravo com a cidade pela pouca diversidade de produtos
+EmpMaq|Prefeito AT	Por enquanto as medidas seram essas se ninguem tiver nada contra: Contratar os 3 tratamentos, manter os impostos como estão e a doação do EmpSem ser distribuida proporcional a poluição
+AgAT3	eu continuo insistindo que a prefeitura poderia repensar na doação de valores. Pode ser aberto um fundo dedicado a agricultores que derem entrada a um pedido de auxílio.
+AgAT3	os que comprovadamente necessitarem de valores o recebem.
+EmpMaq|Prefeito AT	Ok, alguém com alguma objeção quanto a proposta ?
+EmpMaq|Prefeito AT	da agat3?
+AgAT3	ter uma desigualdade financeira muito grande entre os produtores não é benéfico para a economia da nossa cidade.
+EmpSem|Fiscal AT	(fiscal) pessoal, estão cobrando muito disponibilizar mais produtos, concordam em aumentar a oportunidade de comprarem outros produtos?
+EmpMaq|Prefeito AT	O empMaq doara 1000 reais para o caixa da prefeitura
+AgAT3	Eu gostaria de pedir um repasse de 430 dinheiros para que possa pagar as dívidas de anos anteriores.
+EmpMaq|Prefeito AT	Decisão dos valores doados para a prefeitura, vamos votar,  1 - criar o fundo 2 - divisão entre os agricultores
+AgAT3	voto em criar um fundo
+EmpSem|Fiscal AT	acho que pode ser criar o fundo
+EmpMaq|Prefeito AT	O fundo no total tem 1200- 500 do EmpSem, 700 do  EmpMaq
+EmpMaq|Prefeito AT	será repassado ao agat3 os 430 reais, pois seu nivel de poluição está aceitavel
+EmpMaq|Prefeito AT	Vamos manter os impostos e contratar os 3 planos
+AgAT3	este repasse vem direto da prefeitura ou em nome da empresa de máquinas?
+EmpSem|Fiscal AT	para chegar mais rápido eu doo para ti direto, mas apenas na próxima rodada
+EmpMaq|Prefeito AT	nao tem proxima rodada
+EmpSem|Fiscal AT	então prefeita doa direto
+EmpMaq|Prefeito AT	eu acredito que os repasses vem para a prefeitura
+EmpSem|Fiscal AT	agora
+EmpMaq|Prefeito AT	e a prefeitura doa
+EmpSem|Fiscal AT	só para finalizar todos 'bem'
+EmpMaq|Prefeito AT	Finalizamos então
+AgAT3	então agora estamos fechando a negociação de 430 vindos da prefeitura para mim, AgAT3, certo?
+EmpMaq|Prefeito AT	isso
+SIMULAÇÃO 5 ENCERRADA

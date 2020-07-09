@@ -1,130 +1,133 @@
-AgCD3|Vereador CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
-AgCD3|Vereador CD	Bom dia!
-AgCD3|Vereador CD	Feito :slight_smile:
-AgCD1|Fiscal CD	bom dia!
-AgCD1|Fiscal CD	Bom dia!
-AgCD1|Fiscal CD	eu gostaria de comprar 3 fertilizantes super premium
-AgCD1|Fiscal CD	vi que o preço está baixo
-AgCD1|Fiscal CD	não posso perder
-AgCD1|Fiscal CD	AgCD1, certo?
-AgCD1|Fiscal CD	isso
-AgCD1|Fiscal CD	Preço baixo :slight_smile:
-AgCD1|Fiscal CD	obrigada!
-AgCD3|Vereador CD	AgCD3 -- OK... Obrigado por me vender 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
-AgCD3|Vereador CD	De nada pessoal, voltem sempre!
-AgCD3|Vereador CD	Nosso estoque está baixo, possuo fertilizante comum pelo preço baixo e premium pelo preço normal, a promoção do fertilizante super premium acabou e zeramos o estoque (retorna rodada que vem)
+RODADA 1
+AgCD3|Fiscal CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
+EmpFert	Bom dia!
+EmpFert	Feito :slight_smile:
+AgCD1|Vereador CD	bom dia!
+EmpFert	Bom dia!
+AgCD1|Vereador CD	eu gostaria de comprar 3 fertilizantes super premium
+AgCD1|Vereador CD	vi que o preço está baixo
+AgCD1|Vereador CD	não posso perder
+EmpFert	AgCD1, certo?
+AgCD1|Vereador CD	isso
+EmpFert	Preço baixo :slight_smile:
+AgCD1|Vereador CD	obrigada!
+AgCD3|Fiscal CD	AgCD3 -- OK... Obrigado por me vender 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
+EmpFert	De nada pessoal, voltem sempre!
+EmpFert	Nosso estoque está baixo, possuo fertilizante comum pelo preço baixo e premium pelo preço normal, a promoção do fertilizante super premium acabou e zeramos o estoque (retorna rodada que vem)
 AgAT2	opa
-AgAT2	Olá
+EmpFert	Olá
 AgAT2	o Empresario ta livre
 AgAT2	kkkkkk
 AgAT2	queria 6 sacas
 AgAT2	do melhor fertilizante q vc tiver
-AgAT2	premium pelo preço normal, os vizinhos do AgCD3 e agCD1 levaram todo o estoque do super premium
+EmpFert	premium pelo preço normal, os vizinhos do AgCD3 e agCD1 levaram todo o estoque do super premium
 AgAT2	:frowning:
 AgAT2	vamo de premium
 AgAT2	então
 AgAT2	mas n conseguia me fazer um descontinho
 AgAT2	:upside_down:
-AgAT2	Nessa rodada o desconto era no super premium
-AgAT2	toda rodada terá desconto, mas possui estoque
-AgAT2	quem chegar primeiro leva
+EmpFert	Nessa rodada o desconto era no super premium
+EmpFert	toda rodada terá desconto, mas possui estoque
+EmpFert	quem chegar primeiro leva
 AgAT2	ok me ve 6 sacas do premium então
 AgAT1	Bom dia, desejo comprar fertilizantes comum
-AgAT1	qual o nome?
-AgAT1	6 sacas do premium preço normal, qual a sua Ag?
+EmpFert	qual o nome?
+EmpFert	6 sacas do premium preço normal, qual a sua Ag?
 AgCD2|Prefeito CD	AgCD2: bom dia, queria comprar 4 fertilizantes premium e 2 super-premium... consegue me fazer um preço bom?
 AgAT2	AgAt2
-AgAT2	Obrigada! Bom dia, Storch qual sua Ag?
+EmpFert	Obrigada! Bom dia, Storch qual sua Ag?
 AgAT1	AgAT1
-AgCD1|Fiscal CD	oi, quanto está p fertilizante comum?
-AgCD1|Fiscal CD	AgCD2, bom dia! Possuo apenas fertilizantes premium (preço normal) e comum (preço baixo).
-AgCD1|Fiscal CD	eu gostaria de 3 comum, sou AgCD1
-AgCD1|Fiscal CD	AgAT1, o fertilizante comum está com preço baixo, qual a quantidade?
-AgCD1|Fiscal CD	certo AgCD1, feito! Obrigada :slight_smile:
-AgCD1|Fiscal CD	preço baixo
-AgCD1|Fiscal CD	obrigada
+AgCD1|Vereador CD	oi, quanto está p fertilizante comum?
+EmpFert	AgCD2, bom dia! Possuo apenas fertilizantes premium (preço normal) e comum (preço baixo).
+AgCD1|Vereador CD	eu gostaria de 3 comum, sou AgCD1
+EmpFert	AgAT1, o fertilizante comum está com preço baixo, qual a quantidade?
+EmpFert	certo AgCD1, feito! Obrigada :slight_smile:
+EmpFert	preço baixo
+AgCD1|Vereador CD	obrigada
 AgCD2|Prefeito CD	Consegue fazer 4 comum (preço baixo) e 2 premium (preço baixo)? O premium já é mais caro :frowning:
-AgCD2|Prefeito CD	Não consigo fazer desconto, pois o super premium estava com preço baixo e acabaram os estoques
-AgCD2|Prefeito CD	rodada que vem teremos promoção novamente, fique atento, pois acaba rápido
+EmpFert	Não consigo fazer desconto, pois o super premium estava com preço baixo e acabaram os estoques
+EmpFert	rodada que vem teremos promoção novamente, fique atento, pois acaba rápido
 AgAT1	Desejo o Premium
 AgCD2|Prefeito CD	Ta certo... eu fecho no preço que tu propôs, mas quero um desconto que fica pendente pra próxima rodada, feito?
 AgAT1	Seis unidades
 AgAT1	Qual seu preço para tal produto?
-AgAT1	Certo AgAT1, 6 unidades do premium a preço normal
-AgAT1	AgCD2, vai querer 4 comum (preço baixo) e 2 premium (preço normal)? Rodada que vem teremos estoque com desconto, mas você deve vir no início da rododa pois teremos estoque dos produtos com desconto
+EmpFert	Certo AgAT1, 6 unidades do premium a preço normal
+EmpFert	AgCD2, vai querer 4 comum (preço baixo) e 2 premium (preço normal)? Rodada que vem teremos estoque com desconto, mas você deve vir no início da rododa pois teremos estoque dos produtos com desconto
 AgCD2|Prefeito CD	Certo, fechado então, obrigado
-AgCD2|Prefeito CD	Volte sempre!
+EmpFert	Volte sempre!
 AgAT1	Estou comprando um pacote de SEIS sacas, qual a margem de desconto para mim?
-AgAT1	posso fazer 4 unidades a preço normal e 2 a preço baixo
+EmpFert	posso fazer 4 unidades a preço normal e 2 a preço baixo
 AgAT1	Ótimo
 AgAT1	Tens um negócio!
 AgAT1	Grato pela parceiria
-AgAT1	AgAT1, 4 unidades premium (preço normal) e 2 unidades premium (preço baixo)
-AgAT1	Feito, valeu :slight_smile:
-AgAT1	bom dia! Fiquei sabendo que consegues um desconto para quem compra seis sacas do fertilizante premium. Estou interessada em fazer negócio :slight_smile:
-AgAT1	Bom dia, posso fazer o mesmo negócio feito para o AgAT1
-AgAT1	certo! vou querer.
-AgAT1	sou AgAT3
-AgAT1	negócio fechado :slight_smile:
-AgAT1	Bom dia! Estamos com promoção:
-AgAT1	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
-AgAT1	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
-AgAT1	
-AgAT1	Valores após final do estoque promocional:
-AgAT1	- Comum: preço baixo
-AgAT1	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
-AgAT1	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
-AgAT1	
-AgAT1	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
-AgCD3|Vereador CD	AgCD3 -- Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO -- Informação Importante: Conheço o FISCAL :wink:
+EmpFert	AgAT1, 4 unidades premium (preço normal) e 2 unidades premium (preço baixo)
+EmpFert	Feito, valeu :slight_smile:
+AgAT3	bom dia! Fiquei sabendo que consegues um desconto para quem compra seis sacas do fertilizante premium. Estou interessada em fazer negócio :slight_smile:
+EmpFert	Bom dia, posso fazer o mesmo negócio feito para o AgAT1
+AgAT3	certo! vou querer.
+AgAT3	sou AgAT3
+EmpFert	negócio fechado :slight_smile:
+RODADA 2
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+AgCD3|Fiscal CD	AgCD3 -- Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO -- Informação Importante: Conheço o FISCAL :wink:
 AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
-AgCD1|Fiscal CD	Olá, sou AgCD1 e gostaria de comprar 6 fertilizantes do tipo premium, o preço é negociável?
-AgCD1|Fiscal CD	AgAT3 - Oi! Gostaria de comprar 5 fertilizantes do tipo premium pelo preço baixo da promoção, e 1 pelo normal
+AgCD1|Vereador CD	Olá, sou AgCD1 e gostaria de comprar 6 fertilizantes do tipo premium, o preço é negociável?
+AgAT3	AgAT3 - Oi! Gostaria de comprar 5 fertilizantes do tipo premium pelo preço baixo da promoção, e 1 pelo normal
 AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo?
 AgCD2|Prefeito CD	Ixi, mandei errado antes
-AgCD2|Prefeito CD	Bom dia AgCD3, o que podes me oferecer em troca desse "favor?"
-AgCD2|Prefeito CD	AgCD1, 6 fertilizantes premium posso te fazer 5 com preço baixo e 1 com preço normal
-AgCD1|Fiscal CD	Ok, obrigada!
-AgCD1|Fiscal CD	AgAT3, feito!
-AgCD1|Fiscal CD	AgCD1, tudo certo :slight_smile:
-AgCD3|Vereador CD	AgCD3 --  Conheço o Fiscal. Ele pode diminuir uma unidade na multa... Se houver multa :wink:
+EmpFert	Bom dia AgCD3, o que podes me oferecer em troca desse "favor?"
+EmpFert	AgCD1, 6 fertilizantes premium posso te fazer 5 com preço baixo e 1 com preço normal
+AgCD1|Vereador CD	Ok, obrigada!
+EmpFert	AgAT3, feito!
+EmpFert	AgCD1, tudo certo :slight_smile:
+AgCD3|Fiscal CD	AgCD3 --  Conheço o Fiscal. Ele pode diminuir uma unidade na multa... Se houver multa :wink:
 AgAT2	AgAt2-opa tem 6 super premium?
 AgCD2|Prefeito CD	Ainda estou sem resposta :frowning:
-AgCD2|Prefeito CD	Um momento
-AgCD3|Vereador CD	AgCD3 -- Então? 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO. Já falei com o FISCAL :wink:
-AgCD3|Vereador CD	AgCD3, faço 5
-AgCD3|Vereador CD	agAt2 6 super premium saem 5 com preço normal e 1 com preço alto
+EmpFert	Um momento
+AgCD3|Fiscal CD	AgCD3 -- Então? 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO. Já falei com o FISCAL :wink:
+EmpFert	AgCD3, faço 5
+EmpFert	agAt2 6 super premium saem 5 com preço normal e 1 com preço alto
 AgAT1	At1 - 6 SP
 AgAT2	ok
 AgAT2	AgAt2-6 SuperPremium 5 normal e 1 alto
-AgAT2	Fechou
-AgAT2	At1 - 6 super premium saem 5 com preço normal e 1 com preço alto
+EmpFert	Fechou
+EmpFert	At1 - 6 super premium saem 5 com preço normal e 1 com preço alto
 AgAT1	Ok
-AgCD3|Vereador CD	AgCD3 -- OK... 5 (CINCO) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO e 1 (UM) pelo preço NORMAL
-AgCD3|Vereador CD	Obrigada AT1, feito!
-AgCD3|Vereador CD	CD3, negócio fechado. Não esquece do favor :wink:
+AgCD3|Fiscal CD	AgCD3 -- OK... 5 (CINCO) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO e 1 (UM) pelo preço NORMAL
+EmpFert	Obrigada AT1, feito!
+EmpFert	CD3, negócio fechado. Não esquece do favor :wink:
 AgCD2|Prefeito CD	Empresário, eu ainda não recebi resposta :frowning:
-AgCD2|Prefeito CD	CD2, desculpa me perdi kkkkkkkkkkkkkkk
+EmpFert	CD2, desculpa me perdi kkkkkkkkkkkkkkk
 AgCD2|Prefeito CD	Haha
 AgCD2|Prefeito CD	Quero um preço bom, na última rodada tive que pagar as taxas maiores
 AgCD2|Prefeito CD	E nessa eu pedi no início :frowning:
-AgCD2|Prefeito CD	Posso fazer 6 super premium por preço normal
+EmpFert	Posso fazer 6 super premium por preço normal
 AgCD2|Prefeito CD	Pode ser, obrigado
-AgCD2|Prefeito CD	feito :slight_smile:
+EmpFert	feito :slight_smile:
 AgCD2|Prefeito CD	:wink:
-AgCD2|Prefeito CD	promoção relampago
-AgCD2|Prefeito CD	fertilizante premium preço baixo
-AgCD2|Prefeito CD	super premium preço normal
-AgCD2|Prefeito CD	Bom dia! Estamos com promoção:
-AgCD2|Prefeito CD	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
-AgCD2|Prefeito CD	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
-AgCD2|Prefeito CD	
-AgCD2|Prefeito CD	Valores após final do estoque promocional:
-AgCD2|Prefeito CD	- Comum: preço baixo
-AgCD2|Prefeito CD	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
-AgCD2|Prefeito CD	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
-AgCD2|Prefeito CD	
-AgCD2|Prefeito CD	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+EmpFert	promoção relampago
+EmpFert	fertilizante premium preço baixo
+EmpFert	super premium preço normal
+RODADA 3
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
 AgCD2|Prefeito CD	Bom dia
 AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo? Só comprei a preço normal/alto até agora :
 AgCD2|Prefeito CD	:/
@@ -132,73 +135,75 @@ AgCD3|Vereador CD	AgCD3 -- Olá! Gostaria de comprar 6 (SEIS) sacos de fertiliza
 AgAT2	AgAt2- gostaria de 6 Sp
 AgAT2	se possivel pelo baixo
 AgCD1|Fiscal CD	AgCD1 - Olá, gostaria de comprar 6 sacos de fertilizantes super premium
-AgCD1|Fiscal CD	Bom dia AgCD2, posso fazer 5 pelo preço normal e 1 pelo preço baixo
-AgCD1|Fiscal CD	Bom dia AgCD3, ainda estou chateada que levei uma multa e vc nao me "ajudou" kkkk
-AgCD1|Fiscal CD	posso fazer 5 pelo preço normal e 1 pelo preço baixo
-AgCD1|Fiscal CD	AgCD1, podemos negociar, se nao me der multinha mais, eu te vendo o super premium 3 pelo preço normal e 3 pelo preço baixo
+EmpFert	Bom dia AgCD2, posso fazer 5 pelo preço normal e 1 pelo preço baixo
+EmpFert	Bom dia AgCD3, ainda estou chateada que levei uma multa e vc nao me "ajudou" kkkk
+EmpFert	posso fazer 5 pelo preço normal e 1 pelo preço baixo
+EmpFert	AgCD1, podemos negociar, se nao me der multinha mais, eu te vendo o super premium 3 pelo preço normal e 3 pelo preço baixo
 AgCD2|Prefeito CD	Podemos fazer 3/3?
 AgCD2|Prefeito CD	Eu só paguei preço normal/alto até agora :frowning:
 AgCD2|Prefeito CD	Fehado?
-AgCD2|Prefeito CD	bom dia, gostaria de 6 sacos de fertilizantes comum
+AgAT3	bom dia, gostaria de 6 sacos de fertilizantes comum
 AgCD3|Vereador CD	Ok... Pode ser 5 sacos de soja pelo preço normal e 1 pelo preço baixo... Lembrando de q quando eu era fiscal sempre baixei uma unidade no grau das multas.... Vão sentir saudades do fiscal bonzinho q eu fui :slight_smile:
 AgCD3|Vereador CD	hahahahahhaha
-AgCD3|Vereador CD	Realmente AgCD2, verifiquei nas fichas e voce só pagou preço normal, dessa vez vou te fazer um desconto melhor.. pode ser 3 pelo preço normal e 3 pelo preço baixo pra voce
+EmpFert	Realmente AgCD2, verifiquei nas fichas e voce só pagou preço normal, dessa vez vou te fazer um desconto melhor.. pode ser 3 pelo preço normal e 3 pelo preço baixo pra voce
 AgCD2|Prefeito CD	Fechado então, obrigado :wink:
 AgAT1	AgAt1 - desejo obter estes itens caso tenhas em estoque:
 AgAT1	5 super pemium
 AgAT1	1 premium
 AgCD1|Fiscal CD	AgCD1 - se quer negociar, o preço deveria ser baixo pra tudo
-AgCD1|Fiscal CD	Bom dia Anna, qual sua Ag? Nao gostaria de comprar o premium que está em promoção a preço baixo?
+EmpFert	Bom dia Anna, qual sua Ag? Nao gostaria de comprar o premium que está em promoção a preço baixo?
 AgAT2	oi
 AgCD1|Fiscal CD	AgCD1 - 6 fertilizantes sp baixo?
 AgAT2	tem Super preamium
-AgAT2	Sou AgAT3, para esta safra vou usar comum! obrigada.
-AgAT2	o comum está a preço baixo também, não está? vi no seu cartaz.
-AgAT2	AgAt1 5 super premium a preço normal e 1 premium a preço baixo
-AgAT2	gente um momento que me perdi
-AgAT2	muita gente KKKKKKKKKKKKKKKKKKKKKKKK
-AgAT2	ja começo a responder
+AgAT3	Sou AgAT3, para esta safra vou usar comum! obrigada.
+AgAT3	o comum está a preço baixo também, não está? vi no seu cartaz.
+EmpFert	AgAt1 5 super premium a preço normal e 1 premium a preço baixo
+EmpFert	gente um momento que me perdi
+EmpFert	muita gente KKKKKKKKKKKKKKKKKKKKKKKK
+EmpFert	ja começo a responder
 AgAT1	AgAt1 
 AgAT1	Deal!
-AgAT1	Resumindo:
-AgAT1	AgCD3 -posso fazer 5 pelo preço normal e 1 pelo preço baixo SP
-AgAT1	AgAt2 - posso fazer 5 peço preço normal e 1 pelo preço baixo SP 
-AgAT1	AgCD1  - Se eu baixar demais, a prefeitura arrecadará menos (sou um dos empresarios que mais dá $$)
-AgAT1	AgAt1 - 5 SP preço normal e 1 P preço baixo (fechado!)
-AgAT1	AgAT3 - O comum polui excessivamente, o que fará voce e eu levar multa :/ O Premium está no mesmo preço e polui menos o meio ambiente.
-AgAT1	Por favor coloquem suas Ag's em todas as conversas
+EmpFert	Resumindo:
+EmpFert	AgCD3 -posso fazer 5 pelo preço normal e 1 pelo preço baixo SP
+EmpFert	AgAt2 - posso fazer 5 peço preço normal e 1 pelo preço baixo SP 
+EmpFert	AgCD1  - Se eu baixar demais, a prefeitura arrecadará menos (sou um dos empresarios que mais dá $$)
+EmpFert	AgAt1 - 5 SP preço normal e 1 P preço baixo (fechado!)
+EmpFert	AgAT3 - O comum polui excessivamente, o que fará voce e eu levar multa :/ O Premium está no mesmo preço e polui menos o meio ambiente.
+EmpFert	Por favor coloquem suas Ag's em todas as conversas
 AgCD1|Fiscal CD	AgCD1 - ok, então 4 normal e 2 baixo?
-AgCD1|Fiscal CD	Fechado AgCD1 :slight_smile:
+EmpFert	Fechado AgCD1 :slight_smile:
 AgCD1|Fiscal CD	obg
 AgAT2	AgAt2 confirmado
-AgAT2	AgAT3 - Não estava ciente quanto ao fertilizante comum poluir mais, me preocupo com este fator então vou levar 6 premium pelo preço baixo. Obrigada!
-AgAT2	fechado!
-AgAT2	@AgCD1 - Fiscal Cidadela não esquece de mim :wink:
+AgAT3	AgAT3 - Não estava ciente quanto ao fertilizante comum poluir mais, me preocupo com este fator então vou levar 6 premium pelo preço baixo. Obrigada!
+EmpFert	fechado!
+EmpFert	@AgCD1 - Fiscal Cidadela não esquece de mim :wink:
 AgCD1|Fiscal CD	Você quase não teve poluição, fique tranquila
+RODADA 4
 AgCD3|Vereador CD	Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM... Qual o valor? :slight_smile:
 AgCD1|Fiscal CD	Olá, gostaria de 6 sacos de fertilizante super premium
 AgAT2	oi gostaria de 6 fertilizantes SP
 AgCD2|Prefeito CD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo?
-AgCD2|Prefeito CD	Bom dia
-AgCD2|Prefeito CD	AgCD3, AgCD1 posso fazer 4 SP a preço normal e 2 a preço baixo
+EmpFert	Bom dia
+EmpFert	AgCD3, AgCD1 posso fazer 4 SP a preço normal e 2 a preço baixo
 AgCD1|Fiscal CD	ok, obrigada
-AgCD1|Fiscal CD	AgAt2, 6 SP ficam 5 a preço alto e 1 a preço normal
-AgCD1|Fiscal CD	AgCD2,  posso fazer 4 SP a preço normal e 2 a preço baixo
+EmpFert	AgAt2, 6 SP ficam 5 a preço alto e 1 a preço normal
+EmpFert	AgCD2,  posso fazer 4 SP a preço normal e 2 a preço baixo
 AgAT1	Desejo comprar fertilizantes Super Premium a preço alto em todas as 6 unidades
 AgCD2|Prefeito CD	Fechado então @EmpFert , 4 SP normal e 2 baixo
 AgAT2	Feito pra mim então
 AgAT1	É um bom negócio, não podes me negar :yum:
 AgCD3|Vereador CD	QUERO 3 PACOTE 3... Qual valor dai?
 AgAT1	Se der ruim dividimos a multa kkk
-AgAT1	um momento
+EmpFert	um momento
 AgCD3|Vereador CD	Me vê 3 super premium pelo preço normal então
 AgCD3|Vereador CD	pode ser?
-AgCD3|Vereador CD	um momento
-AgCD3|Vereador CD	AgCD3 - posso fazer 3 SP preço normal 1 SP preço baixo ??
-AgCD3|Vereador CD	AgCD1 - posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)
-AgCD3|Vereador CD	AgAt2 - 6 SP ficam 5 a preço alto e 1 a preço normal
-AgCD3|Vereador CD	AgCD2 - posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)
-AgCD3|Vereador CD	AgAT1 - 6 SP preço alto (FECHADO)
+EmpFert	um momento
+EmpFert	AgCD3 - posso fazer 3 SP preço normal 1 SP preço baixo ??
+EmpFert	AgCD1 - posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)
+EmpFert	AgAt2 - 6 SP ficam 5 a preço alto e 1 a preço normal
+EmpFert	AgCD2 - posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)
+EmpFert	AgAT1 - 6 SP preço alto (FECHADO)
 AgAT1	Deal
 AgCD3|Vereador CD	Ok... Vou querer somente os 3 SP pelo preço NORMAL! Obrigado! :slight_smile:
-AgCD3|Vereador CD	ok
+EmpFert	ok
+SIMULAÇÃO 5 ENCERRADA
