@@ -151,7 +151,7 @@ AgAT2	hipocrita*
 EmpMaq|Prefeito AT	Emp acredito que isso possa ajudar bastante a nossa cidade, principalmente a controlar a questão da poluição
 AgAT2	mds ipocrita é complicado hashausha
 AgAT2	a gente combinou aki n vender pracidadela a soja
-EmpSem|Fiscal AT	o empresário voce quer dizer @AgAt2
+EmpSem|Fiscal AT	o empresário voce quer dizer @AgAT2
 EmpMaq|Prefeito AT	Mas a sua doação não o deixa em uma situação melhor da poluição
 AgAT2	e o cara foi la e vendeu( se recebesse propina)
 EmpMaq|Prefeito AT	voce deve tomar medidas para controlar a sua poluição que está alta

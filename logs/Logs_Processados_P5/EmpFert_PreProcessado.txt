@@ -176,7 +176,7 @@ AgCD1|Fiscal CD	obg
 AgAT2	AgAt2 confirmado
 AgAT3	AgAT3 - Não estava ciente quanto ao fertilizante comum poluir mais, me preocupo com este fator então vou levar 6 premium pelo preço baixo. Obrigada!
 EmpFert	fechado!
-EmpFert	@AgCD1 - Fiscal Cidadela não esquece de mim :wink:
+EmpFert	@AgCD1|Fiscal CD não esquece de mim :wink:
 AgCD1|Fiscal CD	Você quase não teve poluição, fique tranquila
 RODADA 4
 AgCD3|Vereador CD	Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM... Qual o valor? :slight_smile:
