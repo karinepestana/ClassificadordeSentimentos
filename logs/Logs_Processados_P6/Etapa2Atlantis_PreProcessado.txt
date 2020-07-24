@@ -1,0 +1,269 @@
+RODADA 1
+AgAT2|Prefeita de Atlantis	Olá pessoal
+AgAT2|Prefeita de Atlantis	Tenho algumas propostas que pensei a partir das produções, rendimentos e poluição desse ano.
+AgAT2|Prefeita de Atlantis	Pelo que analisei, quem está produzindo muito deveria ter um imposto mais baixo.
+AgAT2|Prefeita de Atlantis	Pois ajudou muito a cidade a se estabilizar financeiramente.
+EmpSem|Fiscal AT	Como fiscal estou analisando os dados, mas por favor  faça as propostas
+AgAT2|Prefeita de Atlantis	Fiscal, só peço que faça o controle dos produtores que estão poluindo...
+EmpMaq	Empresário de Maquinas não pode ganhar multa... As maquinas aumentam a produção e diminuem a poluição :slight_smile:
+EmpMaq	incentivar a tecnologia no campo
+AgAT2|Prefeita de Atlantis	Penso que nesse próximo ano poderemos colocar algumas medidas de prevenção na poluição, então peço o apoio de todos.
+AgAT2|Prefeita de Atlantis	Se não poluirmos muito, sempre poderemos ter controle sobre os gastos e a poluição.
+AgAT2|Prefeita de Atlantis	Faremos o tratamento de esgoto agora, e mais adiante os demais serão aplicados.
+AgAT2|Prefeita de Atlantis	Todos de acordo?
+EmpSem|Fiscal AT	@EmpMaq Sua poluição foi muito alta, deveria ser aplicada uma multa média, porém se o empresário se propor a reduzir posso aplicar um multa leve apenas como um aviso
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis Perfeito, aos poucos vamos aplicando, estou de acordo sim
+EmpMaq	@AgAT2|Prefeita de Atlantis concordo com a medida proposta
+EmpMaq	baixar impostos seria ideal tbm
+AgAT2|Prefeita de Atlantis	Então, que fique claro
+AgAT1|VereadorAT	Como vereador, em prol da minha comunidade, defendo fortemente a baixa de impostos a todos os agricultores. Apoio a prefeita na diminuição da poluição, somente se diminuir os impostos
+AgAT2|Prefeita de Atlantis	Se a poluição não diminuir, os impostos aumentarão
+AgAT2|Prefeita de Atlantis	Pois as medidas de prevenção poussuem custos altos
+AgAT2|Prefeita de Atlantis	possuem*
+EmpMaq	@EmpSem|Fiscal AT a venda de máquinas depende da demanda dos agricultores... a empresa de maquinas polui mais e os agricultores poluem menos
+EmpSem|Fiscal AT	@AgAT3 você teve taxas de poluição altissimas, gostaria de se explicar?
+EmpSem|Fiscal AT	Bem, vou aplicar as devidas multas
+AgAT1|VereadorAT	gostaria que me fosse enviado as taxas de poluentes dentro da possibilidade (para AgAT1)
+EmpMaq	A empresa de máquinas recebendo alguma multa terá q mudar sua politica de vendas... Isso seria bom para o meio ambiente?
+EmpSem|Fiscal AT	@AgAT1|VereadorAT você não apresenta taxas altas agricultor
+AgAT1|VereadorAT	obrigado
+EmpSem|Fiscal AT	@EmpMaq É necessário haver uma redução
+EmpMaq	Voltaremos a plantar de enxada
+EmpMaq	hahahahahhha
+AgAT2|Prefeita de Atlantis	@EmpSem|Fiscal AT Não esqueça de dar selo verde aos agricultores orgânciso
+AgAT2|Prefeita de Atlantis	orgânicos*
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis pode deixar!
+RODADA 2
+AgAT2|Prefeita de Atlantis	Olá
+AgAT2|Prefeita de Atlantis	Venho comunicar que os rendimentos da cidade estão ótimos, mas a poluição aumentou demais...
+AgAT2|Prefeita de Atlantis	Minha proposta é colocar as duas melhores estações de tratamento.
+AgAT2|Prefeita de Atlantis	E deixar os impostos todos com valor normal
+EmpSem|Fiscal AT	Eu tenho poucos comentários:
+EmpSem|Fiscal AT	AT1 - Manteve baixa poluição e vai manter selo verde em todos espaços. Parabéns
+EmpSem|Fiscal AT	AT2 - Perde selo verde nos espaços 4/5/6. Vi que a sua poluição aumentou, já sendo passível de multa. Porém, como foi por uso de máquinas e não de agrotóxicos, vou deixar passar, fica como uma advertência.
+EmpSem|Fiscal AT	AT3 - Caso mais complicado: altíssima taxa de poluição, tanto agora quanto na rodada anterior. Na rodada anterior, o outro fiscal pediu explicações, mas não falou nada. Tem algo a dizer?
+AgAT2|Prefeita de Atlantis	obrigada, sem a possibilidade de comprar máquinas, tive que comprar agrotóxico e utilizei pulverizador para diminuir a poluição.
+EmpSem|Fiscal AT	Ah, esqueci do EmpMaq - A taxa foi acima do permitido também. Multa leve como na rodada anterior
+AgAT2|Prefeita de Atlantis	mas pretendo continuar utilizando máquinas
+AgAT2|Prefeita de Atlantis	fiscal, penso que a multa do EmpMaq pode comprometer os agricultores
+AgAT2|Prefeita de Atlantis	e o meio ambiente
+EmpMaq	A empMaq reduziu pela metade suas vendas... Como pode seguir com uma poluição alta?
+EmpSem|Fiscal AT	Prefeita, o problema é que o comportamento é reincidente...
+AgAT2|Prefeita de Atlantis	Como prefeita, gostaria de saber se podemos fazer um acordo fiscal
+AgAT2|Prefeita de Atlantis	A prefeitura se dispõe a pagar a multa do EmpMaq
+EmpSem|Fiscal AT	E qual seria a proposta?
+EmpMaq	produção de 1/6 na próxima rodada... a empresa se compromete em tentar diminuir as taxas de poluição com essa nova política
+AgAT2|Prefeita de Atlantis	@EmpMaq estou tentando reverter a decisão, mas preciso da sua colaboração
+AgAT2|Prefeita de Atlantis	O acordo seria que a prefeitura comece a pagar as multas da empresa
+AgAT2|Prefeita de Atlantis	Se a empresa cooperar e vender para os agricultores
+AgAT2|Prefeita de Atlantis	além disso, a prefeitura pode dar um bônus extra para o fiscal, pelo competente serviço
+AgAT1|VereadorAT	E deixar os impostos todos com valor normal
+AgAT1|VereadorAT	@AgAT2|Prefeita de Atlantis os impostos precisam ficar baixos, precisamos manter um dialogo com os agricultores sobre poluição mais baixa, afetando o mínimo possível os lucros dos agricultores e da cidade. Concordo com o bonus ao fiscal.
+EmpMaq	As máquina auxiliam na redução da poluição dos agricultores.
+EmpSem|Fiscal AT	Bom, acho que isso pode ser revertido por fora. No caso, caso vocês entrem em um acordo, seria transferir o dinheiro da multa para o empresário. Dessa forma, não descaracteriza o papel do fiscal de "fiscalizar" e aplicar a multa
+AgAT3	em minha defesa eu queria dizer q "alguns homens só querem ver o circo pegar fogo"
+EmpMaq	A empresa quando recebe multa precisar rever sua politica de vendas
+AgAT2|Prefeita de Atlantis	Bom, acho que isso pode ser revertido por fora. No caso, caso vocês entrem em um acordo, seria transferir o dinheiro da multa para o empresário. Dessa forma, não descaracteriza o papel do fiscal de "fiscalizar" e aplicar a multa
+AgAT2|Prefeita de Atlantis	@EmpSem|Fiscal AT sim, pode ser
+EmpSem|Fiscal AT	Eu tenho uma proposta interessante...
+AgAT2|Prefeita de Atlantis	mas todos precisam cooperar
+EmpSem|Fiscal AT	A maior parte da poluição do @AgAT3 vem dos agrotóxicos, certo? E, pelo que eu vi nas negociações, são poucas pessoas que estão comprando agrotóxicos
+EmpSem|Fiscal AT	Que tal se a gente fizesse um acordo com o @AgAT3ro e pagasse pra ele o valor equivalente ao que ele ganha com o @AgAT3
+EmpSem|Fiscal AT	Em troca de ele não vender mais pro @AgAT3 ?
+EmpSem|Fiscal AT	Dessa forma, o empresário continua ganhando
+EmpSem|Fiscal AT	E não aumenta a poluição
+AgAT2|Prefeita de Atlantis	Primeiro, gostaria de decidir a respeito da EmpMaq
+EmpSem|Fiscal AT	Podemos fazer isso com o EmpSem também
+AgAT2|Prefeita de Atlantis	Se a empresa funcionar, não nos preocupamos tanto com agrotóxicos
+EmpSem|Fiscal AT	Eu acho que a proposta que a prefeita fez é boa
+AgAT2|Prefeita de Atlantis	@EmpMaq, você concorda com o que foi dito aqui?
+AgAT2|Prefeita de Atlantis	Você de agora e diante está "livre" de multas
+AgAT2|Prefeita de Atlantis	Não pagará por elas
+EmpMaq	A EmpMaq obedece as politicas publicas e procura não receber multas... Se as multa acabarem ou forem compensadas a empresa mantém as vendas
+AgAT2|Prefeita de Atlantis	Certo
+AgAT2|Prefeita de Atlantis	Então, decidido isso
+AgAT1|VereadorAT	Se a empresa funcionar, não nos preocupamos tanto com agrotóxicos
+AgAT1|VereadorAT	@AgAT2|Prefeita de Atlantis positivo
+AgAT2|Prefeita de Atlantis	Acredito que a proposta do @EmpSem|Fiscal AT  é válida
+AgAT2|Prefeita de Atlantis	Você se compromete a fazer o acordo?
+EmpSem|Fiscal AT	Na nossa cidade, se resolvermos o problema do AgAt3, resolvemos praticamente todo o problema da poluição
+EmpSem|Fiscal AT	Da minha parte, podemos fazer sim
+AgAT2|Prefeita de Atlantis	Precisamos saber o valor
+EmpSem|Fiscal AT	Mas precisamos do EmpAgro também
+EmpSem|Fiscal AT	Porque a maior poluição vem dele
+AgAT2|Prefeita de Atlantis	@EmpAgro gostaríamos de fazer uma proposta
+EmpSem|Fiscal AT	No meu caso, pelo que eu entendi na tabela, o ganho com ele é 165 (não sei o que significa)
+EmpMaq	O objetivo da EmpMaq é vender de acordo com a política pública estabelecida... As vendas voltam ao normal na medida q as punições acabarem ou forem recompensadas
+EmpSem|Fiscal AT	Total, no caso
+AgAT2|Prefeita de Atlantis	Sim
+EmpAgro	Oi
+EmpAgro	é aqui que tem $$$?
+AgAT2|Prefeita de Atlantis	@EmpAgro, vimos que existem alguns dos nossos agricultores que está poluindo muito
+AgAT2|Prefeita de Atlantis	Sendo assim, gostaríamos de saber se você tem interesse em receber o mesmo valor que os agricultores estão dado a você pelas compras de agrotóxico
+AgAT2|Prefeita de Atlantis	Com a condição de que você  não venda mais para eles
+EmpSem|Fiscal AT	Pra ele*, em específico
+EmpAgro	Claro, faço ate mais barato nesse caso
+EmpAgro	Qual é o agricultor?
+EmpSem|Fiscal AT	É o AgAt3
+AgAT2|Prefeita de Atlantis	Sim, para esse agricultor @AgAT3
+EmpMaq	Passa esse dinheiro pra EmpMaq q não teria poluição :stuck_out_tongue:
+EmpMaq	hahahahaha
+AgAT2|Prefeita de Atlantis	A @EmpMaq receberá um valor justo, pela ajuda no combate a poluição
+EmpAgro	Nao vendo mais pra ele e cobro 150
+AgAT2|Prefeita de Atlantis	Certo
+EmpAgro	Ele geralmente compra mais do que isso
+EmpAgro	Nao quero sair no prejuizo
+AgAT2|Prefeita de Atlantis	Feito então, seu dinheiro estará na sua conta particular
+AgAT2|Prefeita de Atlantis	Obrigada
+EmpMaq	A EmpMaq é a empresa q mais ajuda a diminuir a poluição... E segue negligenciada :sob:
+EmpSem|Fiscal AT	O meu tinha dado 165, mas pode ser 150 também, pra ficar mais fácil pra preencher
+EmpSem|Fiscal AT	@EmpMaq estamos tratando um caso específico, é uma medida extrema
+EmpSem|Fiscal AT	Por conta da poluição dele
+AgAT2|Prefeita de Atlantis	A @EmpSem eu não vejo qual o problema
+AgAT2|Prefeita de Atlantis	Por enquanto tentamos assim
+AgAT2|Prefeita de Atlantis	Obrigada
+EmpSem|Fiscal AT	Sem sementes ele não consegue plantar nada
+AgAT2|Prefeita de Atlantis	Nosso objetivo não é perder um agricultor
+AgAT2|Prefeita de Atlantis	Mas sim, diminuir a poluição
+EmpSem|Fiscal AT	Mas tenta atacar os agrotóxicos, vamos ver no que da
+EmpSem|Fiscal AT	Ai consertamos pra próxima rodada
+AgAT2|Prefeita de Atlantis	Certo
+AgAT2|Prefeita de Atlantis	Obrigada a todos
+EmpSem|Fiscal AT	Obrigado
+AgAT2|Prefeita de Atlantis	Fiscal, só lembrando... as multas deverão seguir seu caminho normalmente
+AgAT2|Prefeita de Atlantis	O dinheiro para o pagamento já foi transferido
+RODADA 3
+EmpMaq	A EmpMaq se compromete a vender todos os seus tipos de pacotes aos agricultores a preço BAIXO se a prefeitura restituir o imposto pago pela empresa (como forma de compensação aos preços baixos). Política semelhante ao número ilimitado de unidades em troca da restituição dos valores pagos com multas.
+EmpMaq	Essa política incentivaria os agricultores a utilizar tecnologia e consequentemente poluir menos.
+AgAT2|Prefeita de Atlantis	Entendo sua proposta, mas devido ao alto custo que a prefeitura está pagando sobre as multas referentes a sua empresa, se torna inviável.
+AgAT2|Prefeita de Atlantis	A única medida que a prefeitura poderá tomar no momento é a de baixar os impostos.
+AgAT2|Prefeita de Atlantis	Outra questão, é que os índices de poluição estão extremamente altos.
+AgAT2|Prefeita de Atlantis	Nossa cidade está controlada.
+AgAT2|Prefeita de Atlantis	Mas nossos vizinhos estão acabando com o nosso meio ambiente.
+AgAT2|Prefeita de Atlantis	Alguma sugestão?
+EmpMaq	Culpa do @AgAT3
+AgAT2|Prefeita de Atlantis	Nesse próximo ano, seguiremos com o acordo com a @EmpAgro  e a EmpMaq
+@EmpMaq
+EmpSem|Fiscal AT	Eu tenho poucos comentários:
+EmpSem|Fiscal AT	- Nenhum agricultor usou agrotóxico, todos receberam selo verde em todas porções
+EmpSem|Fiscal AT	- O EmpMaq nessa rodada poluiu mais que o comum, a multa passou de média para leve
+EmpSem|Fiscal AT	Ah, 1 detalhe
+EmpMaq	A EmpSem fica em Atlantis
+EmpSem|Fiscal AT	O EmpSem nessa rodada não gerou poluição passível de multa
+AgAT2|Prefeita de Atlantis	Sim
+EmpMaq	para de vender sementes para os poluidores da cidadela
+AgAT2|Prefeita de Atlantis	Sobre a @EmpMaq, concordo que a poluição aumentou, mas se comparado ao consumo de agrotóxico, é mais compreensível.
+AgAT1|VereadorAT	para a nossa cidade, a diminuição da poluição seria pela necessidade de diminuição de lucros pelos agricultores e por todos evitarem o cultivo de soja. Como acho complicado a diminuição de lucros, os impostos aos agricultores precisam diminuir, para que possam adquirir mais itens dos empresários
+AgAT1|VereadorAT	para de vender sementes para os poluidores da cidadela
+AgAT1|VereadorAT	@EmpMaq pensando no ciclo de recuperação da natureza, faria sentido
+EmpSem|Fiscal AT	Olha... sinceramente, acho que se a prefeitura conseguir manter a política de ajudar o @EmpSem|Fiscal AT@EmpSem|Fiscal AT, da pra continuar muito bem. A poluição dos agricultores da nossa cidade foi baixa
+EmpMaq	Qual o nível de poluição do AgAT3?
+EmpSem|Fiscal AT	Baixa, no mesmo nível dos demais
+AgAT2|Prefeita de Atlantis	30
+AgAT2|Prefeita de Atlantis	apenas
+EmpSem|Fiscal AT	Só para constar, começa a ser passível de multa a partir de 90, ta bem longe
+AgAT2|Prefeita de Atlantis	quem está poluindo são os empresários e agricultores de cidadela
+EmpSem|Fiscal AT	Nas outras rodadas ele estava poluindo 300
+EmpMaq	Quem está poluindo então?
+EmpMaq	300 :scream:
+AgAT2|Prefeita de Atlantis	Como reverter isso? A prefeitura não tem condições de arcar com todas as despesas...
+EmpSem|Fiscal AT	Quais medidas a prefeitura tinha ativado nas outras rodadas?
+AgAT1|VereadorAT	quem está poluindo são os empresários e agricultores de cidadela
+AgAT1|VereadorAT	@AgAT2|Prefeita de Atlantis acredito ser necessário o aumento de taxas massivo as cidadãos da cidadela?
+AgAT2|Prefeita de Atlantis	Seria uma opção...
+EmpSem|Fiscal AT	Talvez dê pra baixar as políticas em troca de ajudar os empresários... porque a poluição, no geral, ta bem controlada
+EmpAgro	@AgAT2|Prefeita de Atlantis seguimos o acordo
+AgAT2|Prefeita de Atlantis	Pois nossa cidade está arcando com os tratamentos de esgoto e água... No próximo ano, teremos que fazer também o de lixo, pois a poluição está muito alta
+EmpMaq	Melhor fazer a isenção da EmpMaq do q pagar para a EmpAgro
+EmpMaq	Só vender sementes pra quem comprou máquinas
+EmpMaq	daí não vão comprar agrotoxicos
+EmpSem|Fiscal AT	Não acho que a poluição esteja muito alta
+EmpMaq	acabou a poluição
+EmpMaq	hahhahha
+EmpSem|Fiscal AT	Não lembro de cabeça, mas no documento original tem um gráfico mostrando
+EmpSem|Fiscal AT	Se não me engano, começa a ser problema a partir de 60
+EmpSem|Fiscal AT	Mas a questão é a seguinte
+EmpSem|Fiscal AT	A gente tem que manter um nível ok, porque a outra cidade também precisa colaborar
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis consegue manter as mesmas políticas que já estava aplicando e manter o acordo com os empresários?
+EmpMaq	Incentivar o uso de máquinas aumenta a produção e diminui a poluição... Melhor uma empresa poluindo do que 36 parcelas poluindo
+AgAT2|Prefeita de Atlantis	sim, o acordo está mantido
+EmpSem|Fiscal AT	Se o acordo está mantido, acho que está tudo bem, podemos continuar assim
+EmpSem|Fiscal AT	Nossa poluição foi muito menor do que na rodada passada
+AgAT2|Prefeita de Atlantis	mas deve haver algo que possamos fazer em relação a outra cidade
+EmpMaq	Parar de vender sementes
+EmpMaq	A principais empresas ficam em Atlantis
+EmpSem|Fiscal AT	Só para constar, se for repassar pro empmaq a multa, é 186
+EmpSem|Fiscal AT	Porque passou de leve pra média
+AgAT2|Prefeita de Atlantis	Parar de vender sementes
+AgAT2|Prefeita de Atlantis	@EmpMaq vou conversar com o prefeito
+EmpAgro	@AgAT2|Prefeita de Atlantis seguimos o acordo
+EmpAgro	@EmpAgro aqui
+EmpMaq	Se restituirem o imposto faço preço BAIXO pra todos
+AgAT2|Prefeita de Atlantis	@EmpAgro aqui
+AgAT2|Prefeita de Atlantis	@EmpAgro Obrigada!
+EmpMaq	O importo ira retornar com a alta produção dos agricultores e baixa poluição
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis vai reestituir o empmaq também?
+EmpSem|Fiscal AT	Eu acho que é tranquilo pagar ele, o empsem não teve multa nessa rodada
+AgAT2|Prefeita de Atlantis	Se restituirem o imposto faço preço BAIXO pra todos
+AgAT2|Prefeita de Atlantis	@EmpMaq o imposto mencionei que fica inviável
+EmpSem|Fiscal AT	Seria praticamente só "redirecionar" o dinheiro de um pra outro
+EmpMaq	restituir a multa gera unidades ilimitadas aos agricultores
+AgAT2|Prefeita de Atlantis	A multa sim
+EmpMaq	restituir o imposto gera preço BAIXO
+EmpMaq	Politicas de incentivo a tecnologia
+EmpSem|Fiscal AT	Faz isso mesmo, mantém as políticas com os empresários e mantém os controles/impostos
+EmpSem|Fiscal AT	Em time que está ganhando não se mexe haha
+AgAT2|Prefeita de Atlantis	Exato
+AgAT2|Prefeita de Atlantis	Vamos esperar o próximo ano e analisar
+AgAT2|Prefeita de Atlantis	Caso a outra cidade siga poluindo muito
+AgAT2|Prefeita de Atlantis	Vamos ter que rever nossa política
+EmpSem|Fiscal AT	SIm...
+EmpSem|Fiscal AT	Sim...
+EmpMaq	A EmpMaq se comporta de acordo com as políticas públicas
+AgAT2|Prefeita de Atlantis	Sim
+AgAT2|Prefeita de Atlantis	Mas não paga multa
+RODADA 4
+EmpSem|Fiscal AT	Meu resumo da rodada:
+EmpSem|Fiscal AT	
+EmpSem|Fiscal AT	- A poluição caiu 13%, bastante coisa, quase 1/3
+EmpSem|Fiscal AT	- Os agricultores continuaram com níveis bem baixos de poluição
+EmpSem|Fiscal AT	- A multa do EmpMaq passou de média pra alta
+EmpMaq	A poluição caiu pq os agricultores compraram mais maquinas
+AgAT2|Prefeita de Atlantis	Olá, os índices de poluição foram controlados. Mas devido aos gastos com os três tratamentos de poluição, e os pagamentos dos acordos, a prefeitura está com caixa baixo.
+EmpMaq	Tem q deixar a prefeitura da Cidadela trabalhar tbm
+AgAT1|VereadorAT	@AgAT2|Prefeita de Atlantis precisamos alcançar alguma solução, os agricultores estão recebendo altas taxas de impostos, não importa o tipo de cultivo
+AgAT2|Prefeita de Atlantis	Sim
+AgAT1|VereadorAT	a arrecadação está se mantendo
+AgAT2|Prefeita de Atlantis	está sim
+EmpSem|Fiscal AT	Os tratamentos estão com o maior "nível"?
+AgAT2|Prefeita de Atlantis	vou aplicar apenas uma medida de prevenção nesse novo ano
+AgAT2|Prefeita de Atlantis	para analisar os índices de poluição
+AgAT2|Prefeita de Atlantis	e não prejudicar tanto o caixa da prefeitura
+EmpMaq	Baixar impostos... restituir o imposto da EmpMaq pra ela vender a custo BAIXO... e realizar somente um tratamento de poluição parece ser a politica mais adequada
+EmpSem|Fiscal AT	Pois é, acho que essa medida que estamos fazendo de controlar na "base" (evitando a venda de agrotóxicos e tal) deve ser mais efetiva do que os próprios tratamentos
+AgAT2|Prefeita de Atlantis	com certeza
+AgAT2|Prefeita de Atlantis	e pelo que eu ouvi falar, a empresa de agrotóxicos negociou com cidadela
+AgAT2|Prefeita de Atlantis	e está aplicando o mesmo acordo
+AgAT2|Prefeita de Atlantis	no final quem mais polui é a empresa de máquinas, mas ela mantém os produtores ativos
+EmpMaq	Se as maquinas baixarem de preço os agricultores não vão recorrer a agrotóxicos
+AgAT2|Prefeita de Atlantis	Agora a prefeitura não poderá ter mais gastos
+AgAT2|Prefeita de Atlantis	Teremos que fazer o mesmo e analisar se essas medidas realmente estão certas
+AgAT2|Prefeita de Atlantis	Pois pelo que estamos vendo, estamos rumando para uma solução
+EmpSem|Fiscal AT	Eu acho que ta ótimo
+EmpSem|Fiscal AT	Se a prefeitura tem condições de manter os acordos com os empresários e conseguir aplicar algum tratamento (conforme orçamento) ta ótimo
+AgAT2|Prefeita de Atlantis	sim
+EmpMaq	Eu negociaria a baixa no preço das máquinas
+EmpMaq	hahahah
+AgAT2|Prefeita de Atlantis	e acredito que a prefeitura irá conseguir mais arrecadações
+EmpSem|Fiscal AT	Só pro repasse do EmpMaq: 756
+AgAT2|Prefeita de Atlantis	e então podemos fazer novos acordos
+EmpSem|Fiscal AT	Porque como a multa é alta, é 3x a poluição
+AgAT2|Prefeita de Atlantis	sim, a prefeitura está ciente
+AgAT1|VereadorAT	e acredito que a prefeitura irá conseguir mais arrecadações
+AgAT1|VereadorAT	@AgAT2|Prefeita de Atlantis isto, com menores valores de maáquinas e impostos é possível que agricultores sejam mais agressivos em suas produções sem o uso de agrotóxicos, atentar para próximas rodadas
+AgAT1|VereadorAT	o empresário de sementes com fornecimento a valor baixo de sacos com semestes iguais tendem a auxiliar no processo também, parceiro dos produtores
+EmpAgro	DECLARO LEI MARCIAL
+EmpAgro	NAO RECEBI NENHUMA TRANSFERENCIA
+EmpAgro	ALO ALO STF
+AgAT2|Prefeita de Atlantis	Olá, foi erro do governo
+AgAT2|Prefeita de Atlantis	Que não repassou

@@ -1,0 +1,513 @@
+RODADA 1
+AgCD1|VereadorCD	Bom dia, Cidadelenses
+AgCD1|VereadorCD	Como estamos neste ano?
+AgCD3|PrefeitoCD	olá pessoal
+AgCD2	bom dia políticos, como está a situação da nossa cidade?
+AgCD3|PrefeitoCD	não gostei da produtividade de um  dos grandes agricultores, para nossa cidade prosperar precisamos produzir mais...
+AgCD3|PrefeitoCD	com isso, estou pensando em aumentar as taxas de quem está tendo uma produção baixa/média
+AgCD2	Quanto foi a minha?
+AgCD3|PrefeitoCD	foi  de você que estou falando @AgCD2
+AgCD3|PrefeitoCD	120
+AgCD3|PrefeitoCD	os outros produtores passaram de 1000...
+AgCD2	Imaginei prefeito, uma das minhas prioridades além da minha produtividade é o meio ambiente
+AgCD2	se não tivermos meio ambiente ninguém vai produzir mais nada daqui a pouco
+AgCD3|PrefeitoCD	tudo bem, mas você irá a falência dessa maneira
+AgCD2	Vou pensar em alguma estratégia para melhorar a minha produção, mas não deixo de lado o meio ambeinte
+AgCD3|PrefeitoCD	o empresário de agrotóxico precisa aumentar as vendas também...
+AgCD3|PrefeitoCD	ok @AgCD2, digo isso pois a prefeitura não irá conseguir arcar com muitos gastos
+EmpFert|FiscalCD	Após avalições clinicas notamos que é  necessária ação contra poluição gerada pelo Empresário de Fertilizantes.
+EmpFert|FiscalCD	Quem receberá uma multa média.
+EmpFert|FiscalCD	Os demais não agrediram gravemente o sistema sendo assim estão isentos de multas nesta rodada.
+AgCD1|VereadorCD	Caro, @AgCD2, também sou agricultor e prezo pelo meio ambiente, gostaria de compartilhar contigo minha experiência bem sucedida de plantação apenas de hortaliças com maquinário e fertilizantes de boa qualidade
+AgCD1|VereadorCD	acredito que possamos nos beneficiar do @EmpFert|FiscalCD ser cidadão nosso preocupado com as questões internas, e pedir que facilite os preços dos fertilizantes para nós
+AgCD3|PrefeitoCD	ótima sugestão @AgCD1|VereadorCD
+AgCD2	@AgCD3|PrefeitoCD será prefeito, fiquei sabendo que a prefeitura recebeu um ótimo recurso no governo federal
+AgCD3|PrefeitoCD	@AgCD2 o governo está fazendo cortes... não recebemos nada
+AgCD2	@AgCD1|VereadorCD com certeza prezada agricultora, concordo contigo
+AgCD3|PrefeitoCD	tendo em  vista a situação financeira da prefeitura, irei pagar pelo tratamento de água
+AgCD2	@AgCD3|PrefeitoCD então, o senhor poderia colocar no portal da transparência todos os recursos recebidos pela prefeitura e todos os gastos
+AgCD2	@AgCD3|PrefeitoCD acredito que possas fazer mais de um tratamento
+AgCD3|PrefeitoCD	futuramente estará no site da prefeitura @AgCD2
+AgCD3|PrefeitoCD	no próximo ano invisto mais, conforme for o investimento da outra prefeitura neste @AgCD2
+AgCD2	@AgCD3|PrefeitoCD aguardarei ansiosa
+AgCD2	@AgCD3|PrefeitoCD mas prefeito, esse é o mais barato
+AgCD3|PrefeitoCD	acredito q a outra prefeitura irá investir em tratamentos...
+EmpFert|FiscalCD	Atualização:
+EmpFert|FiscalCD	Os solicitantes AgCD1, AgCD2 e AgCD3 recebem seus respectivos selos verdes por sua poluição não passar de 20 pontos.
+EmpFert|FiscalCD	Parabéns a todos!
+AgCD2	não acredito que a prefeitura não lucrou nada com os impostos pagos
+AgCD2	@EmpFert|FiscalCD Obrigada empresário :)...muito justo!!
+AgCD3|PrefeitoCD	@AgCD2 pelo que vi nos dados da prefeitura, a outra cidade foi responsável pela grande poluição
+AgCD3|PrefeitoCD	você acha justo nós pagarmos por eles?
+AgCD3|PrefeitoCD	é visível pela informação do @EmpFert|FiscalCD
+AgCD2	@AgCD3|PrefeitoCD tudo bem prefeito, mas não acho que devemos nos "esconder" de nossa responsabilidade, de repente poderias conversar com o prefeito de lá e ver o que pode ser feito pra melhorar
+AgCD3|PrefeitoCD	@AgCD2 concordo, por isso mesmo estou investimento neste tratamento. se fosse outro, não faria nada. vamos aguardar os resultados do próximo para para realizar essa conversa
+AgCD1|VereadorCD	E como ficarão nossos impostos?
+AgCD2	@AgCD3|PrefeitoCD ok, mas não concordo!!
+AgCD3|PrefeitoCD	@AgCD1|VereadorCD quem produz pouco/médio subirá
+AgCD2	@AgCD3|PrefeitoCD mas como vai subir, deverias incentivar e cobrar de quem produz muito
+AgCD1|VereadorCD	Eu só posso ser a favor de que se cobre mais de quem produz muito se ver a prefeitura investindo nas melhorias que nossa cidade merece.
+AgCD2	@AgCD3|PrefeitoCD incentivar os pequenos agricultores, senão daqui a pouco teremos basicamente agrotóxicos para comer
+AgCD3|PrefeitoCD	neste ano será assim, para incentivar a produtividade
+AgCD3|PrefeitoCD	quem tem alta produção terá impostos baixos
+EmpAgro	@AgCD2 argumento falacioso, ninguem compra agrotoxicos
+AgCD2	@AgCD1|VereadorCD obrigada vereadora, alguém de visão nessa prefeitura
+AgCD3|PrefeitoCD	pessoal, estamos encerrando
+AgCD1|VereadorCD	mantenha os impostos da alta produção na média global. Eu sou uma das agricultores deste quadro e a favor disso, pois como parte também da gestão de nossa cidade entendo como sensato
+AgCD3|PrefeitoCD	vou dar um voto de confiança pra voces, deixarei as taxas como estão
+AgCD2	@AgCD3|PrefeitoCD como sempre, melhorias que é bom nada ainda, estamos na metade do ano e nada
+AgCD3|PrefeitoCD	deixei valor médio pessoal
+AgCD2	@AgCD3|PrefeitoCD não esqueça prefeito que logo logo teremos eleição, e pelo que vejo na cidade o pessoal não tá muito contente com sua administração
+AgCD3|PrefeitoCD	aproveitem pra produzir, pois a tendência para o próximo ano é complicada
+EmpAgro	Aproveitem pra comprar agrotoxicos, os preços tao baixos
+AgCD2	@EmpAgro só quero ver empresário.....
+EmpAgro	Se baixarem os impostos sobre os agrotoxicos eu faço um preço bem legal hein, favorece o pequeno agricultor
+AgCD3|PrefeitoCD	sim pessoal, comprem pelo menos para algumas parcelas agrotóxico.
+AgCD2	@EmpAgro e os grandes tbem , mais compram e mais poluiem
+AgCD2	Poluem*
+AgCD3|PrefeitoCD	@AgCD2 isso é uma ameaça? rsrs
+AgCD2	@AgCD3|PrefeitoCD EmpAgro ahhhh sim....entendi....
+@EmpAgro ahhhh sim....entendi....
+AgCD2	@AgCD3|PrefeitoCD interprete como quiser prefeito
+AgCD2	pessoal, prestem atenção nas negociações do @AgCD3|PrefeitoCD e EmpAgro
+@EmpAgro
+AgCD1|VereadorCD	:face_with_monocle:
+EmpFert|FiscalCD	Ok
+AgCD2	:face_with_raised_eyebrow:
+AgCD3|PrefeitoCD	pessoal comprem dos empresários da nossa cidade!!
+AgCD3|PrefeitoCD	se fizerem isso, invisto em mais tratamentos
+AgCD3|PrefeitoCD	se não...
+AgCD2	@AgCD3|PrefeitoCD prefeito, não esquece das próximas eleições
+AgCD2	pelo que estou vendo o senhor não está cumprindo com sua palavra
+EmpFert|FiscalCD	AgCD2 meu candidato! :x
+EmpFert|FiscalCD	@AgCD2 Estou no teu aguardo, não fechamos ao meio dia!
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD achei que estavamos ok... pena, agora que ia liberar verba para os empresários
+AgCD2	:joy:
+AgCD3|PrefeitoCD	e para os agricultores também...
+AgCD3|PrefeitoCD	minha intenção sempre foi juntar dinheiro para depois distribuir para a população da nossa cidade
+AgCD3|PrefeitoCD	pena mesmo...
+AgCD2	@AgCD3|PrefeitoCD cuidado com suas ações, o povo tá pedindo impeachman pelo que vi no jornal
+EmpFert|FiscalCD	Empréstimos são infundados negócios, vi em um filme.
+EmpFert|FiscalCD	Se as pessoas não tiverem emprego não pagarão suas dividas de empréstimo. Meu negócio é sólido como uma rocha.
+EmpFert|FiscalCD	Eu informo que nossa companhia irá indicar alguém a candidatura nas próximas eleições.
+EmpFert|FiscalCD	Meus funcionários são minha gente, ouço a todos aqui e Sr Prefeito é inegável que há uma parcela de insatisfação.
+EmpFert|FiscalCD	Lamento muito mas é a verdade.
+AgCD2	@EmpFert|FiscalCD fechou já?to fazendo pedido
+AgCD3|PrefeitoCD	vocês reclamam muito, a cidade está prosperando e obtendo melhores índices que atlantis
+AgCD2	@AgCD3|PrefeitoCD ahh sim, e o meio ambiente que se lasque neh prefeito
+AgCD2	bem de acordo com suas promessas de eleição
+AgCD1|VereadorCD	A prefeitura deveria no mínimo ser cuidadosa com o jeito que se dirige aos seus cidadãos, se deseja apoio futuro.
+AgCD3|PrefeitoCD	estou implementando medidas, porém de forma segura... @AgCD2
+AgCD2	@AgCD3|PrefeitoCD aham...sei.....
+EmpFert|FiscalCD	vocês reclamam muito, a cidade está prosperando e obtendo melhores índices que atlantis
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Nisso nosso Prefeito tem razão.
+EmpFert|FiscalCD	É impossível refutar os números da administração.
+EmpFert|FiscalCD	Acho que o desgosto do povo vem de antipatia com a rigidez do governo vigente uma vez que os vereadores legislam de forma pejorativa e impondo questionamentos já respondidos pelos dividendos expostos ao fim do semestre pela prefeitura.
+EmpFert|FiscalCD	Nós Fiscais somos íntegros e visamos sempre tão postura em nossos associados.
+EmpFert|FiscalCD	Como empresário fui visado pelas multas mas nada que alei não determine. Sendo assim Aceitei calmamente tais recursos impostos contra meu capital.
+EmpFert|FiscalCD	Todavia o povo deseja mudanças na prefeitura, e creio que devemos dar a todos ao menos a chance de se arrepender de retirar uma boa administração buscando um melhor.
+EmpFert|FiscalCD	 Democracia brasileira é assim mesmo, lamentável, mas é assim.
+EmpAgro	Eu apoio a reeleição do prefeito
+EmpAgro	Se ele for reeleito reduzo os preços dos agrotóxicos
+EmpAgro	Tudo por preço baixo
+AgCD2	@EmpAgro EmpFert|FiscalCD palvaras bonitas......lindo ver como o sistema funciona
+@EmpFert|FiscalCD palvaras bonitas......lindo ver como o sistema funciona
+AgCD2	palavras
+AgCD3|PrefeitoCD	obrigado pelo apoio
+AgCD3|PrefeitoCD	vamos aguardar os dados para ver como meu governo foi "terrível"...
+AgCD2	@AgCD3|PrefeitoCD vamos aguardar
+RODADA 2
+AgCD1|VereadorCD	Caro prefeito, como estão os números da nossa cidade este ano?
+AgCD3|PrefeitoCD	pessoal, as produtividades foram ótimas
+AgCD2	@AgCD3|PrefeitoCD e a poluição nas alturas, divulga o valor da poluição prefeito
+EmpAgro	Foram mesmo, a venda subiu e os produtores tiveram mais lucro
+AgCD3|PrefeitoCD	o empresário de agrotóxico que pode melhorar, mas visando que obteve pouca produtividade irei realizar uma transferência para ajuda com futuros custos
+EmpFert|FiscalCD	pessoal, as produtividades foram ótimas
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Logico, fertilizantes de melhor qualidade no mercado não tem como não lucrar!
+EmpAgro	a economia girou
+EmpAgro	Eu gostei, faturei mais
+EmpAgro	E acredito q todos os meus compradores se beneficiaram
+EmpAgro	quem não gosta de dinheiro?
+EmpFert|FiscalCD	Lógico, quem nao gosta de dinheiro
+EmpFert|FiscalCD	?
+EmpFert|FiscalCD	LOL
+AgCD3|PrefeitoCD	a poluição mundial que foi um problema
+AgCD1|VereadorCD	Acredito que a prefeitura deva ter conseguido uma boa arrecadação este ano, quais serão as medidas implementadas a partir disso?
+EmpAgro	Os cientista estão dando um jeito, no momento precisamos defender a economia
+AgCD2	@EmpFert|FiscalCD EmpAgro claro que todos gostamos e precisamos de dinheiro, mas o cuidado com o meio ambiente é fundamental
+@EmpAgro claro que todos gostamos e precisamos de dinheiro, mas o cuidado com o meio ambiente é fundamental
+AgCD3|PrefeitoCD	se aumentar muito a poluição, a produtividade cai
+EmpFert|FiscalCD	Dobrem a multa, ta pouco, tem gente que nao ta nem aí!
+AgCD2	@AgCD3|PrefeitoCD ahh sim prefeito, está aí sua política de #produtividade
+EmpAgro	O importante é nossa economia, como podemos sobreviver sem o lucro dos agricultores e de nossos empresarios?
+EmpAgro	A conta nao fecha
+AgCD1|VereadorCD	A defesa da economia não é sustentável a longo prazo, a maioria dos agricultores de nossa cidade têm negócios familiares e preferimos ter rentabilidade média do que graves problemas ambientais no futuro
+AgCD3|PrefeitoCD	tendo em vista que todos aumentaram a produtividade, conforme pedido, irei baixar a taxa de alta produtividade
+EmpAgro	Quem vai pagar no final? A prefeitura? É assim q estão sendo gastos os impostos suados do pequeno trabalhador?
+EmpFert|FiscalCD	mas se atingirmos níveis astronômicos de poluição, em quem o estado vai colocar a culpa?
+EmpFert|FiscalCD	"Agro é POP!"
+AgCD2	O equilíbrio é extremamente necessário gente
+EmpAgro	A poluição diminui com um novo produto, os cientistas ainda estao analisando mas meu tio usou e deu resultado, o nome é croloquina
+EmpAgro	Podemos aumentar nossos lucros e a qualidade de vida dos agricultores
+AgCD2	@EmpAgro só acredito vendo, faz uma demonstração em uma de nossas lavouras
+AgCD3|PrefeitoCD	pelo visto a outra prefeitura irá realizar tratamentos
+EmpAgro	É o q se espera
+AgCD2	@AgCD3|PrefeitoCD e a nossa prefieto?
+AgCD2	prefeito
+AgCD2	@AgCD3|PrefeitoCD continuo questionando, qual o valor da poluição?
+AgCD2	só falou que foi alto, ms alto quanto?
+AgCD3|PrefeitoCD	quem fala fala de baixar poluição, acabou sendo que mais poluiu...
+EmpAgro	Esta realizando mas com as poucas vendas a economia não gira
+AgCD3|PrefeitoCD	lamentável
+AgCD3|PrefeitoCD	houve um aumento de 14% na poluição
+EmpFert|FiscalCD	horrivel isso.
+EmpAgro	Precisamos de maiores lucros para podermos investir em um sistema de tratamentos mais moderno
+EmpFert|FiscalCD	temos de tomar alguma atitude
+AgCD3|PrefeitoCD	alô @AgCD2
+AgCD1|VereadorCD	A prefeitura fez pressão para que pequenos agricultores produzissem mais, agora não pode jogar contra nós que a poluição tenhah aumentado.
+AgCD2	@AgCD3|PrefeitoCD estás falando comigo prefeito?
+AgCD3|PrefeitoCD	mas não dessa forma
+AgCD1|VereadorCD	Precisa implementar tratamentos
+EmpAgro	Hoje em dia o utilização de agrotoxicos de forma segura é essencial
+AgCD1|VereadorCD	É para este fim que aumentamos a produção, para que se houvesse mais arrecadação, e com isso mais verba para investimentos
+AgCD2	@AgCD3|PrefeitoCD não falaram  que eu ia falir, que deveria produzir mais, então, te convenceu que aumento "enlouquecido" a produtividade, aumenta a poluição.....
+AgCD2	aí está.....
+EmpAgro	Proxima rodada manterei preços baixos para todo mundo da Cidadela
+EmpAgro	E aumentarei pro pessoal de atlantis
+EmpAgro	visando uma economia interna mais forte e segura
+EmpAgro	Mais estavel
+AgCD3|PrefeitoCD	mesmo com o aumento da poluição, todos obtiveram produtividades boas
+EmpAgro	O prefeito atual busca estabilidade e esta comigo
+AgCD3|PrefeitoCD	isso pessoal
+AgCD3|PrefeitoCD	vocês tem que vender mais barato pra nossa cidade
+AgCD2	@AgCD3|PrefeitoCD naõ muda de aasunto prefeito.....
+AgCD3|PrefeitoCD	em relação aos tratamentos, minha decisão é...
+AgCD3|PrefeitoCD	realizar novamente o tratamento de água
+AgCD2	@AgCD3|PrefeitoCDsó isso???Dnovo???
+AgCD2	estás de sacanagem
+AgCD1|VereadorCD	quais as opções de tratamento?
+AgCD2	deverias fazer todos os tratamentos
+AgCD2	no mínimo
+AgCD1|VereadorCD	como está o caixa da prefeitura? qual motivação para o corte de gastos?
+AgCD1|VereadorCD	seja mais transparente, senhor prefeito.
+AgCD3|PrefeitoCD	se realizar todos a prefeitura irá quebrar
+AgCD3|PrefeitoCD	não tem dinheiro
+AgCD2	@AgCD1|VereadorCD embolsar
+AgCD1|VereadorCD	nos dê números
+AgCD3|PrefeitoCD	só o de esgoto custa 2400
+AgCD3|PrefeitoCD	fora a taxa pela poluição
+AgCD3|PrefeitoCD	o máximo que posso fazer é o tratamento de lixo
+AgCD2	@AgCD3|PrefeitoCD coloca o valor que a prefeitura lucrou
+EmpAgro	Eu estou 100% com o nosso prefeito
+AgCD2	seja transparente, sempre foi esse seu slogan d campanha
+EmpAgro	Apoio as decisoes dele
+AgCD1|VereadorCD	Eu sugiro que a prefeitura invista em todos os tratamentos possíveis, queremos ser uma cidade modelo pro mundo em preocupação ambiental
+AgCD3|PrefeitoCD	impossível
+EmpAgro	Mas para isso prefcisamos de mais dinheiro
+EmpAgro	O fomento das empresas locais é essencial
+AgCD3|PrefeitoCD	se os agricultores e empresários doarem para prefeitura dinheiros
+AgCD3|PrefeitoCD	consigo realizar os tratamentos
+AgCD2	@AgCD1|VereadorCD concordo e tenho quase certeza que dá pra investir em tudo
+EmpAgro	Precisamos melhorar nossa economia
+AgCD2	@AgCD3|PrefeitoCD mas é muita cara de pau
+AgCD3|PrefeitoCD	se cada um doar 100 realizo 2 tratamentos
+AgCD1|VereadorCD	Isso é um absurdo. Pagamos impostos já
+AgCD2	@AgCD3|PrefeitoCD de minha parte pode esquecer
+AgCD3|PrefeitoCD	ok, apenas tratamento de lixo então
+AgCD2	@AgCD3|PrefeitoCD não concordo
+AgCD3|PrefeitoCD	@AgCD2  apenas tratamento de água,
+AgCD3|PrefeitoCD	alguém tem mais  algo a falar?
+AgCD2	@AgCD3|PrefeitoCD já estás decido com teus comparsas......
+AgCD2	mais nada a falar
+AgCD1|VereadorCD	O caixa da prefeitura não é suficiente para cobrir tratamento de água e lixo?
+AgCD3|PrefeitoCD	é, mas a população parece não colaborar...
+AgCD1|VereadorCD	não colaborar com o que? não estás fazendo sentido.
+AgCD3|PrefeitoCD	não colaborar com o que? não estás fazendo sentido.
+AgCD3|PrefeitoCD	@AgCD1|VereadorCD  comigo
+AgCD1|VereadorCD	estás deixando de lado a opinião da maioria da sua população e câmara de vereadores em prol do empresariado de agrotóxicos
+AgCD1|VereadorCD	a prefeitura serve seu povo, e não o contrário
+AgCD2	@AgCD1|VereadorCD exatamente
+AgCD3|PrefeitoCD	está decidido, sem tratamentos
+AgCD2	@AgCD3|PrefeitoCD :clap:
+EmpAgro	Estou negociando com Atlantis, posso aproximar nosso prefeito e fazer varios negocios com eles
+EmpAgro	Isso nao sera possivel com a reeleição do mesmo
+AgCD2	@AgCD3|PrefeitoCD muito bonito, a gente sempre se engana, política é sinônimo de corrupção e beneficios
+AgCD3|PrefeitoCD	não serei reeleito, o próximo prefeito que precisará resolver a bomba
+EmpAgro	corrigindo
+EmpAgro	sem a reeleição do mesmo
+EmpAgro	Nao sera possivel continuar a aproximação
+AgCD2	@AgCD3|PrefeitoCD isso foge....
+EmpAgro	com nossa cidade vizinha
+EmpAgro	Voces decidem
+AgCD1|VereadorCD	O senhor 
+AgCD1|VereadorCD	não serei reeleito, o próximo prefeito que precisará resolver a bomba
+AgCD1|VereadorCD	@AgCD3|PrefeitoCD o senhor ao pensar assim está prejudicando todo o avanço de nossa cidade. Parabéns pela incompetência
+EmpAgro	Espero q façam a decisao logica de apoiar meu candidato
+AgCD2	@AgCD3|PrefeitoCD parabéns
+EmpFert|FiscalCD	Peço aos agricultores que revejam seus conceitos
+EmpFert|FiscalCD	Em especial o AgCD3 por tamanha poluição
+AgCD3|PrefeitoCD	não há mais o que discutir
+AgCD3|PrefeitoCD	vocês procuraram isso
+AgCD1|VereadorCD	Que engraçado, não é verdade? Que a plantação de nosso prefeito seja a mais insustentável da cidade.
+EmpAgro	Mantenho minha palavra, baixo o preço dos agrotoxicos com a reeleição do atual prefeito
+AgCD1|VereadorCD	E tenta ainda tirar dinheiro dos outros agricultores
+EmpAgro	A nossa economia nao pode parar
+EmpAgro	Fiscal, teria como aliviar pra nossa cidade?
+EmpAgro	Com a reeleição do atual prefeito
+EmpAgro	@EmpFert|FiscalCD
+AgCD2	@EmpAgro isso reelejam esse "cidadão"......depois não adianta chorar
+EmpAgro	Ele é o unico politico competente nessa situação
+EmpAgro	nao adianta dar bolsa esmola
+EmpAgro	E nao ter uma economia forte
+AgCD2	@EmpAgro e não adianta ter economia forte sem meio ambiente
+EmpAgro	Recebi um estoque de um novo agrotoxico chamado croloquina, faz bem pra saude
+AgCD1|VereadorCD	Bom, não há mais o que ser dito, nossa administração está corrompida. Sugiro aos companheiros @AgCD2 e EmpFert|FiscalCD que nos organizemos para lançar um candidato nas próximas eleições. Abraços a todos
+@EmpFert|FiscalCD que nos organizemos para lançar um candidato nas próximas eleições. Abraços a todos
+EmpFert|FiscalCD	Meu cargo de fiscal é temporal, eu estou fiscal, não sou.
+EmpFert|FiscalCD	Sou empresario de Fertilizantes. E meu desejo é sempre ser o mais justo possivel!
+AgCD2	@EmpFert|FiscalCD sim, acredito :innocent:
+EmpFert|FiscalCD	Quem sabe numa próxima administração o prefeito atual seja o fiscal... lembrem-se disso. pessoas costumam guardar rancor.
+EmpAgro	Atlantis me fez uma proposta muito boa
+EmpAgro	E reduz a poluição
+EmpFert|FiscalCD	Vai pra lá então vendido
+EmpAgro	Com a reeleição do atual prefeito eu tenho certeza q ele vai tomar medidas parecidas
+EmpAgro	Vai favorecer a todos
+EmpFert|FiscalCD	A todos bem como a ele mesmo.
+EmpFert|FiscalCD	250 pontos de poluição não é pensar na reeleição não, desculpa.
+EmpFert|FiscalCD	"Acoes Ambientais usadas pelo prefeito nessa rodada:
+EmpFert|FiscalCD	Nenhuma Acao Ambiental foi usada"
+EmpFert|FiscalCD	é disso que to falando, pagamos enormes quantas de impostos...
+EmpFert|FiscalCD	Desejamos atitudes.
+RODADA 3
+EmpAgro	@AgCD3|PrefeitoCD fala algo ae
+AgCD2	@AgCD3|PrefeitoCD como estamos prefeito?
+AgCD3|PrefeitoCD	estava analisando os dados
+AgCD3|PrefeitoCD	a poluição nunca esteve tão alta no mundo
+AgCD3|PrefeitoCD	mais de 34%
+AgCD3|PrefeitoCD	com isso, as produtividades irão começar a cair
+AgCD3|PrefeitoCD	preocupante...
+EmpAgro	Pessoal pode comprar agrotoxicos, a economia nao pode parar
+EmpAgro	Assim a lavoura rende mais
+EmpAgro	E incentiva o mercado local
+AgCD2	@AgCD3|PrefeitoCD desta vez vais aplicar todos tratamentos pelo menos?
+EmpAgro	Ou podem tomar medidas como as de atlantis, me pagar um salario para que eu não venda produtos aos agricultores que mais poluem
+AgCD3|PrefeitoCD	@AgCD2 negativo, isso é loucura
+EmpAgro	La todos receberam selo verde
+EmpAgro	Pois sem os agrotoxicos a poluição caiu muito
+AgCD2	@EmpAgro inclusive os que poluem?
+AgCD3|PrefeitoCD	mas a poluição subiu muito
+AgCD1|VereadorCD	Quais os tratamentos possíveis da prefeitura fazer? Quais os custos? Quanto há em caixa?
+EmpAgro	O fiscal de atlantis comentou
+EmpAgro	- Nenhum agricultor usou agrotóxico, todos receberam selo verde em todas porções
+EmpAgro	Esse seria um primeiro passo rumo à diminuição
+AgCD3|PrefeitoCD	ah então foi nós que poluimos
+AgCD2	Ahh sim
+EmpAgro	O que mais poluiu la foram as máquinas
+AgCD3|PrefeitoCD	temos quase 10.000 em caixa
+AgCD3|PrefeitoCD	tivemos alta produtividade, todos estão com bastante dinheiro
+AgCD2	então prefeito, aplica todos os tratamentos e sobre dinheiros
+AgCD3|PrefeitoCD	e agora poderemos implementar alguma medida
+AgCD3|PrefeitoCD	até que não é tão ruim muita gestão...
+AgCD3|PrefeitoCD	pensem
+AgCD2	e sobra*
+AgCD1|VereadorCD	Quais os tratamentos e seus custos?
+AgCD1|VereadorCD	Estás se esquivando da minha pergunta
+AgCD3|PrefeitoCD	água 800
+AgCD3|PrefeitoCD	lixo 1600
+AgCD3|PrefeitoCD	esgoto 2400
+AgCD3|PrefeitoCD	porém, tem acréscimo de taxas
+AgCD3|PrefeitoCD	devido a alta poluição
+AgCD2	@AgCD1|VereadorCD todos os tratamentos não custam a metade desse valor que a prefeitura tem em caixa
+AgCD1|VereadorCD	A prefeitura tem o dever de aplicar estes tratamentos. Estamos em um ótimo momento financeiro
+AgCD1|VereadorCD	Conforme a situação da poluição piora, nossas produções diminuirão
+AgCD2	Um pouco mais da metade, mas podem ser aplicados todos
+EmpAgro	Eu boto fe
+AgCD1|VereadorCD	Sou a favor do aumento de impostos para todos, se isso for aplicado nos tratamentos que nossa cidade precisa
+AgCD1|VereadorCD	Desde já
+EmpAgro	Nas medidas tomadas pelos nosso governantes
+EmpAgro	Eu sou a favor do fim dos impostos
+EmpAgro	imposto é roubo
+EmpAgro	O mercado deve de ser livre e se auto regular
+EmpAgro	Sem a intervenção do estado
+AgCD1|VereadorCD	Roubo é a prefeitura estar guardando o caixa e não repassando em melhorias para a cidade
+EmpFert|FiscalCD	Senhores e senhoras, estamos em processo de descobrir quais serão as medidas do prefeito quanto a isso:
+EmpFert|FiscalCD	
+EmpFert|FiscalCD	Agricultor: CD3
+EmpFert|FiscalCD	Poluicao media: 300,00
+AgCD1|VereadorCD	Se houverem as melhorias, o imposto não será roubo
+AgCD3|PrefeitoCD	minha proposta
+AgCD3|PrefeitoCD	realizar todos tratamentos e deixar os impostos com taxa média
+AgCD3|PrefeitoCD	se vocês comprarem agrotóxico e fertilizante
+AgCD1|VereadorCD	Eu compro os melhores fertilizantes possíveis todo ano, mas sou comprometido com uma produção orgânica e não pretendo passar a consumir agrotóxicos.
+AgCD3|PrefeitoCD	e os empresários se comprometerem em vendar a preço baixo/normal
+AgAT2|Prefeita de Atlantis	Desculpe interromper, mas gostaria de falar com a @EmpAgro, e ela não está respondendo. Obrigada.
+EmpAgro	Eu respondi
+EmpAgro	no chat de atlantis
+AgCD2	@AgCD3|PrefeitoCD até que é razoável sua proposta, mas não comprarei agrotóxicos
+AgCD3|PrefeitoCD	@AgCD1|VereadorCD  e @AgCD1|VereadorCDo menos para 3 parcelas
+AgCD1|VereadorCD	Se de alguma forma isso pode ajudar na política da cidade, estou disposto a contribuir com uma doação ao @EmpAgro
+AgCD3|PrefeitoCD	essa é minha última proposta
+EmpFert|FiscalCD	e os empresários se comprometerem em vendar a preço baixo/normal
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD você tem de se comprometer a ser menos poluente
+EmpAgro	Eu posso fazer o mesmo preço
+AgCD1|VereadorCD	Mas este precisa usar da sua influência para pedir por tratamentos ambientais
+EmpAgro	150 por rodada
+EmpAgro	E nao vendo agrotoxicos pros agricultores que mais poluem
+EmpAgro	Ou seja
+AgCD3|PrefeitoCD	@AgCD3|PrefeitoCD você tem de se comprometer a ser menos poluente
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD realizarei os 3 tratamentos...
+EmpAgro	O prefeito
+AgCD2	@AgCD3|PrefeitoCD isso prefeito, muito bem :thumbsup:
+AgCD3|PrefeitoCD	fechamos @AgCD1|VereadorCD@AgCD1|VereadorCD ? utilizem agrotóxico/fertilizante em 3 parcelas
+EmpFert|FiscalCD	@EmpFert|FiscalCD realizarei os 3 tratamentos...
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD 
+EmpFert|FiscalCD	E Proibir o uso de agrotoxicos promovendo assim a restauração da saude de nossas terras.
+EmpFert|FiscalCD	sem terra nao tem plantio
+EmpFert|FiscalCD	sem plantio todos vamos a falencia
+EmpFert|FiscalCD	abram seus olhos povo!
+EmpFert|FiscalCD	O prefeito esta de negociações com o EmpAgrotox
+AgCD3|PrefeitoCD	
+AgCD3|PrefeitoCD	@AgCD3|PrefeitoCD 
+AgCD3|PrefeitoCD	E Proibir o uso de agrotoxicos promovendo assim a restauração da saude de nossas terras.
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD os valores de poluição já serão reduzidos
+AgCD3|PrefeitoCD	estou disposto a gastar, porém precisam colaborar
+AgCD1|VereadorCD	não usarei agrotóxicos, mas posso fazer uma contribuição de 100 dinheiros para o @EmpAgro para que sua influência política seja usada da forma mais ética
+EmpFert|FiscalCD	Desejava atitudes mais drásticas.
+AgCD2	@AgCD3|PrefeitoCD fertilizantes usarei
+EmpFert|FiscalCD	Voce tem capital para gastar de seu lucro desenfreado com uso de poluentes.
+EmpAgro	Eu espero que me paguem o mesmo valor de Atlantis
+EmpAgro	Para que eu possa coibir o uso de agrotoxicos pelos produtores mais poluentes
+EmpAgro	@EmpFert|FiscalCD nosso produtor mais poluente no momento é o AgCD3|PrefeitoCD certo?
+@AgCD3|PrefeitoCD certo?
+AgCD1|VereadorCD	Eu espero que me paguem o mesmo valor de Atlantis
+AgCD1|VereadorCD	@EmpAgro  A prefeitura de Atlantis te paga, eu sou um agricultor propondo a tirar dos meus próprios rendimentos, não tenho um caixa grande como do governo
+EmpAgro	perfeito
+EmpAgro	à prefeitura, espero um retorno de 150 por rodada, em troca nao venderei mais agrotóxicos ao prefeito
+EmpFert|FiscalCD	@EmpFert|FiscalCD nosso produtor mais poluente no momento é o AgCD3|PrefeitoCD certo?
+@AgCD3|PrefeitoCD certo?
+EmpFert|FiscalCD	Sim, totalmente, disparado na liderança.
+AgCD1|VereadorCD	A prefeitura está aqui para servir seu povo e sua cidade, deve fazer todos os tratamentos sem pedir nada em troca. A moeda de troca já foi sua reeleição
+AgCD1|VereadorCD	Sendo nosso próprio prefeito o maior poluidor desta cidade, é um absurdo que queira negar tratamentos e ainda nos pedir para participar desse aumento de poluição
+AgCD2	@AgCD1|VereadorCD isso :smile:
+AgCD3|PrefeitoCD	é um investimento na própria cidade
+AgCD3|PrefeitoCD	vocês estão deixando ricos atlantis
+EmpAgro	Sigo com meu ponto, nao posso perder meus lucros, então peço a contribuição de 150 da prefeitura
+AgCD2	@AgCD3|PrefeitoCD não pagarei nada do meu bolso a ninguém e não utilizarei agrotóxico
+AgCD3|PrefeitoCD	Sigo com meu ponto, nao posso perder meus lucros, então peço a contribuição de 150 da prefeitura
+AgCD3|PrefeitoCD	@EmpAgro ok
+AgCD1|VereadorCD	Investimento na própria cidade é fazer os tratamentos
+AgCD3|PrefeitoCD	Investimento na própria cidade é fazer os tratamentos
+AgCD3|PrefeitoCD	@AgCD1|VereadorCD e de onde tira dinheiro para fazer tratamentos...
+AgCD1|VereadorCD	Do caixa da prefeitura!
+AgCD3|PrefeitoCD	que vem dos impostos
+AgCD1|VereadorCD	Sei que é mais do que o suficiente
+AgCD3|PrefeitoCD	logo com pouca produtividade do emp. de agrotoxico
+AgCD3|PrefeitoCD	isso diminui
+AgCD1|VereadorCD	De forma alguma, não utilizo agrotóxicos e possuo uma boa produtividade
+AgCD3|PrefeitoCD	mas ele nao
+AgCD2	@AgCD3|PrefeitoCD e também teremos um meio ambiente um pouco mais saudável
+AgCD3|PrefeitoCD	ok, decidido farei 2 tratamentos
+AgCD3|PrefeitoCD	e aumentarei as taxas
+AgCD1|VereadorCD	Mas já há caixa suficiente para que neste ano sejam feitos os 3 tratamentos
+AgCD3|PrefeitoCD	estou pensando no próximo
+AgCD1|VereadorCD	Está pensando no seu umbigo, senhor prefeito.
+AgCD2	@AgCD1|VereadorCD como sempre....
+EmpFert|FiscalCD	Estamos todos sendo enganados pela lábia desse politico profissional.
+EmpFert|FiscalCD	Creio que tenhamos de solicitar uma atitude mais rígida do Prefeito.
+EmpFert|FiscalCD	Ele deve ter seu selo verde como exemplo antes de obter nossa confiança
+AgCD3|PrefeitoCD	medidas implementadas
+AgCD2	@EmpFert|FiscalCD ahhh com certeza
+AgCD1|VereadorCD	@EmpFert|FiscalCD espero que esteja vendo como confiar em palavras de uma pessoa sem atitudes positivas só prejudica a todos.
+AgCD3|PrefeitoCD	ainda realizei as que mais impactam positivamente
+EmpFert|FiscalCD	Plantações com selo verde são amigas do meio ambiente. Prove que tem esse comprometimento caro prefeito.
+AgCD3|PrefeitoCD	realizei tratamento de lixo e esgoto pessoal
+EmpFert|FiscalCD	@EmpFert|FiscalCD espero que esteja vendo como confiar em palavras de uma pessoa sem atitudes positivas só prejudica a todos.
+EmpFert|FiscalCD	@AgCD1|VereadorCD Estou vendo que ele tem salvação se aceitar nossas medidas.
+EmpFert|FiscalCD	A fiscalização pode fechar suas lavouras @AgCD3|PrefeitoCD !
+EmpFert|FiscalCD	Lei é pra todos!
+AgCD1|VereadorCD	Já passou da hora de agir então, caro fiscal
+EmpFert|FiscalCD	Ele é multado drasticamente toda rodada
+AgCD2	De repente uma multa bemmmm maior doeria no bolso, pq na consciência não dói.....
+EmpFert|FiscalCD	isso esta acima de minha alçada.
+EmpFert|FiscalCD	Não posso me negar a vender para ele não é?
+EmpFert|FiscalCD	@EmpAgro deveria ser banido da cidadela u.u
+EmpFert|FiscalCD	Esta claro seu envolvimento grave e direto na poluição.
+EmpAgro	Nao acho justo, deixaremos Atlantis com a maioria das empresas?
+EmpFert|FiscalCD	Sem agrotoxicos teremos algo mais verde.
+AgCD1|VereadorCD	Etapa 1 rolando.
+RODADA 4
+EmpAgro	A economia de lá ja é mais saudavel, com o banimento de 50% dos empreendedores da cidadela será a ruina da mesma
+EmpAgro	entao
+EmpAgro	Eu acho
+EmpAgro	que tinha q ter
+EmpAgro	Treta
+EmpAgro	cade o fiscal?
+AgCD3|PrefeitoCD	acho que teremos um final feliz, ao contrário do que certos agricultores desejavam...
+EmpAgro	Pra dar o report
+AgCD3|PrefeitoCD	tudo intriga
+EmpAgro	Sobre a poluição
+EmpAgro	eu acredio que tenha melhorado
+AgCD3|PrefeitoCD	poluição beirando aos 20%
+AgCD3|PrefeitoCD	tá ótimo
+EmpAgro	Pode nos dar os pareceres @EmpFert|FiscalCD
+AgCD2	@AgCD3|PrefeitoCD poluição total?
+AgCD3|PrefeitoCD	@AgCD3|PrefeitoCD poluição total?
+AgCD3|PrefeitoCD	@AgCD2 20,56%
+AgCD3|PrefeitoCD	as poluições de todos agricultores foram super baixas
+AgCD3|PrefeitoCD	única pessoa que foi além foi o @EmpFert|FiscalCD
+AgCD3|PrefeitoCD	só que ele é fiscal, então...
+AgCD2	@AgCD3|PrefeitoCD graças a consciência dos agricultores, fora o senho, senhor prefeito
+AgCD3|PrefeitoCD	todos ricos
+AgCD3|PrefeitoCD	a prefeitura rica
+AgCD3|PrefeitoCD	e poluição baixa
+AgCD3|PrefeitoCD	essa gestão entrará para história
+AgCD3|PrefeitoCD	implementarei tratamento de esgoto e água
+AgCD3|PrefeitoCD	e deixarei as taxas médias para todos setores
+EmpAgro	Sabia que meu voto estava correto
+EmpAgro	Infelizmente nosso fiscal está de sacanagem
+EmpAgro	Esta trabalhando de maneira desleixada
+EmpAgro	Eu peço que seja eleito um novo fiscal
+EmpAgro	Que se importo com nosso povo e principalmente o estado da nossa economia
+AgCD2	@EmpAgro não concordo
+AgCD2	me parece que está fazendo um bom trabalho
+AgCD3|PrefeitoCD	9.368,14 caixa da prefeitura
+EmpAgro	Nao esta dando os devidos repots
+EmpAgro	*reports
+EmpAgro	Esta deixando a desejar na sua função
+AgCD3|PrefeitoCD	Poluicao mundial: 20,56%
+AgCD3|PrefeitoCD	melhores índices em anos
+EmpAgro	Isso se deve, em partes, às ótimas medidas
+EmpAgro	tomadas pelo nosso prefeito
+EmpAgro	Grande mandato
+EmpAgro	grande dia :thumbsup:
+EmpFert|FiscalCD	Pode nos dar os pareceres @EmpFert|FiscalCD
+EmpFert|FiscalCD	@EmpAgro Nessa rodada exercitaremos a conciencia.
+EmpFert|FiscalCD	Como fiscal estou praticamente sem ação quanto as atitudes dos produtores mediante a depredação do meio ambiente.
+EmpAgro	esta sem ação pois nao tem condições de agir
+EmpFert|FiscalCD	Poluicao mundial: 20,56%
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD poderia ser melhor se o senhor tivesse sido fiel ao planeta desde o começo.
+EmpAgro	sua função é reportar à cidade o estado da poluição
+AgCD3|PrefeitoCD	@AgCD3|PrefeitoCD poderia ser melhor se o senhor tivesse sido fiel ao planeta desde o começo.
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD todos estariam morrendo de fome
+EmpFert|FiscalCD	esta sem ação pois nao tem condições de agir
+EmpFert|FiscalCD	@EmpAgro posso agir mas preciso manter a imparcialidade
+EmpAgro	Peço que seja coerente na sua fala
+EmpAgro	Quais sao os agricultores multados?
+EmpAgro	Quais as medidas deveriamos tomar?
+EmpAgro	precisamos de respostas
+EmpAgro	Quem foi multado?
+EmpFert|FiscalCD	@EmpFert|FiscalCD todos estariam morrendo de fome
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD imagino que não sejas o unico a plantar tal produto logo migrariamos a cultura em prol do abastecimento correto.
+EmpFert|FiscalCD	Senhor prefeito... Veja bem...
+EmpAgro	Quem ganhou selo?
+EmpAgro	Espero essas informações
+EmpAgro	Aquele abrax
+AgCD2	transparência sempre
+EmpFert|FiscalCD	Bem, vocês são merecedores de um parecer agora que o tenho em mãos.
+EmpAgro	DECLARO LEI MARCIAL
+EmpAgro	NAO RECEBI NENHUMA TRANSFERENCIA
+EmpAgro	ALO ALO STF
+EmpFert|FiscalCD	A poluição mundial foi exatamente o que o Prefeito mencionou, totalidades de 20,56%. Ainda podemos melhorar.
+EmpFert|FiscalCD	A EmpFert foi multada por poluição equivalente a quase 110 pontos.
+EmpFert|FiscalCD	A EmpAgro esta recebendo para existir logo não passou suas garras imundas em nossa sociedade. Então AgCD1, AgCD2 e AgCD3 receberam seu selo verde nesse semestre. Sendo respectivamente 10 pontos, 13,33 pontos e 10 pontos. 
+EmpFert|FiscalCD	Obrigado a todos comedores de alface envolvidos nesse semestre.

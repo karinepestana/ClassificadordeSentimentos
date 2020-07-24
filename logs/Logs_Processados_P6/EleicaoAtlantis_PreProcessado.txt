@@ -1,0 +1,17 @@
+RODADA 3
+AgAT2|Prefeita de Atlantis	Olá cidade de Atlantis! Hoje é dia de eleição e eu gostaria de saber se alguém quer assumir o cargo de prefeito.
+EmpSem|Fiscal AT	Olá, estou satisfeito com o trabalho da prefeita. Se ela tiver interesse em continuar, estou de acordo...
+EmpSem|Fiscal AT	
+EmpSem|Fiscal AT	Alguém tem interesse em ser fiscal?
+AgAT2|Prefeita de Atlantis	Posso seguir no cargo sim. E acredito que o trabalho do fiscal está sendo ótimo!
+AgAT1|VereadorAT	bom dia, alguém tem interesse no cargo de vereador, acho que não pude intervir em prol da comunidade tanto quanto ela precisa
+EmpMaq	A EmpMaq seguirá se adequando as políticas públicas adotadas
+EmpMaq	Sugiro um maior incentivo à tecnologia para a redução de custos  e poluição dos agricultores
+AgAT2|Prefeita de Atlantis	Certo, estamos trabalhando para isso acontecer
+AgAT2|Prefeita de Atlantis	Alguém gostaria de se candidatar a algum cargo?
+AgAT2|Prefeita de Atlantis	Ou podemos manter como está?
+EmpMaq	Mais fácil manter como está
+AgAT1|VereadorAT	de acordo com a prefeita, não tenho intenção do pleito
+AgAT2|Prefeita de Atlantis	Então está definido. Seguimos como estava e vamos continuar trabalhando para trazer melhorias ao nosso povo!
+EmpMaq	:thumbsup:
+EmpMaq	

@@ -1,0 +1,147 @@
+RODADA 1
+AgAT2|Prefeita de Atlantis	bom dia, gostaria de alugar 3 pacotes de máquinas do tipo 3
+EmpMaq	Bom dia... Essa quantia sai pelo valor alto... Ok?
+AgAT2|Prefeita de Atlantis	você tem alguma promoção?
+EmpMaq	Sim... Pra compras acima de 5 unidades
+EmpMaq	:slight_smile:
+AgAT2|Prefeita de Atlantis	o preço é baixo?
+EmpMaq	Neste caso sim
+AgAT2|Prefeita de Atlantis	então pode ser 6
+AgAT2|Prefeita de Atlantis	obrigada
+EmpMaq	Ok... 6 unidades do pacote tipo 3 pelo preço baixo
+EmpMaq	obrigado
+EmpMaq	:slight_smile:
+AgCD3|PrefeitoCD	a quanto tu está alugando o pacote 2?
+EmpMaq	Abaixo de 3 unidades preço alto
+EmpMaq	4 a 5 preço médio
+AgAT1|VereadorAT	eu acho que preciso de maquinas, aeuaueaue, 2 de pacote 2, quanto aluga ou vende?
+EmpMaq	6 preço baixo
+AgCD3|PrefeitoCD	@EmpMaq opa, vou alugar as 6 com preço baixo então
+EmpMaq	ok @AgCD3|PrefeitoCD 6 pacotes do tipo 2 por preço baixo
+AgAT1|VereadorAT	6 preço baixo
+AgAT1|VereadorAT	@EmpMaq 6 unidades do pacote 2 a preço baixo?
+AgCD3|PrefeitoCD	@EmpMaq isso
+EmpMaq	@AgAT1|VereadorAT... Sim, 6 unidades o preço é baixo... Vai querer?
+AgAT1|VereadorAT	@EmpMaq quero
+EmpMaq	@AgAT1|VereadorAT  Ok
+AgCD1|VereadorCD	bom dia, gostaria de comprar 3 unidades do pacote 3, pode fazer a preço baixo?
+EmpMaq	preço baixo somente para 6 unidades
+EmpMaq	4 a 5 preço médio
+EmpMaq	3 ou menos preço alto
+AgCD1|VereadorCD	Se puder me fazer 3 a preço médio ganhas uma cliente vitalícia
+AgCD2	@EmpMaq bom dia empresário, quanto tá o drone?
+EmpMaq	Ok @AgCD1|VereadorCD  3 unidades do tipo 3 por preço médio
+EmpMaq	Bom dia @AgCD2... Não trabalhamos mais com drones
+EmpMaq	agora se chama Pacote 3
+EmpMaq	:stuck_out_tongue:
+AgCD2	ahh eh verdade.....ahhahahhaha...quanto está o pacote 3?
+AgCD2	@EmpMaq desculpe, estava perdida, tinha ido pro meu ano sabático e agora voltei a plantar :joy:
+EmpMaq	@AgCD2 depende de quantas unidades vai querer?
+AgCD2	seria pra 3 unidades
+AgAT1|VereadorAT	pulverizador, agora que vi que preciso xD
+EmpMaq	@AgCD2 3 unidades faço pelo preço médio... ok?
+AgCD2	vou deixar pra próxima
+AgCD2	obrigada :smile:
+EmpMaq	@AgAT1|VereadorAT quantos pulverizadores?
+EmpMaq	@AgCD2 ok... Obrigado e volte sempre :slight_smile:
+AgAT1|VereadorAT	@EmpMaq 6 unidades
+EmpMaq	@AgAT1|VereadorAT Ok... 6 unidades faço pelo preço baixo... vai querer?
+AgAT1|VereadorAT	cancela pedido pra eu nesta rodada @EmpMaq
+EmpMaq	Ok @AgAT1|VereadorAT ... predido cancelado
+RODADA 2
+AgAT2|Prefeita de Atlantis	olá, gostaria de 3 pacotes de máquinas do tipo 3
+EmpMaq	No momento a empresa está esperando o resultado a rodada 1... Aguardem um momento... Obrigado :slight_smile:
+AgCD2	tok tok tok
+AgAT2|Prefeita de Atlantis	mas dependendo não vão ter máquinas disponíveis?
+EmpMaq	Ainda não tenho o resultado da rodada 1... isso influenciará na politica de vendas da rodada 2... Na política tudo é possível :smiling_imp:
+EmpMaq	hahhahahah
+AgAT2|Prefeita de Atlantis	entendo
+AgAT2|Prefeita de Atlantis	vamos aguardar então
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6  unidades do pacote 3 de máquinas
+EmpMaq	----------------------------------------- Rodada 2 ---------------------------------------------
+EmpMaq	Devido a rigorosa fiscalização imposta pelas autoridades competentes a NOVA política adotada pela empresa é de vender no máximo 3 UNIDADES de qualquer pacote a preço ALTO. Agradeço a compreensão de todos os clientes e o incentivo à tecnologia no campo.
+AgAT2|Prefeita de Atlantis	Olá
+AgCD2	ahhh fala sério @EmpMaq
+EmpMaq	recebi agora o resultado... todos os pedidos dentro da politica da empresa serão aprovados
+AgAT2|Prefeita de Atlantis	Acredito que a prefeitura possa te auxiliar
+AgCD2	@EmpMaq isso é abuso, fere a lei do consumidor
+AgAT2|Prefeita de Atlantis	Porque não conversam?
+EmpMaq	Se eu vender muitas máquinas serei multado
+AgCD2	@EmpMaq estou disposta a comprar o pacote 3, mas quero negociar o preço
+EmpMaq	Tenho q reduzir as vendas pra não infringir a politica pública adotada
+AgAT2|Prefeita de Atlantis	eu gostaria de comprar 3 unidades do pacote 3, por favor
+EmpMaq	@AgCD2 os preços desta rodada serão ALTO... Na próxima, dependendo da política pública eles podem sofrer alterações
+AgAT1|VereadorAT	me ve 3 unidades do pacote 2
+AgCD2	quero 1 pacote 3
+AgCD1|VereadorCD	Gostaria de comprar 3 unidades do pacote 3
+EmpMaq	OK @AgAT2|Prefeita de Atlantis ... compra efetuda
+AgAT2|Prefeita de Atlantis	obrigada
+AgCD2	@EmpMaq aguardo contato
+EmpMaq	Ok @AgAT1|VereadorAT ... 3 unidades do pacote 2
+EmpMaq	Ok @AgCD2 1 unidade do pacote 3
+EmpMaq	ok @AgCD1|VereadorCD 3 unidades do pacote 3
+AgCD2	obrigada
+EmpMaq	:tractor:
+AgAT2|Prefeita de Atlantis	olá
+AgAT2|Prefeita de Atlantis	gostaria de comprar um pulverizador
+AgAT2|Prefeita de Atlantis	alugar*
+AgAT2|Prefeita de Atlantis	haha
+EmpMaq	Máximo de 3 Unidades e preço Alto
+AgAT2|Prefeita de Atlantis	eu gostaria de 1
+AgAT2|Prefeita de Atlantis	obrigada
+EmpMaq	Ok @AgAT2|Prefeita de Atlantis 1 pulverizador a preço alto
+AgAT2|Prefeita de Atlantis	ok
+RODADA 3
+EmpMaq	------------------------------------------- Rodada 3 ---------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a NOVA postura adotada pela EmpMaq é de vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à tecnologia no campo. Todos os pedidos que se adequarem a esta postura serão aprovados. :slight_smile:
+AgAT2|Prefeita de Atlantis	Bom dia, gostaria de alugar 6 pacotes de máquina do tipo 3. Existe alguma promoção?
+AgCD2	Bom dia, quanto é o pacote 2?
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6 pacotes 3.
+AgAT1|VereadorAT	olá, bom dia, me vê 6 pacotes do tipo 1
+EmpMaq	@AgAT2|Prefeita de Atlantis no momento não conseguimos realizar promoções... Seu pedido será aprovado de acordo com os valores desta rodada... Confirma o pedido?
+AgAT2|Prefeita de Atlantis	confirmo, obrigada
+EmpMaq	@AgCD2 todos estão com o preço alto nesta rodada
+EmpMaq	@AgAT2|Prefeita de Atlantis OK... 6 pacotes de máquina do tipo 3. Obrigado.
+AgAT3	quero 6 pct 3
+AgAT3	tem?
+AgCD2	@EmpMaq aceito, fechamos o pacote 2 pelo preço alto?
+EmpMaq	@AgAT1|VereadorAT Ok... 6 pacotes do tipo 1 a preço Alto. Obrigado.
+AgAT1|VereadorAT	obrigado
+EmpMaq	@AgAT3 ... temos 6 pacotes do tipo 3 a preço alto... Confirma o pedido?
+AgCD1|VereadorCD	Acredito que tenhas me pulado...
+AgCD2	@EmpMaq aguardo retorno
+AgAT3	não conseguia fazer pelo normal?
+EmpMaq	@AgCD1|VereadorCD ... Confirmado o seu pedido!... Obrigado por me avisar :slight_smile:
+EmpMaq	@AgCD2 todos os valores estão altos nesta rodada
+AgCD2	@EmpMaq sim, aceito o pacote 2 pelo preço alto!
+AgAT3	ok me ve 6 pct 3 entao
+EmpMaq	@AgAT3 Nesta rodada todos os valores estão alto devido aos impostos... Na próxima rodada dependendo da política pública os valores podem mudar
+EmpMaq	Ok @AgAT3 ... Pedido confirmado. Obrigado
+EmpMaq	@AgCD2 Ok... Pedido confirmado. Obrigado
+EmpMaq	@AgCD2 Quantas unidades?
+AgCD2	@EmpMaq aqui fechamos o pacote 2 preço alto :slight_smile:
+EmpMaq	@AgCD2 Sim... Pacote do tipo 2... Mas quantas unidades desse tipo de pacote?
+EmpMaq	1, 2, 3, 4, 5 ou 6?
+AgCD2	1
+EmpMaq	ok... 1 unidade só dá para 1 parcela
+AgCD2	ok
+EmpMaq	ok... confirmado
+AgAT2|Prefeita de Atlantis	@EmpAgro seguimos nosso acordo?
+RODADA 4
+EmpMaq	---------------------------------------------- Rodada 4 -------------------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a postura adotada pela EmpMaq se mantém ao vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à produção de tecnologia para o campo.
+EmpMaq	Todos os pedidos que se adequarem a esta postura serão aprovados
+AgCD1|VereadorCD	Gostaria de comprar 6 unidades do pacote 3
+AgAT3	quero 6 pct 3 tem?
+EmpMaq	Ok @AgCD1|VereadorCD  6 unidades do pacote 3 preço alto. Obrigado! :slight_smile:
+AgAT2|Prefeita de Atlantis	olá, queria 6 pacotes do tipo 3
+EmpMaq	@AgAT3 tem sim... preço alto nesta rodada... Confirma o pedido?
+EmpMaq	Ok @AgAT2|Prefeita de Atlantis  6 unidades do pacote 3 preço alto. Obrigado! :slight_smile:
+AgAT2|Prefeita de Atlantis	obrigada
+AgAT3	comfirmo
+AgCD3|PrefeitoCD	oi, quero 6 do tipo 2 @EmpMaq
+EmpMaq	Ok... Obrigado @AgAT3
+AgAT1|VereadorAT	olá, preciso de 6 maquinas do tipo 3
+EmpMaq	Ok @AgCD3|PrefeitoCD ... Pedido confirmado... Obrigado! :slight_smile:
+EmpMaq	Ok @AgAT1|VereadorAT ... Pedido Confirmado... Obrigado! :slight_smile:
+AgAT1|VereadorAT	ok

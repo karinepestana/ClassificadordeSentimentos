@@ -1,0 +1,55 @@
+RODADA 3
+AgCD2	Bom dia pessoal, ficou alguma coisa acertada quanto a aleição?
+AgCD2	eleição
+EmpFert|FiscalCD	Presumo que sim.
+EmpFert|FiscalCD	Segundo a ironia da democracia podemos votar através da diretoria se ela decide permanecer nos respectivos cargos.
+EmpFert|FiscalCD	Seria muita sacanagem? hahaha
+AgCD1|VereadorCD	@AgCD2 que achas de se candidatar à prefeitura? Tens o apoio dos vereadores
+AgCD2	@AgCD1|VereadorCD sinceramente não sei.....mas se quiseres te candidatar, apoio :smile:
+EmpAgro	Bom dia pessoal
+EmpFert|FiscalCD	Eu sou a favor da reeleição do administrador anterior com a condição de que desta vez ele se comprometa de nao poluir 250 pontos em um semestre.
+EmpAgro	Eu apoio a reeleição
+EmpAgro	Desconto de agrotoxicos pra todo mundo
+AgCD1|VereadorCD	Bom, eu sinto que não podemos deixar nossa cidade nas mãos dos mesmos governantes que não agem nos momentos que devem agir, e acho difícil acreditar em promessas eleitorais. Gostaria de me candidatar à prefeitura então
+EmpAgro	@EmpFert|FiscalCD solicito reunião com vossa senhoria
+AgCD2	@AgCD1|VereadorCD meu voto é seu
+AgCD1|VereadorCD	@EmpFert|FiscalCD tenho seu apoio? Acredito que a qualidade dos seus fertilizantes é muito apreciada por todos os nossos agricultores e essa parceria sempre será incentivada
+EmpAgro	environment
+EmpFert|FiscalCD	@AgCD1|VereadorCD Tem meu apoio devido a seu comprometimento com o "enviroment! (OBG eMPaGRO
+EmpAgro	De nada
+AgCD3|PrefeitoCD	vamos aos votos então
+EmpAgro	Eu voto no @AgCD3|PrefeitoCD
+AgCD2	eu voto @AgCD1|VereadorCD
+EmpFert|FiscalCD	Eu voto no @AgCD2
+AgCD3|PrefeitoCD	Eu voto em @AgCD3|PrefeitoCD
+EmpAgro	MEU CANDIDATO TA GANHANDO
+EmpAgro	Apuração de votos em tempo real
+AgCD1|VereadorCD	Eu voto @AgCD1|VereadorCD
+AgCD3|PrefeitoCD	ingratos...
+EmpAgro	Sinto que meu candidato vai perder pq essa votação aberta ta culminando no voto à cabresto hein
+AgCD3|PrefeitoCD	tudo comprado
+EmpFert|FiscalCD	Prefeito cara de pau, polui aquilo tudo e nao se manifesta a respeito. Vergonhoso nao tomar nenhuma medida quanto a poluição sendo que ele é quem poluiu mais... Solicito cassação da candidatura!!
+AgCD1|VereadorCD	@AgCD1|VereadorCDeu voto foi em @AgCD1|VereadorCDo que seria em @AgCD1|VereadorCD ?
+EmpFert|FiscalCD	tudo comprado
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD 
+EmpFert|FiscalCD	Inadmissível esse comportamento!!!
+EmpAgro	Nao pode mudar agora hein
+EmpAgro	Foi pro segundo turno @AgCD1|VereadorCDe @AgCD1|VereadorCD ?
+EmpFert|FiscalCD	@AgCD1|VereadorCDeu voto foi em @AgCD1|VereadorCDo que seria em @AgCD1|VereadorCD ?
+EmpFert|FiscalCD	@AgCD1|VereadorCD não, meu voto é nulo por regra.
+EmpFert|FiscalCD	Não compactuo com tais medidas nao democraticass de eleição de representantes legais.
+AgCD1|VereadorCD	Ah.
+EmpFert|FiscalCD	Meu voto é NULO.
+EmpAgro	Entao o @AgCD3|PrefeitoCD ganhou?
+EmpFert|FiscalCD	Desculpe, mas sou incapaz de ceder as mensagens no privado
+EmpFert|FiscalCD	permaneço incomparável!
+EmpFert|FiscalCD	Entao o @AgCD3|PrefeitoCD ganhou?
+EmpFert|FiscalCD	@EmpAgro 
+EmpFert|FiscalCD	Cremos que sim
+EmpAgro	Boa
+EmpAgro	Permanece o mesmo entao
+AgCD2	Seguem os mesmo então?
+AgCD2	mesmos
+EmpAgro	SIm
+AgCD3|PrefeitoCD	o impossível aconteceu
+AgCD3|PrefeitoCD	grato aos meus eleitores
