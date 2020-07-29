@@ -1,0 +1,8 @@
+EmpSem|Fiscal AT	bom dia
+AgAT1	Olá, quais os valores para sementes de soja e hortaliças?
+EmpSem|Fiscal AT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+EmpSem|Fiscal AT	@AgAT1 soja preço normal e hortaliça preço alto
+AgAT1	Quero comprar TRES sementes de HORTALIÇAS e TRES sementes de soja.
+EmpSem|Fiscal AT	@AgAT1 ok, 3 sementes de hortaliça a preço alto e 3 soja preço normal
+AgAT1	Ok
+AgAT1	Deal

@@ -1,0 +1,12 @@
+AgAT1	Gostaria de comprar sementes
+EmpSem|Fiscal AT	Storch - oi, tudo bom? qual semente você gostaria?
+AgAT1	Desejo sementes de soja
+EmpSem|Fiscal AT	Storch - pode ser pelo preço normal?
+AgAT1	Caso compre seis, o preço pode ser reduzido?
+EmpSem|Fiscal AT	Storch - não, máximo que faço é 2 com preço baixo e 4 normal
+AgAT1	Em prol de novas negociações a preços mais interessantes a ti estou disposto a aceitar sua oferta.
+AgAT1	Comprarei o total de SEIS sementes de SOJA.
+EmpSem|Fiscal AT	ok Storch, 2 com preço baixo e 4 normal.
+AgAT1	Certo. Grato!
+EmpSem|Fiscal AT	mais alguém gostaria de comprar sementes?
+EmpSem|Fiscal AT	Storch, qual tua sigla?

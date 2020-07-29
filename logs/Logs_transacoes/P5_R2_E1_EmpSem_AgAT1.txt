@@ -1,0 +1,13 @@
+AgAT1	Desejo comprar sementes de hortaliças
+EmpSem|Fiscal AT	Storch - tenho poucas hortaliças para vender, no máximo 3 por cliente
+AgAT1	Pago o valor máximo por cada uma das 6
+EmpSem|Fiscal AT	Storch - Apenas 3 hortaliças por cliente...
+AgAT1	Comprarei 3 sementes de hortaliças
+AgAT1	E 3 de soja
+EmpSem|Fiscal AT	ok Storch, 3 hortaliças com preço alto e 3 soja com preço normal?
+AgAT1	At1 - Pedido
+AgAT1	3 parcelas hortaliças
+AgAT1	3 sojs
+AgAT1	Se vais fazer a preço alto as hortaliças desejo todas sementes de soja
+EmpSem|Fiscal AT	ok, 6 sojas a preço normal
+AgAT1	Ok

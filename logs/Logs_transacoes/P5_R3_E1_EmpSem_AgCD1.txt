@@ -1,0 +1,12 @@
+AgCD1|Fiscal CD	AgCD1 - olá, gostaria de comprar 6 sacas de sementes de soja
+EmpSem|Fiscal AT	bom dia
+EmpSem|Fiscal AT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+AgCD1|Fiscal CD	AgCD1 - quero os 6 de soja por fazor
+AgCD1|Fiscal CD	favor*
+AgCD1|Fiscal CD	AgCD1 - gostaria de 6 de soja
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD ok, a preço normal
+EmpSem|Fiscal AT	leva 1 a preço comum, caso leve outras 5
+EmpSem|Fiscal AT	baixo*
+EmpSem|Fiscal AT	AgCD1, fechamos então 5 sojas a preço normal e 1 a preço baixo?
+AgCD1|Fiscal CD	pode ser
+AgCD1|Fiscal CD	ótimo

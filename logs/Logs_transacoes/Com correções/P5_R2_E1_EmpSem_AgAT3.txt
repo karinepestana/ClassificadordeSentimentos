@@ -1,0 +1,8 @@
+AgAT3	Oi! Gostaria de saber se há sementes de hortaliças disponíveis hoje
+EmpSem|Fiscal AT	@AgAT3 oi, hortaliça só estou conseguindo vender pelo preço alto
+AgAT3	gostaria então de comprar 3 sementes de hortaliças e 3 de soja pelo preço baixo se pudermos negociar assim :slight_smile:
+EmpSem|Fiscal AT	@AgAT3 Soja pelo preço normal. fechamos?
+AgAT3	O arroz está pelo preço baixo?
+EmpSem|Fiscal AT	@AgAT3 preço médio
+AgAT3	fazemos então 3 hortaliças e 3 sementes de arroz
+EmpSem|Fiscal AT	ok @AgAT3 3 hortaliças com preço alto e 3 arroz com preço normal

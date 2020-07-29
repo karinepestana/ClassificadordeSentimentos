@@ -1,0 +1,7 @@
+AgCD2|Prefeito CD	AgCD2 - Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+EmpSem|Fiscal AT	Giovani / Gustavo / Bruna - 2 pelo baixo e 4 pelo normal
+AgCD2|Prefeito CD	Podemos fazer 3/3 então?
+AgCD2|Prefeito CD	3 baixo e 3 normal?
+EmpSem|Fiscal AT	ok gustavo
+AgCD2|Prefeito CD	Fechado então? 3/3 ? Obrigado!
+EmpSem|Fiscal AT	fechado Gustavo

@@ -1,0 +1,10 @@
+AgAT2	opa
+AgAT2	AgAt2- gostaria de 6 sojas
+AgAT2	se possivel pelo baixo
+EmpSem|Fiscal AT	bom dia
+EmpSem|Fiscal AT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+AgAT2	me ve 6 arroz ai ja q ta na promoção
+AgAT2	AgAt2
+AgAT2	por favor
+EmpSem|Fiscal AT	ok @AgAT2 e @AgAT3 3 arroz preço baixo e 3 normal
+AgAT2	ok

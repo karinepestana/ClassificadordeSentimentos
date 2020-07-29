@@ -1,0 +1,11 @@
+AgCD2|Prefeito CD	AgCD2: bom dia, gostaria de comprar sementes
+AgCD2|Prefeito CD	AgCD2: Se possível, gostaria de comprar 6 sementes de arroz
+EmpSem|Fiscal AT	Gustavo - bom dia, tranquilo. Te consigo 4 pelo preço normal e 2 alto
+AgCD2|Prefeito CD	bom dia bruno... não da pra melhorar esse preço?  essa semente já é intermediária, por si só já é cara :frowning:
+EmpSem|Fiscal AT	Gustavo - se tu comprar 2 soja no lugar do arroz te faço tudo pelo preço normal
+AgCD2|Prefeito CD	bruno, fazemos assim então, me vende 4 de arroz pelo preço normal e eu levo as duas de soja se for pelo preço
+EmpSem|Fiscal AT	ok Gustavo baixo, que tal?
+AgCD2|Prefeito CD	feito então? 4 sementes de arroz(preço normal) e duas de soja (preço baixo)?
+EmpSem|Fiscal AT	isso
+AgCD2|Prefeito CD	beleza então, obrigado
+EmpSem|Fiscal AT	mais alguém gostaria de comprar sementes?

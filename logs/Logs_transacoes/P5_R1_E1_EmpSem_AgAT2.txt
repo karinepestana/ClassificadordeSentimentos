@@ -1,0 +1,11 @@
+EmpSem|Fiscal AT	mais alguém gostaria de comprar sementes?
+AgAT2	Oi so o AgAt3 e gostaria de comprar 6 sojas
+AgAT2	At2
+AgAT2	desculpa
+EmpSem|Fiscal AT	Oi At2, pode ser 3 com preço normal e 3 alto?
+AgAT2	se eu disser q não tu me vende as 3 por normal?
+AgAT2	huahsuahsuah
+AgAT2	as 6
+EmpSem|Fiscal AT	AT2 - tendo em vista o momento, te consiga as 6 por normal
+AgAT2	Vlw então confirmado 6 sojas pro AT2
+EmpSem|Fiscal AT	blz

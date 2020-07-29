@@ -1,3 +1,4 @@
+RODADA 1
 AgCD1|Fiscal CD	Bom dia! Sou a vereadora de Cidadela, e gostaria de saber sobre as ações de quem está poluindo mais na cidade. Seria interessante aumentarmos os impostos com base nessas ações
 AgCD2|Prefeito CD	Bom dia, sou o prefeito da cidade. Acredito que um caminho interessante seja taxarmos as produções desde o início (valor proporcional a produção) e, em contra partida, iniciamos os três tratamentos...
 AgCD2|Prefeito CD	
@@ -74,6 +75,7 @@ EmpFert	vendi bastante fertilizante super premium, mas acredito que para cidadel
 AgCD2|Prefeito CD	Gente, acabou o tempo
 AgCD2|Prefeito CD	Na próxima rodada negociamos melhor, peço desculpas
 AgCD3|Vereador CD	Concordo com a Bruna
+RODADA 2
 AgCD1|Fiscal CD	Olá, acredito que nessa etapa não precisamos realizar nenhuma alteração
 EmpFert	Olá, sou a empFer e gostaria de dizer que não vendi nenhum fertilizante comum, apenas premium e super premium, acredito ter baixado o meu índice de poluição! :smile:
 AgCD1|Fiscal CD	O fiscal deveria averiguar os casos de alta poluição
@@ -178,6 +180,7 @@ AgCD3|Vereador CD	hahahahaha
 AgCD3|Vereador CD	pode ser
 AgCD1|Fiscal CD	De acordo
 AgCD3|Vereador CD	de acordo
+RODADA 3
 EmpFert	Alguém possui interesse em se candidatar?
 AgCD2|Prefeito CD	A eleição já foi feita na sala de baixo
 AgCD2|Prefeito CD	#eleicao_cidadela
@@ -333,6 +336,7 @@ AgCD2|Prefeito CD	Jesus kkk
 AgCD1|Fiscal CD	O vereador está delirando. Eu entendo, realmente é muita pressão
 AgCD3|Vereador CD	Vereador não tem poder de NADA :rage:
 AgCD2|Prefeito CD	Prefeito também não kk
+RODADA 4
 AgCD2|Prefeito CD	Bom pessoal, abrimos conversando sobre impostos e medidas então?
 AgCD2|Prefeito CD	Pelo que vi no relatório aqui, o caixa permaneceu o mesmo praticamente
 AgCD2|Prefeito CD	E a poluição mundial diminuiu, 22%
@@ -676,5 +680,4 @@ AgCD3|Vereador CD	concordo com as decisões q o prefeito tomar
 EmpAgro	pessoal até mais
 AgCD2|Prefeito CD	até mais gente
 AgCD3|Vereador CD	Até mais :slight_smile: :thumbsup:
-AgCD3|Vereador CD	Karine06/30/2020
-AgCD3|Vereador CD	SIMULACAO ENCERRADA
+SIMULACAO 5 ENCERRADA

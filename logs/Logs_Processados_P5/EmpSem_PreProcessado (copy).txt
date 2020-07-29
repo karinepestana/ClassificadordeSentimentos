@@ -1,0 +1,69 @@
+
+RODADA 4
+AgCD3|Vereador CD	Olá! Gostaria de comprar 6 sacos de semente de SOJA... Qual o valor? :slight_smile:
+AgCD1|Fiscal CD	Olá, gostaria de 6 sacos de sementes de soja!
+AgAT2	Oi gostaria de 6 sojas como ta o preço
+AgCD2|Prefeito CD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+EmpSem|Fiscal AT	@AgCD3|Vereador CD oi, estamos com pouca soja. tenho apenas hortaliça
+AgAT3	bom dia! Gostaria de comprar 6 sacos de soja, se possível negociar ao preço mais baixo.
+AgCD3|Vereador CD	Me vende o pouco de soja q tiver :slight_smile:
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD só tem hortaliça para venda hoje
+EmpSem|Fiscal AT	@AgCD3|Vereador CD pessoal da cidade já tinha reservado...
+AgCD3|Vereador CD	Eu sou da Cidadela :slight_smile:
+AgCD3|Vereador CD	Te transfiro 500 pila
+AgCD3|Vereador CD	:wink:
+AgCD1|Fiscal CD	@EmpSem|Fiscal AT E com um valor a mais, você consegue comprar soja?
+EmpSem|Fiscal AT	@AgAT3 @AgAT2 6 preço baixo, já que voces tinham reservado
+EmpSem|Fiscal AT	@AgCD3|Vereador CD por esse preço te consigo 3 soja a preço normal
+AgAT1	Desejo comprar sementes de hortaliças e soja, 3 de cada.
+AgCD3|Vereador CD	Quero as 3 de soja preço Normal
+AgCD3|Vereador CD	mais 3 preço Alto... pode ser?
+EmpSem|Fiscal AT	@AgAT1 ok, preço baixo pra ti
+EmpSem|Fiscal AT	@AgCD3|Vereador CD se me mandar 1000, sim
+AgCD3|Vereador CD	mando 500
+AgAT1	Deal
+AgCD3|Vereador CD	é um baita lucro
+EmpSem|Fiscal AT	lamento...
+AgCD1|Fiscal CD	E arroz? Qual o acordo?
+AgCD2|Prefeito CD	@EmpSem|Fiscal AT estou sem resposta, como estão os preços da soja?
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD sim, 3 sacos por 500
+AgCD3|Vereador CD	então quanto sai 3 sacos de arroz?
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD arroz nem cheguei a ter para vender, o lucro não estava muito bom
+AgAT2	uuuue
+EmpSem|Fiscal AT	@AgCD3|Vereador CD sem arroz
+AgAT2	q q e isso
+AgCD1|Fiscal CD	fico com 6 de hortaliça então
+EmpSem|Fiscal AT	ok @AgCD1|Fiscal CD preço alto
+AgCD1|Fiscal CD	ok
+AgAT2	Oi gostaria de 6 sojas como ta o preço
+AgCD3|Vereador CD	Ok... Então vou ficar somente com os 3 sacos de soja pelo preço NORMAL
+EmpSem|Fiscal AT	ok @AgCD3|Vereador CD
+EmpSem|Fiscal AT	@AgAT2 preço baixo
+AgAT2	me ve ai 6 então
+EmpSem|Fiscal AT	feito @AgAT2
+AgCD2|Prefeito CD	@EmpSem|Fiscal AT como estão os preços da soja? Ainda não recebi resposta
+EmpSem|Fiscal AT	@AgCD2|Prefeito CD desculpa a demora. não temos mais soja para venda. apenas hortaliça e a preço alto. últimos sacos
+AgCD2|Prefeito CD	Poxa, nenhuma outrao pção?
+AgCD2|Prefeito CD	opção*
+EmpSem|Fiscal AT	encontrei 3 sacos de arroz? 3 arroz alto e 3 hortaliça alto?
+EmpSem|Fiscal AT	encontrei 3 sacos de arroz. 3 arroz alto e 3 hortaliça alto?*
+AgCD2|Prefeito CD	consegue pelo menos baixar os preços pra médio? são as sementes baratas/médias ao maior preço
+AgCD2|Prefeito CD	assim não da
+EmpSem|Fiscal AT	da hortaliça consigo te vender pelo médio
+AgCD2|Prefeito CD	não pode ser do arroz médio?
+EmpSem|Fiscal AT	não...
+EmpSem|Fiscal AT	ok, 1 arroz médio e 2 alto
+EmpSem|Fiscal AT	ultima proposta
+EmpSem|Fiscal AT	pois já vou fechar
+AgCD1|Fiscal CD	voce tem arroz?
+AgCD2|Prefeito CD	ta certo, 1 arroz médio, 2 arroz alto e 3 hortaliça médio, é isso?
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD encontrei mistura no meio dos sacos de hortaliça
+EmpSem|Fiscal AT	misturado*
+EmpSem|Fiscal AT	mas já vendi
+AgCD1|Fiscal CD	ok, então quero cancelar 3 de hortaliça
+AgCD1|Fiscal CD	e comprar 3 arroz
+EmpSem|Fiscal AT	acabei de vender para @vd2
+AgCD2|Prefeito CD	ta certa a proposta ali empsem?
+EmpSem|Fiscal AT	certo @AgCD2|Prefeito CD
+AgCD2|Prefeito CD	beleza, obrigado
+SIMULAÇÃO 5 ENCERRADA

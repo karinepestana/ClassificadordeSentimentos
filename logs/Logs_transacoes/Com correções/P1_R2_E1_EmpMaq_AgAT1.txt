@@ -1,0 +1,12 @@
+EmpMaq|Prefeito AT	Bom dia! Hoje os pulverizadores estão em promoção com preços baixos
+EmpMaq|Prefeito AT	Recebemos novos estoques de pacotes então aproveitem então ainda temos em estoque
+AgAT2	gostaria do pacote 3 de maquinas
+EmpMaq|Prefeito AT	@AgAT2 quantas máquinas ?
+AgAT2	quantas tu tens
+EmpMaq|Prefeito AT	@AgAT2  pacote 3 tenho apenas a preço alto agora 3 unidades, tenho mais unidades do pacote 2 a preço normal
+EmpMaq|Prefeito AT	e o pacote 1 e pulverizantes estão em promoção a preço baixo
+EmpMaq|Prefeito AT	10 unidades de pacote 2 a preço normal, 3 unidades de pacote 3 a preço nomal, 3 unidades de pacote 3 a preço alto, varias unidades de pacote 1 a preço baixo
+EmpMaq|Prefeito AT	e pulverizadores a preço baixo também
+AgAT2	Então pode ser 6 Pacotes 2?
+EmpMaq|Prefeito AT	@AgAT2  feito
+EmpMaq|Prefeito AT	Caso não queiram mais realizar negociações, vamos encerrar nossas atividades.
