@@ -1,0 +1,15 @@
+AgCD1|Vereador CD	bom dia!
+EmpFert	Bom dia!
+AgCD1|Vereador CD	eu gostaria de comprar 3 fertilizantes super premium
+AgCD1|Vereador CD	vi que o preço está baixo
+AgCD1|Vereador CD	não posso perder
+EmpFert	AgCD1, certo?
+AgCD1|Vereador CD	isso
+EmpFert	Preço baixo :slight_smile:
+AgCD1|Vereador CD	obrigada!
+EmpFert	De nada pessoal, voltem sempre!
+AgCD1|Vereador CD	oi, quanto está p fertilizante comum?
+AgCD1|Vereador CD	eu gostaria de 3 comum, sou AgCD1
+EmpFert	certo AgCD1, feito! Obrigada :slight_smile:
+EmpFert	preço baixo
+AgCD1|Vereador CD	obrigada

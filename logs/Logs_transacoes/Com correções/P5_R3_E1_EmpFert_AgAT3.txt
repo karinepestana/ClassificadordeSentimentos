@@ -1,0 +1,20 @@
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+AgAT3	bom dia, gostaria de 6 sacos de fertilizantes comum
+EmpFert	Bom dia, qual sua Ag? Nao gostaria de comprar o premium que está em promoção a preço baixo?
+AgAT3	Sou AgAT3, para esta safra vou usar comum! obrigada.
+AgAT3	o comum está a preço baixo também, não está? vi no seu cartaz.
+EmpFert	gente um momento que me perdi
+EmpFert	muita gente KKKKKKKKKKKKKKKKKKKKKKKK
+EmpFert	ja começo a responder
+EmpFert	Resumindo:
+EmpFert	@AgAT3 O comum polui excessivamente, o que fará voce e eu levar multa :/ O Premium está no mesmo preço e polui menos o meio ambiente.
+EmpFert	Por favor coloquem suas Ag's em todas as conversas
+AgAT3	Não estava ciente quanto ao fertilizante comum poluir mais, me preocupo com este fator então vou levar 6 premium pelo preço baixo. Obrigada!
+EmpFert	fechado!

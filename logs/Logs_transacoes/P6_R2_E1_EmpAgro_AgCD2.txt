@@ -1,0 +1,8 @@
+EmpAgro	@everyone PROMOÇÃO NO AGROTOXICO, A CADA 2 SUPERPREMIUM PREÇO NORMAL O TERCEIRO SAI POR PREÇO BAIXO
+EmpAgro	SÓ ATE O FINAL DA RODADA
+AgCD2	@EmpAgro olá, gostaria de participar da promoção
+EmpAgro	@AgCD2 vai querer quantos?
+AgCD2	@EmpAgro vou querer 4 superpremium
+AgCD2	ops 3
+EmpAgro	@AgCD2 feito, vendido 2 superpremium por preço normal e um baixo
+AgCD2	@EmpAgro certo, obrigada :slight_smile:

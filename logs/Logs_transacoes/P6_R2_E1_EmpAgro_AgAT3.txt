@@ -1,0 +1,11 @@
+AgAT3	oi gostaria de comprar 6 pacotes super premium
+EmpAgro	@AgAT3 acabaram as promoções, estão todos com preços normais, vai querer?
+EmpAgro	@AgAT3 posso fazer 2 dos pacotes por preço baixo
+EmpAgro	e 4 deles por preços normais
+AgAT3	ja comprei pelo preço normal na passada
+AgAT3	mas de boa kkk
+AgAT3	2 baixo e 4 normal
+AgAT3	ok
+EmpAgro	@AgAT3 fechado
+EmpAgro	@everyone PROMOÇÃO NO AGROTOXICO, A CADA 2 SUPERPREMIUM PREÇO NORMAL O TERCEIRO SAI POR PREÇO BAIXO
+EmpAgro	SÓ ATE O FINAL DA RODADA

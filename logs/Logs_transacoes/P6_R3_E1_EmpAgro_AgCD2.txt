@@ -1,0 +1,12 @@
+EmpAgro	Bom dia compradores
+EmpAgro	Devido à reeleição todos os agrotóxicos estão saindo a preços baixos
+AgCD2	bom dia, gostaria de comprar 1 pacote de sp
+AgCD2	@EmpAgro esqueceu de mim?
+EmpAgro	@AgCD2 opa desculpa
+EmpAgro	1 pacote SP
+EmpAgro	por preço baixo
+EmpAgro	certo?
+AgCD2	Isso, fechado!!
+AgCD2	@EmpAgro obrigada!!
+EmpAgro	@AgCD2 de nada
+EmpAgro	@everyone PROMOÇÃO PREÇOS BAIXOS DA REELEIÇÃO, APROVEITEM

@@ -1,0 +1,5 @@
+AgAT2	oi gostaria de 6 fertilizantes SP
+EmpFert	Bom dia
+EmpFert	@AgAT2, 6 SP ficam 5 a preço alto e 1 a preço normal
+AgAT2	Feito pra mim então
+EmpFert	@AgAT2 6 SP ficam 5 a preço alto e 1 a preço normal

@@ -1,0 +1,5 @@
+AgCD3|Fiscal CD	AgCD3 -- Bom dia! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
+EmpFert	Bom dia!
+EmpFert	Feito :slight_smile:
+AgCD3|Fiscal CD	OK... Obrigado por me vender 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO :slight_smile:
+EmpFert	De nada pessoal, voltem sempre!

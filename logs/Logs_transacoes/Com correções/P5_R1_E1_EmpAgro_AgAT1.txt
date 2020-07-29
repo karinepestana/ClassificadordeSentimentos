@@ -1,0 +1,14 @@
+AgAT1	Sao SEIS unidades de SP para mim, quais as condições para nossa transação?
+EmpAgro	então posso te fazer a preço normal
+AgAT1	Entendo, gostaria de comprar mas tenho uma outra proposta por valor reduzido sendo duas das unidades a preço baixo, tens interesse de cobrir a oferta?
+AgAT1	Ou oferecer outra proposta, se for do teu interesse...
+EmpAgro	te faço 3 a preço baixo e 3  a preço normal
+EmpAgro	é o melhor q posso fazer
+AgAT1	Ótimo, deal!
+AgAT1	Obg
+EmpAgro	fechado
+EmpAgro	qual é o teu nome
+AgAT1	AgAT1
+EmpAgro	ta bem
+EmpAgro	obrigada
+EmpAgro	alguém mais gostaria de comprar

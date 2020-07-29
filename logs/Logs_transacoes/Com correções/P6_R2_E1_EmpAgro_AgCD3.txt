@@ -1,0 +1,6 @@
+EmpAgro	@everyone PROMOÇÃO NO AGROTOXICO, A CADA 2 SUPERPREMIUM PREÇO NORMAL O TERCEIRO SAI POR PREÇO BAIXO
+EmpAgro	SÓ ATE O FINAL DA RODADA
+AgCD3|PrefeitoCD	me vende 6 agrotóxico super premium com que preço? @EmpAgro
+EmpAgro	@AgCD3|PrefeitoCD pro prefeito eu faço 3 baixo e 3 normal
+AgCD3|PrefeitoCD	ótimo, fechado então
+EmpAgro	@AgCD3|PrefeitoCD Fechado

@@ -1,0 +1,5 @@
+AgAT3	bom dia! Fiquei sabendo que consegues um desconto para quem compra seis sacas do fertilizante premium. Estou interessada em fazer negócio :slight_smile:
+EmpFert	Bom dia, posso fazer o mesmo negócio feito para o AgAT1
+AgAT3	certo! vou querer.
+AgAT3	sou AgAT3
+EmpFert	negócio fechado :slight_smile:

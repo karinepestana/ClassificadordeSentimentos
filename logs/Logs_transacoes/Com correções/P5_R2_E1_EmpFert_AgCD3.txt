@@ -1,0 +1,18 @@
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+AgCD3|Fiscal CD	Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO -- Informação Importante: Conheço o FISCAL :wink:
+EmpFert	Bom dia @AgCD3, o que podes me oferecer em troca desse "favor?"
+AgCD3|Fiscal CD	Conheço o Fiscal. Ele pode diminuir uma unidade na multa... Se houver multa :wink:
+AgCD3|Fiscal CD	Então? 6 (SEIS) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO. Já falei com o FISCAL :wink:
+EmpFert	@AgCD3, faço 5
+AgCD3|Fiscal CD	OK... 5 (CINCO) sacos de fertilizante SUPER PREMIUM pelo preço BAIXO e 1 (UM) pelo preço NORMAL
+EmpFert	CD3, negócio fechado. Não esquece do favor :wink:
+EmpFert	promoção relampago
+EmpFert	fertilizante premium preço baixo
+EmpFert	super premium preço normal

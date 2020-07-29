@@ -1,0 +1,8 @@
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+EmpAgro	@everyone Promoção, bora comprar agrotóxico
+AgCD3|Vereador CD	3 SUPER PREMIU PREÇO BAIXO?
+EmpAgro	sim
+EmpAgro	hoje estou na promoção
+AgCD3|Vereador CD	Ok... Vou quer os 3  super premium pelo preço baixo! obrigado!
+EmpAgro	de nda

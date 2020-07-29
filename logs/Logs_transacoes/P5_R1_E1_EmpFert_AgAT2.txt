@@ -1,0 +1,20 @@
+EmpFert	Nosso estoque está baixo, possuo fertilizante comum pelo preço baixo e premium pelo preço normal, a promoção do fertilizante super premium acabou e zeramos o estoque (retorna rodada que vem)
+AgAT2	opa
+EmpFert	Olá
+AgAT2	o Empresario ta livre
+AgAT2	kkkkkk
+AgAT2	queria 6 sacas
+AgAT2	do melhor fertilizante q vc tiver
+EmpFert	premium pelo preço normal, os vizinhos do AgCD3 e agCD1 levaram todo o estoque do super premium
+AgAT2	:frowning:
+AgAT2	vamo de premium
+AgAT2	então
+AgAT2	mas n conseguia me fazer um descontinho
+AgAT2	:upside_down:
+EmpFert	Nessa rodada o desconto era no super premium
+EmpFert	toda rodada terá desconto, mas possui estoque
+EmpFert	quem chegar primeiro leva
+AgAT2	ok me ve 6 sacas do premium então
+EmpFert	qual o nome?
+EmpFert	6 sacas do premium preço normal, qual a sua Ag?
+AgAT2	AgAt2

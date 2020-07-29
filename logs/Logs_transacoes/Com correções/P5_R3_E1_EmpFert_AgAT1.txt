@@ -1,0 +1,19 @@
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+AgAT1	desejo obter estes itens caso tenhas em estoque:
+AgAT1	5 super pemium
+AgAT1	1 premium
+EmpFert	@AgAT1 5 super premium a preço normal e 1 premium a preço baixo
+EmpFert	gente um momento que me perdi
+EmpFert	muita gente KKKKKKKKKKKKKKKKKKKKKKKK
+EmpFert	ja começo a responder
+AgAT1	Deal!
+EmpFert	Resumindo:
+EmpFert	@AgAT1 - 5 SP preço normal e 1 P preço baixo (fechado!)
+EmpFert	Por favor coloquem suas Ag's em todas as conversas

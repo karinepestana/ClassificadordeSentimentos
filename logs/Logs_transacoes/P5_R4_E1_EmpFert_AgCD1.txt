@@ -1,0 +1,6 @@
+AgCD1|Fiscal CD	Olá, gostaria de 6 sacos de fertilizante super premium
+EmpFert	Bom dia
+EmpFert	AgCD3, AgCD1 posso fazer 4 SP a preço normal e 2 a preço baixo
+AgCD1|Fiscal CD	ok, obrigada
+EmpFert	um momento
+EmpFert	AgCD1 - posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)

@@ -1,0 +1,16 @@
+EmpFert	Nosso estoque está baixo, possuo fertilizante comum pelo preço baixo e premium pelo preço normal, a promoção do fertilizante super premium acabou e zeramos o estoque (retorna rodada que vem)
+AgAT1	Bom dia, desejo comprar fertilizantes comum
+EmpFert	Obrigada! Bom dia, Storch qual sua Ag?
+AgAT1	AgAT1
+EmpFert	AgAT1, o fertilizante comum está com preço baixo, qual a quantidade?
+AgAT1	Desejo o Premium
+AgAT1	Seis unidades
+AgAT1	Qual seu preço para tal produto?
+EmpFert	Certo AgAT1, 6 unidades do premium a preço normal
+AgAT1	Estou comprando um pacote de SEIS sacas, qual a margem de desconto para mim?
+EmpFert	posso fazer 4 unidades a preço normal e 2 a preço baixo
+AgAT1	Ótimo
+AgAT1	Tens um negócio!
+AgAT1	Grato pela parceiria
+EmpFert	AgAT1, 4 unidades premium (preço normal) e 2 unidades premium (preço baixo)
+EmpFert	Feito, valeu :slight_smile:

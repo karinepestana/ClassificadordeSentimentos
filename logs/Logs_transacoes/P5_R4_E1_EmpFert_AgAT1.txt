@@ -1,0 +1,6 @@
+AgAT1	Desejo comprar fertilizantes Super Premium a preço alto em todas as 6 unidades
+AgAT1	É um bom negócio, não podes me negar :yum:
+AgAT1	Se der ruim dividimos a multa kkk
+EmpFert	um momento
+EmpFert	AgAT1 - 6 SP preço alto (FECHADO)
+AgAT1	Deal
