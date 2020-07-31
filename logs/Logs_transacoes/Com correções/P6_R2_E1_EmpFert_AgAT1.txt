@@ -1,0 +1,11 @@
+AgAT1|VereadorAT	olá, preciso de 6 unidades de fertilizante comum, pelo preço baixo
+EmpFert|FiscalCD	Olá @AgAT1|VereadorAT , nossos preços são normal para 6 unidades.
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.
+EmpFert|FiscalCD	@AgAT1|VereadorAT Fechamos por preço normal ou gostaria de mudar seu pedido ?
+AgAT1|VereadorAT	@EmpFert|FiscalCD podemos negociar 3 unidades pelo preço normal e outras 3 pelo preço baixo? da Comum?
+EmpFert|FiscalCD	@AgAT1|VereadorAT Da comum posso fazer todas 6 pelo preço baixo
+EmpFert|FiscalCD	@AgAT1|VereadorAT O que acha dessa proposta?
+AgAT1|VereadorAT	@EmpFert|FiscalCD pode ser, agradeço!
+EmpFert|FiscalCD	Fechamos então @AgAT1|VereadorAT 
+EmpFert|FiscalCD	Grato!

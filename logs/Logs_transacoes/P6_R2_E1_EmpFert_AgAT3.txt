@@ -1,0 +1,6 @@
+AgAT3	oi gostaria de comprar 6 pacotes super premium
+EmpFert|FiscalCD	Ok, vendido! @AgAT3
+AgAT3	qual o preço
+AgAT3	?
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.

@@ -1,0 +1,6 @@
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.EmpFert|FiscalCD	Olá, gostaria de propor aos @AgCD3|PrefeitoCD @AgCD2 @AgCD1|VereadorCD que comprem enquanto ainda temos estoque.
+AgCD3|PrefeitoCD	6 unidades de super premium também, preço normal? @EmpFert|FiscalCD
+EmpFert|FiscalCD	Exato Sr Prefeito. Fechamos assim?
+AgCD3|PrefeitoCD	perfeito, fechado @EmpFert|FiscalCD
+EmpFert|FiscalCD	Fechado!

@@ -1,0 +1,24 @@
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.
+EmpFert|FiscalCD	Olá, gostaria de propor aos @AgCD3|PrefeitoCD @AgCD2 @AgCD1|VereadorCD que comprem enquanto ainda temos estoque.
+AgCD2	olá @EmpFert|FiscalCD
+AgCD2	como estão os preços?
+AgCD2	gostaria de comprar 3 do fertilizante comum
+AgCD2	quanto podes fazer?
+EmpFert|FiscalCD	3 do comum te faço pelo preço alto
+AgCD2	ahh não
+EmpFert|FiscalCD	mas se levar 6 do comum sai pelo preço baixo
+AgCD2	preço normal estou disposta apagar
+AgCD2	a pagar
+EmpFert|FiscalCD	é perfeito pra agricultores em ascensão
+EmpFert|FiscalCD	bem, se o problema for dinheiro podemos negociar um emprestimo
+AgCD2	estou analisando aqui, só um momento
+EmpFert|FiscalCD	Assim você sai de nossa loja com Fertilizantes Super Premium e paga um pequeno reajuste ao final do semestre
+EmpFert|FiscalCD	é uma oferta unica, temos estoque de sobra
+EmpFert|FiscalCD	por isso tenho interesse em te ter em nossa lista de fiéis
+EmpFert|FiscalCD	Pense bem, os preços serão favoráveis
+AgCD2	vou quere os 6 do comum pelo preço baixo
+EmpFert|FiscalCD	Okay, ótima escolha.
+AgCD2	obrigada!
+EmpFert|FiscalCD	Tudo certo, obrigado por comprar conosco!
+AgCD2	eu que agradeço

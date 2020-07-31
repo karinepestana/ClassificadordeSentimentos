@@ -1,0 +1,22 @@
+EmpFert|FiscalCD	Nós da empresa de fertilizantes gostaríamos de informar a todos que os valores dos fertilizantes serão:
+EmpFert|FiscalCD	Comum - Valor Normal
+EmpFert|FiscalCD	Premium- Valor Alto
+EmpFert|FiscalCD	Super Premium - Valor Alto
+EmpFert|FiscalCD	Em caso de compras completas de 6 itens de mesmo tipo(seja qual dos três for) o preço será normal. Em caso de compras mistas a tabela será a acima citada.
+EmpFert|FiscalCD	Comprem em conjuntos! \o/
+AgCD3|PrefeitoCD	oi, quero fertilizante premium. qual preço você está fazendo?
+EmpFert|FiscalCD	Olá AgCD3
+EmpFert|FiscalCD	Os preços estão sofrendo modificações caso sejam comprados em conjuntos de 6un
+AgCD3|PrefeitoCD	me vende 6 premium por preço baixo? @EmpSem|Fiscal AT  tive um ano difícil, em relação a colheita...
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD 
+EmpFert|FiscalCD	Sendo assim podemos fazer as 6 a preços normal, garanto retorno de nosso produto.
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD isso, vou aceitar os 6 fertilizantes premium pelo preço baixo
+EmpFert|FiscalCD	Por preços baixos não estou autorizado a negociar
+EmpFert|FiscalCD	Garantimos o retorno de seus produtos
+EmpFert|FiscalCD	ou seu dinheiro de volta
+EmpFert|FiscalCD	Políticas da empresa.
+AgCD3|PrefeitoCD	ok
+EmpFert|FiscalCD	Dentro da promoção podes levar por preço normal todas 6 unidades, ou devolverei seu dinheiro.
+EmpFert|FiscalCD	Fechamos a compra @AgCD3|PrefeitoCD ?
+AgCD3|PrefeitoCD	aham
+EmpFert|FiscalCD	Certo \o/

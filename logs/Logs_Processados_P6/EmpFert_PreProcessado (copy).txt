@@ -1,0 +1,71 @@
+
+RODADA 3
+AgCD3|PrefeitoCD	oi, tudo bem?
+EmpFert|FiscalCD	Olá @AgCD3|PrefeitoCD
+AgCD3|PrefeitoCD	quanto custa o fertilizante super premium?
+AgAT3	gostaria de 6 pct SP por favor
+AgAT2|Prefeita de Atlantis	bom dia, gostaria de comprar 6 sacos de fertilizante super premium
+AgCD2	bom dia, gostaria de comprar 5 pacotes de fertilizante premium?Qual seria o valor?
+AgCD1|VereadorCD	Gostaria de comprar 6 unidades do fertilizante SP.
+EmpFert|FiscalCD	quanto custa o fertilizante super premium?
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Valor para o material não semestral esta por preços Altos.
+EmpFert|FiscalCD	gostaria de 6 pct SP por favor
+EmpFert|FiscalCD	@AgAT3 Preço Normal. Se sim, fechamos?
+AgAT3	ok vlw
+EmpFert|FiscalCD	bom dia, gostaria de comprar 6 sacos de fertilizante super premium
+EmpFert|FiscalCD	@AgAT2|Prefeita de Atlantis Preço Normal. Fechamos assim?
+EmpFert|FiscalCD	ok vlew
+EmpFert|FiscalCD	@AgAT3 Ok
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD isso, 6 super premium com preço normal. obrigado
+AgAT2|Prefeita de Atlantis	@AgAT2|Prefeita de Atlantis Preço Normal. Fechamos assim?
+AgAT2|Prefeita de Atlantis	@EmpFert|FiscalCD Sim, obrigada
+EmpFert|FiscalCD	@AgCD2 O valor fora do "kit" de tratamento semestral esta por valor Alto
+EmpFert|FiscalCD	Gostaria de comprar 6 unidades do fertilizante SP.
+EmpFert|FiscalCD	@AgCD1|VereadorCD Preço Normal. Fechamos?
+AgCD1|VereadorCD	Fechado.
+AgCD1|VereadorCD	@AgCD1|VereadorCD Preço Normal. Fechamos?
+AgCD1|VereadorCD	@EmpFert|FiscalCD
+AgAT2|Prefeita de Atlantis	:slight_smile:
+AgAT1|VereadorAT	olá, bom dia, tens 6 do premium pelo valor normal?
+AgAT1|VereadorAT	ou do SP pelo valor normal?
+EmpFert|FiscalCD	olá, bom dia, tens 6 do premium pelo valor normal?
+EmpFert|FiscalCD	@AgAT1|VereadorAT
+EmpFert|FiscalCD	Tenho ambos nesse valor normal amigo.
+EmpFert|FiscalCD	Qual vais querer @AgAT1|VereadorAT ?
+AgAT1|VereadorAT	@EmpFert|FiscalCD podes fechar 6 SP no valor normal?
+AgCD2	@EmpFert|FiscalCD posso considerar a negociação?5 pacote pelo preço baixo?
+EmpFert|FiscalCD	@EmpFert|FiscalCD podes fechar 6 SP no valor normal?
+EmpFert|FiscalCD	@AgAT1|VereadorAT sim
+AgAT1|VereadorAT	obrigado
+EmpFert|FiscalCD	@EmpFert|FiscalCD posso considerar a negociação?5 pacote pelo preço baixo?
+EmpFert|FiscalCD	@AgCD2 Preços normais para pacotes, e preços altos para compras fora destes
+AgCD2	@EmpFert|FiscalCD 5 pelo preço normal?
+EmpFert|FiscalCD	@AgCD2 5 apenas posso fazer por Alto. Lamento.
+EmpFert|FiscalCD	Todavia acredito que possa ser do seu interesse negociar o Super Premium por preço normal se levar 6 unidades
+AgCD2	pode ser as 5 pelo preço alto
+AgCD2	obrigada
+EmpFert|FiscalCD	Ok
+RODADA 4
+AgCD1|VereadorCD	Gostaria de comprar 6 unidades de fertilizante SP
+AgAT3	gostaria de 6 pct SP por favor
+AgAT1|VereadorAT	Olá, gostaria de 6 fertilizantes SuperPremium valor baixo
+EmpFert|FiscalCD	@AgCD1|VereadorCD Preço Normal, podemos fechar ?
+AgCD2	Olá, gostaria de comprar 6 pacotes de fertilizante sp. Quanto poderias fazer?
+EmpFert|FiscalCD	@AgAT3 Preço Normal, fechamos?
+AgAT2|Prefeita de Atlantis	olá, queria 6 pacotes de fertilizante sp
+EmpFert|FiscalCD	@AgAT1|VereadorAT Preço para este produto é Normal. Podemos fechar por este preço?
+EmpFert|FiscalCD	@AgCD2 Preço Normal. fechamos?
+AgAT1|VereadorAT	@EmpFert|FiscalCD fechado
+AgAT3	ok
+AgCD1|VereadorCD	@AgCD1|VereadorCD Preço Normal, podemos fechar ?
+AgCD1|VereadorCD	@EmpFert|FiscalCD fechado
+EmpFert|FiscalCD	@AgAT2|Prefeita de Atlantis Preço para este produto é Normal. fechamos?
+AgAT2|Prefeita de Atlantis	ok, fechado
+AgCD3|PrefeitoCD	oi, quero fertilizante super premium @EmpFert|FiscalCD
+EmpFert|FiscalCD	oi, quero fertilizante super premium @EmpFert|FiscalCD
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Preço Normal, fechamos?
+AgCD3|PrefeitoCD	fechado @EmpFert|FiscalCD
+EmpFert|FiscalCD	Olá, gostaria de comprar 6 pacotes de fertilizante sp. Quanto poderias fazer?
+EmpFert|FiscalCD	@AgCD2 Preço normal. fechamos?
+AgCD2	@EmpFert|FiscalCD ok fechado, obrigada :smile:
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD 6 no caso

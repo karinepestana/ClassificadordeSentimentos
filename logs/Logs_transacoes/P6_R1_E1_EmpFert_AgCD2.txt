@@ -1,0 +1,32 @@
+EmpFert|FiscalCD	Nós da empresa de fertilizantes gostaríamos de informar a todos que os valores dos fertilizantes serão:
+EmpFert|FiscalCD	Comum - Valor Normal
+EmpFert|FiscalCD	Premium- Valor Alto
+EmpFert|FiscalCD	Super Premium - Valor Alto
+EmpFert|FiscalCD	Em caso de compras completas de 6 itens de mesmo tipo(seja qual dos três for) o preço será normal. Em caso de compras mistas a tabela será a acima citada.
+EmpFert|FiscalCD	Comprem em conjuntos! \o/
+AgCD2	Bom dia, gostaria de fazer um pedido, por favor :slight_smile:
+EmpFert|FiscalCD	Olá AgCD2, bom dia!
+EmpFert|FiscalCD	Quais produtos que deseja e sua devida quantidade?
+AgCD2	Gostaria de plantar 4 sacos de arroz e 2 de hotaliças
+AgCD2	opa, desculpa confundi aqui os empresários....kkkkkkk
+AgCD2	gostaria de comprar o fertilizante comum
+AgCD2	3 sacos
+EmpFert|FiscalCD	AgCD2
+EmpFert|FiscalCD	Gostaria de participar de nosso sistema de promoções?
+EmpFert|FiscalCD	o preço sera reduzido em compras de 6 unidades
+EmpFert|FiscalCD	é de seu interesse?
+AgCD2	sim, mas gostaria de mesclar com 4 unidades de arroz e duas de hortaliças, segue a promoção?
+EmpFert|FiscalCD	é essa nossa vantagem.
+EmpFert|FiscalCD	Fertilizantes serão uteis em todas suas plantações
+EmpFert|FiscalCD	sejam elas quais forem suas plantas
+AgCD2	ok, quero fechar!!
+EmpFert|FiscalCD	AgCD2, fecharemos 6 unidades de SP?
+AgCD2	Sim @EmpFert|FiscalCD
+EmpFert|FiscalCD	Ok AgCD2, fechado!
+AgCD2	Certo @EmpFert|FiscalCD  obrigada!
+AgCD2	@EmpFert|FiscalCD é o preço normal neh?
+EmpFert|FiscalCD	Exatamente AgCD2
+AgCD2	ok, obrigada
+EmpFert|FiscalCD	Certo
+EmpFert|FiscalCD	Disponha.
+EmpFert|FiscalCD	@AgCD2 exato

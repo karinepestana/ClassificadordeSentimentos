@@ -77,3 +77,15 @@ P6_R2_E1_EmpAgro_AgAT3
 P6_R3_E1_EmpAgro_AgCD2
 P6_R3_E1_EmpAgro_AgCD3
 P6_R3_E1_EmpAgro_AgAT3
+P6_R1_E1_EmpFert_AgCD1
+P6_R1_E1_EmpFert_AgCD2
+P6_R1_E1_EmpFert_AgCD3
+P6_R1_E1_EmpFert_AgAT1
+P6_R1_E1_EmpFert_AgAT2
+P6_R1_E1_EmpFert_AgAT3
+P6_R2_E1_EmpFert_AgCD1
+P6_R2_E1_EmpFert_AgCD2
+P6_R2_E1_EmpFert_AgCD3
+P6_R2_E1_EmpFert_AgAT1
+P6_R2_E1_EmpFert_AgAT2
+P6_R2_E1_EmpFert_AgAT3

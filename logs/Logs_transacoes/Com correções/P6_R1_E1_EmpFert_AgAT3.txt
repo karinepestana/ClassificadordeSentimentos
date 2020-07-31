@@ -1,0 +1,12 @@
+EmpFert|FiscalCD	Nós da empresa de fertilizantes gostaríamos de informar a todos que os valores dos fertilizantes serão:
+EmpFert|FiscalCD	Comum - Valor Normal
+EmpFert|FiscalCD	Premium- Valor Alto
+EmpFert|FiscalCD	Super Premium - Valor Alto
+EmpFert|FiscalCD	Em caso de compras completas de 6 itens de mesmo tipo(seja qual dos três for) o preço será normal. Em caso de compras mistas a tabela será a acima citada.
+EmpFert|FiscalCD	Comprem em conjuntos! \o/
+AgAT3	oi gostaria de comprar 6 pacotes super premium
+EmpFert|FiscalCD	olá @AgAT3!
+EmpFert|FiscalCD	Sim, saem todos porpreço normal, Fechamos assim?
+AgAT3	ok fechado
+EmpFert|FiscalCD	@AgAT3, Fechado!
+EmpFert|FiscalCD	Agradecemos a preferência!
