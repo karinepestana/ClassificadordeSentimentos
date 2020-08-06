@@ -1,0 +1,5 @@
+AgCD3|PrefeitoCD	oi, tudo bem?
+EmpFert|FiscalCD	Olá @AgCD3|PrefeitoCD
+AgCD3|PrefeitoCD	quanto custa o fertilizante super premium?
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Valor para o material não semestral esta por preços Altos.
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD isso, 6 super premium com preço normal. obrigado

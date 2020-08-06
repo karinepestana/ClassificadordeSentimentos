@@ -1,0 +1,10 @@
+AgCD2	bom dia, gostaria de comprar 5 pacotes de fertilizante premium?Qual seria o valor?
+EmpFert|FiscalCD	@AgCD2 O valor fora do "kit" de tratamento semestral esta por valor Alto
+AgCD2	@EmpFert|FiscalCD posso considerar a negociação?5 pacote pelo preço baixo?
+EmpFert|FiscalCD	@AgCD2 Preços normais para pacotes, e preços altos para compras fora destes
+AgCD2	@EmpFert|FiscalCD 5 pelo preço normal?
+EmpFert|FiscalCD	@AgCD2 5 apenas posso fazer por Alto. Lamento.
+EmpFert|FiscalCD	Todavia acredito que possa ser do seu interesse negociar o Super Premium por preço normal se levar 6 unidades
+AgCD2	pode ser as 5 pelo preço alto
+AgCD2	obrigada
+EmpFert|FiscalCD	Ok
