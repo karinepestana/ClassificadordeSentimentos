@@ -1,0 +1,4 @@
+AgCD3|PrefeitoCD	qual é o preço que está vendendo soja e arroz?
+EmpSem|Fiscal AT	posso te fazer os 2 a preço normal
+AgCD3|PrefeitoCD	ótimo, vou comprar então 3 soja e 3 arroz com preço normal
+EmpSem|Fiscal AT	fechado, obrigado

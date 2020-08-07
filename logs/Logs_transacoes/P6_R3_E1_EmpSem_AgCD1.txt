@@ -1,0 +1,7 @@
+EmpSem|Fiscal AT	Bom dia pessoal
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6 sacas de semente de hortaliças.
+EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|Fiscal AT	Já atendo os demais
+EmpSem|Fiscal AT	@AgCD1|VereadorCD 6 hortaliças a preço baixo, fechado?
+AgCD1|VereadorCD	@AgCD1|VereadorCD 6 hortaliças a preço baixo, fechado?
+AgCD1|VereadorCD	@EmpSem|Fiscal AT Fechado.

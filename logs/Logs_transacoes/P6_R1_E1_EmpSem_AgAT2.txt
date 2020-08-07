@@ -1,0 +1,6 @@
+AgAT2|Prefeita de Atlantis	bom dia! gostaria de comprar 6 sacos de semente de soja
+EmpSem|Fiscal AT	Bom dia pessoal, vou atender na ordem em que chegaram
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis 6 sacos de soja pelo preço baixo por ser o primeiro, fechado?
+AgAT2|Prefeita de Atlantis	ótimo
+AgAT2|Prefeita de Atlantis	obrigada
+EmpSem|Fiscal AT	Feito então, obrigado

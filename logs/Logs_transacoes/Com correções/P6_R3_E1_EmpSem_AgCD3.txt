@@ -1,0 +1,11 @@
+AgCD3|PrefeitoCD	gostaria de comprar arroz e soja. qual preço?
+EmpSem|Fiscal AT	Bom dia pessoal
+EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|Fiscal AT	Já atendo os demais
+AgCD3|PrefeitoCD	@EmpSem|Fiscal AT gostaria de 6 pacotes de soja, preço normal então?
+EmpSem|Fiscal AT	Pode ser @AgCD3|PrefeitoCD, 6 pacotes de soja ao preço normal. Fechado
+EmpSem|Fiscal AT	@AgCD3|PrefeitoCD confirma a negociação pra mim?
+AgCD3|PrefeitoCD	confirmo @EmpSem|Fiscal AT
+EmpSem|Fiscal AT	6 sojas preço normal, é isso?
+AgCD3|PrefeitoCD	isso
+EmpSem|Fiscal AT	beleza, obrigado

@@ -1,0 +1,14 @@
+EmpSem|Fiscal AT	Bom dia pessoal
+AgCD2	bom dia, gostaria de comprar 1 saco de soja, 3 de arroz e 1 de hortaliças, quanto podes fazer?
+EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|Fiscal AT	@AgCD2 quer dar uma olhada nessa proposta que eu mandei?
+EmpSem|Fiscal AT	Já atendo os demais
+AgCD2	@EmpSem|Fiscal AT Aceito o preço normal, podemos fechar?
+EmpSem|Fiscal AT	@AgCD2 1 soja, 3 arroz e 1 hortaliças ao preço normal, fechado
+AgCD2	@EmpSem|Fiscal AT são 2 de hortaliças
+AgCD2	@EmpSem|Fiscal AT 1 soja, 3 arroz e 2 hortaliças preço normal, fechado?
+EmpSem|Fiscal AT	fechado sim
+AgCD2	@EmpSem|Fiscal AT posso fechar meu pedido?
+EmpSem|Fiscal AT	pode sim
+AgCD2	obrigada :slight_smile:
+EmpSem|Fiscal AT	eu que agradeço :slight_smile:

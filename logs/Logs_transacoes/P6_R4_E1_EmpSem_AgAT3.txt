@@ -1,0 +1,4 @@
+EmpSem|Fiscal AT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+AgAT3	gostaria de 6 sementes de soja por favor
+EmpSem|Fiscal AT	@AgAT3 6 soja pelo preço baixo então, fechado
+AgAT3	ok

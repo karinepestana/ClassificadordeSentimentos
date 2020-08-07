@@ -1,0 +1,8 @@
+EmpSem|Fiscal AT	Bom dia pessoal
+AgAT2|Prefeita de Atlantis	bom dia, gostaria de 6 sacos de semente de soja
+EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|Fiscal AT	Já atendo os demais
+EmpSem|Fiscal AT	@AgAT2|Prefeita de Atlantis 6 sojas a preço baixo então, fechado?
+AgAT2|Prefeita de Atlantis	@AgAT2|Prefeita de Atlantis 6 sojas a preço baixo então, fechado?
+AgAT2|Prefeita de Atlantis	@EmpSem|Fiscal AT ótimo, obrigada
+AgAT2|Prefeita de Atlantis	:slight_smile:

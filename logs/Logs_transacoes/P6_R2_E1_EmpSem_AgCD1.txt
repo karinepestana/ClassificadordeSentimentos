@@ -1,0 +1,4 @@
+AgCD1|VereadorCD	Gostaria de comprar 6 sacos de sementes de hortaliças
+EmpSem|Fiscal AT	@AgCD1|VereadorCD posso fazer 3 pelo preço normal e 3 pelo baixo, fechado?
+AgCD1|VereadorCD	fechado
+EmpSem|Fiscal AT	obrigado pessoal
