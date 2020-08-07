@@ -1,0 +1,11 @@
+AgAT1|VereadorAT	eu acho que preciso de maquinas, aeuaueaue, 2 de pacote 2, quanto aluga ou vende?
+AgAT1|VereadorAT	@EmpMaq 6 unidades do pacote 2 a preço baixo?
+EmpMaq	@AgAT1|VereadorAT... Sim, 6 unidades o preço é baixo... Vai querer?
+AgAT1|VereadorAT	@EmpMaq quero
+EmpMaq	@AgAT1|VereadorAT  Ok
+AgAT1|VereadorAT	pulverizador, agora que vi que preciso xD
+EmpMaq	@AgAT1|VereadorAT quantos pulverizadores?
+AgAT1|VereadorAT	@EmpMaq 6 unidades
+EmpMaq	@AgAT1|VereadorAT Ok... 6 unidades faço pelo preço baixo... vai querer?
+AgAT1|VereadorAT	cancela pedido pra eu nesta rodada @EmpMaq
+EmpMaq	Ok @AgAT1|VereadorAT ... predido cancelado

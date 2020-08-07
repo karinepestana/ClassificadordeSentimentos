@@ -1,0 +1,16 @@
+EmpMaq	No momento a empresa está esperando o resultado a rodada 1... Aguardem um momento... Obrigado :slight_smile:
+AgCD2	tok tok tok
+EmpMaq	----------------------------------------- Rodada 2 ---------------------------------------------
+EmpMaq	Devido a rigorosa fiscalização imposta pelas autoridades competentes a NOVA política adotada pela empresa é de vender no máximo 3 UNIDADES de qualquer pacote a preço ALTO. Agradeço a compreensão de todos os clientes e o incentivo à tecnologia no campo.
+AgCD2	ahhh fala sério @EmpMaq
+EmpMaq	recebi agora o resultado... todos os pedidos dentro da politica da empresa serão aprovados
+AgCD2	@EmpMaq isso é abuso, fere a lei do consumidor
+EmpMaq	Se eu vender muitas máquinas serei multado
+AgCD2	@EmpMaq estou disposta a comprar o pacote 3, mas quero negociar o preço
+EmpMaq	Tenho que reduzir as vendas pra não infringir a política pública adotada
+EmpMaq	@AgCD2 os preços desta rodada serão ALTO... Na próxima, dependendo da política pública eles podem sofrer alterações
+AgCD2	quero 1 pacote 3
+AgCD2	@EmpMaq aguardo contato
+EmpMaq	Ok @AgCD2 1 unidade do pacote 3
+AgCD2	obrigada
+EmpMaq	:tractor:

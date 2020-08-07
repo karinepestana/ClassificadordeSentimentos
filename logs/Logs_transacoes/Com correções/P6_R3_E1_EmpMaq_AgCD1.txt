@@ -1,0 +1,5 @@
+EmpMaq	------------------------------------------- Rodada 3 ---------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a NOVA postura adotada pela EmpMaq é de vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à tecnologia no campo. Todos os pedidos que se adequarem a esta postura serão aprovados. :slight_smile:
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6 pacotes 3.
+AgCD1|VereadorCD	Acredito que tenhas me pulado...
+EmpMaq	@AgCD1|VereadorCD ... Confirmado o seu pedido!... Obrigado por me avisar :slight_smile:

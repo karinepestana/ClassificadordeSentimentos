@@ -1,0 +1,5 @@
+EmpMaq	---------------------------------------------- Rodada 4 -------------------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a postura adotada pela EmpMaq se mantém ao vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à produção de tecnologia para o campo.
+EmpMaq	Todos os pedidos que se adequarem a esta postura serão aprovados
+AgCD3|PrefeitoCD	oi, quero 6 do tipo 2 @EmpMaq
+EmpMaq	Ok @AgCD3|PrefeitoCD ... Pedido confirmado... Obrigado! :slight_smile:

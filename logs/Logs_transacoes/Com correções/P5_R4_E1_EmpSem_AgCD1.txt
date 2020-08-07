@@ -1,0 +1,16 @@
+AgCD1|Fiscal CD	Olá, gostaria de 6 sacos de sementes de soja!
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD só tem hortaliça para venda hoje
+AgCD1|Fiscal CD	@EmpSem|Fiscal AT E com um valor a mais, você consegue comprar soja?
+AgCD1|Fiscal CD	E arroz? Qual o acordo?
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD sim, 3 sacos por 500
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD arroz nem cheguei a ter para vender, o lucro não estava muito bom
+AgCD1|Fiscal CD	fico com 6 de hortaliça então
+EmpSem|Fiscal AT	ok @AgCD1|Fiscal CD preço alto
+AgCD1|Fiscal CD	ok
+AgCD1|Fiscal CD	você tem arroz?
+EmpSem|Fiscal AT	@AgCD1|Fiscal CD encontrei mistura no meio dos sacos de hortaliça
+EmpSem|Fiscal AT	misturado*
+EmpSem|Fiscal AT	mas já vendi
+AgCD1|Fiscal CD	ok, então quero cancelar 3 de hortaliça
+AgCD1|Fiscal CD	e comprar 3 arroz
+EmpSem|Fiscal AT	acabei de vender para @AgCD2

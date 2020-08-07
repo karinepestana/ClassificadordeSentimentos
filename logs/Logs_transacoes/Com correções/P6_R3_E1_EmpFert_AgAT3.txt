@@ -1,0 +1,4 @@
+AgAT3	gostaria de 6 pacotes de SP por favor
+EmpFert|FiscalCD	@AgAT3 Preço Normal. Se sim, fechamos?
+AgAT3	ok vlw
+EmpFert|FiscalCD	@AgAT3 Ok

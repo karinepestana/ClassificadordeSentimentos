@@ -1,0 +1,18 @@
+AgCD3|Vereador CD	Olá! Gostaria de comprar 6 sacos de semente de SOJA... Qual o valor? :slight_smile:
+EmpSem|Fiscal AT	@AgCD3|Vereador CD oi, estamos com pouca soja. tenho apenas hortaliça
+AgCD3|Vereador CD	Me vende o pouco de soja que tiver :slight_smile:
+EmpSem|Fiscal AT	@AgCD3|Vereador CD pessoal da cidade já tinha reservado...
+AgCD3|Vereador CD	Eu sou da Cidadela :slight_smile:
+AgCD3|Vereador CD	Te transfiro 500 pila
+AgCD3|Vereador CD	:wink:
+EmpSem|Fiscal AT	@AgCD3|Vereador CD por esse preço te consigo 3 soja a preço normal
+AgCD3|Vereador CD	Quero as 3 de soja preço Normal
+AgCD3|Vereador CD	mais 3 preço Alto... pode ser?
+EmpSem|Fiscal AT	@AgCD3|Vereador CD se me mandar 1000, sim
+AgCD3|Vereador CD	mando 500
+AgCD3|Vereador CD	é um baita lucro
+EmpSem|Fiscal AT	lamento...
+AgCD3|Vereador CD	então quanto sai 3 sacos de arroz?
+EmpSem|Fiscal AT	@AgCD3|Vereador CD sem arroz
+AgCD3|Vereador CD	Ok... Então vou ficar somente com os 3 sacos de soja pelo preço NORMAL
+EmpSem|Fiscal AT	ok @AgCD3|Vereador CD

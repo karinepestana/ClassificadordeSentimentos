@@ -1,0 +1,3 @@
+AgCD2	Olá, gostaria de comprar 6 pacotes de fertilizante sp. Quanto poderias fazer?
+EmpFert|FiscalCD	@AgCD2 Preço normal. fechamos?
+AgCD2	@EmpFert|FiscalCD ok fechado, obrigada :smile:

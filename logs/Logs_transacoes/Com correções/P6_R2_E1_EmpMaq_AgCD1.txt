@@ -1,0 +1,6 @@
+EmpMaq	No momento a empresa está esperando o resultado a rodada 1... Aguardem um momento... Obrigado :slight_smile:
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6  unidades do pacote 3 de máquinas
+EmpMaq	----------------------------------------- Rodada 2 ---------------------------------------------
+EmpMaq	Devido a rigorosa fiscalização imposta pelas autoridades competentes a NOVA política adotada pela empresa é de vender no máximo 3 UNIDADES de qualquer pacote a preço ALTO. Agradeço a compreensão de todos os clientes e o incentivo à tecnologia no campo.
+AgCD1|VereadorCD	Gostaria de comprar 3 unidades do pacote 3
+EmpMaq	ok @AgCD1|VereadorCD 3 unidades do pacote 3

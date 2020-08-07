@@ -1,0 +1,8 @@
+AgAT1|VereadorAT	olá, bom dia, tens 6 do premium pelo valor normal?
+AgAT1|VereadorAT	ou do SP pelo valor normal?
+EmpFert|FiscalCD	@AgAT1|VereadorAT
+EmpFert|FiscalCD	Tenho ambos nesse valor normal amigo.
+EmpFert|FiscalCD	Qual vais querer @AgAT1|VereadorAT ?
+AgAT1|VereadorAT	@EmpFert|FiscalCD podes fechar 6 SP no valor normal?
+EmpFert|FiscalCD	@AgAT1|VereadorAT sim
+AgAT1|VereadorAT	obrigado

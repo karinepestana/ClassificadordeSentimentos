@@ -1,0 +1,3 @@
+AgAT2|Prefeita de Atlantis	olá, queria 6 pacotes de fertilizante sp
+EmpFert|FiscalCD	@AgAT2|Prefeita de Atlantis Preço para este produto é Normal. fechamos?
+AgAT2|Prefeita de Atlantis	ok, fechado

@@ -1,0 +1,12 @@
+AgAT2|Prefeita de Atlantis	bom dia, gostaria de alugar 3 pacotes de máquinas do tipo 3
+EmpMaq	Bom dia... Essa quantia sai pelo valor alto... Ok?
+AgAT2|Prefeita de Atlantis	você tem alguma promoção?
+EmpMaq	Sim... Pra compras acima de 5 unidades
+EmpMaq	:slight_smile:
+AgAT2|Prefeita de Atlantis	o preço é baixo?
+EmpMaq	Neste caso sim
+AgAT2|Prefeita de Atlantis	então pode ser 6
+AgAT2|Prefeita de Atlantis	obrigada
+EmpMaq	Ok... 6 unidades do pacote tipo 3 pelo preço baixo
+EmpMaq	obrigado
+EmpMaq	:slight_smile:

@@ -1,0 +1,5 @@
+EmpMaq	No momento a empresa está esperando o resultado a rodada 1... Aguardem um momento... Obrigado :slight_smile:
+EmpMaq	----------------------------------------- Rodada 2 ---------------------------------------------
+EmpMaq	Devido a rigorosa fiscalização imposta pelas autoridades competentes a NOVA política adotada pela empresa é de vender no máximo 3 UNIDADES de qualquer pacote a preço ALTO. Agradeço a compreensão de todos os clientes e o incentivo à tecnologia no campo.
+AgAT1|VereadorAT	me ve 3 unidades do pacote 2
+EmpMaq	Ok @AgAT1|VereadorAT ... 3 unidades do pacote 2

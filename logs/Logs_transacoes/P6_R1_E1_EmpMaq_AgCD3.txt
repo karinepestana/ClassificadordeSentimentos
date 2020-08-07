@@ -1,0 +1,7 @@
+AgCD3|PrefeitoCD	a quanto tu está alugando o pacote 2?
+EmpMaq	Abaixo de 3 unidades preço alto
+EmpMaq	4 a 5 preço médio
+EmpMaq	6 preço baixo
+AgCD3|PrefeitoCD	@EmpMaq opa, vou alugar as 6 com preço baixo então
+EmpMaq	ok @AgCD3|PrefeitoCD 6 pacotes do tipo 2 por preço baixo
+AgCD3|PrefeitoCD	@EmpMaq isso

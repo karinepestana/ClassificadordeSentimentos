@@ -1,0 +1,9 @@
+EmpMaq	------------------------------------------- Rodada 3 ---------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a NOVA postura adotada pela EmpMaq é de vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à tecnologia no campo. Todos os pedidos que se adequarem a esta postura serão aprovados. :slight_smile:
+AgAT3	quero 6 pct 3
+AgAT3	tem?
+EmpMaq	@AgAT3 ... temos 6 pacotes do tipo 3 a preço alto... Confirma o pedido?
+AgAT3	não conseguia fazer pelo normal?
+AgAT3	ok me ve 6 pct 3 entao
+EmpMaq	@AgAT3 Nesta rodada todos os valores estão alto devido aos impostos... Na próxima rodada dependendo da política pública os valores podem mudar
+EmpMaq	Ok @AgAT3 ... Pedido confirmado. Obrigado

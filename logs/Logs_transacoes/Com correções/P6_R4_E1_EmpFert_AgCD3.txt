@@ -1,0 +1,4 @@
+AgCD3|PrefeitoCD	oi, quero fertilizante super premium @EmpFert|FiscalCD
+EmpFert|FiscalCD	@AgCD3|PrefeitoCD Preço Normal, fechamos?
+AgCD3|PrefeitoCD	fechado @EmpFert|FiscalCD
+AgCD3|PrefeitoCD	@EmpFert|FiscalCD 6 no caso

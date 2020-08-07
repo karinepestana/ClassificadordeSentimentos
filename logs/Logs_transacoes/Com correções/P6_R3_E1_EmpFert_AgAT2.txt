@@ -1,0 +1,5 @@
+AgAT2|Prefeita de Atlantis	bom dia, gostaria de comprar 6 sacos de fertilizante super premium
+EmpFert|FiscalCD	@AgAT2|Prefeita de Atlantis Preço Normal. Fechamos assim?
+AgAT2|Prefeita de Atlantis	@AgAT2|Prefeita de Atlantis Preço Normal. Fechamos assim?
+AgAT2|Prefeita de Atlantis	@EmpFert|FiscalCD Sim, obrigada
+AgAT2|Prefeita de Atlantis	:slight_smile:

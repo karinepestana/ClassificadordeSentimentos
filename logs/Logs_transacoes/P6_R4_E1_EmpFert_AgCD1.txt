@@ -1,0 +1,4 @@
+AgCD1|VereadorCD	Gostaria de comprar 6 unidades de fertilizante SP
+EmpFert|FiscalCD	@AgCD1|VereadorCD Preço Normal, podemos fechar ?
+AgCD1|VereadorCD	@AgCD1|VereadorCD Preço Normal, podemos fechar ?
+AgCD1|VereadorCD	@EmpFert|FiscalCD fechado
