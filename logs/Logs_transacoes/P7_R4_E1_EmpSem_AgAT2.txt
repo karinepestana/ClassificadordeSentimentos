@@ -1,0 +1,7 @@
+AgAT2	Bom dia! Gostaria de 2 sacos de Soja
+EmpSem|Prefeita AT	@AgAT2 Certo, Soja vendo somente pelo valor alto, pode ser?
+AgAT2	@EmpSem|Prefeita AT Imaginei. Vou querer sim. Obrigado
+AgAT2	@EmpSem|Prefeita AT
+AgAT2	Fechado cmg?
+EmpSem|Prefeita AT	@AgAT2 2 sementes de soja pelo valor alto, certo?
+AgAT2	Isso

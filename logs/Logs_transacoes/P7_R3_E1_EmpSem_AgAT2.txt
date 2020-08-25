@@ -1,0 +1,7 @@
+AgAT2	Bom dia!! Se eu comprar 6 de arroz qual o preço?
+EmpSem|Prefeita AT	@AgAT2 Faço 3 normal e 3 a preço baixo, pode ser?
+AgAT2	@EmpSem|Prefeita AT são 6. Me faz preço baixo eles hoje
+EmpSem|Prefeita AT	Estou atendendo os agricultores na ordem de chegada
+EmpSem|Prefeita AT	@AgAT2 Não tenho como te dar desconto na compra toda, consigo um desconto parcial somente. Tive uma baixa no meu estoque recentemente
+AgAT2	Então metade-metade mesmo. Fechado!
+EmpSem|Prefeita AT	@AgAT2 Venda realizada, obrigada pela compra!

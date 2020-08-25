@@ -1,0 +1,4 @@
+AgAT2	Olá! Queria 2 sacos de soja, por favor
+EmpSem|Prefeita AT	@AgAT2 Sojas infelizmente só consigo te vender a preço alto, pode ser?
+AgAT2	Poxa poxa. Pode ser sim. Fechado @EmpSem|Prefeita AT
+EmpSem|Prefeita AT	@AgAT2 Certo agricultor

@@ -1,0 +1,6 @@
+EmpMaq|Vereador AT	Bom dia prezados clientes aguardo vocês na loja!!
+AgAT3	Bom dia, tem promoção hoje?
+EmpMaq|Vereador AT	Bom dia @AgAT3 sim, nas compras acima de 3 pacotes, qualquer um, preço baixo
+EmpMaq|Vereador AT	e pulverizador a preço normal
+AgAT3	4 pacotes do tipo 3 com preço baixo e 2 pacotes do tipo 2 preço normal, pode ser?
+EmpMaq|Vereador AT	Fechamos sim @AgAT3 , pedido confirmado, obrigada pela preferência :smile:

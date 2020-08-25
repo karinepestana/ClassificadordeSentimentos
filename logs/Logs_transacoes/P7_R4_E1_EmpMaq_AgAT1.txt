@@ -1,0 +1,6 @@
+AgAT1|Fiscal AT	Bom dia gostaria de 6 maquinas  a preço baixo
+AgAT1|Fiscal AT	qual pacote consegue fazer
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT bom dia, essa quantidade tbem consigo preço baixo
+AgAT1|Fiscal AT	ok fechamos em 6 pacotes 3 a preço baixo
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT qualquer pacote nessa quantidade
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT pedido confirmado.

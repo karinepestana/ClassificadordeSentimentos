@@ -1,0 +1,4 @@
+AgCD3	@EmpSem|Prefeita AT Olá, gostaria de 6 Hortaliças, faria 2 a preço baixo?
+EmpSem|Prefeita AT	@AgCD3 Pode ser 2 por valor baixo e o restante por valor normal?
+AgCD3	@EmpSem|Prefeita AT pode sim, fechado
+EmpSem|Prefeita AT	@AgCD3 Certo, espero que tenha um bom plantio!

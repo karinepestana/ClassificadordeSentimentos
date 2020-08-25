@@ -1,0 +1,4 @@
+EmpSem|Prefeita AT	Estou atendendo os agricultores na ordem de chegada
+AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de 6 sementes de arroz, faria metade a preço baixo e metade a preço normal?
+EmpSem|Prefeita AT	@AgCD3 Pode ser agricultor!
+AgCD3	@EmpSem|Prefeita AT perfeito, fechado

@@ -1,0 +1,10 @@
+EmpFert	Bom dia pessoal, promoções especiais pra quem comprar 6 pacotes do mesmo fertilizante, faço preço baixo :smile:
+EmpFert	@AgAT3 falta você :smile:
+AgAT3	Olá
+AgAT3	eu quero 4 fertilizantes premium (preço baixo) e 2 fertilizantes comuns (preço normal), fechamos negócio?
+EmpFert	Preço baixo estou fazendo apenas em pacotes fechados de 6, posso te fazer 6 do premium pelo preço do baixo ou 6 comuns pelo preço baixo também
+EmpFert	Qual tu prefere?
+AgAT3	6 do premium
+EmpFert	Certo, 6 do premium pelo preço baixo para o @AgAT3
+EmpFert	Obrigado
+EmpFert	Pessoal, só prestem atenção que na próxima rodada os preços vão variar conforme a ordem de chegada

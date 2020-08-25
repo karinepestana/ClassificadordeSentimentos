@@ -1,0 +1,11 @@
+EmpSem|Prefeita AT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+AgCD1|Fiscal CD	EMPRESARIO DO MEU CORAÇÃO, me vende umas 6 sementes de hortaliças preço baixissimo pls
+AgCD1|Fiscal CD	alo alo
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Posso te dar desconto em no máximo metade, o restante sigo pelo valor normal, pode ser?
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT ja comprei na vez passada por esse valor, esperava poder ter um descontinho especial
+AgCD1|Fiscal CD	pelo menos 4 por valor baixo
+EmpSem|Prefeita AT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Não consigo agricultor pois se não fico em prejuízo com o meu fornecedor
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT blz 3 hortaliças baixo 3 normal
+AgCD1|Fiscal CD	fechado?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Combinado agricultor, vou registrar sua compra

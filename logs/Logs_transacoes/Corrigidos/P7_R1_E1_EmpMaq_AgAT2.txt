@@ -1,0 +1,5 @@
+EmpMaq|Vereador AT	Bom dia prezados clientes, aguardo vocês :smile:
+AgAT2	Bom dia! Gostaria de 3 Pacotes 1 de Máquina, por favor
+EmpMaq|Vereador AT	Bom dia @AgAT2 como estás alugando mais pacotes posso fazer pelo preço normal
+AgAT2	@EmpAgr|Vereador AT Ah, que ótimo! Aceito
+EmpMaq|Vereador AT	@AgAT2 pedido confirmado, obrigada pela preferência :smile:

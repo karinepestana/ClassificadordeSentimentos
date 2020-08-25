@@ -1,0 +1,10 @@
+AgAT3	Quero 6 P3 preço baixo
+EmpMaq|Vereador AT	@AgAT3  P3 só preço normal
+EmpMaq|Vereador AT	mesmo nessa quantidade
+AgAT3	Isso já foi melhor nos outros anos...
+AgAT3	Vou ter que ir pros agrotóxicos então
+AgAT3	vou querer apenas 4 máquinas P3 preço normal
+EmpMaq|Vereador AT	@AgAT3 pois é, as coisas estão difíceis esse ano
+EmpMaq|Vereador AT	4 P3 a preço normal, seria isso?
+AgAT3	sim
+EmpMaq|Vereador AT	@AgAT3 pedido confirmado, obrigada e volte sempre!

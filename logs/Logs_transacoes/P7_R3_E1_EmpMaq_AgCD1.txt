@@ -1,0 +1,10 @@
+EmpMaq|Vereador AT	Bom dia prezados clientes aguardo vocês na loja!!
+AgCD1|Fiscal CD	Bom dia
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD bom dia prezado cliente
+EmpMaq|Vereador AT	em que posso ajudar?
+AgCD1|Fiscal CD	Como estão os preços hoje?
+EmpMaq|Vereador AT	nas compras acima de 3 pacotes, qualquer um, preço baixo e pulverizador a preço normal
+AgCD1|Fiscal CD	gostaria de 6 pulverizadores
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD ok, pedido confirmado, preço normal, obrigada pela preferência e volte sempre!!
+AgCD1|Fiscal CD	Agradeço a atenção
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD Merece :smile:

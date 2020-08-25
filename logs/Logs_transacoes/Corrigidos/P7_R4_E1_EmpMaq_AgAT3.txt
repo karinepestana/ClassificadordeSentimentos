@@ -1,0 +1,4 @@
+AgAT3	Quero 6 máquinas tipo 3 com preço baixo
+EmpMaq|Vereador AT	@AgAT3 bom dia, sim esta quantidade posso fazer a preço baixo
+AgAT3	Obrigada!
+EmpMaq|Vereador AT	@AgAT3 volte sempre :smile:

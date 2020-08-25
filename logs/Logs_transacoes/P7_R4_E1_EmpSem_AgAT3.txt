@@ -1,0 +1,6 @@
+AgAT3	Olá! Quero 6 arroz por preço baixo
+EmpSem|Prefeita AT	@AgAT3 Pode ser 3 pelo valor normal e 3 pelo valor baixo?
+AgAT3	Pode ser 3 arroz por preço baixo e 3 sojas por preço normal?
+EmpSem|Prefeita AT	@AgAT3 Faço então as 3 sojas a preço alto e os 3 arroz a preço baixo
+AgAT3	Feito!
+EmpSem|Prefeita AT	@AgAT3 Registrado aqui agricultor

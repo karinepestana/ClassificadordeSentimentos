@@ -1,0 +1,4 @@
+AgAT1|Fiscal AT	Bom dia 6 arroz a preço baixo poderia ser ?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Faço 3 a preço baixo e 3 a preço normal, pode ser?
+AgAT1|Fiscal AT	pode ser
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Obrigada pela compra agricultor

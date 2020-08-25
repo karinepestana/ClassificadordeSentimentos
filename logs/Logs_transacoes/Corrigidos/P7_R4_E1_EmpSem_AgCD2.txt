@@ -1,0 +1,18 @@
+AgCD2|Prefeito CD	Qual a boa de hoje sr. Empresário?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Temos um estoque renovado com todas as sementes, o que deseja?
+AgCD2|Prefeito CD	Vou querer 2 de cada
+AgCD2|Prefeito CD	Todas estão com um precinho camarada?
+AgCD2|Prefeito CD	fechado?
+AgCD2|Prefeito CD	quais são os valores mesmo?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Posso fazer as Sojas pelo valor alto, as hortaliças pelo valor baixo e o arroz pelo valor normal, pode ser?
+AgCD2|Prefeito CD	Não. Gostaria de 3 de hortaliças e 3 de arroz?
+AgCD2|Prefeito CD	tem como?
+EmpSem|Prefeita AT	ok
+EmpSem|Prefeita AT	Tem sim
+EmpSem|Prefeita AT	Posso fazer as hortaliças pelo valor baixo e o arroz pelo valor normal
+EmpSem|Prefeita AT	O que acha?
+AgCD2|Prefeito CD	3 h pelo preço normal e 3 a pelo preço :thumbsdown:
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	confirmado então
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Obrigada pela compra
+AgCD2|Prefeito CD	de nada

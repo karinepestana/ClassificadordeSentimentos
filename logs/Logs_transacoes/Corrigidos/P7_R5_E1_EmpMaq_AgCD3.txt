@@ -1,0 +1,7 @@
+AgCD3	@EmpAgr|Vereador AT Olá, gostaria de 6 pacotes 3 a valor normal e 2 pulverizadores a valor baixo, faria novamente?
+EmpMaq|Vereador AT	@AgCD3 infelizmente não conseguirei esse preço prezada cliente
+EmpMaq|Vereador AT	6 pacotes 3 a preço normal e 2 pulverizadores a preço alto
+AgCD3	@EmpAgr|Vereador AT muito caro, estou levando muita coisa, não consegue fazer o desconto?
+EmpMaq|Vereador AT	@AgCD3 infelizmente não, se levar 3 pulverizadores faço um deles a preço normal
+AgCD3	@EmpAgr|Vereador AT não tenho dinheiro para tanto, ficarei somente com os 6 pacotes 3 a preço normal então
+EmpMaq|Vereador AT	@AgCD3 certo, pedido confirmado, obrigada e volte sempre!

@@ -1,0 +1,6 @@
+AgAT2	Bom dia! Conseguiria pedir o mesmo pedido do ano passado? 2 pulverizadores a preço normal?
+EmpMaq|Vereador AT	@AgAT2 infelizmente não conseguirei este preço, pulverizdores somente a preço alto
+AgAT2	@EmpAgr|Vereador AT :frowning: tudo bem. Vou querer mesmo assim
+EmpMaq|Vereador AT	@AgAT2 pedido confirmado, obrigada e volte sempre!
+AgAT2	Obrigado!
+EmpMaq|Vereador AT	@AgAT2 merece :smile:

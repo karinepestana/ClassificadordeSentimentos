@@ -1,0 +1,4 @@
+AgCD1|Fiscal CD	@EmpAgr|Vereador AT  Bom dia, quero 6 pacotes com semeadores somente, consegue me fazer por preço baixo?
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD sim, 6 pacotes do tipo 1? seria isto? consigo fazer preço baixo
+AgCD1|Fiscal CD	@EmpAgr|Vereador AT perfeito, negocio fechado
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD pedido confirmado, obrigada, volte sempre

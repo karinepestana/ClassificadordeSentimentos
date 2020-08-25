@@ -1,0 +1,13 @@
+EmpSem|Prefeita AT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgCD2|Prefeito CD	Bom dia Empresários, também gostaria de saber o preço do arroz?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Meu estoque de hortaliças está chegando ao fim. Tenho apenas mais duas unidades que te faço com desconto por serem as últimas pelo valor baixo. E o arroz faço as demais 4 unidades pelo preço normal
+AgCD2|Prefeito CD	Gostaria de 4 unidades de arroz pelo preço normal
+AgCD2|Prefeito CD	Fechado o negócio?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD gostaria de somente 4 unidades? não tem interesse em levar para os 6 lotes?
+AgCD2|Prefeito CD	não tenho interesse em hortaliças, apenas interesse no arroz mesmo
+AgCD2|Prefeito CD	posso levar 6 lotes de
+AgCD2|Prefeito CD	ops de arroz
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Exatamente, podemos fazer 6 lotes de arroz pelo valor normal?
+AgCD2|Prefeito CD	Feito!
+AgCD2|Prefeito CD	Muito obrigada! E felicidades nas futuras vendas
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Obrigada agricultor, tu vai ver que as sementes que te vendi são ótimas. Vão te render boas plantações!

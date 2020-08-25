@@ -1,0 +1,31 @@
+EmpFert	Bom dia pessoal, pacotes promocionais
+EmpFert	12 unidades de cada fertilizante pelo preço baixo, para os primeiros que chegarem
+AgAT1|Fiscal AT	Emp gostaria de 6 fertilizantes super premium
+AgAT1|Fiscal AT	pelo preço baixo
+EmpFert	6 fertilizantes SP preço baixo para @AgAT1|Fiscal AT
+EmpFert	obrigado
+AgAT1|Fiscal AT	:smile:
+EmpFert	bora pessoal, vai ser por ordem de chegada
+EmpFert	bora pessoal, antes que acabem os estoques
+EmpFert	pessoal, nessa rodada, acabaram os premium e sp pelo preço baixo
+EmpFert	agora os pacotes de promoção são:
+EmpFert	pacotes de 6 do comum sai preço baixo
+EmpFert	pacotes de 6 do premium e sp saem preço normal
+EmpFert	compras fora do pacote de 6 preço alto
+AgAT1|Fiscal AT	Empresário
+AgAT1|Fiscal AT	gostaria de cancelar o compra dos fertilizantes
+EmpFert	Certo, sem problemas
+EmpFert	então temos +6 SP a preço baixo pessoal
+AgAT1|Fiscal AT	teria 6 P a prelo baixo ?
+EmpFert	tem sim
+EmpFert	quer levar?
+EmpFert	ops
+EmpFert	pera
+EmpFert	minto, não tem não
+EmpFert	premium tem normal
+EmpFert	se levar 6
+EmpFert	baixo tem sp
+EmpFert	ou o comum
+EmpFert	levando 6 no caso
+AgAT1|Fiscal AT	quero 6 comuns entao
+EmpFert	certo, 6 comuns a preço baixo para @AgAT1|Fiscal AT, obrigado

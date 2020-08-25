@@ -1,0 +1,12 @@
+AgCD2|Prefeito CD	Olá amigo, gostaria de 3 pacotes 3? qual o valor? se eu levar 4 você consegue um desconto?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD bom dia prezada cliente, 3 pacotes 3 preço alto se levar 4 faço preço normal
+AgCD2|Prefeito CD	o 4o você faz por preço normal ou os 4 você faz por preço normal?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD se comprar os 4 pacotes faço todos a preço normal
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	vou querer os 4 entao
+EmpMaq|Vereador AT	4 Pacotes 4 a preço normal, isso?
+EmpMaq|Vereador AT	ops pacote 3
+AgCD2|Prefeito CD	isso
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD pedido confirmado, obrigada e volte sempre
+AgCD2|Prefeito CD	Até a próxima
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD até o próximo ano!!

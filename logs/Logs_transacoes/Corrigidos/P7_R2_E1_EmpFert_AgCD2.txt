@@ -1,0 +1,23 @@
+EmpFert	Bom dia pessoal, pacotes promocionais
+EmpFert	12 unidades de cada fertilizante pelo preço baixo, para os primeiros que chegarem
+EmpFert	bora pessoal, vai ser por ordem de chegada
+EmpFert	bora pessoal, antes que acabem os estoques
+EmpFert	pessoal, nessa rodada, acabaram os premium e sp pelo preço baixo
+EmpFert	agora os pacotes de promoção são:
+EmpFert	pacotes de 6 do comum sai preço baixo
+EmpFert	pacotes de 6 do premium e sp saem preço normal
+EmpFert	compras fora do pacote de 6 preço alto
+EmpFert	então temos +6 SP a preço baixo pessoal
+AgCD2|Prefeito CD	Olá querido empresário, gostaria de 1 sp  por valor baixo
+AgCD2|Prefeito CD	tem como?
+EmpFert	@AgCD2|Prefeito CD um momentinho, já te atendo, só estou fechando com @AgAT1|Fiscal AT
+AgCD2|Prefeito CD	Fico no aguardo
+EmpFert	agora @AgCD2|Prefeito CD...
+EmpFert	vai levar só um pacote mesmo?
+AgCD2|Prefeito CD	sim
+AgCD2|Prefeito CD	apenas 1 pacote
+AgCD2|Prefeito CD	tempos difíceis meu caro
+EmpFert	haha, tudo bem, vamos nos ajudar então
+EmpFert	1 sp pelo preço baixo para o @AgCD2|Prefeito CD
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	muitíssimo obrigado

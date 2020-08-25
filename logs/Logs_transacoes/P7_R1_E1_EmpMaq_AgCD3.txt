@@ -1,0 +1,13 @@
+EmpMaq|Vereador AT	Bom dia prezados clientes, aguardo vocês :smile:
+AgCD3	Bom dia
+AgCD3	Gostaria de 1 pacote 1
+EmpMaq|Vereador AT	Bom dia @AgCD3  1 pacote sai pelo preço alto, se encomendar mais posso fazer o preço normal
+AgCD3	@EmpAgr|Vereador AT a partir de quantas você baixa o preço?
+EmpMaq|Vereador AT	@AgCD3 a partir de 2 já sai pelo preço normal
+AgCD3	@EmpAgr|Vereador AT se eu levar um pacote 1 e um pacote 3, quanto me faz?
+EmpMaq|Vereador AT	@AgCD3 neste caso faço os dois pelo preço normal
+AgCD3	@EmpAgr|Vereador AT certo, irei levar
+EmpMaq|Vereador AT	@AgCD3 pedido confirmado, obrigada pela preferência :slight_smile:
+AgCD3	Bom dia @EmpAgr|Vereador AT gostaria de comprar um pulverizador
+AgCD3	@EmpAgr|Vereador AT Opa, desculpa não poderei fazer a compra, desisto
+EmpMaq|Vereador AT	@AgCD3 está bem, qualquer coisa entre em contato :slight_smile:

@@ -1,0 +1,7 @@
+AgCD3	@EmpAgr|Vereador AT Bom dia, quero fazer um negócio grande desta vez, 6 pacotes 3 a preço normal, e 2 pulverizadores a preço baixo
+AgCD3	@EmpAgr|Vereador AT ganho algum brinde com esta compra?
+EmpMaq|Vereador AT	@AgCD3 bom dia, que bom que voltou
+EmpMaq|Vereador AT	@AgCD3 ok, nessa quantidade consigo esse preço
+EmpMaq|Vereador AT	@AgCD3 claro, ganhas uma caixa de bombom, é só retirar na loja com seu comprovante de pagamento :slight_smile:
+AgCD3	@EmpAgr|Vereador AT hahahaha adorei, muito obrigada
+EmpMaq|Vereador AT	@AgCD3 imagina, merece :relaxed: :clap:

@@ -1,0 +1,10 @@
+EmpSem|Prefeita AT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+EmpSem|Prefeita AT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+AgAT2	Quais sementes ainda estão disponiveis?
+EmpSem|Prefeita AT	@AgAT2 Deixa eu verificar aqui no estoque, um momento
+AgAT2	Ok
+EmpSem|Prefeita AT	@AgAT2 Tenho todas as sementes disponíveis, porém somente as sementes de hortaliças tenho um estoque baixo com apenas 3 unidades disponíveis
+AgAT2	Quero 3 hortaliças e 3 arrozes
+AgAT2	Por favor
+EmpSem|Prefeita AT	@AgAT2 Certo, faço pelo valor normal o arroz e te dou desconto (preço baixo) nas hortaliças, pode ser?
+AgAT2	Ótimo! Iria propor exatamente isso @EmpSem|Prefeita AT . Obrigado!

@@ -1,0 +1,14 @@
+AgAT2	Olá!! Gostaria de 2 pacotes de super premium, por favor
+EmpFert	Promoções para a rodada, por ordem de chegada:
+EmpFert	- 2 lotes de 6 SP, preço baixo
+EmpFert	- 2 lotes de 6 P, preço baixo
+EmpFert	- 2 lotes de 6 C, preço baixo
+EmpFert	
+EmpFert	Depois dessas primeiras compras, o preço passa para normal
+EmpFert	
+EmpFert	Compras fora dos pacotes de 6 - preço alto
+EmpFert	-------------------------------------------
+EmpFert	Só 2 pacotes @AgAT2 ?
+AgAT2	Sim. Por favor
+EmpFert	Certo, 2 pacotes SP pelo preço baixo para o @AgAT2 , obrigado
+EmpFert	um momentinho gente, vou atendendo pela ordem de chegada
