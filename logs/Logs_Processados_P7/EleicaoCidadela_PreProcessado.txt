@@ -1,0 +1,28 @@
+RODADA 3
+AgCD2|Prefeito CD	Bom dia
+AgCD1|Fiscal CD	Bom dia
+EmpAgr|Vereador CD	bom dia cidadela
+EmpAgr|Vereador CD	alguém gostaria de se candidatar ou trocar de cargo?
+AgCD2|Prefeito CD	Se ninguém se pronunciar sugiro meu segundo mandato :smile:
+AgCD2|Prefeito CD	A população está de acordo?
+AgCD1|Fiscal CD	Eu não me importo de passar meu cargo de fiscal à frente
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD por mim tá tudo bem, tem meu apoio
+AgCD3	Por mim acordo em manter os atuais e dar o segundo mandato, estão fazendo um bom trabalho
+EmpAgr|Vereador CD	A população está de acordo?
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD estou de acordo
+AgCD2|Prefeito CD	Então mãos a obra pessoal
+EmpAgr|Vereador CD	4 votos, ganhou a chapa atual
+AgCD2|Prefeito CD	:thumbsup:
+EmpFert	Bom dia. Estou de acordo com as ações da atual gestão e, se for de interesse deles, voto em manter
+RODADA 5
+EmpAgr|Vereador CD	seguimos mais um ano com os mesmos?
+EmpAgr|Vereador CD	alguém gostaria de trocar de cargo?
+AgCD1|Fiscal CD	Eu nao tenho nenhuma objeção mas gostaria de que, caso eu mantenha o cargo, ganhe uma compensação pelas multas
+AgCD1|Fiscal CD	afinal estou fazendo o meu trabalho
+AgCD1|Fiscal CD	sem falhas
+AgCD1|Fiscal CD	e acredito q deveria de receber uma compensação
+AgCD2|Prefeito CD	Se continuarmos com o caixa positivo a prefeitura vai te dar um aumento 10% em relação as multas cobradas
+AgCD1|Fiscal CD	perfeito
+AgCD1|Fiscal CD	apoio a reeleição tambem
+EmpAgr|Vereador CD	mantemos então
+AgCD2|Prefeito CD	Obrigado empresários, agricultores e demais

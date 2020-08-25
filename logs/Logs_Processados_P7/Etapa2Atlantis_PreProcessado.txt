@@ -1,0 +1,173 @@
+RODADA 1
+EmpSem|Prefeita AT	Bom dia cidadãos de atlantis
+EmpSem|Prefeita AT	Os nossos dados da rodada ao meu ver estão muito bons
+EmpMaq|Vereador AT	Bom dia prezada prefeita
+EmpSem|Prefeita AT	Não temos empresários muito poluentes
+EmpMaq|Vereador AT	e todos os cidadãos
+EmpSem|Prefeita AT	Como está a situação dos agricultores @AgAT1|Fiscal AT ?
+EmpMaq|Vereador AT	@EmpSem|Prefeita AT as produções como foram?
+AgAT1|Fiscal AT	Bom dia cidadãos , por enquanto os cidadões estão com baixa poluição. isso é muito bom
+EmpSem|Prefeita AT	@EmpAgr|Vereador AT Foram boas, o que gerou um caixa bom para a prefeitura
+EmpSem|Prefeita AT	ótimo @AgAT1|Fiscal AT
+EmpSem|Prefeita AT	Um caixa razóavel sendo mais honesta
+EmpSem|Prefeita AT	Podemos pensar em implementar uma medida de tramento de água ou aguardar a próxima rodada para aumentarmos o caixa
+EmpMaq|Vereador AT	:clap_tone1:
+EmpMaq|Vereador AT	Concordo @EmpSem|Prefeita AT
+AgAT2	Acho uma boa @EmpSem|Prefeita AT
+AgAT1|Fiscal AT	Todos os cidadães ganharam o selo verde
+AgAT2	Uhuul
+EmpSem|Prefeita AT	Essa cidade será um exemplo!
+AgAT1|Fiscal AT	e nenhum recebeu multa
+AgAT2	Orgulho de ser dessa cidade
+EmpSem|Prefeita AT	Vamos manter assim então, e na próxima rodada implento uma medida de tratamento melhor pois já terei mais caixa
+EmpMaq|Vereador AT	Orgulho mesmo :smile:
+AgAT2	Perfeito perfeito
+AgAT1|Fiscal AT	Acredito que como todos estão mantendo a poluição baixa é uma boa não aumentar os impostos
+EmpMaq|Vereador AT	Sim @AgAT1|Fiscal AT  :slight_smile:
+EmpSem|Prefeita AT	Sim, não é justo com os empresários e muito menos com os agricultores
+AgAT1|Fiscal AT	Vamos encerrar então pessoal
+EmpMaq|Vereador AT	sim
+RODADA 2
+EmpMaq|Vereador AT	Bom dia pessoal, como foram nossos números @EmpSem|Prefeita AT ?
+EmpSem|Prefeita AT	Olha vamos aguardar o posicionamento do @AgAT1|Fiscal AT mas acredito que tivemos alguns níveis de poluição
+EmpSem|Prefeita AT	Entrou mais dinheiro em caixa então podemos pensar em aplicar alguma medida de tratamento
+EmpMaq|Vereador AT	Sim
+AgAT1|Fiscal AT	Bom dia Nossa poluição aumentou um pouco
+EmpSem|Prefeita AT	Sugiro aplicarmos o tratamento de Lixo e aumentarmos o imposto para as altas produções
+AgAT2	Aumentar o imposto?
+AgAT2	Não vejo o pq
+AgAT2	Tem alguém utilizando agrotóxico?
+AgAT1|Fiscal AT	aplicar o tratamento é o recomendando , fica o meu alerta ao agricultor AT1 que sua poluição aumentou significativamente
+AgAT1|Fiscal AT	sim o AT1
+AgAT2	Tu?
+AgAT2	HAHAHAHAHAHHAHAHA
+EmpSem|Prefeita AT	Aumentaremos só para as altas produções então os pequenos agricultores não saem prejudicados
+AgAT1|Fiscal AT	isso
+AgAT1|Fiscal AT	hahahaha
+AgAT2	Poxa AT1, aí não da hahhaha
+AgAT2	Multa ela, Fiscal
+EmpMaq|Vereador AT	ahhahhahhahahha
+AgAT1|Fiscal AT	eu me enrolei com o dinheiro
+EmpSem|Prefeita AT	Acho que o fiscal deve multar o At1
+AgAT1|Fiscal AT	o que sobrou para aumentar a minha produção foi usar agrotoxicos
+AgAT1|Fiscal AT	concordo
+AgAT2	@EmpSem|Prefeita AT Então acho ok aumentar o imposto
+EmpSem|Prefeita AT	Certo pessoal vou aplicar a medida de tratamento
+EmpSem|Prefeita AT	E sobre o imposto com mais arrerdação teremos mais condições de aplicarmos mais medidad
+EmpMaq|Vereador AT	Vamos aumentar os impostos?
+EmpSem|Prefeita AT	*medidas
+AgAT2	Se eu não ver uma multa alta pra fazer o orgulho da cidade voltar a crescer, não votarei nessa fiscal na próxima eleição
+AgAT2	@EmpSem|Prefeita AT Concordo com o tratamento de lixo
+EmpSem|Prefeita AT	@EmpAgr|Vereador AT Somente para as altas produções
+AgAT1|Fiscal AT	Mesmo com a poluição aumentando, o AT1 ainda não chegou a 90 então nao recebe multa
+EmpSem|Prefeita AT	O restante se mantem
+EmpSem|Prefeita AT	Acredito que encerramos por aqui
+AgAT2	Mas o orgulho da cidade foi ferido
+AgAT1|Fiscal AT	o AT1 perde o selo verde
+AgAT2	Deveria ter multa por isso
+AgAT1|Fiscal AT	e o resto se mantem
+EmpMaq|Vereador AT	ok para as produção acima de 200, aumentamos? @EmpSem|Prefeita AT
+EmpSem|Prefeita AT	@AgAT2 infelizmente não há como
+EmpSem|Prefeita AT	@EmpAgr|Vereador AT Isso, penso que assim atingiremos um equilibrio sem prejudicar os agricultores que tem pequenas produções
+EmpMaq|Vereador AT	ok, vou submeter a proposta à prefeitura
+EmpSem|Prefeita AT	Certo, vou submeter os tratamentos e a alteração também
+AgAT1|Fiscal AT	Bom as ações do fiscal foram manter o selo verde para o at2 e at3 e retirar  o selo verde do at1
+AgAT1|Fiscal AT	finalizo mais ações por aqui, espero que todos entendam que a multa começa com a poluição acima de 90 de media, o at1 precisa controlar sua poluição e os demais continuem o bom trabalho
+EmpSem|Prefeita AT	Muito honesto esse fiscal, gostei de ver
+AgAT2	Heheheheh
+RODADA 3
+EmpSem|Prefeita AT	Tivemos uma boa arrecardação esse ano, porém nossos níveis de poluição aumentaram
+EmpSem|Prefeita AT	O Empresário de Máquinas e o @AgAT2 poluiram demais pelo que estou vendo
+EmpMaq|Vereador AT	Euuuuuuu
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT necessário olhar com atenção esses números
+EmpMaq|Vereador AT	:blush:
+AgAT1|Fiscal AT	Bom dia Cidadões
+AgAT2	Eu??? hhahahhaha
+AgAT2	Poluí, sim
+AgAT2	Precisava do dinheiro
+AgAT1|Fiscal AT	Não estou muito contente com a nossa cidade, a poluição aumentou significativamente
+EmpSem|Prefeita AT	@AgAT2 Sim agricultor, seus níveis de poluição e do  @EmpAgr|Vereador AT envergonham nossa cidade
+AgAT1|Fiscal AT	o EmpMaq esta com a poluição de 404 e o AgAt2 de 183(sendo que ele usou agrotoxicos)
+AgAT1|Fiscal AT	por este motivo os dois seram multados
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Cabe a você fiscal decidir as medidas adotadas
+AgAT2	@EmpMaq envergonhamos nossa cidade, minha cara
+AgAT1|Fiscal AT	gostaria de parabénizar o AgAT3 porque vem mantendo seu nivel de poluição constatemente baixo, e segue recebendo seu selo verde
+AgAT2	@EmpAgr|Vereador AT *
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT certo fiscal, assumo minha parte da poluição, pode enviar a multa, mas como disse meu colega @AgAT2 precisamos pagar as contas
+EmpSem|Prefeita AT	@AgAT3 segue como exemplo de agricultor para a nossa cidade!
+AgAT1|Fiscal AT	também sobre o AgAT1 ele reduziu sua poluição e por isso retorna com o seu selo verde
+AgAT2	"ele" hahaha
+AgAT1|Fiscal AT	E como o  AgAt1 e o AgAt3 conseguem marcar as contas mantendo sua poluição baixa ? tua é questão de planejamento.
+EmpSem|Prefeita AT	Tivemos uma arrecardação maior devido ao aumento de impostos para as grandes produções, o que me permite aplicar a medida de tratamento de água para reduzirmos nossa poluição
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT infelizmente não foi somente a questão do planejamento, a pandemia afetou muito nossas vendas
+AgAT2	Meu filho assumiu as produções esse ano, por isso a mudança de cenário da minha plantação
+AgAT2	Mas te garanto que ano que vem mudarei a cabeça dele e poluiremos menos
+EmpMaq|Vereador AT	Também me comprometo a poluir menos no próximo ano, mas também peço a @EmpSem|Prefeita AT que flexibilize os horários para abertura do comércio
+AgAT1|Fiscal AT	@EmpAgr|Vereador AT @AgAT2  Espero que vocês melhorem em nivel de poluição e pessoalmente que suas produções melhorem para o bem da nossa cidade.
+AgAT2	Assim espero também
+EmpSem|Prefeita AT	@EmpAgr|Vereador AT Isso é discutível empresária, sugiro que ligue em meu escritório e marque um horário de reunião comigo e poderemos construir um planejamento justo para os empresários
+AgAT1|Fiscal AT	Por enquanto as multas foram aplicadas,  sendo @EmpAgr|Vereador AT  com multa alta e @AgAT2 multa media
+EmpMaq|Vereador AT	@EmpSem|Prefeita AT com certeza farei isso, conversando nos entendemos :slight_smile:
+EmpSem|Prefeita AT	Compreendemos agricultor, @AgAT2 espero que o senhor coloque juízo no seu filho!
+AgAT2	Espero também. Achei que deixar ele com essa responsabilidade colocaria juízo por si só, mas vejo que não foi possível
+EmpMaq|Vereador AT	Sugiro mantermos o imposto como está
+EmpSem|Prefeita AT	Sim, podemos manter
+RODADA 4
+Bom pessoal os níveis de poluição aumentaram
+Acho que devemos começar a implementar medidas de tratamento mais rígidas
+E sugiro mantermos os impostos como estão
+Karine	O @EmpAgr|Vereador AT segue poluindo demasiadamente
+AgAT1|Fiscal AT	Bom dia Cidadões, Primeiro gostaria cumprimentar o @AgAT2  que conseguiu reduzir seus niveis de poluição
+EmpSem|Prefeita AT	O @AgAT2 pelo que vi reduziu como combinado
+EmpSem|Prefeita AT	Mas acredito que o @AgAT1|Fiscal AT tenha um melhor posicionamento para nos dar
+AgAT1|Fiscal AT	o @EmpAgr|Vereador AT  deu uma reduzida nos niveis de poluição, mas ainda o valor está alto em demasia, por isso será multado com um valor alto
+EmpMaq|Vereador AT	Olha pessoal, infelizmente tive muita demanda nessa rodada, então pagarei uma multa justa
+AgAT1|Fiscal AT	o Nivel de poluição para não receber multa deve ficar abaixo de 90, o @EmpAgr|Vereador AT  está com mais ou menos 4x esse valor
+AgAT2	@EmpSem|Prefeita AT yes, ma'am
+AgAT1|Fiscal AT	o AgAt1 e o AgAt3 seguem recebendo seus selos verdes
+EmpSem|Prefeita AT	Recebemos novos relatórios dos nossos agricultores, você viu, @AgAT1|Fiscal AT ?
+EmpMaq|Vereador AT	ok @AgAT1|Fiscal AT sem problemas
+EmpSem|Prefeita AT	Mas acredito que a situação permanece a mesma
+EmpSem|Prefeita AT	De meu posicionamento penso em tomar as medidas informadas: aplicar um tratamento de estogo
+EmpSem|Prefeita AT	*esgoto
+AgAT2	Concordo com tudo
+AgAT1|Fiscal AT	Sim, se mantém a mesma coisa
+EmpSem|Prefeita AT	Como é bom ter uma população que te apoia
+EmpSem|Prefeita AT	Bem, encerramos por aqui
+AgAT1|Fiscal AT	Encerrado
+EmpMaq|Vereador AT	ok
+RODADA 5
+EmpSem|Prefeita AT	Olá pessoal
+AgAT2	Olar
+AgAT1|Fiscal AT	Bom dia Cidadões, nossa poluição permanece alta
+AgAT2	Capaz
+EmpMaq|Vereador AT	bom dia
+AgAT2	Deve ser culpa da @EmpAgr|Vereador AT de novo
+AgAT2	SHAUSHUASHAUSAUSUHA
+EmpSem|Prefeita AT	Podemos manter as medidas de tratamento que já vem sendo adotadas
+EmpSem|Prefeita AT	Temos caixa inclusive para implementar mais de uma medida
+AgAT2	Acho que consegues colocar uma medida mais afetiva, não?
+AgAT1|Fiscal AT	gostaria de parabenizar o AgAt1 pela otima maneira como esta levando a poluição
+AgAT2	Visto que a poluição subindo nos faz ficar com menor produtividade
+EmpSem|Prefeita AT	Muito bem agricultores! Estão de parabéns
+AgAT2	E isso influencia no imposto pago pra ti
+AgAT1|Fiscal AT	apenas com 20, agora o agAt3 aumentou significativamente sua poluição nessa rodada e vai receber multa
+EmpMaq|Vereador AT	Minha poluição não diminuiu nada?
+EmpSem|Prefeita AT	Posso implementar as duas medidas de tratamento: a de estogo e a água
+EmpSem|Prefeita AT	Para não prejudicarmos muito o caixa da prefeitura
+AgAT1|Fiscal AT	o agAt2 segue com niveis bons, o AgAt3 também perder seu selo verde
+AgAT1|Fiscal AT	@EmpAgr|Vereador AT  também recebe meus parabéns  pois conseguiu reduzir seus niveis, mas eles ainda estão altos e precisamos comprar multa
+EmpSem|Prefeita AT	Certo @AgAT1|Fiscal AT faça o que é necessário e multe quem for preciso
+AgAT1|Fiscal AT	mas ela noa sera alta dessa vez
+AgAT2	Pode ser. Acredito que diminua até mais a poluição com esses dois ao invés de somente com o mais caro
+EmpMaq|Vereador AT	ok, fico contente, me esforcei bastante
+EmpSem|Prefeita AT	Assim acho que encerramos por aqui
+EmpSem|Prefeita AT	Espero melhores resultados para o próximo ano
+AgAT2	Achei que ia fazer tratamento de lixo
+AgAT2	E nao de esgoto
+AgAT2	Hausahsuahas
+AgAT2	Confundi
+EmpSem|Prefeita AT	@AgAT2 Pensei em implementar o de estogo e o de água para termos melhores resultados já que temos caixa
+AgAT2	Claro claro
+AgAT2	Achei que estes eram os dois mais baratos. Isso que confundi
+EmpMaq|Vereador AT	@EmpSem|Prefeita AT apoiado prefeita!

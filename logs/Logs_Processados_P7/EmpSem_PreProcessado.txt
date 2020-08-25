@@ -1,0 +1,233 @@
+RODADA 1
+EmpSem|Prefeita AT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgAT2	Bom dia
+AgAT2	Gostaria de 6 hortaliças, por favor
+EmpSem|Prefeita AT	Faço pelo valor normal, pode ser?
+EmpSem|Prefeita AT	Já que está levando as 6
+AgAT2	Preferia preço baixo, por eu estar comprando 6, o que achas?
+AgCD3	Bom dia, gostaria de 5 sementes de arroz
+EmpSem|Prefeita AT	@AgAT2 Vamos negociar assim então, 3 pelo preço normal e 3 peço preço baixo, pode ser?
+AgAT2	Fica ótimo
+EmpSem|Prefeita AT	@AgCD3 5 sementes de arroz faço pelo valor alto
+EmpSem|Prefeita AT	@AgCD3 não deseja levar mais uma semente para o último lote?
+AgAT2	@EmpSem|Prefeita AT muito obrigado
+EmpSem|Prefeita AT	@AgAT2 Negociado então!
+AgCD3	Você faria por um valor mais baixo se eu levasse as 6? @EmpSem|Prefeita AT
+EmpSem|Prefeita AT	@AgCD3 Mais baixo sim, só não o valor baixo (ficou confuso mas acredito que deu para entender)
+AgCD3	Está bem então @EmpSem|Prefeita AT , obrigada vou levar as 6
+EmpSem|Prefeita AT	@AgCD3 4 sementes de arros pelo valor normal e te dou desconto em duas, fazendo pelo valor baixo, pode ser?
+EmpSem|Prefeita AT	*arroz
+AgCD3	Perfeito @EmpSem|Prefeita AT
+AgCD1|Fiscal CD	Bom dia
+AgCD1|Fiscal CD	Quero comprar 6 sementes de hortaliças
+EmpSem|Prefeita AT	@AgCD3 Vou registrar a sua compra aqui agricultor
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Faço para você o mesmo negócio que fiz para o agricultor de Atlantis, 3 pelo valor normal e 3 pelo valor baixo, o que acha agricultor?
+AgCD1|Fiscal CD	perfeito
+AgAT3	Bom dia! Quero comprar 3 sementes de soja e 3 de hortaliças. Como a soja é cara eu gostaria que as hortaliças fossem de graça como "desconto"
+EmpSem|Prefeita AT	@AgAT3 Agricultor isso não será possível! Tenho um estoque baixo, por isso vendo apenas 2 sojas por agricultor, e soja vendo somente a preço alto
+AgAT3	Então vou querer 6 hortaliças com desconto, o que acha?
+EmpSem|Prefeita AT	@AgAT3 Hortaliças posso fazer o mesmo desconto que fiz para os demais agricultores, 3 pelo valor normal e 3 pelo valor baixo, pode ser?
+AgAT3	Ok
+AgAT1|Fiscal AT	Bom dia, gostaria de saber  o valor das hortaliças e do arroz ?
+AgCD2|Prefeito CD	Bom dia Empresários, também gostaria de saber o preço do arroz?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Meu estoque de hortaliças está chegando ao fim. Tenho apenas mais duas unidades que te faço com desconto por serem as últimas pelo valor baixo. E o arroz faço as demais 4 unidades pelo preço normal
+AgAT1|Fiscal AT	só tem 4 unidades de arroz ?
+AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de comprar 4 pacotes de soja, faria algum desconto?
+AgCD2|Prefeito CD	Gostaria de 4 unidades de arroz pelo preço normal
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Arroz ainda tenho um estoque maior, apenas hortaliças que tenho 2 somente
+AgCD2|Prefeito CD	Fechado o negócio?
+AgAT1|Fiscal AT	ok vamos fechar em 2 hortaliças e 4 arroz pelo preço baixo ?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD gostaria de somente 4 unidades? não tem interesse em levar para os 6 lotes?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Tudo pelo preço baixo não é possível, fico no prejuízo com o meu fornecedor
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Faço as hortaliças pelo valor baixo já são ponta de estoque e faço o arroz que são sementes novinhas e fresquinhas pelo preço normal mas te garanto que valem mais!
+AgAT1|Fiscal AT	Ok Emp fechamos assim 2 hortaliças preço baixo
+AgCD2|Prefeito CD	não tenho interesse em hortaliças, apenas interesse no arroz mesmo
+AgAT1|Fiscal AT	e 4 arroz preço normal
+AgCD2|Prefeito CD	posso levar 6 lotes de
+AgCD2|Prefeito CD	ops de arroz
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Exatamente, podemos fazer 6 lotes de arroz pelo valor normal?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Feito agricultor
+AgCD2|Prefeito CD	Feito!
+EmpSem|Prefeita AT	@AgCD3 Já haviamos negociado anteriormente por 4 sementes de arroz pelo valor normal e duas pelo valor baixo, gostaria de alterar?
+AgCD2|Prefeito CD	Muito obrigada! E felicidades nas futuras vendas
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Obrigada agricultor, tu vai ver que as sementes que te vendi são ótimas. Vão te render boas plantações!
+AgCD3	Sim, gostaria de acrescentar mais 3 pacotes de soja
+AgCD3	@EmpSem|Prefeita AT
+EmpSem|Prefeita AT	@AgCD3 Você só tem 6 lotes de terra para plantar, não há porque comprar mais do que 6 sementes
+AgCD3	@EmpSem|Prefeita AT ah desculpa entendi
+EmpSem|Prefeita AT	@AgCD3 Se desejar fazer alguma alteração podemos renegociar, caso contrário sugiro que tente o plantio de soja na próxima rodada
+RODADA 2
+AgCD1|Fiscal CD	EMPRESARIO DO MEU CORAÇÃO, me vende umas 6 sementes de hortaliças preço baixissimo pls
+AgCD1|Fiscal CD	alo alo
+AgAT1|Fiscal AT	gostaria de 6 sementes de arroz pelo preço baixo seria possivel ?
+EmpSem|Prefeita AT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+AgCD2|Prefeito CD	Olá Amigo, gostaria de de 15 sementes de hortaliças
+AgCD2|Prefeito CD	qual o valor?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Posso te dar desconto em no máximo metade, o restante sigo pelo valor normal, pode ser?
+AgCD2|Prefeito CD	pode ser sim
+AgCD2|Prefeito CD	fechado
+AgCD2|Prefeito CD	6 valor normal e 7 valor baixo?
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT ja comprei na vez passada por esse valor, esperava poder ter um descontinho especial
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Estava respondendo ao @AgCD1|Fiscal CD mas posso fazer a mesma proposta para você. 3 de valor baixo e 3 de valor normal
+AgCD1|Fiscal CD	pelo menos 4 por valor baixo
+AgAT1|Fiscal AT	Emp 6 sementes de arroz a preço baixo ?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Consigo somente negociar metade agricultor
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Fazendo 3 a preço baixo e 3 a preço normal
+AgAT1|Fiscal AT	Fechado
+EmpSem|Prefeita AT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Não consigo agricultor pois se não fico em prejuízo com o meu fornecedor
+AgCD2|Prefeito CD	@EmpSem|Prefeita AT  feito 3 baixo e 3 normal então?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Isso de hortaliças
+AgAT2	Quais sementes ainda estão disponiveis?
+EmpSem|Prefeita AT	@AgAT2 Deixa eu verificar aqui no estoque, um momento
+AgAT2	Ok
+EmpSem|Prefeita AT	@AgAT2 Tenho todas as sementes disponíveis, porém somente as sementes de hortaliças tenho um estoque baixo com apenas 3 unidades disponíveis
+AgAT2	Quero 3 hortaliças e 3 arrozes
+AgAT2	Por favor
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT blz 3 hortaliças baixo 3 normal
+AgCD1|Fiscal CD	fechado?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Combinado agricultor, vou registrar sua compra
+AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de 6 pacotes de soja, faria metade preço normal e metade baixo?
+EmpSem|Prefeita AT	@AgAT2 Certo, faço pelo valor normal o arroz e te dou desconto (preço baixo) nas hortaliças, pode ser?
+AgAT2	Ótimo! Iria propor exatamente isso @EmpSem|Prefeita AT . Obrigado!
+EmpSem|Prefeita AT	@AgCD3 Soja eu vendo 3 unidades a preço alto e 3 unidades a preço normal
+AgCD3	@EmpSem|Prefeita AT  2 unidades a preço alto e 4 a preço normal, faria?
+EmpSem|Prefeita AT	@AgCD3 Pode ser
+AgCD3	@EmpSem|Prefeita AT obrigada
+EmpSem|Prefeita AT	@AgAT3 agricultor você é o único faltante para comprar sementes nesta rodada
+AgAT3	Oi! Quero 4 Hortaliças e 2 arroz, preço baixo
+EmpSem|Prefeita AT	@AgAT3 As hortaliças já se esgotaram essa rodada. Tenho em estoque arroz e soja disponíveis
+AgAT3	então 6 de arroz com preço baixo
+EmpSem|Prefeita AT	@AgAT3 Faço 3 a preço normal e 3 com desconto a preço baixo, conforme fiz para outros agricultores
+AgAT3	ok
+EmpSem|Prefeita AT	@AgAT3 Compra concluída!
+RODADA 3
+AgAT3	Olá
+AgAT3	quero 6 Hortaliças com preço baixo
+EmpSem|Prefeita AT	@AgAT3 Posso fazer 3 hortaliças a preço normal e 3 a preço baixo, pode ser?
+AgCD1|Fiscal CD	Bom dia @EmpSem|Prefeita AT quais os preços de hoje?
+AgAT3	Pode ser.
+AgAT2	Bom dia!! Se eu comprar 6 de arroz qual o preço?
+AgAT1|Fiscal AT	Ola quero 3 sojas e 3 arroz a preço baixo
+AgAT1|Fiscal AT	pode ser ?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Depende da semente comprada. Soja venda somente a preço alto. Hortaliças estou com estoque baixo...
+AgCD2|Prefeito CD	Olá , gostaria de comprar soja
+EmpSem|Prefeita AT	@AgAT3 Venda feita agricultor!
+AgCD1|Fiscal CD	Gostaria de 6 hortaliças
+EmpSem|Prefeita AT	@AgAT2 Faço 3 normal e 3 a preço baixo, pode ser?
+AgAT2	@EmpSem|Prefeita AT são 6. Me faz preço baixo eles hoje
+EmpSem|Prefeita AT	Estou atendendo os agricultores na ordem de chegada
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT As soja vendo a preço alto e o arroz a preço baixo, pode ser?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Deseja 6 unidades de soja?
+AgAT1|Fiscal AT	preço normal pode ser ?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Hortaliças tenho somente 4 restantes em estoque, não gostaria de completar com soja ou arroz?
+AgCD2|Prefeito CD	sim, 6 unidades, qual o valor?
+AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de 6 sementes de arroz, faria metade a preço baixo e metade a preço normal?
+AgCD1|Fiscal CD	Faz 3 arroz e 3 hortaliças então
+EmpSem|Prefeita AT	@AgAT2 Não tenho como te dar desconto na compra toda, consigo um desconto parcial somente. Tive uma baixa no meu estoque recentemente
+AgAT2	Então metade-metade mesmo. Fechado!
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Já estou concendendo o desconto no arroz pelo preço da soja ser somente alto, não há mais que possa fazer...
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Somente a preço alto
+AgCD2|Prefeito CD	tudo bem
+AgCD2|Prefeito CD	vou querer a metade entao
+AgAT1|Fiscal AT	ok então fechamos em 3 preço alto soja e 3 arroz baixo
+AgCD2|Prefeito CD	apenas 3
+EmpSem|Prefeita AT	@AgCD3 Pode ser agricultor!
+EmpSem|Prefeita AT	@AgAT2 Venda realizada, obrigada pela compra!
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Registrado aqui
+AgCD2|Prefeito CD	negócio fechado ?
+AgCD3	@EmpSem|Prefeita AT perfeito, fechado
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Como desejar agricultor, mas penso que é mais rentável para produção ter sementes nos 6 lotes. Mas se só desejas isso a venda está feita!
+AgCD2|Prefeito CD	Muito obrigada
+AgCD1|Fiscal CD	E o nosso negócio, empresária?
+AgCD2|Prefeito CD	Certo, muito obrigada pela dica , mas nessa safra vou ficar com lotes vazios. Muitos gastos... Você viu as notícias de uma tal nuvem de gafanhoto que está vindo para nossa região?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Isso que estava vendo agricultor, ficou pendente! Consigo te dar um desconto nas hortaliças, fazendo elas a preço baixo e o arroz a preço normal. O que acha?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD A vida para o pequeno produtor não é fácil, eu como pequeno empresário também sofro com pragas como essas quando atigem os agricultores! É lastimável
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT perfeito
+AgCD1|Fiscal CD	Fechado
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Desculpa a confusão agricultor. Sua compra já foi registrada no sistema
+RODADA 4
+AgCD1|Fiscal CD	bom dia @EmpSem|Prefeita AT já renovou os estoques?
+AgAT2	Bom dia! Gostaria de 2 sacos de Soja
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Sim! Do que gostaria?
+AgCD1|Fiscal CD	Consegue me fazer 6 hortaliças por preço baixo?
+EmpSem|Prefeita AT	@AgAT2 Certo, Soja vendo somente pelo valor alto, pode ser?
+AgAT3	Olá! Quero 6 arroz por preço baixo
+AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de 6 sementes de soja, faria uma por valor baixo?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Como na outra rodada esqueci de você vou te dar um bônus de um desconto a mais em uma hortaliça. Faço 4 pelo preço baixo e 2 pelo valor normal. Poderia ser?
+AgAT2	@EmpSem|Prefeita AT Imaginei. Vou querer sim. Obrigado
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT fechado
+AgAT1|Fiscal AT	Bom dia gostaria de 6 sementes de soja a preço normal ou baixo
+EmpSem|Prefeita AT	@AgAT3 Pode ser 3 pelo valor normal e 3 pelo valor baixo?
+AgAT3	Pode ser 3 arroz por preço baixo e 3 sojas por preço normal?
+EmpSem|Prefeita AT	@AgCD3 Faço uma pelo valor baixo e as demais 5 pelo valor alto, pode ser agricultor?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Obrigada pela compra agricultor!
+AgCD3	@EmpSem|Prefeita AT pode sim, fechado
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Te faço o mesmo negócio que fiz com @AgCD3 1 soja a preço baixo e as outras 5 unidades de soja pelo valor alto, pode ser?
+AgAT1|Fiscal AT	pode sim
+EmpSem|Prefeita AT	@AgAT3 Faço então as 3 sojas a preço alto e os 3 arroz a preço baixo
+AgCD2|Prefeito CD	Qual a boa de hoje sr. Empresário?
+AgAT3	Feito!
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Feito!
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Temos um estoque renovado com todas as sementes, o que deseja?
+EmpSem|Prefeita AT	@AgAT3 Registrado aqui agricultor
+AgAT2	@EmpSem|Prefeita AT
+AgAT2	Fechado cmg?
+AgCD2|Prefeito CD	Vou querer 2 de cada
+AgCD2|Prefeito CD	Todas estão com um precinho camarada?
+EmpSem|Prefeita AT	@AgAT2 2 sementes de soja pelo valor alto, certo?
+AgAT2	Isso
+AgCD2|Prefeito CD	fechado?
+AgCD2|Prefeito CD	quais são os valores mesmo?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Posso fazer as Sojas pelo valor alto, as hortaliças pelo valor baixo e o arroz pelo valor normal, pode ser?
+AgCD2|Prefeito CD	Não. Gostaria de 3 de hortaliças e 3 de arroz?
+AgCD2|Prefeito CD	tem como?
+EmpSem|Prefeita AT	ok
+EmpSem|Prefeita AT	Tem sim
+EmpSem|Prefeita AT	Posso fazer as hortaliças pelo valor baixo e o arroz pelo valor normal
+EmpSem|Prefeita AT	O que acha?
+AgCD2|Prefeito CD	3 h pelo preço normal e 3 a pelo preço :thumbsdown:
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	confirmado então
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Obrigada pela compra
+AgCD2|Prefeito CD	de nada
+RODADA 5
+AgAT3	Quero 6 sojas preço baixo
+EmpSem|Prefeita AT	Soja posso negociar apenas uma bonificação a preço baixo, as outras 5 faço a preço alto
+AgAT3	Não pode fazer as 6 por preço normal?
+EmpSem|Prefeita AT	Não, a produção da soja é muito é cara, já recebo era por um valor alto do meu fornecedor
+AgAT1|Fiscal AT	Bom dia 6 arroz a preço baixo poderia ser ?
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Faço 3 a preço baixo e 3 a preço normal, pode ser?
+AgAT1|Fiscal AT	pode ser
+EmpSem|Prefeita AT	@AgAT1|Fiscal AT Obrigada pela compra agricultor
+AgAT2	Olá! Queria 2 sacos de soja, por favor
+EmpSem|Prefeita AT	@AgAT2 Sojas infelizmente só consigo te vender a preço alto, pode ser?
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT bom dia, o que voce consegue me fazer a preço baixo/
+AgCD1|Fiscal CD	?
+AgAT3	Vou aceitar então. 1 Soja preço baixo e 5 preço alto
+AgAT2	Poxa poxa. Pode ser sim. Fechado @EmpSem|Prefeita AT
+EmpSem|Prefeita AT	@AgAT3 Obrigada pela compreensão empresário, tento fazer o melhor negócio possível para ambos!
+EmpSem|Prefeita AT	@AgAT3 Registrei sua compra aqui :slight_smile:
+EmpSem|Prefeita AT	@AgAT2 Certo agricultor
+AgCD3	@EmpSem|Prefeita AT Olá, gostaria de 6 Hortaliças, faria 2 a preço baixo?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Nas 6 sementes não consigo em nenhuma, se você quiser arroz ou hortaliças posso disponibilizar algum desconto parcial
+EmpSem|Prefeita AT	@AgCD3 Pode ser 2 por valor baixo e o restante por valor normal?
+AgCD3	@EmpSem|Prefeita AT pode sim, fechado
+EmpSem|Prefeita AT	@AgCD3 Certo, espero que tenha um bom plantio!
+AgCD1|Fiscal CD	@EmpSem|Prefeita AT gostaria de hortaliças, consegue fazer 4 por preço baixo?
+AgCD1|Fiscal CD	e 2 normal?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Consigo somente o inverso
+AgCD1|Fiscal CD	E arroz consegue?
+AgCD2|Prefeito CD	Olá amigo, gostaria de 6 pacotes de sementes de arroz
+AgCD2|Prefeito CD	qual o valor?
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Os critérios são os mesmos para arroz e hortaliças, somente soja que é mais caro sempre
+AgCD1|Fiscal CD	Consegue fazer 3/3 pelo menos?
+EmpSem|Prefeita AT	@AgCD2|Prefeito CD Consigo fazer 2 pelo valor baixo e 4 pelo valor normal, pode ser?
+AgCD2|Prefeito CD	pode sim
+EmpSem|Prefeita AT	Okk, anotado sua compra de arroz aqui
+EmpSem|Prefeita AT	Vou deixar sua encomenda separada agricultor
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Não consigo
+AgCD2|Prefeito CD	Ok, tchau tchau
+AgCD1|Fiscal CD	Fechamos 2/4 nas hortaliças então
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Uso os mesmos critérios de negociação para todos os agricultores de acordo com a disponibilidade e do custo das sements para mim nessa safra
+EmpSem|Prefeita AT	@AgCD1|Fiscal CD Certo agricultor, vou separar suas hortaliças aqui

@@ -1,0 +1,12 @@
+EmpAgr|Vereador CD	bom dia!
+EmpAgr|Vereador CD	estou vendendo com um preço especial
+EmpAgr|Vereador CD	e produtos de ótima qualidade
+AgAT2	Booom dia!! Pretendo comprar 6 sacos de SP. Que preço o senhor me faria?
+EmpAgr|Vereador CD	@AgAT2 bom dia, ótimo. te faço por preço normal
+EmpAgr|Vereador CD	fechado? @AgAT2
+AgAT2	@EmpAgr|Vereador CD Não poderia ser preço baixo? São 6 do mesmo
+EmpAgr|Vereador CD	@AgAT2 te consigo 3 com preço baixo e 3 normal. é o máximo viável
+AgAT2	Então aceito! Muito obrigado
+EmpAgr|Vereador CD	obrigado pela compra, até a próxima  @AgAT2
+EmpAgr|Vereador CD	@AgCD1|Fiscal CD vamos de agrotóxico? faço um preço camarada
+EmpAgr|Vereador CD	@AgAT1|Fiscal AT e @AgAT3 considerem comprar agrotóxico no próximo ano. ajudará a melhorarem suas produções. tempos difíceis estão se aproximando

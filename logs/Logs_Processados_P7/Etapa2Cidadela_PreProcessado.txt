@@ -1,0 +1,307 @@
+RODADA 1
+AgCD2|Prefeito CD	Olá meus queridos eleitores, em que posso ajudá-los?
+EmpAgr|Vereador CD	prefeito, você irá implementar ações ambientais?
+AgCD2|Prefeito CD	claro
+AgCD1|Fiscal CD	Bom dia Cidadelers
+EmpAgr|Vereador CD	como está a poluição e o saldo da prefeitura?
+AgCD1|Fiscal CD	Estava dando uma olhadinha sobre a nossa poluição
+AgAT2	CIDADELERS. Gostei
+AgCD2|Prefeito CD	podemos fazer o tratamento de água, lixo e esgoto
+AgCD1|Fiscal CD	E ate o momento esta tudo ok
+AgCD1|Fiscal CD	A poluição está baixa
+AgCD2|Prefeito CD	só que para isso precisamos alterar os impostos
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD temos dinheiro para tudo isso?
+AgCD1|Fiscal CD	@AgCD3 Se poluir mais vou ter que aplicar uma multa
+EmpAgr|Vereador CD	devemos pensar no próximo ano também
+AgCD2|Prefeito CD	mas nossa poluição não está baixa @AgCD1|Fiscal CD ?
+EmpAgr|Vereador CD	acredito que deves aumentar os impostos de quem produz bastante e diminuir dos pequenos produtores @AgCD2|Prefeito CD
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD Sim, porem a maioria foi gerada pelo @AgCD3
+AgCD1|Fiscal CD	Se continuar a poluir terei que conter
+AgCD2|Prefeito CD	boa ideia @EmpAgr|Vereador CD
+AgCD1|Fiscal CD	Mesmo assim estarei concedendo selo verde a mim e ao @AgCD3
+AgCD1|Fiscal CD	que pediram
+AgCD2|Prefeito CD	Mais alguém solicitou selo verde?
+AgCD1|Fiscal CD	só os dois
+AgCD2|Prefeito CD	Acho que  devemos incentivar essa prática
+AgCD1|Fiscal CD	Quero saber pq vossa excelência não solicitou @AgCD2|Prefeito CD
+AgCD1|Fiscal CD	???????????????????/
+AgCD2|Prefeito CD	Pois então
+AgCD2|Prefeito CD	Vou um erro , devo dar exemplo aos cidadãos
+AgCD2|Prefeito CD	ops
+AgCD2|Prefeito CD	Foi um erro
+AgCD1|Fiscal CD	Ok
+AgCD1|Fiscal CD	Sugiro que mantenha uma produção sem poluição
+AgCD1|Fiscal CD	que poderei conceder o selo futuramente
+EmpAgr|Vereador CD	e o empresário de agrotóxico vai a falência deste jeito
+AgCD2|Prefeito CD	Temos 2.070,50 em caixa.
+EmpAgr|Vereador CD	sugiro então que a população e prefeitura doe algo para ele não vender
+AgCD2|Prefeito CD	Acredito que seja bastante ...
+AgCD1|Fiscal CD	No passado achamos uma solução boa
+EmpAgr|Vereador CD	um grande acordo pensando no meio ambiente
+AgCD1|Fiscal CD	sugiro que a prefeitura faça um contrato
+AgCD1|Fiscal CD	com o empresario de agrotoxicos
+AgCD1|Fiscal CD	liberando uma quantia mensal de dinheiro para coibir a venda de agrotoxicos
+AgCD1|Fiscal CD	mantemos o empresario
+AgCD2|Prefeito CD	Vamos aumentar o imposto para aqueles que não solicitaram selo verde, o que acham?
+AgCD1|Fiscal CD	e não aumentamos a produção
+AgCD1|Fiscal CD	a poluição
+AgCD1|Fiscal CD	desculpem
+AgCD1|Fiscal CD	errei
+AgCD1|Fiscal CD	perdi o scrit
+AgCD1|Fiscal CD	script
+EmpAgr|Vereador CD	acho justo, que achas @AgCD2|Prefeito CD ?
+AgCD2|Prefeito CD	Pelo que olhei o empresário de Agrotóxicos teve baixa produtividade
+AgCD2|Prefeito CD	concordo
+EmpAgr|Vereador CD	isso fez com que a poluição baixasse também,
+AgCD2|Prefeito CD	sim
+EmpAgr|Vereador CD	a prevenção é a solução
+AgCD1|Fiscal CD	Isso
+AgCD2|Prefeito CD	Vou solicitar o tratamento de água, lixo e esgoto sem aumentar os impostos, todos de acordo?
+AgCD1|Fiscal CD	acho otimo
+EmpAgr|Vereador CD	sim
+AgAT2	Vê o caixa da prefeitura, só
+AgAT2	Hehehehehe
+AgAT2	Sem querer boicotar a cidade vizinha
+AgCD2|Prefeito CD	Sim sim, pode deixar, já olhei
+RODADA 2
+AgCD1|Fiscal CD	todo mundo manteve a poluição baixa
+AgCD1|Fiscal CD	portanto
+AgCD1|Fiscal CD	todos recebem/continuam com selo verde
+EmpAgr|Vereador CD	como está o caixa da prefeitura?
+AgCD2|Prefeito CD	Pessoal, fiquei preocupada hj
+AgCD2|Prefeito CD	o caixa está no negativo
+AgCD2|Prefeito CD	infelizmente exagerei nas medidas de prevenção
+AgCD2|Prefeito CD	não quis alterar os impostos antes ...
+EmpAgr|Vereador CD	prefeita, recomendo não investir em nenhuma medida ambiental
+AgCD2|Prefeito CD	mas não vejo outra alternativa nesse momento
+EmpAgr|Vereador CD	neste ano
+AgCD2|Prefeito CD	vamos ter que aumentar os impostos
+EmpAgr|Vereador CD	o empresário de agrotóxico não produzir, gera menos dinheiro em caixa para prefeitura
+AgCD2|Prefeito CD	vamos ter que mudar de estratégia
+AgCD2|Prefeito CD	e incentivar a produção de agrotóxico
+AgCD2|Prefeito CD	o que acham?
+EmpAgr|Vereador CD	acho justo
+AgCD2|Prefeito CD	arrecadamos pouco em impostos e não recebemos transferência de ninguém ...
+EmpAgr|Vereador CD	principalmente os agricultores da cidade devem apoiar
+EmpAgr|Vereador CD	complicado a situação da cidade
+AgCD2|Prefeito CD	todos os agricultores receberam selo verde dessa vez?
+AgCD1|Fiscal CD	Sim
+AgCD2|Prefeito CD	e as multas?
+AgCD2|Prefeito CD	ninguém foi multado?
+AgCD2|Prefeito CD	@EmpAgr|Vereador CD  alguma sugestão?
+AgCD2|Prefeito CD	alteramos em quanto os impostos?
+EmpAgr|Vereador CD	acredito que aumente os impostos ao maximo, visando maior arrecadação
+AgCD2|Prefeito CD	combinado então
+AgCD2|Prefeito CD	todos de acordo?
+EmpAgr|Vereador CD	a população também precisa aumentar a produtividade
+AgCD2|Prefeito CD	alguma objeção?
+AgCD2|Prefeito CD	concordo @EmpAgr|Vereador CD
+AgCD1|Fiscal CD	Ninguem foi multado
+EmpAgr|Vereador CD	em acordo @AgCD2|Prefeito CD
+AgCD2|Prefeito CD	vou alterar os impostos para quem ficar abaixo de 200
+AgCD2|Prefeito CD	com a produtividade abaixo de 200
+RODADA 3
+EmpAgr|Vereador CD	a poluição chegou em um nível que requer maior atenção
+EmpAgr|Vereador CD	a partir da marca de 30% as produtividades começam a cair
+AgCD2|Prefeito CD	Concordo @EmpAgr|Vereador CD
+EmpAgr|Vereador CD	como ficou o saldo da prefeitura? @AgCD2|Prefeito CD
+AgCD2|Prefeito CD	estamos em aproximadamente 32%
+AgCD2|Prefeito CD	ainda estamos no negativo :frowning:
+AgCD2|Prefeito CD	-312
+AgCD2|Prefeito CD	mas é pouco comparado ao que estavamos antes
+EmpAgr|Vereador CD	ainda bem
+EmpAgr|Vereador CD	quem sabe aplica um tratamento de água, que é o mais barato
+AgCD2|Prefeito CD	os vendedores de agrotoxico estão com baixa produtividade ainda ...
+EmpAgr|Vereador CD	para pelo menos tentar frear a crescente poluição
+AgCD1|Fiscal CD	calma que o fiscal de voces ta enrolado
+AgCD2|Prefeito CD	pode ser
+AgCD2|Prefeito CD	vamos fazer um tratamento de água
+AgCD2|Prefeito CD	mas já aviso de antemão que  nosso caixa ainda ficará negativo
+EmpAgr|Vereador CD	pelo que recebi de feedback do empresário de agrotóxico, o @AgCD1|Fiscal CD  não está comprando nada
+AgCD2|Prefeito CD	temos que averiguar o pq disso ....
+AgCD1|Fiscal CD	Infelizmente tenho más noticias
+EmpAgr|Vereador CD	prefeito, aumente todos impostos @AgCD2|Prefeito CD
+AgCD1|Fiscal CD	Terei que retirar o selo verde do agricultor  2 e 3
+AgCD1|Fiscal CD	E ainda aplicar uma multa
+AgCD2|Prefeito CD	Será que ele ainda acha que estamos incentivado o selo verde?
+EmpAgr|Vereador CD	a prefeitura precisa se reerguer, para após poder ajudar a população
+AgCD2|Prefeito CD	Pq multa seu fiscal?
+AgCD1|Fiscal CD	Nao podemos permitir esses níveis
+AgCD2|Prefeito CD	Vá com calma ...
+AgCD1|Fiscal CD	são totalmente prejudiciais
+AgCD2|Prefeito CD	Qual  o nível que eles estão?
+AgCD2|Prefeito CD	Pelo que entendi eles estão no limite... ainda não ultrapassaram
+AgCD2|Prefeito CD	Nem me fala, a prefeitura precisa mesmo se reerguer ainda mais num momento desses  de pandemia...
+EmpAgr|Vereador CD	concordo
+AgCD1|Fiscal CD	Entao
+AgCD1|Fiscal CD	voltando
+AgCD2|Prefeito CD	Bom, vou manter ainda os impostos no máximo
+EmpAgr|Vereador CD	@AgCD1|Fiscal CD  @AgCD2|Prefeito CD @AgCD3  devem priorizar comprar fertilizante e agrotóxico.
+AgCD2|Prefeito CD	e nosso nosso encontro vamos ver se conseguimos reerguer os valores do caixa
+AgCD1|Fiscal CD	o @AgCD3 foi o q mais poluiu
+AgCD1|Fiscal CD	146,66
+AgCD1|Fiscal CD	ja o @AgCD2|Prefeito CD poluiu 125
+EmpAgr|Vereador CD	@EmpAgr|Vereador CD  @EmpFert  devem vender com preço alto para os agricultores de ATLANTIS
+AgCD1|Fiscal CD	alguma explicação, prefeito?
+AgCD1|Fiscal CD	Fora que nossos empresarios
+AgCD1|Fiscal CD	tambme
+AgCD1|Fiscal CD	poluiram
+EmpAgr|Vereador CD	eles não tem escolha, se não comprararem nem fertilizante nem agrotóxico vão a falência
+AgCD1|Fiscal CD	Terei de aplicar uma multa ao @EmpFert
+AgCD1|Fiscal CD	EU estou fazendo o meu trabalho
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD estarei lhe aplicando uma multa de 293.32
+AgCD2|Prefeito CD	Pois então, vou tentar saber mais notícias do que está acontecendo na cidade vizinha
+AgCD1|Fiscal CD	desculpe prefeito
+AgCD1|Fiscal CD	Sua multa é 250
+AgCD2|Prefeito CD	Vou chamar o prefeita de lá para tomar um chá
+AgCD1|Fiscal CD	293.32 é a multa do @AgCD3
+AgCD1|Fiscal CD	Assim como uma de 288 para o @EmpFert
+AgCD2|Prefeito CD	Tudo bem @AgCD1|Fiscal CD , pagarei a multa
+EmpAgr|Vereador CD	ok fiscal, pelo menos assim a prefeitura ganha algum dinheiro @AgCD1|Fiscal CD
+AgCD1|Fiscal CD	E estarei cobrando uma taxa de 10% de cada multa sobre o caixa da prefeitura sobre os meus trabalhos
+AgCD2|Prefeito CD	Você não pode cobrar 10%
+EmpAgr|Vereador CD	@AgCD1|Fiscal CD não existe isso, você está fazendo um trabalho muito duvidoso
+AgCD1|Fiscal CD	o que totaliza 83.13
+AgCD2|Prefeito CD	Onde já se viu isso
+AgCD1|Fiscal CD	que a prefeitura precisa me repassar
+AgCD1|Fiscal CD	veja bem
+AgCD1|Fiscal CD	eu sempre trabalhei gratuitamente, agora que a prefeitura esta arrecadando mais exijo uma parte para continuar realizando meus trabalhos
+EmpAgr|Vereador CD	não faça mais o trabalho, isso que está nos deixando na pobreza
+EmpAgr|Vereador CD	está impedindo que os outros comprem agrotóxico...
+EmpAgr|Vereador CD	claro que exageradamente é ruim, mas no momento em que nos encontramos é necessário
+AgCD1|Fiscal CD	Não estou impedindo, pelo contrário, se é pra reduzir a poluição e simplificar a produção eu apoio
+AgCD1|Fiscal CD	porém
+AgCD2|Prefeito CD	@AgCD1|Fiscal CD  você é funcionário da prefeitura, recebe salário para isso, nunca trabalhou gratuitamente ... Agora se não quer fazer seu trabalho são outros 500...
+AgCD1|Fiscal CD	Nunca recebi 1 tostão!
+EmpAgr|Vereador CD	e vai continuar sem receber
+EmpAgr|Vereador CD	pelo menos da prefeitura
+EmpAgr|Vereador CD	não temos dinheiro para tal custo
+AgCD1|Fiscal CD	A prefeitura teve um recebimento de 831.32
+AgCD1|Fiscal CD	por minha causa
+AgCD1|Fiscal CD	por minhas multas bem aplicadas
+AgCD1|Fiscal CD	eu EXIJO 83.13 de pagamento
+AgCD2|Prefeito CD	Veremos ...
+AgCD2|Prefeito CD	Encerrada a reunião de hoje
+RODADA 4
+AgCD1|Fiscal CD	Trago boas novas
+AgCD1|Fiscal CD	Nosso indice de poluição caiu muito
+AgCD1|Fiscal CD	Isso se deve ao bom trabalho q tenho feito
+AgCD1|Fiscal CD	Infelizmente o @EmpFert ainda esta poluindo acima do desejado, irei lhe aplicar uma multa leve
+AgCD1|Fiscal CD	E irei conceder os selos verdes de volta ao @AgCD3
+EmpFert	Sinceramente, é quase impossível melhorar a minha poluição
+AgCD2|Prefeito CD	A prefeitura está com o caixa no positivo
+EmpFert	Eu praticamente só tenho vendido SP e P
+AgCD2|Prefeito CD	:grinning:
+EmpFert	Tem que flexibilizar isso ai
+AgCD2|Prefeito CD	e isso é ruim @EmpFert ?
+EmpFert	Se não, o pessoal vai começar a ir pros agrotóxicos
+EmpFert	Não, eles são os mais caros
+EmpFert	E com a menor poluição
+EmpAgr|Vereador CD	mas a poluição está em  34,98%
+EmpFert	Mas mesmo assim to levando multa
+AgCD1|Fiscal CD	Acabei nao lhe cobrando multa na vez passada @EmpFert
+AgCD1|Fiscal CD	agora estou te cobrando uma multa leve
+AgCD1|Fiscal CD	é o minimo
+EmpFert	De novo
+EmpFert	Se eu levar multa e tiver que mexer em preço
+EmpFert	O pessoal vai ir pra agrotóxico
+EmpFert	Que é mais barato, lucra mais
+EmpFert	Só que polui MUITO mais
+AgCD2|Prefeito CD	Como estamos com caixa positivo, sugiro fazermos o tratamento do lixo, o que acham?
+EmpFert	Estou vendendo os melhores fertilizantes, com menor poluição
+EmpFert	E com preço baixo/normal
+EmpAgr|Vereador CD	acho justo @AgCD2|Prefeito CD
+AgCD1|Fiscal CD	meu trabalho é somente cobrar vocês, medidas para reduzir a poluição para compensar a sua é com a nossa prefeita @EmpFert
+EmpFert	Eu sugiro a prefeitura ressarcir os custos que to tendo com multa
+EmpFert	De forma que eu consiga manter os preços
+AgCD2|Prefeito CD	@AgCD1|Fiscal CD temos como flexibilizar as multas para o @EmpFert  ?
+EmpFert	E não prejudicar nem os agricultores, nem a cidade
+EmpFert	Ou não cobrar a multa, ou a prefeitura ressarcir
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD talvez se me pagassem melhor, mas ate o momento estou fazendo o possível para seguir à risca as regras
+EmpFert	O @AgCD1|Fiscal CD disse que tinha que me aplicar multa na última rodada
+EmpFert	Mas pelo que eu vi no relatório
+EmpFert	A minha poluição pessoal foi 0.14%
+EmpFert	Como vou fazer melhor que isso?
+EmpFert	Sem falir?
+AgCD1|Fiscal CD	a multa da rodada passada nao foi cobrado, estou te cobrnado agora uma de 114
+AgCD1|Fiscal CD	Empresario: EmpFer
+AgCD1|Fiscal CD	Setor: fertilizante
+AgCD1|Fiscal CD	Poluicao: 114,00
+AgCD1|Fiscal CD	Meu report consta isso
+AgCD2|Prefeito CD	Como a prefeitura tem bastante $$$ em caixa podemos te ressarcir
+EmpFert	Sim, isso equivale a 0.14%
+EmpFert	Da poluição mundial
+AgCD1|Fiscal CD	sendo que 114 é um indice acima do permitido
+EmpFert	"Poluicao pessoal: 144,00
+EmpFert	Poluicao causada no Mundo: 0,14%"
+AgCD1|Fiscal CD	Só estou seguindo as regras
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD voce tambemr recebe os selos verdes
+EmpFert	É o que eu falei antes
+EmpFert	Se não flexibilizarmos isso
+EmpFert	Vou ter que mexer nos preços
+EmpFert	E o efeito vai ser em cadeia
+AgCD1|Fiscal CD	O seu problema é com a prefeitura
+AgCD1|Fiscal CD	Nao comigo
+AgCD1|Fiscal CD	Não me pagam o suficiente para pensar em soluções
+EmpFert	Em breve será nosso
+AgCD2|Prefeito CD	Vou te dar um aumento @AgCD1|Fiscal CD
+EmpFert	Minha sugestão:
+EmpFert	Paga o valor que o fiscal iria me cobrar
+EmpAgr|Vereador CD	alô @AgCD2|Prefeito CD , transfere alguma ajuda para o empresário de agrotóxico
+EmpFert	Assim não preciso mexer nos preços
+AgCD2|Prefeito CD	Vou transferir sim, quanto vocês sugerem?
+EmpFert	Eu não sei o valor da multa, tem que ver com o fiscal
+EmpFert	Ele que tem a fórmula
+AgCD2|Prefeito CD	Podes me informar fiscal?
+AgCD2|Prefeito CD	Aproveitando , quanto você quer de aumento?
+EmpAgr|Vereador CD	Vou transferir sim, quanto vocês sugerem?
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD uns 100 dinheiros deve ser suficiente para se reestabelecer
+EmpFert	A minha pergunta é, por que o fiscal ta ganhando aumento?
+EmpFert	Eu não sabia nem que fiscal ganhava salário da prefeitura kk
+EmpAgr|Vereador CD	eu acho que o fiscal não deve receber
+AgCD2|Prefeito CD	A família dele toda pegou covid, menos ele
+EmpFert	Estão apresentando sintomas ou não?
+AgCD2|Prefeito CD	100 dinheiros para o @EmpAgr|Vereador CD  então
+AgCD2|Prefeito CD	vou fazer o mesmo para o @EmpFert
+EmpFert	100 dinheiros cobrem a multa @AgCD1|Fiscal CD ?
+EmpFert	eu não sei qual o valor
+AgCD2|Prefeito CD	Se ele não respondeu , deve cobrir sim
+AgCD2|Prefeito CD	Acredito que podemos encerrar  a próxima reunião pessoal
+AgCD2|Prefeito CD	Mais alguma colocação?
+EmpAgr|Vereador CD	não
+AgCD1|Fiscal CD	@EmpFert 114 é sua multa
+AgCD1|Fiscal CD	@AgCD2|Prefeito CD se for cobrir a multa do @EmpFert
+AgCD1|Fiscal CD	faça uma transferencia pra ele
+AgCD1|Fiscal CD	de mesmo valor
+AgCD1|Fiscal CD	e estará tudo ok
+EmpFert	Certo, pode ser também
+EmpAgr|Vereador CD	vamos para o processo eleitoral na sala ao lado
+AgCD1|Fiscal CD	ok
+AgCD2|Prefeito CD	vou alterar a transferencia entao para 114 ao invés de apenas 100
+EmpFert	Certo
+RODADA 5
+AgCD2|Prefeito CD	Olá pessoal, nossos níveis de poluição baixaram
+EmpAgr|Vereador CD	ótimo @AgCD2|Prefeito CD  e o caixa da prefeitura, está bem?
+AgCD2|Prefeito CD	está positivo
+AgCD2|Prefeito CD	Estamos com 1.846,29 em caixa
+EmpAgr|Vereador CD	nossa, estamos bem
+AgCD2|Prefeito CD	Percebi que o EmpAgr melhorou sua produtividade
+EmpAgr|Vereador CD	que tal implementar o tratamento mais eficaz?
+AgCD2|Prefeito CD	e todos os agricultores da cidade tem selo verde
+EmpAgr|Vereador CD	bah, que legal
+AgCD2|Prefeito CD	acho que podemos fazer o tratamento de esgoto esse ano
+AgCD2|Prefeito CD	já que estamos há 1 ano sem fazé-lo
+EmpAgr|Vereador CD	é sempre bom
+EmpAgr|Vereador CD	acho justo
+AgCD1|Fiscal CD	Pelos meus reports
+AgCD1|Fiscal CD	terei q aplicar 3 multas
+AgCD1|Fiscal CD	e estou removendo selo verde do agricultor 2 e 3
+AgCD2|Prefeito CD	pq @AgCD1|Fiscal CD ?
+AgCD1|Fiscal CD	poluição do ag2 esta em 140 e do ag3 em 100
+AgCD1|Fiscal CD	poluiçoes acima do recomendado que é 90
+AgCD2|Prefeito CD	hmn, tudo bem
+AgCD2|Prefeito CD	multa neles então
+AgCD2|Prefeito CD	Mais alguma consideração pessoal?
+AgCD2|Prefeito CD	Até a próxima reunião então
+AgCD2|Prefeito CD	Abraços
+EmpAgr|Vereador CD	abraços

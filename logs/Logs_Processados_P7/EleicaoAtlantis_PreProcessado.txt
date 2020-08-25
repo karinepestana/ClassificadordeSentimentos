@@ -1,0 +1,25 @@
+RODADA 3
+AgAT2	Bom dia
+EmpSem|Prefeita AT	Bom dia cidadãos de Atlantis
+Gabriella Selbach	Bom dia
+EmpMaq|Vereador AT	Bom dia
+AgAT3	Bom dia
+EmpSem|Prefeita AT	Acredito estar fazendo um bom trabalho na prefeitura. Venho sendo transparente em minhas decisões com a população. Gostaria de tentar reeleição se todos estiverem de acordo
+AgAT2	Eu voto em deixar os três no poder, visto que a administração da cidade está boa
+AgAT3	Eu concordo! Voto em manter todos que estão no poder, está muito bom pros agricultore
+AgAT3	agricultores*
+EmpSem|Prefeita AT	Concordo com o @AgAT2 em manter Fiscal e Vereador também. Gostei da honestidade do Fiscal
+EmpMaq|Vereador AT	também concordo em continuarmos :slight_smile:
+AgAT1|Fiscal AT	Como atual fiscal eu aceito manter meu cargo, mas deixo aberto caso alguém queira assumir também
+EmpSem|Prefeita AT	Porém se a população também tiver críticas a administração e quiserem expor....
+AgAT1|Fiscal AT	Como agricultor AT1 voto em manter os 3 poderes como estão
+EmpSem|Prefeita AT	Acredito que está decidido então! Manteremos assim já que é a vontade da população
+EmpMaq|Vereador AT	Caso alguém queira assumir o cargo de vereador, fiquem a vontade!
+AgAT3	a voz do povo é a voz de Deus
+EmpMaq|Vereador AT	:clap:
+RODADA 5
+AgAT3	Podemos manter todos, estão fazendo um excelente trabalho! Vamos dar continuidade a isto na nossa cidade
+AgAT1|Fiscal AT	Acredito que todos estão fazendo um bom trabalho em seus cargos e podemos manter como as coisas estão
+EmpSem|Prefeita AT	Eu gosto do meu trabalho na prefeitura e gostaria de poder continuar trabalhando juntamente com a população
+EmpSem|Prefeita AT	Acredito que juntos estamos atingindo bons resultados para a nossa cidade
+AgAT2	Por mim, ok

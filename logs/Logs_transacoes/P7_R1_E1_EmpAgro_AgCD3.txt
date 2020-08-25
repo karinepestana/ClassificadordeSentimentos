@@ -1,0 +1,5 @@
+EmpAgr|Vereador CD	olá pessoal, alguém interessado em agrotóxico?
+AgCD3	@EmpAgr|Vereador CD Olá, gostaria de levar um pacote premium, faz pelo valor normal?
+EmpAgr|Vereador CD	faço, @AgCD3  gostaria de 6 unidades?
+AgCD3	@EmpAgr|Vereador CD Não, 6 unidades é muito, compro 2 então
+EmpAgr|Vereador CD	@AgCD3 ok

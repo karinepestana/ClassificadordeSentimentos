@@ -1,0 +1,5 @@
+EmpAgr|Vereador CD	alguém gostaria de comprar agrotóxico?
+AgCD3	Olá @EmpAgr|Vereador CD gostaria de comprar 2 comuns
+AgCD3	Faria a preço normal?
+EmpAgr|Vereador CD	sim
+EmpAgr|Vereador CD	fechado então @AgCD3

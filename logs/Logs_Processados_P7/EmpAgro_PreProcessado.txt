@@ -1,0 +1,101 @@
+RODADA 1
+EmpAgr|Vereador CD	olá pessoal, alguém interessado em agrotóxico?
+AgCD2|Prefeito CD	Olá, eu quero
+AgCD2|Prefeito CD	Qual o valor?
+AgCD2|Prefeito CD	algum preço especial?
+EmpAgr|Vereador CD	claro, estou vendendo com preço baixo @AgCD2|Prefeito CD
+EmpAgr|Vereador CD	se levar 6 do mesmo tipo
+EmpAgr|Vereador CD	queres o super premium? este tipo é bom para aumentar sua produtividade
+AgCD2|Prefeito CD	nao
+AgCD2|Prefeito CD	quero comum
+AgCD3	@EmpAgr|Vereador CD Olá, gostaria de levar um pacote premium, faz pelo valor normal?
+EmpAgr|Vereador CD	faço, @AgCD3  gostaria de 6 unidades?
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD ok, 6 do comum com preço baixo?
+AgCD3	@EmpAgr|Vereador CD Não, 6 unidades é muito, compro 2 então
+EmpAgr|Vereador CD	@EmpAgr|Vereador CD Não, 6 unidades é muito, compro 2 então
+EmpAgr|Vereador CD	@AgCD3 ok
+AgCD2|Prefeito CD	6 não
+AgCD2|Prefeito CD	Quero 2 unidades apenas
+EmpAgr|Vereador CD	perfeito @AgCD2|Prefeito CD
+AgCD2|Prefeito CD	2 unidades de comum por preço baixo, é isso?
+EmpAgr|Vereador CD	isso @AgCD2|Prefeito CD  obrigado pela compra
+AgCD2|Prefeito CD	de nada
+AgCD2|Prefeito CD	até a próxima
+AgAT1|Fiscal AT	Bom dia gostaria de saber sobre  o valor do agroxotico comum ?
+EmpAgr|Vereador CD	estou com promoção, se comprar 6 unidades te faço pelo preço baixo @AgAT1|Fiscal AT
+AgAT1|Fiscal AT	ok vou gerar 6 comuns
+EmpAgr|Vereador CD	certo!
+AgAT1|Fiscal AT	os agroxitcos sairam pelo preço baixo ?
+EmpAgr|Vereador CD	isso
+AgAT1|Fiscal AT	negocio fechado entao
+RODADA 2
+EmpAgr|Vereador CD	alguém gostaria de comprar agrotóxico?
+AgCD3	Olá @EmpAgr|Vereador CD gostaria de comprar 2 comuns
+AgCD3	Faria a preço normal?
+EmpAgr|Vereador CD	sim
+EmpAgr|Vereador CD	fechado então @AgCD3
+AgAT1|Fiscal AT	gostaria de comprar 6 agrotoxicos premiuns
+EmpAgr|Vereador CD	ok, te faço por preço baixo
+EmpAgr|Vereador CD	fechado? @AgAT1|Fiscal AT
+AgAT1|Fiscal AT	fechado
+RODADA 3
+EmpAgr|Vereador CD	bom dia!
+EmpAgr|Vereador CD	estou vendendo com um preço especial
+EmpAgr|Vereador CD	e produtos de ótima qualidade
+AgCD2|Prefeito CD	Bom dia!
+AgCD2|Prefeito CD	Como está @EmpAgr|Vereador CD ?
+AgCD2|Prefeito CD	Qual o preço especial dodia?
+AgAT2	Booom dia!! Pretendo comprar 6 sacos de SP. Que preço o senhor me faria?
+EmpAgr|Vereador CD	tudo ótimo, estou vendendo todos produtos com preço normal @AgCD2|Prefeito CD
+EmpAgr|Vereador CD	imperdível!
+EmpAgr|Vereador CD	Booom dia!! Pretendo comprar 6 sacos de SP. Que preço o senhor me faria?
+EmpAgr|Vereador CD	@AgAT2 bom dia, ótimo. te faço por preço normal
+EmpAgr|Vereador CD	fechado? @AgAT2
+AgCD2|Prefeito CD	Vou querer 6  pacotes de agrotoxico super premium
+AgAT2	@EmpAgr|Vereador CD Não poderia ser preço baixo? São 6 do mesmo
+EmpAgr|Vereador CD	Vou querer 6  pacotes de agrotoxico super premium
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD perfeito, obrigado pela preferência
+AgCD2|Prefeito CD	eu que agradeço, até o próximo mês
+EmpAgr|Vereador CD	@EmpAgr|Vereador CD Não poderia ser preço baixo? São 6 do mesmo
+EmpAgr|Vereador CD	@AgAT2 te consigo 3 com preço baixo e 3 normal. é o máximo viável
+AgAT2	Então aceito! Muito obrigado
+EmpAgr|Vereador CD	obrigado pela compra, até a próxima  @AgAT2
+EmpAgr|Vereador CD	alguém mais? alguém mais? estou com promoção! não podem perder essa
+AgCD3	Bom dia @EmpAgr|Vereador CD gostaria de 4 P e 2 SP, faria pelo menos um a preço baixo?
+EmpAgr|Vereador CD	claro @AgCD3
+EmpAgr|Vereador CD	tem consigo os 2 SP por preço baixo e 4 com preço normal @AgCD3
+AgCD3	@EmpAgr|Vereador CD
+AgCD3	@EmpAgr|Vereador CD certo, irei fechar
+EmpAgr|Vereador CD	muito obrigado, e volte sempre!! @AgCD3
+EmpAgr|Vereador CD	@AgCD1|Fiscal CD vamos de agrotóxico? faço um preço camarada
+EmpAgr|Vereador CD	@AgAT1|Fiscal AT e @AgAT3 considerem comprar agrotóxico no próximo ano. ajudará a melhorarem suas produções. tempos difíceis estão se aproximando
+RODADA 4
+EmpAgr|Vereador CD	olá amigos, vão querer agrotóxico hoje?
+AgAT2	Bom dia! Gostaria de 2 pacotes de SP, por favor
+EmpAgr|Vereador CD	leva mais 2 que te faço por preço baixo @AgAT2
+EmpAgr|Vereador CD	imperdível!
+AgAT2	Só plantarei em duas parcelas esse ano. Preferirira preço baixo, visto que levei multa ano passado
+EmpAgr|Vereador CD	ah. mas se eu te vender por este preço vou sair no prejuízo. fechamos 2 agrotóxico super premium, com preço NORMAL? @AgAT2
+AgAT2	Pode ser. Assim fica melhor para os dois
+EmpAgr|Vereador CD	fechado, obrigado
+AgAT2	@EmpAgr|Vereador CD Fechado?
+EmpAgr|Vereador CD	tudo certo o que combinamos @AgAT2
+AgAT2	Obrigado!
+AgCD3	Bom dia @EmpAgr|Vereador CD , não irei comprar nada desta vez
+EmpAgr|Vereador CD	ok @AgCD3
+AgCD2|Prefeito CD	Olá Empresário, como no ano passado gastei muito com agrotóxico, esse ano não vou comprar de vocês
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD tranquilo
+RODADA 5
+AgAT3	To querendo 2 SP a preço baixo
+EmpAgr|Vereador CD	@AgAT3  te consigo 1 com preço baixo e 1 com preço normal
+EmpAgr|Vereador CD	pode ser? @AgAT3
+AgAT2	Bom dia! Gostaria de 2 SP, por favor
+EmpAgr|Vereador CD	mesma promoção para o outro agricultor, 1 com preço baixo e 1 normal @AgAT2  feito?
+AgAT3	Pode ser.
+EmpAgr|Vereador CD	beleza
+AgAT2	@EmpAgr|Vereador CD Certo!
+EmpAgr|Vereador CD	obrigado amigo, volte sempre @AgAT2
+AgCD3	@EmpAgr|Vereador CD Não irei comprar agrotóxicos nesta safra
+EmpAgr|Vereador CD	ok @AgCD3, nos vemos num próximo ano
+AgCD2|Prefeito CD	Olá Empresário,  esse ano não vou comprar de vocês novamente
+EmpAgr|Vereador CD	certo

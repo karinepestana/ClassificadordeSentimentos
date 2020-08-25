@@ -1,0 +1,248 @@
+RODADA 1
+EmpMaq|Vereador AT	Bom dia prezados clientes, aguardo vocês :smile:
+AgCD3	Bom dia
+AgAT2	Bom dia! Gostaria de 3 Pacotes 1 de Máquina, por favor
+AgCD3	Gostaria de 1 pacote 1
+EmpMaq|Vereador AT	Bom dia @AgAT2 como estás alugando mais pacotes posso fazer pelo preço normal
+EmpMaq|Vereador AT	Bom dia @AgCD3  1 pacote sai pelo preço alto, se encomendar mais posso fazer o preço normal
+AgAT2	@EmpAgr|Vereador AT Ah, que ótimo! Aceito
+EmpMaq|Vereador AT	@AgAT2 pedido confirmado, obrigada pela preferência :smile:
+AgCD3	@EmpAgr|Vereador AT a partir de quantas você baixa o preço?
+EmpMaq|Vereador AT	@AgCD3 a partir de 2 já sai pelo preço normal
+AgCD3	@EmpAgr|Vereador AT se eu levar um pacote 1 e um pacote 3, quanto me faz?
+EmpMaq|Vereador AT	@AgCD3 neste caso faço os dois pelo preço normal
+AgCD3	@EmpAgr|Vereador AT certo, irei levar
+EmpMaq|Vereador AT	@AgCD3 pedido confirmado, obrigada pela preferência :slight_smile:
+AgAT1|Fiscal AT	Bom dia gostaria de 6 pacotes do tipo 2
+EmpMaq|Vereador AT	Bom dia @AgAT1|Fiscal AT
+EmpMaq|Vereador AT	sim, essa quantidade pelo preço normal
+EmpMaq|Vereador AT	o que achas?
+AgAT1|Fiscal AT	estou comprando em uma quantidade alta, acredito que poderia fazer pelo  preço baixo
+EmpMaq|Vereador AT	vou verificar aqui, só um minuto
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT certo, faço os 6 pelo preço baixo
+AgAT1|Fiscal AT	Obrigada Emp
+AgAT1|Fiscal AT	:smile:
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT pedido confirmado, obrigada pela preferência :slight_smile:
+AgAT3	Bom dia, gostaria de 4 pacotes do tipo 2 e 2 pacotes do tipo 3, gostaria de preço baixo em todos
+EmpMaq|Vereador AT	Bom dia @AgAT3 essa quantidade faço pelo preço baixo
+AgAT3	fechado
+EmpMaq|Vereador AT	@AgAT3 pedido confirmado, obrigada pela preferência :slight_smile:
+AgCD2|Prefeito CD	Olá Empresário, gostaria de saber como devo proceder para comprar 3 pacotes 3... Qual o valor? Você tem disponível?
+AgCD3	Bom dia @EmpAgr|Vereador AT gostaria de comprar um pulverizador
+EmpMaq|Vereador AT	Bom dia @AgCD2|Prefeito CD gostaria de comprar 3 pacotes do tipo 3?
+EmpMaq|Vereador AT	Tenho disponível sim, como são 3 posso fazer preço normal
+AgCD3	@EmpAgr|Vereador AT Opa, desculpa não poderei fazer a compra, desisto
+AgCD2|Prefeito CD	não, tenho interessem em colheitadeira, semeadora e drones para expandir meu negócio
+EmpMaq|Vereador AT	@AgCD3 está bem, qualquer coisa entre em contato :slight_smile:
+AgCD2|Prefeito CD	O preço normal é quanto?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD sim, estas máquinas pertencem ao pacote 3
+EmpMaq|Vereador AT	Não temos valores em números, apenas os tipos baixo, normal e alto
+AgCD2|Prefeito CD	e nesse caso é baixo?
+EmpMaq|Vereador AT	Só um minuto, me perdi aqui
+EmpMaq|Vereador AT	vou lhe informar
+AgCD2|Prefeito CD	tudo bem
+AgCD2|Prefeito CD	Aguardo para fecharmos negócio
+EmpMaq|Vereador AT	Pacote 3: baixo 85, normal 90 e alto 95
+EmpMaq|Vereador AT	temos pulverizador também
+EmpMaq|Vereador AT	no preço baixo 395
+AgCD2|Prefeito CD	Amigo, não tenho interesse em pulverizador
+AgCD2|Prefeito CD	Vou querer apenas 2 pacotes então
+AgCD2|Prefeito CD	seu preço está caro
+EmpMaq|Vereador AT	Certo, de repente sua produção aumenta no próximo ano, daí fechamos :slight_smile:
+AgCD2|Prefeito CD	2 pacotes 3
+EmpMaq|Vereador AT	São os impostos
+EmpMaq|Vereador AT	2 pacotes do tipo 3 dá pra fazer preço normal
+EmpMaq|Vereador AT	fechamos?
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	fechamos
+EmpMaq|Vereador AT	pedido confirmado,obrigada pela preferência :smile:
+RODADA 2
+EmpMaq|Vereador AT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
+AgAT1|Fiscal AT	Pacote 3 poderia ser feito pelo preço baixo ?
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT quais seriam as quantidades?
+AgAT1|Fiscal AT	6
+EmpMaq|Vereador AT	Sim, consigo sim
+EmpMaq|Vereador AT	6 pacotes tipo 3 preço baixo?
+AgAT1|Fiscal AT	isso
+EmpMaq|Vereador AT	Ok, pedido procesado, obrigada prezada cliente
+EmpMaq|Vereador AT	volte sempre!!
+AgCD2|Prefeito CD	Olá Amigo, gostaria de adquirir um pulverizador?
+AgCD2|Prefeito CD	Você tem algum disponível?
+EmpMaq|Vereador AT	Bom dia @AgCD2|Prefeito CD
+EmpMaq|Vereador AT	Tenho sim, hoje está a preço baixo :slight_smile:
+AgCD2|Prefeito CD	Bom dia! Como você está? Como vai a família?
+AgCD2|Prefeito CD	ótimo
+AgCD3	Bom dia @EmpAgr|Vereador AT gostaria dos pulverizador e pacote 1 em promoção e adicionar mais um pacote 3, faria o pacote três com desconto?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD tudo tranquilo e com você e sua família?
+AgCD2|Prefeito CD	qto sairia os 3?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD 3 pulverizadores?
+AgCD2|Prefeito CD	tudo bem por aqui, trabalhando bastante :smile:
+EmpMaq|Vereador AT	Bom dia @AgCD3
+AgCD2|Prefeito CD	não,  1 pulverizador e pacote 1 em promoção e adicionar mais um pacote 3
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD o pacote 3 consigo pelo preço normal
+AgCD2|Prefeito CD	e o pacote 1?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD e @AgCD3 consigo o pacote 3 a preço normal
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD pacote 1 e pulverizador a preço baixo
+AgCD2|Prefeito CD	vou querer o pacote 3 então + 1 pulverizador
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD 1 pacote 3 a preço normal e 1 pulverizador a preço baixo, seria isto?
+AgCD2|Prefeito CD	seria isso sim
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD certo, pedido processado, obrigada e volte sempre :smile:
+AgCD2|Prefeito CD	eu que agradeço e até a próxima
+EmpMaq|Vereador AT	Até a próxima!!
+AgCD3	@EmpAgr|Vereador AT certo, o pulverizador e pacote 1 a valor baixo e o pacote 3 a normal
+EmpMaq|Vereador AT	@AgCD3 fechamos então?
+AgCD3	@EmpAgr|Vereador AT sim
+EmpMaq|Vereador AT	@AgCD3 certo, obrigada e volte sempre :smile:
+EmpMaq|Vereador AT	pedido processado!!
+AgAT1|Fiscal AT	Emp tive problemas em minhas produções, poderiamos trocar o pacote 3 pelo pacote 2 ?
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT claro, poderia sim, sem problemas
+EmpMaq|Vereador AT	Pedido processado, troca do pacote 3 pelo pacote 2 mantendo o preço acordado!
+AgAT1|Fiscal AT	qual era o preço ?
+EmpMaq|Vereador AT	baixo
+AgAT3	Quero 6 máquinas pacote 1 com preço baixo
+EmpMaq|Vereador AT	Bom dia @AgAT3 hj é seu dia de sorte, pacote 1 em promoção, preço baixo :slight_smile:
+EmpMaq|Vereador AT	6 pacotes do tipo 1 pelo preço baixo, fechamos?
+AgAT1|Fiscal AT	Quero cancelar total a compra das maquinas
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT ok cliente, estamos a disposição!!
+EmpMaq|Vereador AT	Pedido cancelado!
+AgAT3	Fechado. 6 pacotes tipo 1 preço baixo
+EmpMaq|Vereador AT	@AgAT3 pedido processado, obrigada e volte sempre :smile:
+AgAT3	aqui que vende pulverizador?
+EmpMaq|Vereador AT	isso, está na promoção preço baixo
+AgAT3	Quero 1
+EmpMaq|Vereador AT	ok, mais um pulverizador no seu pedido?
+EmpMaq|Vereador AT	preço baixo
+AgAT3	Não, quero 1 pulverizador preço baixo apenas
+EmpMaq|Vereador AT	quer cancelar o pedido anterior e ficar com apenas 1 pulverizador?
+AgAT3	não quero cancelar pedido. Eu comprei 6 pacotes tipo 1 preço baixo e agora quero comprar 1 pulverizador preço baixo
+EmpMaq|Vereador AT	Sim, então 6 pacotes do tipo 1 a preço baixo e mais um pulverizador a preço baixo, seria isto?
+AgAT3	isso
+EmpMaq|Vereador AT	ok, pedido processado, obrigada e volte sempre :slight_smile:
+RODADA 3
+EmpMaq|Vereador AT	Bom dia prezados clientes aguardo vocês na loja!!
+AgAT3	Bom dia, tem promoção hoje?
+EmpMaq|Vereador AT	Bom dia @AgAT3 sim, nas compras acima de 3 pacotes, qualquer um, preço baixo
+EmpMaq|Vereador AT	e pulverizador a preço normal
+AgAT3	4 pacotes do tipo 3 com preço baixo e 2 pacotes do tipo 2 preço normal, pode ser?
+EmpMaq|Vereador AT	Fechamos sim @AgAT3 , pedido confirmado, obrigada pela preferência :smile:
+AgAT1|Fiscal AT	gostaria de 6 pacotes do tipo 2 a preço baixo ?
+AgCD2|Prefeito CD	Olá amigo, gostaria de saber quais as promoções do dia?
+EmpMaq|Vereador AT	Bom dia @AgAT1|Fiscal AT
+EmpMaq|Vereador AT	Claro @AgAT1|Fiscal AT negócio fechado, pedido confirmado, obrigada pela preferência :smile:
+EmpMaq|Vereador AT	Bom dia @AgCD2|Prefeito CD como estás?
+EmpMaq|Vereador AT	nas compras acima de 3 pacotes preço baixo em qualquer pacote e pulverizador a preço normal
+AgAT2	Bom dia! Gostaria de 1 pulverizador, por favor
+EmpMaq|Vereador AT	Bom dia @AgAT2 hoje estamos com o pulverizador a preço normal
+AgAT2	Sem problemas
+AgCD2|Prefeito CD	Vou querer um também
+AgAT2	Muito obrigado! @EmpMaq
+EmpMaq|Vereador AT	@AgAT2 pedido confirmado, obrigada pela preferência :smile:
+AgCD2|Prefeito CD	Um puverizador
+AgCD2|Prefeito CD	você consegue fazer por preço baixo?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD se comprares mais dois outros pacotes quaisquer faço todos pelo preço baixo, o que achas?
+AgCD2|Prefeito CD	Infelizmente dessa vez vou comparar só o pulverizador
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD só consigo a preço normal
+AgCD2|Prefeito CD	Tudo bem
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD pedido confirmado, obrigada pela preferência :smile:
+AgCD2|Prefeito CD	De nada
+AgCD2|Prefeito CD	Até
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD volte sempre :smile:
+AgCD2|Prefeito CD	voltarei sim
+AgCD1|Fiscal CD	Bom dia
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD bom dia prezado cliente
+EmpMaq|Vereador AT	em que posso ajudar?
+AgCD1|Fiscal CD	Como estão os preços hoje?
+EmpMaq|Vereador AT	nas compras acima de 3 pacotes, qualquer um, preço baixo e pulverizador a preço normal
+AgCD1|Fiscal CD	gostaria de 6 pulverizadores
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD ok, pedido confirmado, preço normal, obrigada pela preferência e volte sempre!!
+AgCD1|Fiscal CD	Agradeço a atenção
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD Merece :smile:
+AgCD3	Olá @EmpAgr|Vereador AT , não irei comprar nada nesta rodada
+EmpMaq|Vereador AT	@AgCD3 olá, senti sua falta, te espero no próximo ano :smile:
+RODADA 4
+AgAT2	Bom dia!! Gostaria de 2 pulverizadores, por favor
+EmpMaq|Vereador AT	Bom dia @AgAT2 sim, faço pelo preço normal os dois
+AgAT2	Não faz pelo baixo?
+AgAT2	Fiz um pedido de pulverizador ano passado também. Já sou cliente da loja
+EmpMaq|Vereador AT	Infelizmente não tem como, a importação das máquinas está muito alta
+AgAT3	Quero 6 máquinas tipo 3 com preço baixo
+AgCD1|Fiscal CD	@EmpAgr|Vereador AT  Bom dia, quero 6 pacotes com semeadores somente, consegue me fazer por preço baixo?
+AgAT1|Fiscal AT	Bom dia gostaria de 6 maquinas  a preço baixo
+AgAT2	@EmpAgr|Vereador AT, tudo bem então. Fechado em preço normal!
+EmpMaq|Vereador AT	@AgAT3 bom dia, sim esta quantidade posso fazer a preço baixo
+AgAT1|Fiscal AT	qual pacote consegue fazer
+AgAT3	Obrigada!
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT bom dia, essa quantidade tbem consigo preço baixo
+AgCD2|Prefeito CD	Olá Amigo, gostaria de 3 pacotes 3
+AgAT1|Fiscal AT	ok fechamos em 6 pacotes 3 a preço baixo
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT qualquer pacote nessa quantidade
+EmpMaq|Vereador AT	@AgAT3 volte sempre :smile:
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT pedido confirmado.
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD consigo preço baixo nestes 3
+AgCD2|Prefeito CD	ótimo, vou querer levar então
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD sim, 6 pacotes do tipo 1? seria isto? consigo fazer preço baixo
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD obrigada e volte sempre
+AgCD1|Fiscal CD	@EmpAgr|Vereador AT perfeito, negocio fechado
+AgCD3	@EmpAgr|Vereador AT Bom dia, quero fazer um negócio grande desta vez, 6 pacotes 3 a preço normal, e 2 pulverizadores a preço baixo
+AgAT2	@EmpAgr|Vereador AT Fechado comigo?
+AgCD3	@EmpAgr|Vereador AT ganho algum brinde com esta compra?
+EmpMaq|Vereador AT	@AgCD1|Fiscal CD pedido confirmado, obrigada, volte sempre
+EmpMaq|Vereador AT	@AgCD3 bom dia, que bom que voltou
+EmpMaq|Vereador AT	@AgAT2 2 pulverizadores a preço normal, isso?
+AgAT2	Isso mesmo
+EmpMaq|Vereador AT	@AgAT2 ok, pedido confirmado, volte sempre!
+EmpMaq|Vereador AT	@AgCD3 ok, nessa quantidade consigo esse preço
+EmpMaq|Vereador AT	@AgCD3 claro, ganhas uma caixa de bombom, é só retirar na loja com seu comprovante de pagamento :slight_smile:
+AgAT2	Obrigado!
+AgCD3	@EmpAgr|Vereador AT hahahaha adorei, muito obrigada
+EmpMaq|Vereador AT	@AgCD3 imagina, merece :relaxed: :clap:
+RODADA 5
+AgAT3	Quero 6 P3 preço baixo
+EmpMaq|Vereador AT	@AgAT3  P3 só preço normal
+EmpMaq|Vereador AT	mesmo nessa quantidade
+AgAT3	Isso já foi melhor nos outros anos...
+AgAT3	Vou ter que ir pros agrotóxicos então
+AgAT3	vou querer apenas 4 máquinas P3 preço normal
+EmpMaq|Vereador AT	@AgAT3 pois é, as coisas estão difíceis esse ano
+EmpMaq|Vereador AT	4 P3 a preço normal, seria isso?
+AgAT3	sim
+AgAT1|Fiscal AT	Fechado a preço normal
+AgAT1|Fiscal AT	nao esquece
+AgAT2	Bom dia! Conseguiria pedir o mesmo pedido do ano passado? 2 pulverizadores a preço normal?
+AgAT1|Fiscal AT	hahahaha
+AgAT1|Fiscal AT	deixamos assim
+EmpMaq|Vereador AT	@AgAT3 pedido confirmado, obrigada e volte sempre!
+AgAT1|Fiscal AT	o pulverizador está a preço baixo ?/
+EmpMaq|Vereador AT	@AgAT2 infelizmente não conseguirei este preço, pulverizdores somente a preço alto
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT somente preço alto no pulverizador
+AgAT1|Fiscal AT	que pacotes tem a preço baixo ?
+AgAT2	@EmpAgr|Vereador AT :frowning: tudo bem. Vou querer mesmo assim
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT nenhum, somente preço normal dependendo da quantidade e preço alto
+EmpMaq|Vereador AT	@AgAT2 pedido confirmado, obrigada e volte sempre!
+AgAT2	Obrigado!
+EmpMaq|Vereador AT	@AgAT2 merece :smile:
+AgAT1|Fiscal AT	ok vou gerar  6 pacotes 3
+AgAT1|Fiscal AT	preço normal ?
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT sim, nessa quantidade posso fazer preço normal
+EmpMaq|Vereador AT	Pedido fechado?
+AgAT1|Fiscal AT	fechado
+EmpMaq|Vereador AT	@AgAT1|Fiscal AT pedido confirmado, obrigada e volte sempre :smile:
+AgCD3	@EmpAgr|Vereador AT Olá, gostaria de 6 pacotes 3 a valor normal e 2 pulverizadores a valor baixo, faria novamente?
+EmpMaq|Vereador AT	@AgCD3 infelizmente não conseguirei esse preço prezada cliente
+EmpMaq|Vereador AT	6 pacotes 3 a preço normal e 2 pulverizadores a preço alto
+AgCD2|Prefeito CD	Olá amigo, gostaria de 3 pacotes 3? qual o valor? se eu levar 4 você consegue um desconto?
+AgCD3	@EmpAgr|Vereador AT muito caro, estou levando muita coisa, não consegue fazer o desconto?
+EmpMaq|Vereador AT	@AgCD3 infelizmente não, se levar 3 pulverizadores faço um deles a preço normal
+AgCD3	@EmpAgr|Vereador AT não tenho dinheiro para tanto, ficarei somente com os 6 pacotes 3 a preço normal então
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD bom dia prezada cliente, 3 pacotes 3 preço alto se levar 4 faço preço normal
+EmpMaq|Vereador AT	@AgCD3 certo, pedido confirmado, obrigada e volte sempre!
+AgCD2|Prefeito CD	o 4o você faz por preço normal ou os 4 você faz por preço normal?
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD se comprar os 4 pacotes faço todos a preço normal
+AgCD2|Prefeito CD	ótimo
+AgCD2|Prefeito CD	vou querer os 4 entao
+EmpMaq|Vereador AT	4 Pacotes 4 a preço normal, isso?
+EmpMaq|Vereador AT	ops pacote 3
+AgCD2|Prefeito CD	isso
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD pedido confirmado, obrigada e volte sempre
+AgCD2|Prefeito CD	Até a próxima
+EmpMaq|Vereador AT	@AgCD2|Prefeito CD até o próximo ano!!

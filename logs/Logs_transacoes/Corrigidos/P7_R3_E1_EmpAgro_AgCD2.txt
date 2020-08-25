@@ -1,0 +1,13 @@
+EmpAgr|Vereador CD	bom dia!
+EmpAgr|Vereador CD	estou vendendo com um preço especial
+EmpAgr|Vereador CD	e produtos de ótima qualidade
+AgCD2|Prefeito CD	Bom dia!
+AgCD2|Prefeito CD	Como está @EmpAgr|Vereador CD ?
+AgCD2|Prefeito CD	Qual o preço especial do dia?
+EmpAgr|Vereador CD	tudo ótimo, estou vendendo todos produtos com preço normal @AgCD2|Prefeito CD
+EmpAgr|Vereador CD	imperdível!
+AgCD2|Prefeito CD	Vou querer 6  pacotes de agrotoxico super premium
+EmpAgr|Vereador CD	@AgCD2|Prefeito CD perfeito, obrigado pela preferência
+AgCD2|Prefeito CD	eu que agradeço, até o próximo mês
+EmpAgr|Vereador CD	@AgCD1|Fiscal CD vamos de agrotóxico? faço um preço camarada
+EmpAgr|Vereador CD	@AgAT1|Fiscal AT e @AgAT3 considerem comprar agrotóxico no próximo ano. ajudará a melhorarem suas produções. tempos difíceis estão se aproximando
