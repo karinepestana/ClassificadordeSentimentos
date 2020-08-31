@@ -1,0 +1,18 @@
+EmpFert	Promoções para a rodada, por ordem de chegada:
+EmpFert	- 2 lotes de 6 SP, preço baixo
+EmpFert	- 2 lotes de 6 P, preço baixo
+EmpFert	- 2 lotes de 6 C, preço baixo
+EmpFert	Depois dessas primeiras compras, o preço passa para normal
+EmpFert	Compras fora dos pacotes de 6 - preço alto
+EmpFert	-------------------------------------------
+AgCD1|Fiscal CD	@EmpFert 6 pacotes premium
+EmpFert	um momentinho gente, vou atendendo pela ordem de chegada
+EmpFert	@AgCD1|Fiscal CD beleza, posso fechar 6 P a preço baixo
+AgCD1|Fiscal CD	Ue mas nao tinha 2 por preço baixo?
+EmpFert	me enganei, eu editei
+EmpFert	é preço baixo, os 6
+AgCD1|Fiscal CD	AH sim
+AgCD1|Fiscal CD	Então
+AgCD1|Fiscal CD	Vou querer
+AgCD1|Fiscal CD	Fechado
+EmpFert	6 pacotes P pelo preço baixo para o @AgCD1|Fiscal CD, obrigado

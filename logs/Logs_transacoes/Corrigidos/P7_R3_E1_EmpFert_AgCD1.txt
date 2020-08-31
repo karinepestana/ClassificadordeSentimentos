@@ -14,4 +14,3 @@ AgCD1|Fiscal CD	fechado
 EmpFert	beleza, então
 EmpFert	6 fertilizantes sp para o cd1 no preço normal
 EmpFert	obrigado
-
