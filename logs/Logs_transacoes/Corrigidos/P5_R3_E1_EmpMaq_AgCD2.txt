@@ -1,15 +1,15 @@
-AgCD2|Prefeito CD	Gostaria de alugar 3 pacotes 3 e 3 pacotes 2. Consegue fazer pelo preço baixo?
-EmpMaq|Prefeito AT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
-EmpMaq|Prefeito AT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
-AgCD2|Prefeito CD	Quero os 4 pacotes tipo 2 e os 2 tipo 3 a preço normal então, pode ser?
-AgCD2|Prefeito CD	AgCD3 /\
-EmpMaq|Prefeito AT	certo @AgCD3 6 pacotes ao total.
-AgCD2|Prefeito CD	Não é cd2?
-EmpMaq|Prefeito AT	não sei você que falou, algo o seu ?
-AgCD2|Prefeito CD	Eu tinha dito 4 tipo 2 e 2 tipo 3 a preço normal, que era o que tu tinha comentado antes
-AgCD2|Prefeito CD	Fechado?
-EmpMaq|Prefeito AT	fechado voce é o @AgCD3 correto ?
-AgCD2|Prefeito CD	AgCD2
-AgCD2|Prefeito CD	2
-EmpMaq|Prefeito AT	ok
-AgCD2|Prefeito CD	Obrigado
+AgCD2|PrefeitoCD	Gostaria de alugar 3 pacotes 3 e 3 pacotes 2. Consegue fazer pelo preço baixo?
+EmpMaq|PrefeitoAT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
+EmpMaq|PrefeitoAT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
+AgCD2|PrefeitoCD	Quero os 4 pacotes tipo 2 e os 2 tipo 3 a preço normal então, pode ser?
+AgCD2|PrefeitoCD	AgCD3 /\
+EmpMaq|PrefeitoAT	certo @AgCD3 6 pacotes ao total.
+AgCD2|PrefeitoCD	Não é cd2?
+EmpMaq|PrefeitoAT	não sei você que falou, algo o seu ?
+AgCD2|PrefeitoCD	Eu tinha dito 4 tipo 2 e 2 tipo 3 a preço normal, que era o que tu tinha comentado antes
+AgCD2|PrefeitoCD	Fechado?
+EmpMaq|PrefeitoAT	fechado voce é o @AgCD3 correto ?
+AgCD2|PrefeitoCD	AgCD2
+AgCD2|PrefeitoCD	2
+EmpMaq|PrefeitoAT	ok
+AgCD2|PrefeitoCD	Obrigado

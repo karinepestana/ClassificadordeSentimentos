@@ -1,4 +1,4 @@
 AgAT1|VereadorAT	bom dia, gostaria de 6 sacos de arroz pelo preço baixo
-EmpSem|Fiscal AT	@AgAT1|VereadorAT Consigo pelo preço normal, pode ser?
-AgAT1|VereadorAT	@EmpSem|Fiscal AT aceito
-EmpSem|Fiscal AT	@AgAT1|VereadorAT Fechado então
+EmpSem|FiscalAT	@AgAT1|VereadorAT Consigo pelo preço normal, pode ser?
+AgAT1|VereadorAT	@EmpSem|FiscalAT aceito
+EmpSem|FiscalAT	@AgAT1|VereadorAT Fechado então

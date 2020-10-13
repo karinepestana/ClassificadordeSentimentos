@@ -1,23 +1,23 @@
 EmpAgro	pessoal promoção no agrotoxico comum
-AgCD3|Fiscal CD	Olá! Gostaria de comprar 6 sacos de agrotóxico SUPER PREMIUM pelo preço BAIXO! Eu conheço o Fiscal :wink:
+AgCD3|FiscalCD	Olá! Gostaria de comprar 6 sacos de agrotóxico SUPER PREMIUM pelo preço BAIXO! Eu conheço o Fiscal :wink:
 EmpAgro	e o fiscal nao vai me multar?
 EmpAgro	posso fazer 4 por preço baixo e 2 por preço normal
 EmpAgro	:wink:
-AgCD3|Fiscal CD	Se forem todos por preço Baixo consigo diminuir uma unidade na multa
+AgCD3|FiscalCD	Se forem todos por preço Baixo consigo diminuir uma unidade na multa
 EmpAgro	mas nem fui multada na rodada anterior
-AgCD3|Fiscal CD	hahahahah
+AgCD3|FiscalCD	hahahahah
 EmpAgro	ahhahaa
 EmpAgro	olha q o preço q tô fazendo é especial
-AgCD3|Fiscal CD	Por o Fiscal é Bonzinho :wink:
+AgCD3|FiscalCD	Por o Fiscal é Bonzinho :wink:
 EmpAgro	capz eu q cuidei do ambiente
 EmpAgro	@AgCD3|Fiscal CD to fazendo um preço especial pra ti
 EmpAgro	:wink:
-AgCD3|Fiscal CD	Então faz os 6 super premium por preço baixo?
+AgCD3|FiscalCD	Então faz os 6 super premium por preço baixo?
 EmpAgro	tu já está tendo a maior parte por preço baixo
 EmpAgro	só apenas duas por preço normal
 EmpAgro	:wink:
 EmpAgro	alguém mais gostaria de comprar agrotoxico??
-AgCD3|Fiscal CD	Ok... 6 super premium -- 2 preço normal 4 preço baixo
+AgCD3|FiscalCD	Ok... 6 super premium -- 2 preço normal 4 preço baixo
 EmpAgro	sim
 EmpAgro	vendido
 EmpAgro	:slight_smile:

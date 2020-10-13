@@ -1,6 +1,6 @@
-AgCD3|Fiscal CD	 Bom dia! Gostaria de comprar 6 sementes de SOJA pelo preço BAIXO :slight_smile:
-EmpSem|Fiscal AT	@AgCD3, consigo te vender apenas pelo preço normal
-AgCD3|Fiscal CD	Pode ser 3 sacos se SOJA pelo preço BAiXO e 3 sacos se SOJA pelo preço NORMAL?... Sou um bom pagador :slight_smile:
-EmpSem|Fiscal AT	@AgCD3 Tendo em vista que é soja, desta vez te consigo por este preço
-AgCD3|Fiscal CD	OK... Obrigado por vender 3 sacos de SOJA pelo preço BAiXO e 3 sacos de SOJA pelo preço NORMAL:slight_smile:
-EmpSem|Fiscal AT	mais alguém gostaria de comprar sementes?
+AgCD3|FiscalCD	 Bom dia! Gostaria de comprar 6 sementes de SOJA pelo preço BAIXO :slight_smile:
+EmpSem|FiscalAT	@AgCD3, consigo te vender apenas pelo preço normal
+AgCD3|FiscalCD	Pode ser 3 sacos se SOJA pelo preço BAiXO e 3 sacos se SOJA pelo preço NORMAL?... Sou um bom pagador :slight_smile:
+EmpSem|FiscalAT	@AgCD3 Tendo em vista que é soja, desta vez te consigo por este preço
+AgCD3|FiscalCD	OK... Obrigado por vender 3 sacos de SOJA pelo preço BAiXO e 3 sacos de SOJA pelo preço NORMAL:slight_smile:
+EmpSem|FiscalAT	mais alguém gostaria de comprar sementes?

@@ -1,9 +1,9 @@
-EmpSem|Fiscal AT	Bom dia pessoal
+EmpSem|FiscalAT	Bom dia pessoal
 AgAT3	gostaria de 6 sementes de soja por favor
-EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
-EmpSem|Fiscal AT	Já atendo os demais
-EmpSem|Fiscal AT	@AgAT3 6 soja a preço baixo, fechado?
-EmpSem|Fiscal AT	@AgAT3 confirma a negociação pra mim também?
+EmpSem|FiscalAT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	Já atendo os demais
+EmpSem|FiscalAT	@AgAT3 6 soja a preço baixo, fechado?
+EmpSem|FiscalAT	@AgAT3 confirma a negociação pra mim também?
 AgAT3	sim
 AgAT3	6 a preço baixo
-EmpSem|Fiscal AT	soja certo?
+EmpSem|FiscalAT	soja certo?

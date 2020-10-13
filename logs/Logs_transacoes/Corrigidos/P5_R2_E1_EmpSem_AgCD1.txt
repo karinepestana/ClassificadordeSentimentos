@@ -1,3 +1,3 @@
-AgCD1|Vereador CD	Olá, sou AgCD1 gostaria de comprar 6 sacos de soja
-EmpSem|Fiscal AT	@AgCD1 / @AgCD2 / @AgACD3 - 2 pelo baixo e 4 pelo normal
-AgCD1|Vereador CD	Ok, obrigada
+AgCD1|VereadorCD	Olá, sou AgCD1 gostaria de comprar 6 sacos de soja
+EmpSem|FiscalAT	@AgCD1 / @AgCD2 / @AgACD3 - 2 pelo baixo e 4 pelo normal
+AgCD1|VereadorCD	Ok, obrigada

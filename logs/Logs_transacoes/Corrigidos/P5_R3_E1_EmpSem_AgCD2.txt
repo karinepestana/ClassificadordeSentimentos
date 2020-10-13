@@ -1,7 +1,7 @@
-AgCD2|Prefeito CD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
-EmpSem|Fiscal AT	bom dia
-EmpSem|Fiscal AT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
-AgCD2|Prefeito CD	Quero 6 unidades da soja normal então
-AgCD2|Prefeito CD	Fechado?
-EmpSem|Fiscal AT	@AgCD2|Prefeito CD ok, vendido
-AgCD2|Prefeito CD	Obrigado!
+AgCD2|PrefeitoCD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+EmpSem|FiscalAT	bom dia
+EmpSem|FiscalAT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+AgCD2|PrefeitoCD	Quero 6 unidades da soja normal então
+AgCD2|PrefeitoCD	Fechado?
+EmpSem|FiscalAT	@AgCD2|PrefeitoCD ok, vendido
+AgCD2|PrefeitoCD	Obrigado!

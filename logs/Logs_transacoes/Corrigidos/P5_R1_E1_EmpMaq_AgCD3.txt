@@ -1,4 +1,4 @@
-AgCD3|Vereador CD	Bom dia! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
-EmpMaq|Prefeito AT	@AgCD3 tudo certo
-EmpMaq|Prefeito AT	Preços baixos
-AgCD3|Vereador CD	OK... Obrigado por vender 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
+AgCD3|VereadorCD	Bom dia! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:
+EmpMaq|PrefeitoAT	@AgCD3 tudo certo
+EmpMaq|PrefeitoAT	Preços baixos
+AgCD3|VereadorCD	OK... Obrigado por vender 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO :slight_smile:

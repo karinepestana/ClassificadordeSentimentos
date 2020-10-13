@@ -1,33 +1,33 @@
 EmpAgro	@everyone PROMOÇÃO NO AGROTOXICO, A CADA 2 SUPERPREMIUM PREÇO NORMAL O TERCEIRO SAI POR PREÇO BAIXO
 EmpAgro	SÓ ATE O FINAL DA RODADA
-AgAT2|Prefeita de Atlantis	olá, gostaria de comprar 3 premium
-AgAT2|Prefeita de Atlantis	por favor
-EmpAgro	@AgAT2|Prefeita de Atlantis se quiser 6 te faço todos por preço baixo
-AgAT2|Prefeita de Atlantis	não posso no momento
-AgAT2|Prefeita de Atlantis	seriam só 3 mesmo
-EmpAgro	@AgAT2|Prefeita de Atlantis 2 superpremium por preço normal e 1 baixo entao?
-AgAT2|Prefeita de Atlantis	não posso comprar super premium
-AgAT2|Prefeita de Atlantis	apenas premium
+AgAT2|PrefeitoAT	olá, gostaria de comprar 3 premium
+AgAT2|PrefeitoAT	por favor
+EmpAgro	@AgAT2|PrefeitoAT se quiser 6 te faço todos por preço baixo
+AgAT2|PrefeitoAT	não posso no momento
+AgAT2|PrefeitoAT	seriam só 3 mesmo
+EmpAgro	@AgAT2|PrefeitoAT 2 superpremium por preço normal e 1 baixo entao?
+AgAT2|PrefeitoAT	não posso comprar super premium
+AgAT2|PrefeitoAT	apenas premium
 EmpAgro	3 premium por preço normal
-AgAT2|Prefeita de Atlantis	ok
-AgAT2|Prefeita de Atlantis	obrigada
+AgAT2|PrefeitoAT	ok
+AgAT2|PrefeitoAT	obrigada
 EmpAgro	feito
-AgAT2|Prefeita de Atlantis	olha
+AgAT2|PrefeitoAT	olha
 EmpAgro	A empresa de agrotoxicos vai entrar em ferias pelos proximos 10 minutos, qualquer coisa chamar no zap
-AgAT2|Prefeita de Atlantis	pode ser um super premium e dois premium
-AgAT2|Prefeita de Atlantis	?
-AgAT2|Prefeita de Atlantis	olhei aqui e ficaria melhor
-AgAT2|Prefeita de Atlantis	você pode deixar o super premium por valor baixo?
+AgAT2|PrefeitoAT	pode ser um super premium e dois premium
+AgAT2|PrefeitoAT	?
+AgAT2|PrefeitoAT	olhei aqui e ficaria melhor
+AgAT2|PrefeitoAT	você pode deixar o super premium por valor baixo?
 EmpAgro	Não posso
 EmpAgro	Pra pessoal de Atlantis
-AgAT2|Prefeita de Atlantis	e como ficaria?
-AgAT2|Prefeita de Atlantis	eu gostaria de fazer uma troca de um premium para um super premuim
+AgAT2|PrefeitoAT	e como ficaria?
+AgAT2|PrefeitoAT	eu gostaria de fazer uma troca de um premium para um super premuim
 EmpAgro	Ficariam todos por valor normal
-AgAT2|Prefeita de Atlantis	ok, pode ser
+AgAT2|PrefeitoAT	ok, pode ser
 EmpAgro	Posso trocar 1 deles
-EmpAgro	Feito @AgAT2|Prefeita de Atlantis
-AgAT2|Prefeita de Atlantis	então você atualiza ai por favor? no total ficaram 3 produtos, certo?
-AgAT2|Prefeita de Atlantis	obrigada
+EmpAgro	Feito @AgAT2|PrefeitoAT
+AgAT2|PrefeitoAT	então você atualiza ai por favor? no total ficaram 3 produtos, certo?
+AgAT2|PrefeitoAT	obrigada
 EmpAgro	Isso
-AgAT2|Prefeita de Atlantis	Olá @EmpAgro, a prefeitura de Atlantis gostaria de fazer uma proposta
-AgAT2|Prefeita de Atlantis	Pode se dirigir até a nossa sala? Obrigada
+AgAT2|PrefeitoAT	Olá @EmpAgro, a prefeitura de Atlantis gostaria de fazer uma proposta
+AgAT2|PrefeitoAT	Pode se dirigir até a nossa sala? Obrigada

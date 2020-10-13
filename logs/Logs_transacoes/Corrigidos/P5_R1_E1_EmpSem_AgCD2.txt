@@ -1,11 +1,11 @@
-AgCD2|Prefeito CD	AgCD2: bom dia, gostaria de comprar sementes
-AgCD2|Prefeito CD	AgCD2: Se possível, gostaria de comprar 6 sementes de arroz
-EmpSem|Fiscal AT	@AgCD2 bom dia, tranquilo. Te consigo 4 pelo preço normal e 2 alto
-AgCD2|Prefeito CD	bom dia @EmpSem|Fiscal AT... não da pra melhorar esse preço?  essa semente já é intermediária, por si só já é cara :frowning:
-EmpSem|Fiscal AT	@AgCD2 se tu comprar 2 soja no lugar do arroz te faço tudo pelo preço normal
-AgCD2|Prefeito CD	@EmpSem|Fiscal AT, fazemos assim então, me vende 4 de arroz pelo preço normal e eu levo as duas de soja se for pelo preço
-EmpSem|Fiscal AT	ok @AgCD2 baixo, que tal?
-AgCD2|Prefeito CD	feito então? 4 sementes de arroz(preço normal) e duas de soja (preço baixo)?
-EmpSem|Fiscal AT	isso
-AgCD2|Prefeito CD	beleza então, obrigado
-EmpSem|Fiscal AT	mais alguém gostaria de comprar sementes?
+AgCD2|PrefeitoCD	AgCD2: bom dia, gostaria de comprar sementes
+AgCD2|PrefeitoCD	AgCD2: Se possível, gostaria de comprar 6 sementes de arroz
+EmpSem|FiscalAT	@AgCD2 bom dia, tranquilo. Te consigo 4 pelo preço normal e 2 alto
+AgCD2|PrefeitoCD	bom dia @EmpSem|Fiscal AT... não da pra melhorar esse preço?  essa semente já é intermediária, por si só já é cara :frowning:
+EmpSem|FiscalAT	@AgCD2 se tu comprar 2 soja no lugar do arroz te faço tudo pelo preço normal
+AgCD2|PrefeitoCD	@EmpSem|Fiscal AT, fazemos assim então, me vende 4 de arroz pelo preço normal e eu levo as duas de soja se for pelo preço
+EmpSem|FiscalAT	ok @AgCD2 baixo, que tal?
+AgCD2|PrefeitoCD	feito então? 4 sementes de arroz(preço normal) e duas de soja (preço baixo)?
+EmpSem|FiscalAT	isso
+AgCD2|PrefeitoCD	beleza então, obrigado
+EmpSem|FiscalAT	mais alguém gostaria de comprar sementes?

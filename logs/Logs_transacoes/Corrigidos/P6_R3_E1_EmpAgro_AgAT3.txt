@@ -10,7 +10,7 @@ AgAT3	na verdade eles pediram pra ti n vender em troca de alguma coisa(provavelm
 AgAT3	e eu quero saber quanto
 EmpAgro	Eles me ofereceram 150 garantidos por rodada
 AgAT3	eu te pago isso mais a semente
-EmpAgro	Qualquer reclamação contate a prefeitura @AgAT2|Prefeita de Atlantis
+EmpAgro	Qualquer reclamação contate a prefeitura @AgAT2|PrefeitoAT
 AgAT3	topa?
 EmpAgro	Serei obrigado a negar a proposta
 EmpAgro	Entre em contato com a prefeitura

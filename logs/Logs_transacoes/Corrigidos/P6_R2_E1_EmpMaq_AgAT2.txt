@@ -1,24 +1,24 @@
-AgAT2|Prefeita de Atlantis	olá, gostaria de 3 pacotes de máquinas do tipo 3
+AgAT2|PrefeitoAT	olá, gostaria de 3 pacotes de máquinas do tipo 3
 EmpMaq	No momento a empresa está esperando o resultado a rodada 1... Aguardem um momento... Obrigado :slight_smile:
-AgAT2|Prefeita de Atlantis	mas dependendo não vão ter máquinas disponíveis?
+AgAT2|PrefeitoAT	mas dependendo não vão ter máquinas disponíveis?
 EmpMaq	Ainda não tenho o resultado da rodada 1... isso influenciará na politica de vendas da rodada 2... Na política tudo é possível :smiling_imp:
 EmpMaq	hahhahahah
-AgAT2|Prefeita de Atlantis	entendo
-AgAT2|Prefeita de Atlantis	vamos aguardar então
+AgAT2|PrefeitoAT	entendo
+AgAT2|PrefeitoAT	vamos aguardar então
 EmpMaq	----------------------------------------- Rodada 2 ---------------------------------------------
 EmpMaq	Devido a rigorosa fiscalização imposta pelas autoridades competentes a NOVA política adotada pela empresa é de vender no máximo 3 UNIDADES de qualquer pacote a preço ALTO. Agradeço a compreensão de todos os clientes e o incentivo à tecnologia no campo.
-AgAT2|Prefeita de Atlantis	Olá
-AgAT2|Prefeita de Atlantis	Acredito que a prefeitura possa te auxiliar
-AgAT2|Prefeita de Atlantis	Porque não conversam?
-AgAT2|Prefeita de Atlantis	eu gostaria de comprar 3 unidades do pacote 3, por favor
-EmpMaq	OK @AgAT2|Prefeita de Atlantis ... compra efetuda
-AgAT2|Prefeita de Atlantis	obrigada
-AgAT2|Prefeita de Atlantis	olá
-AgAT2|Prefeita de Atlantis	gostaria de comprar um pulverizador
-AgAT2|Prefeita de Atlantis	alugar*
-AgAT2|Prefeita de Atlantis	haha
+AgAT2|PrefeitoAT	Olá
+AgAT2|PrefeitoAT	Acredito que a prefeitura possa te auxiliar
+AgAT2|PrefeitoAT	Porque não conversam?
+AgAT2|PrefeitoAT	eu gostaria de comprar 3 unidades do pacote 3, por favor
+EmpMaq	OK @AgAT2|PrefeitoAT ... compra efetuda
+AgAT2|PrefeitoAT	obrigada
+AgAT2|PrefeitoAT	olá
+AgAT2|PrefeitoAT	gostaria de comprar um pulverizador
+AgAT2|PrefeitoAT	alugar*
+AgAT2|PrefeitoAT	haha
 EmpMaq	Máximo de 3 Unidades e preço Alto
-AgAT2|Prefeita de Atlantis	eu gostaria de 1
-AgAT2|Prefeita de Atlantis	obrigada
-EmpMaq	Ok @AgAT2|Prefeita de Atlantis 1 pulverizador a preço alto
-AgAT2|Prefeita de Atlantis	ok
+AgAT2|PrefeitoAT	eu gostaria de 1
+AgAT2|PrefeitoAT	obrigada
+EmpMaq	Ok @AgAT2|PrefeitoAT 1 pulverizador a preço alto
+AgAT2|PrefeitoAT	ok

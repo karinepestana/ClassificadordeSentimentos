@@ -1,17 +1,17 @@
-EmpMaq|Prefeito AT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
-AgCD1|Fiscal CD	Olá, gostaria de comprar 3 unidades do pacote 2 e 3 unidades do pacote 3
-AgCD1|Fiscal CD	Tem que dividir o pacote 3 então
-EmpMaq|Prefeito AT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
-AgCD1|Fiscal CD	quero 3 do pacote 2 e 3 do pacote 3
-EmpMaq|Prefeito AT	@AgCD1  preços apenas altos agora, ok?
-AgCD1|Fiscal CD	eu fui a segunda a pedir
-AgCD1|Fiscal CD	isso está errado
-AgCD1|Fiscal CD	Gostaria de 3 do pacote 2 e 3 do pacote 3
-EmpMaq|Prefeito AT	@AgCD1 gostaria de fazer o pedido com o valor alto  totalizando 5 pacotes ?
-AgCD1|Fiscal CD	Gostaria de 6 pacotes
-AgCD1|Fiscal CD	pode ser 2 de cada então?
-AgCD1|Fiscal CD	2 do 1, 2 do 2 e 2 do 3?
-EmpMaq|Prefeito AT	@AgCD1 pode, compra fechada 2 tipo 1 baixo, 2 tipo 2 alto e 2 tipo 3 alto
-EmpMaq|Prefeito AT	mais alguém gostaria de algo ?
-EmpMaq|Prefeito AT	caso ninguém queira fechamos
-EmpMaq|Prefeito AT	Negociações fechadas
+EmpMaq|PrefeitoAT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
+AgCD1|FiscalCD	Olá, gostaria de comprar 3 unidades do pacote 2 e 3 unidades do pacote 3
+AgCD1|FiscalCD	Tem que dividir o pacote 3 então
+EmpMaq|PrefeitoAT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
+AgCD1|FiscalCD	quero 3 do pacote 2 e 3 do pacote 3
+EmpMaq|PrefeitoAT	@AgCD1  preços apenas altos agora, ok?
+AgCD1|FiscalCD	eu fui a segunda a pedir
+AgCD1|FiscalCD	isso está errado
+AgCD1|FiscalCD	Gostaria de 3 do pacote 2 e 3 do pacote 3
+EmpMaq|PrefeitoAT	@AgCD1 gostaria de fazer o pedido com o valor alto  totalizando 5 pacotes ?
+AgCD1|FiscalCD	Gostaria de 6 pacotes
+AgCD1|FiscalCD	pode ser 2 de cada então?
+AgCD1|FiscalCD	2 do 1, 2 do 2 e 2 do 3?
+EmpMaq|PrefeitoAT	@AgCD1 pode, compra fechada 2 tipo 1 baixo, 2 tipo 2 alto e 2 tipo 3 alto
+EmpMaq|PrefeitoAT	mais alguém gostaria de algo ?
+EmpMaq|PrefeitoAT	caso ninguém queira fechamos
+EmpMaq|PrefeitoAT	Negociações fechadas

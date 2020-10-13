@@ -1,5 +1,5 @@
-AgAT2|Prefeita de Atlantis	olá, eu gostaria de 6 sacos de soja
-EmpSem|Fiscal AT	Ok, vamos lá
-EmpSem|Fiscal AT	Acabei pulando o @AgAT2|Prefeita de Atlantis, desculpa
-EmpSem|Fiscal AT	Faço pelo mesmo preço, 3 normal e 3 baixo, feito?
-AgAT2|Prefeita de Atlantis	tudo bem, pode ser
+AgAT2|PrefeitoAT	olá, eu gostaria de 6 sacos de soja
+EmpSem|FiscalAT	Ok, vamos lá
+EmpSem|FiscalAT	Acabei pulando o @AgAT2|PrefeitoAT, desculpa
+EmpSem|FiscalAT	Faço pelo mesmo preço, 3 normal e 3 baixo, feito?
+AgAT2|PrefeitoAT	tudo bem, pode ser

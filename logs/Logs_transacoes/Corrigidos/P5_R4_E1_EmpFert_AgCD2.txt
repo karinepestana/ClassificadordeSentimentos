@@ -1,5 +1,5 @@
-AgCD2|Prefeito CD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo?
+AgCD2|PrefeitoCD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo?
 EmpFert	Bom dia
 EmpFert	@AgCD2,  posso fazer 4 SP a preço normal e 2 a preço baixo
-AgCD2|Prefeito CD	Fechado então @EmpFert , 4 SP normal e 2 baixo
+AgCD2|PrefeitoCD	Fechado então @EmpFert , 4 SP normal e 2 baixo
 EmpFert	@AgCD2 posso fazer 4 SP a preço normal e 2 a preço baixo (FECHADO)

@@ -1,14 +1,14 @@
-AgCD3|Vereador CD	Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO!
-EmpMaq|Prefeito AT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
-EmpMaq|Prefeito AT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
-AgCD3|Vereador CD	Eu quero 6 pacotes do tipo 3... Era isso que vc confirmou?
-AgCD3|Vereador CD	AgCD3
-EmpMaq|Prefeito AT	O pedido que se confirmou foi o do @AgCD2, agora disponibilizamos apenas pacotes altos 2 e 3, pacote normal 1 e pulverizantes baixos
-AgCD3|Vereador CD	Eu quero 6 pacotes 3... Qual o valor?
-EmpMaq|Prefeito AT	@AgCD3 agora valores apenas alto
-EmpMaq|Prefeito AT	@AgCD3 vai fechar ?
-AgCD3|Vereador CD	Ok... 6 pacotes do tipo 3 por valor ALTO. Obrigado!
-EmpMaq|Prefeito AT	@AgCD3 fechado
-EmpMaq|Prefeito AT	mais alguém gostaria de algo ?
-EmpMaq|Prefeito AT	caso ninguém queira fechamos
-EmpMaq|Prefeito AT	Negociações fechadas
+AgCD3|VereadorCD	Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3 pelo preço BAIXO!
+EmpMaq|PrefeitoAT	Bom dia a todos, estamos em um tempo de dificuldades desta maneira os preços estão normal e altos. Disponibilizo 2 pacotes do tipo 3 a preço normal e os outros preço alto
+EmpMaq|PrefeitoAT	4 pacotes do tipo 2 a preço normal e o resto preço alto. e pacote do tipo 1 a preço normal
+AgCD3|VereadorCD	Eu quero 6 pacotes do tipo 3... Era isso que vc confirmou?
+AgCD3|VereadorCD	AgCD3
+EmpMaq|PrefeitoAT	O pedido que se confirmou foi o do @AgCD2, agora disponibilizamos apenas pacotes altos 2 e 3, pacote normal 1 e pulverizantes baixos
+AgCD3|VereadorCD	Eu quero 6 pacotes 3... Qual o valor?
+EmpMaq|PrefeitoAT	@AgCD3 agora valores apenas alto
+EmpMaq|PrefeitoAT	@AgCD3 vai fechar ?
+AgCD3|VereadorCD	Ok... 6 pacotes do tipo 3 por valor ALTO. Obrigado!
+EmpMaq|PrefeitoAT	@AgCD3 fechado
+EmpMaq|PrefeitoAT	mais alguém gostaria de algo ?
+EmpMaq|PrefeitoAT	caso ninguém queira fechamos
+EmpMaq|PrefeitoAT	Negociações fechadas

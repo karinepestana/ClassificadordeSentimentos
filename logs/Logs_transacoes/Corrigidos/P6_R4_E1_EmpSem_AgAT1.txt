@@ -1,4 +1,4 @@
-EmpSem|Fiscal AT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
 AgAT1|VereadorAT	Olá, gostaria de 6 sacos de hortaliças pelo preço baixo
-EmpSem|Fiscal AT	@AgAT1|VereadorAT 6 hortaliças pelo preço baixo então, fechado?
-AgAT1|VereadorAT	@EmpSem|Fiscal AT fechado
+EmpSem|FiscalAT	@AgAT1|VereadorAT 6 hortaliças pelo preço baixo então, fechado?
+AgAT1|VereadorAT	@EmpSem|FiscalAT fechado

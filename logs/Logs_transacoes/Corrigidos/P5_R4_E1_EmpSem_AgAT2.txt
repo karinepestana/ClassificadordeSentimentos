@@ -1,8 +1,8 @@
 AgAT2	Oi gostaria de 6 sojas como ta o preço
-EmpSem|Fiscal AT	@AgAT3 @AgAT2 6 preço baixo, já que vocês tinham reservado
+EmpSem|FiscalAT	@AgAT3 @AgAT2 6 preço baixo, já que vocês tinham reservado
 AgAT2	uuuue
 AgAT2	q q e isso
 AgAT2	Oi gostaria de 6 sojas como ta o preço
-EmpSem|Fiscal AT	@AgAT2 preço baixo
+EmpSem|FiscalAT	@AgAT2 preço baixo
 AgAT2	me ve ai 6 então
-EmpSem|Fiscal AT	feito @AgAT2
+EmpSem|FiscalAT	feito @AgAT2

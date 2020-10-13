@@ -6,12 +6,12 @@ EmpFert	- Comum: preço baixo
 EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
 EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
 EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
-AgCD2|Prefeito CD	Bom dia
-AgCD2|Prefeito CD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo? Só comprei a preço normal/alto até agora :
-AgCD2|Prefeito CD	:/
+AgCD2|PrefeitoCD	Bom dia
+AgCD2|PrefeitoCD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo? Só comprei a preço normal/alto até agora :
+AgCD2|PrefeitoCD	:/
 EmpFert	Bom dia @AgCD2, posso fazer 5 pelo preço normal e 1 pelo preço baixo
-AgCD2|Prefeito CD	Podemos fazer 3/3?
-AgCD2|Prefeito CD	Eu só paguei preço normal/alto até agora :frowning:
-AgCD2|Prefeito CD	Fehado?
+AgCD2|PrefeitoCD	Podemos fazer 3/3?
+AgCD2|PrefeitoCD	Eu só paguei preço normal/alto até agora :frowning:
+AgCD2|PrefeitoCD	Fehado?
 EmpFert	Realmente @AgCD2, verifiquei nas fichas e voce só pagou preço normal, dessa vez vou te fazer um desconto melhor.. pode ser 3 pelo preço normal e 3 pelo preço baixo pra voce
-AgCD2|Prefeito CD	Fechado então, obrigado :wink:
+AgCD2|PrefeitoCD	Fechado então, obrigado :wink:

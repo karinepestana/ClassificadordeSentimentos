@@ -1,6 +1,6 @@
-AgCD3|Vereador CD	Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3. Qual o valor? :slight_smile:
-EmpMaq|Prefeito AT	Ola pacotes do tipo 3 e pulverizadores apenas preço alto
-EmpMaq|Prefeito AT	pacotes tipo 2 e 1 temos 3 unidades cada preço baixo e o resto medio
-EmpMaq|Prefeito AT	Disponibilizamos para quem quiser pacotes do tipo 1 a preço baixo, 3 pacotes do tipo 2 também a preço baixo
-EmpMaq|Prefeito AT	e pacotes do tipo 3 e pulverizadores a preço alto
-EmpMaq|Prefeito AT	Caso ninguém tenha mais nenhuma negociação para fazer fechamos as vendas por hoje
+AgCD3|VereadorCD	Olá! Gostaria de comprar 6 (SEIS) unidades do PACOTE 3. Qual o valor? :slight_smile:
+EmpMaq|PrefeitoAT	Ola pacotes do tipo 3 e pulverizadores apenas preço alto
+EmpMaq|PrefeitoAT	pacotes tipo 2 e 1 temos 3 unidades cada preço baixo e o resto medio
+EmpMaq|PrefeitoAT	Disponibilizamos para quem quiser pacotes do tipo 1 a preço baixo, 3 pacotes do tipo 2 também a preço baixo
+EmpMaq|PrefeitoAT	e pacotes do tipo 3 e pulverizadores a preço alto
+EmpMaq|PrefeitoAT	Caso ninguém tenha mais nenhuma negociação para fazer fechamos as vendas por hoje

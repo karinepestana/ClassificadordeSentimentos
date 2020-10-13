@@ -1,6 +1,6 @@
-EmpSem|Fiscal AT	bom dia
+EmpSem|FiscalAT	bom dia
 AgAT3	bom dia! gostaria de comprar 6 sementes de hortaliças por um preço mais baixo.
-EmpSem|Fiscal AT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+EmpSem|FiscalAT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
 AgAT3	vou trocar minha compra então, quero 6 sementes de arroz.
-EmpSem|Fiscal AT	ok @AgAT2 e @AgAT3 3 arroz preço baixo e 3 normal
+EmpSem|FiscalAT	ok @AgAT2 e @AgAT3 3 arroz preço baixo e 3 normal
 AgAT3	feito! obrigada.

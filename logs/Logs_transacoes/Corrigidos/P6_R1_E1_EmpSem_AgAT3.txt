@@ -1,4 +1,4 @@
 AgAT3	Gostaria de 6 sojas também
-EmpSem|Fiscal AT	Bom dia pessoal, vou atender na ordem em que chegaram
-EmpSem|Fiscal AT	@AgAT3 também pela ordem, 6 sacos de soja pelo preço baixo, fechado?
+EmpSem|FiscalAT	Bom dia pessoal, vou atender na ordem em que chegaram
+EmpSem|FiscalAT	@AgAT3 também pela ordem, 6 sacos de soja pelo preço baixo, fechado?
 AgAT3	ok

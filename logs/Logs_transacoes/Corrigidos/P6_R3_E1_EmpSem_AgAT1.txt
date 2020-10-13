@@ -1,7 +1,7 @@
-EmpSem|Fiscal AT	Bom dia pessoal
+EmpSem|FiscalAT	Bom dia pessoal
 AgAT1|VereadorAT	olá, bom dia, gostaria de ver sobre 6 sacos de arroz pelo preço baixo (dados os problemas da última estiagem)
-EmpSem|Fiscal AT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
-EmpSem|Fiscal AT	Já atendo os demais
-AgAT1|VereadorAT	@EmpSem|Fiscal AT positivo, podes fechar 6 pacotes de arroz com preço baixo por favor
-EmpSem|Fiscal AT	@AgAT1|VereadorAT fechado
+EmpSem|FiscalAT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	Já atendo os demais
+AgAT1|VereadorAT	@EmpSem|FiscalAT positivo, podes fechar 6 pacotes de arroz com preço baixo por favor
+EmpSem|FiscalAT	@AgAT1|VereadorAT fechado
 AgAT1|VereadorAT	obrigado

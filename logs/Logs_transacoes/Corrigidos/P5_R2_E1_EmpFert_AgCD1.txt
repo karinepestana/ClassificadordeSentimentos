@@ -6,9 +6,9 @@ EmpFert	- Comum: preço baixo
 EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
 EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
 EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
-AgCD1|Vereador CD	Olá, sou AgCD1 e gostaria de comprar 6 fertilizantes do tipo premium, o preço é negociável?
+AgCD1|VereadorCD	Olá, sou AgCD1 e gostaria de comprar 6 fertilizantes do tipo premium, o preço é negociável?
 EmpFert	@AgCD1, 6 fertilizantes premium posso te fazer 5 com preço baixo e 1 com preço normal
-AgCD1|Vereador CD	Ok, obrigada!
+AgCD1|VereadorCD	Ok, obrigada!
 EmpFert	@AgCD1, tudo certo :slight_smile:
 EmpFert	promoção relampago
 EmpFert	fertilizante premium preço baixo
