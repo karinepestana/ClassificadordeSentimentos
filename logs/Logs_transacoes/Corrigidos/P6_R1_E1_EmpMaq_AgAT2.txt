@@ -3,7 +3,7 @@ EmpMaq	Bom dia... Essa quantia sai pelo valor alto... Ok?
 AgAT2|PrefeitoAT	você tem alguma promoção?
 EmpMaq	Sim... Pra compras acima de 5 unidades
 EmpMaq	:slight_smile:
-AgAT2|Prefeita de Atlantis	o preço é baixo?
+AgAT2|PrefeitoAT	o preço é baixo?
 EmpMaq	Neste caso sim
 AgAT2|PrefeitoAT	então pode ser 6
 AgAT2|PrefeitoAT	obrigada
