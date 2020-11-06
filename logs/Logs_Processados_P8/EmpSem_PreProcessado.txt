@@ -1,0 +1,123 @@
+RODADA 1
+AgCD2|VereadorCD	Boa tarde senhor vendedor
+EmpSem|PrefeitoAT	Olá agricultor @AgCD2|VereadorCD como posso te ajudar?
+AgAT1|VereadorAT	olá amigo, como estão os preços de soja e arroz?
+AgCD2|VereadorCD	desejo comprar 6 sementes por preço normal
+AgCD2|VereadorCD	de soja*
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD A temporada da soja está muito fraca esse ano, estou com safras baixissimas, o que levou a supervalorização da soja portando estou vendendo apenas a preço alto
+AgAT2|FiscalAT	Boa tarde @EmpSem|PrefeitoAT , gostaria de comprar 4 semente de arroz, por quanto estão saindo ?
+AgCD2|VereadorCD	desejo 6 sementes de hortaliças
+AgCD2|VereadorCD	por qual valor podemos negociar?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT olá agricultor, bem vindo a minha loja, no momento disponho de baixos estoques de soja e só vendo por valor alto, já arroz se desejar levar os 6 lotes consigo te fazer pelo preço normal
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT olá agricultor, consigo te fazer pelo valor normal do produto, te interessa fazer negócio?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD as hortaliças posso te dar desconto em duas pelo valor baixo e as quatro demais pelo valor normal, o que acha colega?
+AgCD2|VereadorCD	@EmpSem|PrefeitoAT otimo
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Muito bom negociar com você agricultor, volte sempre!
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT  vou levar 6 lote de arroz, qual seria o total ?
+AgAT1|VereadorAT	ok! vou ficar com 6 pacotes de arroz com preço normal. agradeço @EmpSem|PrefeitoAT
+AgCD1|FiscalCD	olá @EmpSem|PrefeitoAT! Gostaria de comprar 4 sementes de arroz
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT essa temporada está muito fraca a produção, consigo somente pelo valor normal os 6 pacotes de arroz, vamos fechar negócio?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Confirmado agricultor
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT negocio fechado.
+EmpSem|PrefeitoAT	Bem vindo @AgCD1|FiscalCD podemos negociar as 4 sementes de arroz pelo valor normal? A procura de arroz está muito alta ultimamente...
+AgCD1|FiscalCD	ok @EmpSem|PrefeitoAT. vou levar!
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Negócio fechado!
+RODADA 2
+AgCD2|VereadorCD	Gostaria de comprar 6 sementes de hostaliças
+EmpSem|PrefeitoAT	Olá agricultor
+AgAT1|VereadorAT	olá, quero plantar soja neste ano. me vendes a que preço, empresário?
+AgAT2|FiscalAT	boa tarde @EmpSem|PrefeitoAT , gostaria de compra 6 soja
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Vendo as sementes pelo valor normal, poderia ser?
+AgCD2|VereadorCD	otimo
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Soja eu tive uma produção muito baixa, portanto só está sendo vendida pelo valor alto
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos fechar negócio pelo valor alto? Soja infelizmente não te consigo outro peço agricultor!
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Volte sempre agricultor
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT pode ser.
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Obrigada pela compreensão agricultor, vou separar suas 6 sementes de soja pelo valor alto
+AgAT1|VereadorAT	@EmpSem|PrefeitoAT vou querer comprar mesmo com valor alto as 6 sojas. vou apostar, quero uma produtividade alta este ano
+AgAT1|VereadorAT	estamos acertados?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Ta certo agricultor, nós produtores temos que fazer o possível para termos algum lucro, faz parte!
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Pode deixar que já anotei seu pedido
+AgCD1|FiscalCD	Olá @EmpSem|PrefeitoAT ! gostaria de comprar 2 sementes de arroz.
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Olá agricultor, seja bem vindo. Levando somente duas sementes de arroz consigo apenas te fazer por um valor alto.
+EmpSem|PrefeitoAT	Não deseja levar mais sementes?
+AgCD1|FiscalCD	tudo bem, pode ser duas no valor alto mesmo, na próxima vez eu compro mais
+EmpSem|PrefeitoAT	Como desejar
+EmpSem|PrefeitoAT	Pedido anotado
+RODADA 3
+AgAT1	olá amigo, quais são as variedades de sementes para este ano?
+AgCD2|VereadorCD	Boa tarde. Gostaria de comprar sementes de hostaliças
+AgCD2|VereadorCD	6 para ser mais exato
+AgCD2|VereadorCD	qual o valor?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Olá agricultor no momento disponho de todas as variedades de sementes, teria interesse em qual?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Para 6 sementes de hortaliças estou com promoção essa rodada! F
+AgCD2|VereadorCD	otimo
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Faço pelo valor baixo as 6, podemos fechar negócio?
+AgCD2|VereadorCD	vou querer as 6 pelo preço que for
+AgCD2|VereadorCD	fechado
+AgAT1|VereadorAT	ah perfeito! estou interessado em 3 pacotes de arroz e 3 de soja. pode me vender por preço normal?
+AgAT2|FiscalAT	Gostaria de comprar 4 sementes de hortaliças e 2 de soja, qual o valor que você me consegue empresário?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Obrigada agircultor, pedido anotado!
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Estou com promoção esta rodada, faço as sementes de arroz pelo preço baixo e as de soja somente pelo valor normal, te interessa agricultor?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Devido a promoção dessa rodada consigo negociar as sementes de hortaliças pelo valor baixo e as duas de soja pelo valor normal
+AgAT1|VereadorAT	@EmpSem|PrefeitoAT hmm, interessante... fechamos então. 3 arroz pelo preço baixo e 3 sojas com preço normal
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos fechar negócio?
+AgCD1|FiscalCD	olá @EmpSem|PrefeitoAT ! Gostaria de comprar 3 sementes de arroz. Quanto vai custar?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Registrei seu pedido
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT huum, gostei dessa proposta empresário.
+AgAT2|FiscalAT	Fechado
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Somente 3? Se levar 6 sementes consigo algum desconto dependendo da variedade
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Caso deseje somente as 3 consigo te vender apenas pelo valor baixo
+AgCD1|FiscalCD	vou levar mais 3 sementes de hortaliça
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Certo agricultor, fica então 6 sementes de hortaliças pelo valor baixo
+AgCD1|FiscalCD	na verdade, vou querer 3 de arroz e mais 3 de hortaliças
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Desculpa agricultor, confundi os pedidos.
+EmpSem|PrefeitoAT	Já fiz a correção aqui
+AgCD1|FiscalCD	tá bem @EmpSem|PrefeitoAT
+RODADA 4
+AgCD2|VereadorCD	Olá
+EmpSem|PrefeitoAT	Olá agricultores minha loja está aberta para negociações
+AgAT1|VereadorAT	olá, este ano irei tentar novas sementes. Gostaria de 2 de cada
+AgAT1|VereadorAT	como estão os preços?
+AgCD2|VereadorCD	desejo comprar 6 sementes de hotaliças
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Consigo negociar as sementes de hortaliças e as sementes de arroz pelo valor baixo, porém a de soja essa rodada só estou vendendo pelo preço alto
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT te interessa fazer negócio?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Certo agricultor, como irá levar as 6 sementes posso fazer todas pelo valor baixo
+AgAT1|VereadorAT	como ano passado obtive uma boa produtividade, vou aceitar sua oferta @EmpSem|PrefeitoAT
+AgCD2|VereadorCD	otimo compro
+AgAT2|FiscalAT	Gostaria de comprar 6 sementes de soja, qual o valor?
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT gostaria de comprar 4 sementes de arroz. Quanto vai custar?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Vou separar suas sementes e elas serão enviadas para você
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Soja estou vendendo apenas pelo valor alto
+AgCD2|VereadorCD	@EmpSem|PrefeitoAT Okay, agradeço;
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Certo agricultor, espero que tenha uma boa produção esse ano também!
+EmpSem|PrefeitoAT	Minhas sementes são de excelente qualidade, posso garantir
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD 4 sementes de arroz vendo todas pelo valor normal
+AgCD1|FiscalCD	tá bem @EmpSem|PrefeitoAT! vou levar
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT Poxa empresário, sou um cliente fiel. Não conseguiria desconto em nenhuma semente? Tenho sempre preferência em comprar com você!
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos então negociar 2 pelo valor baixo e as demais 4 pelo valor alto, te interessa?
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT Agora estamos conversando...
+AgAT2|FiscalAT	Vou levar!
+RODADA 5
+AgAT1	olá, gostaria de 6 hortaliças
+AgCD2|VereadorCD	Gostaria de 6 sementes de hortaliças
+EmpSem|PrefeitoAT	@AgAT1 Devido a alta procura de hortaliças as sementes estão saindo pelo valor normal
+EmpSem|PrefeitoAT	@AgAT1 Podemos fechar negócio?
+EmpSem|PrefeitoAT	O mesmo vale para você @AgCD2|VereadorCD, consigo negociar as hortaliças apenas pelo valor normal devido a alta procura
+AgCD2|VereadorCD	ok
+AgCD2|VereadorCD	desejo 6 pelo preço normal
+AgAT1	ok, pode ser. nos vemos ano que vem @EmpSem|PrefeitoAT
+AgCD2|VereadorCD	fechamos assim?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Claro, ótimo plantio para você!
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Estarei no aguardo
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT gostaria de comprar 4 sementes arroz. Quanto vai custar?
+AgAT2|FiscalAT	Gostaria de sementes de Soja, como podemos negociar?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Hoje é seu dia de sorte! Estou com promoção na produção de arroz, já que estou com muitos lotes
+EmpSem|PrefeitoAT	Vendo a peço baixo
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Seriam 6 sementes agricultor?
+AgCD1|FiscalCD	que coisa boa @EmpSem|PrefeitoAT ! vou levar
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Pedido registrado
+AgAT2|FiscalAT	Exatamente, para os 6 lotes de terra
+EmpSem|PrefeitoAT	Consigo esse valor apenas 4 pelo valor baixo e as demais 2 pelo valor alto
+EmpSem|PrefeitoAT	Temos um negócio?
+AgAT2|FiscalAT	Isso, vou querer

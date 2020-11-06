@@ -1,7 +1,7 @@
-EmpSem|Prefeita AT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
-AgAT1|Fiscal AT	gostaria de 6 sementes de arroz pelo preço baixo seria possivel ?
-AgAT1|Fiscal AT	Emp 6 sementes de arroz a preço baixo ?
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Consigo somente negociar metade agricultor
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Fazendo 3 a preço baixo e 3 a preço normal
-AgAT1|Fiscal AT	Fechado
-EmpSem|Prefeita AT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+EmpSem|PrefeitoAT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+AgAT1|FiscalAT	gostaria de 6 sementes de arroz pelo preço baixo seria possivel ?
+AgAT1|FiscalAT	Emp 6 sementes de arroz a preço baixo ?
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Consigo somente negociar metade agricultor
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Fazendo 3 a preço baixo e 3 a preço normal
+AgAT1|FiscalAT	Fechado
+EmpSem|PrefeitoAT	Vejam bem agricultores, o valor baixo já é um valor com desconto

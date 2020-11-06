@@ -7,13 +7,13 @@ EmpFert	Depois dessas primeiras compras, o preço passa para normal
 EmpFert	
 EmpFert	Compras fora dos pacotes de 6 - preço alto
 EmpFert	-------------------------------------------
-AgAT1|Fiscal AT	6 SP gostaria
-EmpFert	Certo, 6 SP preço baixo para @AgAT1|Fiscal AT , obrigado
+AgAT1|FiscalAT	6 SP gostaria
+EmpFert	Certo, 6 SP preço baixo para @AgAT1|FiscalAT , obrigado
 EmpFert	SP a preço baixo acabaram, a partir de agora, preço normal
-AgAT1|Fiscal AT	pode ser
-AgAT1|Fiscal AT	fechado 6 a preço normal
-EmpFert	Calma @AgAT1|Fiscal AT
-AgAT1|Fiscal AT	@EmpFert  fechamos negocio ou não ?
-EmpFert	Sim sim @AgAT1|Fiscal AT , fechamos 6 SP a preço baixo, certo?
-AgAT1|Fiscal AT	certo
+AgAT1|FiscalAT	pode ser
+AgAT1|FiscalAT	fechado 6 a preço normal
+EmpFert	Calma @AgAT1|FiscalAT
+AgAT1|FiscalAT	@EmpFert  fechamos negocio ou não ?
+EmpFert	Sim sim @AgAT1|FiscalAT , fechamos 6 SP a preço baixo, certo?
+AgAT1|FiscalAT	certo
 EmpFert	Obrigado

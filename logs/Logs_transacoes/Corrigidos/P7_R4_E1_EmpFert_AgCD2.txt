@@ -5,9 +5,9 @@ EmpFert	- 2 lotes de 6 C, preço baixo
 EmpFert	Depois dessas primeiras compras, o preço passa para normal
 EmpFert	Compras fora dos pacotes de 6 - preço alto
 EmpFert	-------------------------------------------
-AgCD2|Prefeito CD	Vou queres 6 pacotes
-AgCD2|Prefeito CD	de SP, por favor
-EmpFert	Certo, 6 pacotes SP pelo preço baixo para o @AgCD2|Prefeito CD , obrigado
-AgCD2|Prefeito CD	Obrigado. Até amanhã.
-AgCD2|Prefeito CD	Bom final de semana e boas vendas
+AgCD2|PrefeitoCD	Vou queres 6 pacotes
+AgCD2|PrefeitoCD	de SP, por favor
+EmpFert	Certo, 6 pacotes SP pelo preço baixo para o @AgCD2|PrefeitoCD , obrigado
+AgCD2|PrefeitoCD	Obrigado. Até amanhã.
+AgCD2|PrefeitoCD	Bom final de semana e boas vendas
 EmpFert	um momentinho gente, vou atendendo pela ordem de chegada

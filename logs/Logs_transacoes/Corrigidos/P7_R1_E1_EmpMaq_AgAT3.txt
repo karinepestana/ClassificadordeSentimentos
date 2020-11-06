@@ -1,5 +1,5 @@
-EmpMaq|Vereador AT	Bom dia prezados clientes, aguardo vocês :smile:
+EmpMaq|VereadorAT	Bom dia prezados clientes, aguardo vocês :smile:
 AgAT3	Bom dia, gostaria de 4 pacotes do tipo 2 e 2 pacotes do tipo 3, gostaria de preço baixo em todos
-EmpMaq|Vereador AT	Bom dia @AgAT3 essa quantidade faço pelo preço baixo
+EmpMaq|VereadorAT	Bom dia @AgAT3 essa quantidade faço pelo preço baixo
 AgAT3	fechado
-EmpMaq|Vereador AT	@AgAT3 pedido confirmado, obrigada pela preferência :slight_smile:
+EmpMaq|VereadorAT	@AgAT3 pedido confirmado, obrigada pela preferência :slight_smile:

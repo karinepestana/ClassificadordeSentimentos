@@ -1,8 +1,8 @@
-AgAT1|Fiscal AT	Ola quero 3 sojas e 3 arroz a preço baixo
-AgAT1|Fiscal AT	pode ser ?
-EmpSem|Prefeita AT	Estou atendendo os agricultores na ordem de chegada
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT As soja vendo a preço alto e o arroz a preço baixo, pode ser?
+AgAT1|FiscalAT	Ola quero 3 sojas e 3 arroz a preço baixo
+AgAT1|FiscalAT	pode ser ?
+EmpSem|PrefeitoAT	Estou atendendo os agricultores na ordem de chegada
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT As soja vendo a preço alto e o arroz a preço baixo, pode ser?
 AgAT1|Fiscal AT	preço normal pode ser ?
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Já estou concendendo o desconto no arroz pelo preço da soja ser somente alto, não há mais que possa fazer...
-AgAT1|Fiscal AT	ok então fechamos em 3 preço alto soja e 3 arroz baixo
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Registrado aqui
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Já estou concendendo o desconto no arroz pelo preço da soja ser somente alto, não há mais que possa fazer...
+AgAT1|FiscalAT	ok então fechamos em 3 preço alto soja e 3 arroz baixo
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Registrado aqui

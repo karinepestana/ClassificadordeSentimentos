@@ -1,0 +1,56 @@
+RODADA 3
+EmpMaq	Bom dia, cidadões!!
+EmpAgro	Bom dia caro amigo
+EmpMaq	Eu gostaria de manter os eleitos nos cargos
+AgCD2|VereadorCD	olá
+EmpMaq	Não vi nada de errado com o mandato deles
+AgCD2|VereadorCD	emp de maq
+EmpMaq	Isso na cidade de Atlantis, né
+EmpMaq	Estou no lugar errado
+EmpMaq	Abraços hahaha
+AgCD2|VereadorCD	...
+AgCD2|VereadorCD	pode ser
+EmpMaq	SHUAHSUAHSUAHSUHA
+AgCD2|VereadorCD	Silvao
+EmpAgro	sakoskaoskaokso
+AgCD2|VereadorCD	Silvão, muda o nome ae pls
+AgCD2|VereadorCD	coloca que vc é prefeito tb
+EmpFert|PrefeitoCD	todos concordam comigo continuando de prefeito?
+AgCD1|FiscalCD	sim!
+EmpAgro	Sim
+EmpAgro	Sua gestão até o momento está sendo bem feita
+EmpAgro	Então concordo sim
+AgCD2|VereadorCD	eu tambpem
+EmpFert|PrefeitoCD	okay, obrigado
+AgCD2|VereadorCD	ta um monopolio do baralho
+AgCD2|VereadorCD	mas ok
+AgCD2|VereadorCD	aeiruhiauer
+EmpFert|PrefeitoCD	hahahah
+EmpAgro	kkkkkkk
+AgCD2|VereadorCD	como vamos proceder
+AgCD2|VereadorCD	depois descobrimos :slight_smile:
+RODADA 5
+AgCD2|VereadorCD	Eu proponho uma prefeitura nova com os mesmos políticos
+AgCD2|VereadorCD	Hahahaja
+AgCD2|VereadorCD	Como na vida real
+EmpFert|PrefeitoCD	hahhaha, eu deixo a desição na maos de vocês, eu acho que errei mais de uma vez com vcs, porém agora as coisas estão mais organizadas e as contas então fechando cada vez melhor a cada ano
+EmpFert|PrefeitoCD	contas estão*
+EmpAgro	Concordo em continuar como está
+AgCD1|FiscalCD	eu estou de acordo
+EmpFert|PrefeitoCD	e se seguir de prefeito, prometo que os impostos não irão voltar a subir igual a esse periodo
+EmpMaq	Fiscal = CD1
+EmpMaq	Pref = EmpFer
+EmpMaq	Ver = CD2
+EmpMaq	Certo?
+EmpAgro	sim
+EmpMaq	Ok
+EmpFert|PrefeitoCD	Ninguem gostaria de se candidatar para algum cargo?
+EmpAgro	Não, estou bem assim
+EmpMaq	Decidido, então. Ficará igual
+EmpFert|PrefeitoCD	okay
+AgCD2|VereadorCD	Não acho que tenha concorrência
+EmpAgro	Quem poluiu mais @AgCD1|FiscalCD ?
+EmpAgro	Gostaria de saber
+EmpFert|PrefeitoCD	foi eu EmpFert
+AgCD1|FiscalCD	a empresa de fertilizante, com 90, depois eu, com 13,13  e depois o CD2, com 10
+AgCD2|VereadorCD	Eu sou o rei da natureza

@@ -1,0 +1,37 @@
+RODADA 3
+EmpSem|PrefeitoAT	Olá, atualmente estou no cargo de Prefeita e se vocês, cidadões concordarem posso me manter
+EmpMaq	Olá
+EmpMaq	Estava no lugar errado
+AgAT1|VereadorAT	oi pessoal
+EmpMaq	Voto nos três que estão no comando atualmente
+AgAT1|VereadorAT	irei me comprometer em melhorar como vereador
+AgAT1|VereadorAT	também acho que podemos mantar
+EmpSem|PrefeitoAT	Certo, obrigada pela confiança
+EmpSem|PrefeitoAT	Vamos nos manter
+RODADA 5
+EmpMaq	Olá!
+EmpMaq	Gostaria de trocar nosso Vereador
+EmpMaq	Ele não respeita o planeta e só pensa nele mesmo
+EmpMaq	Entro no lugar dele, se necessário for
+EmpSem|PrefeitoAT	Você deseja se canditar?
+AgAT1|VereadorAT	gente...
+AgAT1|VereadorAT	ainda fiz uma doação de 1000 para prefeitura
+EmpSem|PrefeitoAT	Eu gostaria de me manter no cargo de prefeita
+EmpMaq	Pois se viu obrigado a tal
+EmpMaq	Os outros cargos estão ok
+EmpMaq	O problema todo é o vereador
+AgAT2|FiscalAT	Eu apoio a candidatura do @EmpMaq
+AgAT1|VereadorAT	certo
+AgAT2|FiscalAT	E gostaria de me manter no cargo, assim como a prefeitura
+EmpSem|PrefeitoAT	Todos estão de acordo com essa mudança?
+AgAT1|VereadorAT	sim
+EmpMaq	Sim
+AgAT2|FiscalAT	Sim
+EmpSem|PrefeitoAT	Certo
+EmpMaq	Fiscal = AT2
+EmpMaq	Pref = EmpSem
+EmpMaq	Ver = EmpMaq
+EmpMaq	Certo?
+EmpSem|PrefeitoAT	Exatamente
+AgAT1|VereadorAT	isso
+EmpMaq	Ok

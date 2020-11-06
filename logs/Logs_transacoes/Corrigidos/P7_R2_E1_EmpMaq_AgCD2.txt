@@ -1,22 +1,22 @@
-EmpMaq|Vereador AT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
-AgCD2|Prefeito CD	Olá Amigo, gostaria de adquirir um pulverizador?
-AgCD2|Prefeito CD	Você tem algum disponível?
-EmpMaq|Vereador AT	Bom dia @AgCD2|Prefeito CD
-EmpMaq|Vereador AT	Tenho sim, hoje está a preço baixo :slight_smile:
-AgCD2|Prefeito CD	Bom dia! Como você está? Como vai a família?
-AgCD2|Prefeito CD	ótimo
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD tudo tranquilo e com você e sua família?
-AgCD2|Prefeito CD	quanto sairia os 3?
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD 3 pulverizadores?
-AgCD2|Prefeito CD	tudo bem por aqui, trabalhando bastante :smile:
-AgCD2|Prefeito CD	não,  1 pulverizador e pacote 1 em promoção e adicionar mais um pacote 3
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD o pacote 3 consigo pelo preço normal
-AgCD2|Prefeito CD	e o pacote 1?
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD e @AgCD3 consigo o pacote 3 a preço normal
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD pacote 1 e pulverizador a preço baixo
-AgCD2|Prefeito CD	vou querer o pacote 3 então + 1 pulverizador
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD 1 pacote 3 a preço normal e 1 pulverizador a preço baixo, seria isto?
-AgCD2|Prefeito CD	seria isso sim
-EmpMaq|Vereador AT	@AgCD2|Prefeito CD certo, pedido processado, obrigada e volte sempre :smile:
-AgCD2|Prefeito CD	eu que agradeço e até a próxima
-EmpMaq|Vereador AT	Até a próxima!!
+EmpMaq|VereadorAT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
+AgCD2|PrefeitoCD	Olá Amigo, gostaria de adquirir um pulverizador?
+AgCD2|PrefeitoCD	Você tem algum disponível?
+EmpMaq|VereadorAT	Bom dia @AgCD2|PrefeitoCD
+EmpMaq|VereadorAT	Tenho sim, hoje está a preço baixo :slight_smile:
+AgCD2|PrefeitoCD	Bom dia! Como você está? Como vai a família?
+AgCD2|PrefeitoCD	ótimo
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD tudo tranquilo e com você e sua família?
+AgCD2|PrefeitoCD	quanto sairia os 3?
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD 3 pulverizadores?
+AgCD2|PrefeitoCD	tudo bem por aqui, trabalhando bastante :smile:
+AgCD2|PrefeitoCD	não,  1 pulverizador e pacote 1 em promoção e adicionar mais um pacote 3
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD o pacote 3 consigo pelo preço normal
+AgCD2|PrefeitoCD	e o pacote 1?
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD e @AgCD3 consigo o pacote 3 a preço normal
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD pacote 1 e pulverizador a preço baixo
+AgCD2|PrefeitoCD	vou querer o pacote 3 então + 1 pulverizador
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD 1 pacote 3 a preço normal e 1 pulverizador a preço baixo, seria isto?
+AgCD2|PrefeitoCD	seria isso sim
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD certo, pedido processado, obrigada e volte sempre :smile:
+AgCD2|PrefeitoCD	eu que agradeço e até a próxima
+EmpMaq|VereadorAT	Até a próxima!!

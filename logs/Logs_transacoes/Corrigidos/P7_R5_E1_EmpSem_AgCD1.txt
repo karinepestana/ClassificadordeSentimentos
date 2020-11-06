@@ -1,12 +1,12 @@
-AgCD1|Fiscal CD	@EmpSem|Prefeita AT bom dia, o que voce consegue me fazer a preço baixo?
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Nas 6 sementes não consigo em nenhuma, se você quiser arroz ou hortaliças posso disponibilizar algum desconto parcial
-AgCD1|Fiscal CD	@EmpSem|Prefeita AT gostaria de hortaliças, consegue fazer 4 por preço baixo?
-AgCD1|Fiscal CD	e 2 normal?
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Consigo somente o inverso
-AgCD1|Fiscal CD	E arroz consegue?
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Os critérios são os mesmos para arroz e hortaliças, somente soja que é mais caro sempre
-AgCD1|Fiscal CD	Consegue fazer 3/3 pelo menos?
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Não consigo
-AgCD1|Fiscal CD	Fechamos 2/4 nas hortaliças então
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Uso os mesmos critérios de negociação para todos os agricultores de acordo com a disponibilidade e do custo das sements para mim nessa safra
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Certo agricultor, vou separar suas hortaliças aqui
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT bom dia, o que voce consegue me fazer a preço baixo?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Nas 6 sementes não consigo em nenhuma, se você quiser arroz ou hortaliças posso disponibilizar algum desconto parcial
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT gostaria de hortaliças, consegue fazer 4 por preço baixo?
+AgCD1|FiscalCD	e 2 normal?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Consigo somente o inverso
+AgCD1|FiscalCD	E arroz consegue?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Os critérios são os mesmos para arroz e hortaliças, somente soja que é mais caro sempre
+AgCD1|FiscalCD	Consegue fazer 3/3 pelo menos?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Não consigo
+AgCD1|FiscalCD	Fechamos 2/4 nas hortaliças então
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Uso os mesmos critérios de negociação para todos os agricultores de acordo com a disponibilidade e do custo das sements para mim nessa safra
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Certo agricultor, vou separar suas hortaliças aqui

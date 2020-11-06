@@ -1,8 +1,8 @@
-EmpSem|Fiscal AT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
-EmpSem|Fiscal AT	@AgCD3|PrefeitoCD só falta você, o que vai ser?
+EmpSem|FiscalAT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	@AgCD3|PrefeitoCD só falta você, o que vai ser?
 AgCD3|PrefeitoCD	@AgCD3|PrefeitoCD gostaria de 3 hortaliças e 3 arroz, que preço tu me faz?
-EmpSem|Fiscal AT	Preço normal, se pegar 6 da mesma, faço preço baixo
-EmpSem|Fiscal AT	@AgCD3|PrefeitoCD o que vai ser?
-AgCD3|PrefeitoCD	@EmpSem|Fiscal AT vamos de hortaliça então
-AgCD3|PrefeitoCD	@EmpSem|Fiscal AT 6 hortaliças com preço baixo
-EmpSem|Fiscal AT	Fechado, obrigado
+EmpSem|FiscalAT	Preço normal, se pegar 6 da mesma, faço preço baixo
+EmpSem|FiscalAT	@AgCD3|PrefeitoCD o que vai ser?
+AgCD3|PrefeitoCD	@EmpSem|FiscalAT vamos de hortaliça então
+AgCD3|PrefeitoCD	@EmpSem|FiscalAT 6 hortaliças com preço baixo
+EmpSem|FiscalAT	Fechado, obrigado

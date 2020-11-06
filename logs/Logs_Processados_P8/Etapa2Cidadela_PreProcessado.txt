@@ -1,0 +1,156 @@
+RODADA 1
+AgCD2|VereadorCD	Olá prefeito, como vamos proceder?
+AgCD1|FiscalCD	olá @EmpFert|PrefeitoCD
+EmpFert|PrefeitoCD	ola
+AgCD1|FiscalCD	sua empresa causou uma pequena poluição @EmpFert|PrefeitoCD
+AgCD1|FiscalCD	ficou 108
+AgCD1|FiscalCD	ai cabe uma multa leve
+EmpFert|PrefeitoCD	qual valor?
+AgCD1|FiscalCD	fica no valor de 180
+AgCD1|FiscalCD	ops, 108
+AgCD1|FiscalCD	é 1 x a poluição
+EmpFert|PrefeitoCD	okay, transfiro o dinheiro para você?
+AgCD1|FiscalCD	nesse caso, não, eu marco na minha ficha que você ganhou uma multa leve
+EmpFert|PrefeitoCD	okay
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD  @AgCD2|VereadorCD  descobri que eu sou o prefeito kkkk.
+EmpFert|PrefeitoCD	o que tenho a dizer é que a poluiçao esta abaixo do minimo, espero que continuemos assim
+AgCD1|FiscalCD	sim sim!
+AgCD2|VereadorCD	Grato
+AgCD2|VereadorCD	gostaria de saber se recebi selo verde nesta rodada
+AgCD1|FiscalCD	sim, sim! recebeu
+AgCD2|VereadorCD	grato
+EmpFert|PrefeitoCD	percebi que @EmpAgro  porque você teve uma produtividade muito mais baixa que os demais?
+EmpAgro	Não tive muitos clientes
+EmpAgro	acontece uma vez ou outra
+EmpFert|PrefeitoCD	Okay, proxima rodada só tomaremos cuidado, pois caso vc ganhe mais clientes vai aumentar mais a poluição e ela está no limite, se subir uma um pouco perderemos prudutividade
+EmpFert|PrefeitoCD	produtividade
+EmpAgro	tudo bem então
+EmpFert|PrefeitoCD	os impostos seguiram iguais a ultima rodada
+EmpFert|PrefeitoCD	Terminamos?
+EmpAgro	sim
+EmpFert|PrefeitoCD	vou marcar tratamento de esgoto para essa rodada, sem alteração de impostos
+AgCD1|FiscalCD	ok
+AgCD2|VereadorCD	é uma boa ideia
+RODADA 2
+EmpAgro	E então
+EmpAgro	Quais são os dados?
+AgCD2|VereadorCD	aguardando nosso querido prefeito
+EmpAgro	Ultimamente estou sem muito retorno
+EmpAgro	Creio que seja prejudicial tanto pra mim quanto aos clientes
+EmpFert|PrefeitoCD	Bom, as contas não fecharam bem na ultima rodada, estã
+EmpFert|PrefeitoCD	está rodada ja que a poluição está baixa, acho justo escolher o tratamento de água
+EmpAgro	Certo
+AgCD2|VereadorCD	podemos investir em algumas medidas mais incisivas
+EmpFert|PrefeitoCD	E em relação aos impostos terei que colocar aumentar a taxa para não fechar negativo novamente
+AgCD2|VereadorCD	sem problemas
+AgCD2|VereadorCD	tenho selo verde por me importar com o meio
+AgCD2|VereadorCD	(com os lados e com a frente e atras tb LOL aeuirhaiehr)
+EmpAgro	Então @AgCD1|FiscalCD  alguem poluiu demais?
+AgCD2|VereadorCD	eu nao, só planto verde -
+AgCD2|VereadorCD	-
+AgCD2|VereadorCD	@_@
+AgCD1|FiscalCD	a poluição gerada agora caiu quase pela metade
+EmpAgro	Menos mal
+AgCD2|VereadorCD	plantem hortaliças
+AgCD2|VereadorCD	verde é vida
+EmpAgro	Utilizem meus produtos tambem
+AgCD1|FiscalCD	a poluição ficou em 24, 56
+AgCD1|FiscalCD	bem baixa
+EmpAgro	Excelente
+AgCD1|FiscalCD	o problema de plantar hortaliça é que ela não dá produtividade, e assim não gera recursos para a cidade
+EmpFert|PrefeitoCD	eu como empresário, foquei em diminuir a poluiçao, e mesmo ao mesmo tempo arrecadei mais impostos
+AgCD1|FiscalCD	muito bom
+EmpFert|PrefeitoCD	mas mesmo assim fechamos a rodada com menor arrecadação de impostos. Por isso vai precisar aumentar por pelo menos uma rodada
+EmpAgro	Tudo bem
+AgCD1|FiscalCD	tá certo
+EmpFert|PrefeitoCD	okay, tudo certo? impostos altos e tratamento de Agua
+AgCD2|VereadorCD	Sim
+EmpAgro	Ok
+AgCD1|FiscalCD	ok
+RODADA 3
+AgCD1|FiscalCD	Pessoal! a poluição da nossa cidade aumentou um pouquinho
+AgCD1|FiscalCD	estava 20 e agora está 24
+EmpAgro	Quem poluiu mais?
+EmpFert|PrefeitoCD	Ola, cidadões da Cidadela, tenho ótimas notícias
+AgCD1|FiscalCD	só um agricultor levou multa(EU)
+EmpAgro	Certo haha
+EmpAgro	@EmpFert|PrefeitoCD Diga
+EmpFert|PrefeitoCD	esta rodada fomos muito produtivos, e tivemos altas arrecadações de impostos
+EmpAgro	Então diminuiremos as taxas?
+EmpFert|PrefeitoCD	para próxima rodada, vou voltar a deixar os impostos normais
+EmpAgro	Perfeito
+AgCD1|FiscalCD	ok
+EmpFert|PrefeitoCD	mesmo com aumento da poluição ela ainda está baixa
+EmpFert|PrefeitoCD	acho justo seguir investindo no tratamento de agua, que é mais barato.
+EmpAgro	Ta bom
+EmpAgro	Tambem prefiro assim
+EmpFert|PrefeitoCD	Minha previsão é que em uma ou duas rodadas poderemos baixar ainda mais alguns impostos e contando que a poluição não aumente
+EmpAgro	Ok então
+EmpAgro	Terminamos então?
+AgCD2|VereadorCD	creio que sim
+AgCD1|FiscalCD	sim
+EmpAgro	ok
+EmpFert|PrefeitoCD	terminamos!
+AgCD2|VereadorCD	faltou preencher a ficha lá prefeito.
+RODADA 4
+EmpFert|PrefeitoCD	Olá habitantes de Cidadela, peço desculpas pelo mal entendido na ultima ultima rodada e por cobrar impostos altos. Para compensar meu erro vou colocar todos impostos no falor mais baixo para próxima rodada
+AgCD2|VereadorCD	Otimo
+EmpFert|PrefeitoCD	a poluição aumentou por mais um ano consecutivo, porém continuamos com valor baixo
+EmpFert|PrefeitoCD	e não esta atrapalhando a produtividade
+AgCD2|VereadorCD	espera
+AgCD2|VereadorCD	como a poluição aumentou
+AgCD2|VereadorCD	quais os responsaveis?
+AgCD2|VereadorCD	onde esta o resultado da fiscalização?
+EmpFert|PrefeitoCD	se vocês com concordarem, ja que terá menor arrecadação de impostos, eu poderia não investir em medidas preventivas enquanto estivera abaixo de 30%
+AgCD2|VereadorCD	estou mantendo minha produção livre de agrotoxicos
+EmpFert|PrefeitoCD	estiver*
+AgCD2|VereadorCD	onde está a responsabilidade dos produtores de soja?
+AgCD1|FiscalCD	A fiscalização está acontecendo.
+AgCD2|VereadorCD	querem lucro sem pensar que tem danos?
+AgCD1|FiscalCD	a poluição fica dentro dos limites definidos <90
+AgCD2|VereadorCD	mas explique pra mim os motivos que nos fazem aumentar poluição
+AgCD2|VereadorCD	quero saber o responsavel por tais danos a natureza
+AgCD1|FiscalCD	é a produtividade
+AgCD2|VereadorCD	ok
+AgCD1|FiscalCD	no meu caso, planto arroz que é intermediário
+AgCD2|VereadorCD	mas eu produzi como agricultor todos turnos de produtos limpos
+AgCD2|VereadorCD	vamos mudar para a cultura masi limpa por favor
+AgCD2|VereadorCD	assim daremos um novo rumo a nossa cidade
+EmpFert|PrefeitoCD	eu empresario de fertizantes aumentei um pouco minha poluição esta rodada, mas não foi maior de 90
+EmpAgro	Não precisa ser exatamente limpo
+EmpAgro	Está dizendo que meus agrotoxicos são duvidosos?
+AgCD2|VereadorCD	sim
+AgCD2|VereadorCD	agrotoxicos devem ser banidos
+AgCD1|FiscalCD	podemos tentar! mas não sei vou conseguir dar continuidade, pois minha família depende do que eu produzo
+AgCD2|VereadorCD	mas podemos chegar a um consenso
+EmpFert|PrefeitoCD	eu irei diminuir os impostos, ai haverá mais sobra de dinheiro para suas plantações
+EmpFert|PrefeitoCD	e assim render mais a sua produtividade @AgCD1|FiscalCD
+AgCD2|VereadorCD	o intuito é nao poluir e nao obter enormes niveis de lucro
+AgCD1|FiscalCD	@EmpFert|PrefeitoCD muito obrigado!
+EmpAgro	Estou satisfeito com meu saldo atual, contanto que não prejudique a cidade ta otimo
+EmpAgro	tanto financeiramente quanto ambientalmente
+EmpFert|PrefeitoCD	terminamos por essa rodada?
+EmpAgro	Sim
+AgCD1|FiscalCD	sim
+AgCD2|VereadorCD	Okay sim terminamod
+RODADA 5
+EmpFert|PrefeitoCD	Olá pessoal, por mim seguimos com o mesmo esquema com baixos impostos e sem investimento em medidas de prevenção
+EmpFert|PrefeitoCD	pois tudo está sobre controle
+EmpFert|PrefeitoCD	porem caso achem nessessario não faz mal fazer tratamento de água pois nosso saldo é bem positivo
+AgCD1|FiscalCD	a poluição mundial é a soma das poluições das duas cidades né?
+AgCD2|VereadorCD	Errei o canal
+AgCD2|VereadorCD	Entao
+AgCD2|VereadorCD	Como eu disse
+AgCD2|VereadorCD	Sou o rei da natureza
+EmpMaq|VereadorAT	@AgCD1|FiscalCD é
+AgCD1|FiscalCD	hm, qual cidade será que tá poluindo mais?
+EmpFert|PrefeitoCD	Nao tenho acesso a estes dados
+EmpFert|PrefeitoCD	Porem posso perguntar para prefeita do outro município se ela vai fazer alguma coisa em relação a poluição
+AgCD1|FiscalCD	sim sim! acho interessante essa idéia
+EmpFert|PrefeitoCD	Fui informado que ela vai fazer tratamento de lixo
+EmpFert|PrefeitoCD	que reduz 10% da poluição
+EmpFert|PrefeitoCD	se eu agir junto com Tratamento de agua iremos reduzir 15%
+AgCD1|FiscalCD	acho que podemos contribuir com o tratamento de água
+EmpFert|PrefeitoCD	todos concordao?
+EmpFert|PrefeitoCD	Fecharemos assim então impostos baixos e tratamento de agua
+AgCD1|FiscalCD	acho que tá ótimo assim

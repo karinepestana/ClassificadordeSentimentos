@@ -1,5 +1,5 @@
-EmpSem|Prefeita AT	Bom dia agricultores a preferencia será dada conforme a ordem!
-AgCD1|Fiscal CD	Bom dia
-AgCD1|Fiscal CD	Quero comprar 6 sementes de hortaliças
-EmpSem|Prefeita AT	@AgCD1|Fiscal CD Faço para você o mesmo negócio que fiz para o agricultor de Atlantis, 3 pelo valor normal e 3 pelo valor baixo, o que acha agricultor?
-AgCD1|Fiscal CD	perfeito
+EmpSem|PrefeitoAT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgCD1|FiscalCD	Bom dia
+AgCD1|FiscalCD	Quero comprar 6 sementes de hortaliças
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Faço para você o mesmo negócio que fiz para o agricultor de Atlantis, 3 pelo valor normal e 3 pelo valor baixo, o que acha agricultor?
+AgCD1|FiscalCD	perfeito

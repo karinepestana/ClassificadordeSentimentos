@@ -1,4 +1,4 @@
-AgAT1|Fiscal AT	Bom dia gostaria de 6 sementes de soja a preço normal ou baixo
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Te faço o mesmo negócio que fiz com @AgCD3 1 soja a preço baixo e as outras 5 unidades de soja pelo valor alto, pode ser?
-AgAT1|Fiscal AT	pode sim
-EmpSem|Prefeita AT	@AgAT1|Fiscal AT Feito!
+AgAT1|FiscalAT	Bom dia gostaria de 6 sementes de soja a preço normal ou baixo
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Te faço o mesmo negócio que fiz com @AgCD3 1 soja a preço baixo e as outras 5 unidades de soja pelo valor alto, pode ser?
+AgAT1|FiscalAT	pode sim
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Feito!

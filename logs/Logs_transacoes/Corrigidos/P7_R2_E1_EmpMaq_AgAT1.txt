@@ -1,17 +1,17 @@
-EmpMaq|Vereador AT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
-AgAT1|Fiscal AT	Pacote 3 poderia ser feito pelo preço baixo ?
-EmpMaq|Vereador AT	@AgAT1|Fiscal AT quais seriam as quantidades?
-AgAT1|Fiscal AT	6
-EmpMaq|Vereador AT	Sim, consigo sim
-EmpMaq|Vereador AT	6 pacotes tipo 3 preço baixo?
-AgAT1|Fiscal AT	isso
-EmpMaq|Vereador AT	Ok, pedido procesado, obrigada prezada cliente
-EmpMaq|Vereador AT	volte sempre!!
-AgAT1|Fiscal AT	Emp tive problemas em minhas produções, poderiamos trocar o pacote 3 pelo pacote 2 ?
-EmpMaq|Vereador AT	@AgAT1|Fiscal AT claro, poderia sim, sem problemas
-EmpMaq|Vereador AT	Pedido processado, troca do pacote 3 pelo pacote 2 mantendo o preço acordado!
-AgAT1|Fiscal AT	qual era o preço ?
-EmpMaq|Vereador AT	baixo
-AgAT1|Fiscal AT	Quero cancelar total a compra das maquinas
-EmpMaq|Vereador AT	@AgAT1|Fiscal AT ok cliente, estamos a disposição!!
-EmpMaq|Vereador AT	Pedido cancelado!
+EmpMaq|VereadorAT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
+AgAT1|FiscalAT	Pacote 3 poderia ser feito pelo preço baixo ?
+EmpMaq|VereadorAT	@AgAT1|FiscalAT quais seriam as quantidades?
+AgAT1|FiscalAT	6
+EmpMaq|VereadorAT	Sim, consigo sim
+EmpMaq|VereadorAT	6 pacotes tipo 3 preço baixo?
+AgAT1|FiscalAT	isso
+EmpMaq|VereadorAT	Ok, pedido procesado, obrigada prezada cliente
+EmpMaq|VereadorAT	volte sempre!!
+AgAT1|FiscalAT	Emp tive problemas em minhas produções, poderiamos trocar o pacote 3 pelo pacote 2 ?
+EmpMaq|VereadorAT	@AgAT1|FiscalAT claro, poderia sim, sem problemas
+EmpMaq|VereadorAT	Pedido processado, troca do pacote 3 pelo pacote 2 mantendo o preço acordado!
+AgAT1|FiscalAT	qual era o preço ?
+EmpMaq|VereadorAT	baixo
+AgAT1|FiscalAT	Quero cancelar total a compra das maquinas
+EmpMaq|VereadorAT	@AgAT1|FiscalAT ok cliente, estamos a disposição!!
+EmpMaq|VereadorAT	Pedido cancelado!

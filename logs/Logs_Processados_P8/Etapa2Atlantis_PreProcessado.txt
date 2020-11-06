@@ -1,0 +1,124 @@
+RODADA 1
+EmpSem|PrefeitoAT	Olá cidadões de Atlantis
+AgAT1|VereadorAT	olá prefeito, como anda a situação do mundo?
+AgAT2|FiscalAT	boa tarde senhor prefeito
+AgAT1|VereadorAT	e o caixa da prefeitura?
+EmpSem|PrefeitoAT	Tivemos boas arrecardações esse ano
+EmpSem|PrefeitoAT	Como está nossa situação fiscal @AgAT2|FiscalAT ?
+AgAT1|VereadorAT	ótimo prefeito! irá investir em quais tratamentos ambientais?
+AgAT1|VereadorAT	nossa população merece investimentos para diminuir a poluição mundial
+EmpSem|PrefeitoAT	Certamente podemos pensar em melhorias para o nosso mundo
+EmpSem|PrefeitoAT	Podemos fazer um tratamento de Água já que a poluição não está nos níveis mais críticos e assim não quebramos com o caixa da prefeitura
+AgAT1|VereadorAT	é uma boa ideia
+AgAT1|VereadorAT	e no próximo ano a prefeitura pode investir em tratamentos mais robustos
+AgAT1|VereadorAT	em relação as taxas, serão mantidas?
+EmpSem|PrefeitoAT	Acredito que podemos esperar o parecer do @AgAT2|FiscalAT para saber como nossa população está procedendo
+AgAT2|FiscalAT	@AgAT1|VereadorAT vc teve a poluição em 110, vai receber uma multa leve e seu pedido para o selo verde foi negado
+AgAT2|FiscalAT	@AgAT2|FiscalAT teve a poluição em 53,33, sem multa.
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT olha seu vereador, esperava mais do senhor!
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Os empresários poluiram muito ou estão dentro do limite?
+AgAT1|VereadorAT	infelizamente, não tendo produção não há como ter caixa na prefeitura
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT pro enquanto estão dentro do limite.
+AgAT1|VereadorAT	fico feliz caso não aumentem as taxas
+EmpSem|PrefeitoAT	Essa rodada então não aumentamos, mas se seguirmos aumentand o níveis de poluição teremos que ajustar as taxas
+AgAT2|FiscalAT	se o senhor @EmpSem|PrefeitoAT diminuir as taxas podemos ter uma plantação menos poluente.
+AgAT1|VereadorAT	certo, agradeço
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT se dimuniur as taxas arrecardaremos menos e não será possível aplicar medidas de redução de danos
+AgAT2|FiscalAT	senhor @AgAT1|VereadorAT se usar agrotóxicos e fertilizante premio ao invés de super premio vai diminuir a polução pra quase metade
+AgAT2|FiscalAT	e o senhor ficara sem precisar pagar multa
+AgAT1|VereadorAT	considerarei suas sugestões, fiscal
+EmpSem|PrefeitoAT	Na próxima reunião discutiremos outras medidas
+RODADA 2
+EmpSem|PrefeitoAT	Olá pessoal
+EmpSem|PrefeitoAT	Tivemos uma ótima arrecardação de impostos neste ano
+EmpMaq	E a poluição como está, @EmpSem|PrefeitoAT ?
+EmpSem|PrefeitoAT	Considerando as discussões da nossa última reunião creio que não precisamos alterar os impostos
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD  gostaria que tomasse alguma providencia em relação ao @AgAT1|VereadorAT , teve uma aumento de 3x da polução por parte dele
+AgAT1|VereadorAT	fico contente de que não será necessário alterar os impostos da cidade
+EmpSem|PrefeitoAT	A poluição se mantem baixa @EmpMaq porém acho prudente aplicarmos medidas de redução para cuidarmos da nossa cidade
+AgAT2|FiscalAT	@AgAT1|VereadorAT vc recebera uma multa muito alta
+AgAT1|VereadorAT	é que as previsões para o próximo ano estão muito ruins para o plantio, então tive que me precaver @AgAT2|FiscalAT
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Infelizmente não há o que fazer com esse nosso vereador, podemos pensar delicadamente nas próximas eleições
+EmpSem|PrefeitoAT	E claro fiscal, @AgAT2|FiscalAT aplique a devida multa
+AgAT1|VereadorAT	fiscal está roubando dos agricultores para dar para prefeitura
+AgAT1|VereadorAT	logo da classe mais frágil dessa cidade...
+AgAT2|FiscalAT	@AgAT1|VereadorAT e o @AgAT2|FiscalAT poderiam conversar e ver oq podem fazer, pois o @AgAT1|VereadorAT teve 300 de poluição, mas graças ao @AgAT2|FiscalAT teve redução da poluição mundial, produzindo somente 30 de poluição
+AgAT2|FiscalAT	a poluição mundial esta em 24,56%
+AgAT1|VereadorAT	a prefeitura deve ter arrecadado bastante com isto
+AgAT1|VereadorAT	eu como vereador, peço que implemente tratamentos mais eficazes
+EmpMaq	Acho prudente também, @EmpSem|PrefeitoAT . Porém, gostaria de pedir para diminuir os impostos para a produtividade > 200
+EmpMaq	Visto que tenho poucas vendas e mesmo assim caio nessa categoria
+EmpSem|PrefeitoAT	Como forma de resguardar a prefeitura podemos implantar um tratamento de Lixo, mais eficaz que o de Água
+AgAT1|VereadorAT	acho justo
+EmpSem|PrefeitoAT	Podemos tentar empresário, mas se tivermos muito prejuízo os impostos deverão ser alterados novamente!
+EmpMaq	Certo!
+EmpSem|PrefeitoAT	Vou aplicar essas medidas e dar por encerrada nossa reunião
+AgAT2|FiscalAT	ok
+RODADA 3
+AgAT1|VereadorAT	pelo visto a situação da poluição mundial está estável
+AgAT1|VereadorAT	gostaria de saber quanto ao dinheiro em caixa da prefeitura
+EmpSem|PrefeitoAT	Está estavél sim
+EmpSem|PrefeitoAT	Acredito que as nossas medidas de tratamento vem ajudando
+EmpSem|PrefeitoAT	Se continuarmos podemos manter a cidade limpa
+EmpSem|PrefeitoAT	O nosso caixa está bom, mesmo com a redução de impostos tivemos uma boa arrecardação, podemos manter assim
+EmpMaq	Oba! Ótima notícia
+AgAT1|VereadorAT	perfeito então
+AgAT2|FiscalAT	Olá colegas
+AgAT2|FiscalAT	Os empresários estão com níveis de poluição abaixo do nível crítico então acredito que estamos bem
+AgAT2|FiscalAT	Em relação aos agricultores o nosso colega @AgAT1|VereadorAT passou um pouco novamente
+AgAT1|VereadorAT	que situação
+AgAT1|VereadorAT	mudando de assunto, prefeito, está pensando em realizar algum tratamento ambiental nesse ano?
+EmpMaq	Mudando de assunto na hora certa
+AgAT2|FiscalAT	Serei obrigado a lhe aplicar uma multa leve senhor @AgAT1|VereadorAT, esteja ciente!
+EmpSem|PrefeitoAT	Que veio senhor vereador...
+EmpSem|PrefeitoAT	Podemos aplicar algum tratamento sim
+EmpSem|PrefeitoAT	Sugiro o tratamento de Lixo
+AgAT1|VereadorAT	ok, senhor fiscal. @AgAT2|FiscalAT
+AgAT1|VereadorAT	acho uma boa o tratamento de lixo
+EmpSem|PrefeitoAT	Certo, então manteremos os impostos baixos e irei aplicar o tratamento de lixo para o próximo ano
+RODADA 4
+AgAT1|VereadorAT	neste ano os níveis de poluição aumentaram
+EmpSem|PrefeitoAT	Ia comentar isso
+EmpMaq	Acho que foi por minha culpa, desculpe
+AgAT1|VereadorAT	ora ora...
+EmpSem|PrefeitoAT	Estamos com os níveis mais altos dos últimos tempos
+EmpMaq	E também pelo prefeito de Cidadela não ter aplicado ações preventivas na outra cidade
+EmpSem|PrefeitoAT	Mas ainda sim não é tão grave, sugiro continuarmos com medidas de tratamento
+EmpSem|PrefeitoAT	Podemos apenas decidir pela nossa cidade
+EmpMaq	Qual foi minha poluicao, @AgAT2|FiscalAT ?
+AgAT2|FiscalAT	@EmpMaq Estou analisando empresário
+AgAT2|FiscalAT	Mas já posso adiantar que o nosso vereador aqui @AgAT1|VereadorAT não toma juízo!
+EmpMaq	Ia comentar sobre isso nesse momento. Minha poluição subiu por causa da venda do Pulverizador que fiz ao @AgAT1|VereadorAT, para tentar diminuir a poluição dele
+AgAT1|VereadorAT	sério que foi feio? até usei pulverizador
+EmpSem|PrefeitoAT	Temos dinheiro em caixa suficiente para aplicar um tratamento de estogo (tratamento mais eficaz) para reverter os danos causados pela nossa própria população
+AgAT1|VereadorAT	no próximo ano me comprometo a realizar uma transferência de 1000 para prefeitura, a fim de ajudar nos custos
+AgAT2|FiscalAT	@EmpMaq o senhor está apenas 4 níveis, sua poluição atingiu 94 pontos e consideramos tolerável apenas 90
+AgAT2|FiscalAT	Já no caso do agricultor @AgAT1|VereadorAT o mesmo está com uma poluição de 175 pontos, quase o dobro do aceitável!
+EmpMaq	Poxa :/ Tudo bem @AgAT2|FiscalAT . Se achas necessário me multar
+AgAT2|FiscalAT	Devido ao uso de agrotóxicos... obviamente
+AgAT2|FiscalAT	Sugiro que repense sua maneira de tratar sua fazenda
+EmpSem|PrefeitoAT	Ótimo @AgAT1|VereadorAT
+EmpSem|PrefeitoAT	Aguardarei sua transferência
+AgAT1|VereadorAT	certo
+AgAT2|FiscalAT	Deixo registrado aqui nesta reunião que ainda não irei aplicar multa ao @EmpMaq mas espero redução no próximo ano
+AgAT2|FiscalAT	Já o senhor @AgAT1|VereadorAT irá levar uma multa média
+EmpMaq	Muito obrigado, @AgAT2|FiscalAT !
+RODADA 5
+EmpMaq|VereadorAT	Olá, @EmpSem|PrefeitoAT . Estamos com a poluição um pouco alta. Acho que temos que fazer algo à respeito
+EmpMaq|VereadorAT	Devo desculpas e um "eu avisei" ao @AgAT2|FiscalAT , visto que como empresário, minha poluição deve ter aumentado muito
+AgAT1	que fase...
+EmpSem|PrefeitoAT	Podemos aplicar medidas de tratamento
+EmpSem|PrefeitoAT	Visto que já estavamos aplicando em outros anos
+EmpMaq|VereadorAT	Acho justo. Concordo com a decisão
+EmpSem|PrefeitoAT	Sugiro um tratamento de Lixo
+EmpMaq|VereadorAT	Concordo
+AgAT2|FiscalAT	Acho que temos algum problema com o cargo de Vereador... basta assumir a cadeira para os níveis de poluição aumentarem! hahaha
+AgAT2|FiscalAT	Serei obrigada a te multar essa rodada Empresário @EmpMaq|VereadorAT
+EmpMaq|VereadorAT	SHAUHSAUSHUAHSUAHSUHAUSHAUSHAUHUHSA eu avisei
+EmpMaq|VereadorAT	No momento da compra eu avisei que os niveis aumentariam
+AgAT2|FiscalAT	Certo Empresário, deve melhorar isto para o próximo ano
+EmpMaq|VereadorAT	Deixa comigo!
+AgAT2|FiscalAT	@AgAT1 Finalmente tomou jeito
+AgAT1	e me derrubaram
+AgAT1	...
+AgAT1	isso tudo foi um esquema para me tirarem do cargo

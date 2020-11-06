@@ -8,16 +8,16 @@ EmpFert
 EmpFert	Compras fora dos pacotes de 6 - preço alto
 EmpFert	-------------------------------------------
 EmpFert	SP a preço baixo acabaram, a partir de agora, preço normal
-AgCD2|Prefeito CD	Olá qual o valor do pacote premium?
-EmpFert	@AgCD2|Prefeito CD tenho a preço normal agora, se levar 6
-AgCD2|Prefeito CD	PREÇO NORMAL O PREMIUM :open_mouth:
+AgCD2|PrefeitoCD	Olá qual o valor do pacote premium?
+EmpFert	@AgCD2|PrefeitoCD tenho a preço normal agora, se levar 6
+AgCD2|PrefeitoCD	PREÇO NORMAL O PREMIUM :open_mouth:
 EmpFert	Ah, perdão
-AgCD2|Prefeito CD	E quanto custa o super premium ?
-EmpFert	EU me enganei @AgCD2|Prefeito CD
+AgCD2|PrefeitoCD	E quanto custa o super premium ?
+EmpFert	EU me enganei @AgCD2|PrefeitoCD
 EmpFert	O premium ta no preço baixo
 EmpFert	SP preço normal
-AgCD2|Prefeito CD	A BOM
-AgCD2|Prefeito CD	vou querer 6 então
-EmpFert	@AgCD2|Prefeito CD vai querer 6 P?
-AgCD2|Prefeito CD	sim
-EmpFert	@AgCD2|Prefeito CD fechado, 6 P preço baixo, obrigado
+AgCD2|PrefeitoCD	A BOM
+AgCD2|PrefeitoCD	vou querer 6 então
+EmpFert	@AgCD2|PrefeitoCD vai querer 6 P?
+AgCD2|PrefeitoCD	sim
+EmpFert	@AgCD2|PrefeitoCD fechado, 6 P preço baixo, obrigado

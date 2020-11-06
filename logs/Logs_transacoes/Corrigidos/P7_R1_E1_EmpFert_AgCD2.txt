@@ -1,9 +1,9 @@
 EmpFert	Bom dia pessoal, promoções especiais pra quem comprar 6 pacotes do mesmo fertilizante, faço preço baixo :smile:
-AgCD2|Prefeito CD	Se o preço tá bom, eu quero :smile:
+AgCD2|PrefeitoCD	Se o preço tá bom, eu quero :smile:
 EmpFert	6 SP pelo preço baixo, que tal?
-AgCD2|Prefeito CD	vou querer
-EmpFert	Certo, 6 SP pelo preço baixo para o @AgCD2|Prefeito CD , obrigado :slight_smile:
-AgCD2|Prefeito CD	De nada. Eu que agradeço.
-AgCD2|Prefeito CD	Boas vendas
+AgCD2|PrefeitoCD	vou querer
+EmpFert	Certo, 6 SP pelo preço baixo para o @AgCD2|PrefeitoCD , obrigado :slight_smile:
+AgCD2|PrefeitoCD	De nada. Eu que agradeço.
+AgCD2|PrefeitoCD	Boas vendas
 EmpFert	Obrigado :slight_smile:
 EmpFert	Pessoal, só prestem atenção que na próxima rodada os preços vão variar conforme a ordem de chegada

@@ -1,4 +1,4 @@
-EmpMaq|Vereador AT	Bom dia prezados clientes aguardo vocês na loja!!
-AgAT1|Fiscal AT	gostaria de 6 pacotes do tipo 2 a preço baixo ?
-EmpMaq|Vereador AT	Bom dia @AgAT1|Fiscal AT
-EmpMaq|Vereador AT	Claro @AgAT1|Fiscal AT negócio fechado, pedido confirmado, obrigada pela preferência :smile:
+EmpMaq|VereadorAT	Bom dia prezados clientes aguardo vocês na loja!!
+AgAT1|FiscalAT	gostaria de 6 pacotes do tipo 2 a preço baixo ?
+EmpMaq|VereadorAT	Bom dia @AgAT1|FiscalAT
+EmpMaq|VereadorAT	Claro @AgAT1|FiscalAT negócio fechado, pedido confirmado, obrigada pela preferência :smile:

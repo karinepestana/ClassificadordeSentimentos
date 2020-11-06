@@ -4,7 +4,7 @@ EmpFert	bora pessoal, vai ser por ordem de chegada
 EmpFert	bora pessoal, antes que acabem os estoques
 AgCD1|Fiscal CD	alo alo @EmpFert
 AgCD1|Fiscal CD	manda 6 sp preço baixo
-EmpFert	@AgCD1|Fiscal CD 6 sp preço baixo
+EmpFert	@AgCD1|FiscalCD 6 sp preço baixo
 EmpFert	obrigado
 EmpFert	pessoal, nessa rodada, acabaram os premium e sp pelo preço baixo
 EmpFert	agora os pacotes de promoção são:

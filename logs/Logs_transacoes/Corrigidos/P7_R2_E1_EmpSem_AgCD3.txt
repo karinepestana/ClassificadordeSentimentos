@@ -1,7 +1,7 @@
-EmpSem|Prefeita AT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
-EmpSem|Prefeita AT	Vejam bem agricultores, o valor baixo já é um valor com desconto
-AgCD3	Bom dia @EmpSem|Prefeita AT gostaria de 6 pacotes de soja, faria metade preço normal e metade baixo?
-EmpSem|Prefeita AT	@AgCD3 Soja eu vendo 3 unidades a preço alto e 3 unidades a preço normal
-AgCD3	@EmpSem|Prefeita AT  2 unidades a preço alto e 4 a preço normal, faria?
-EmpSem|Prefeita AT	@AgCD3 Pode ser
-AgCD3	@EmpSem|Prefeita AT obrigada
+EmpSem|PrefeitoAT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+EmpSem|PrefeitoAT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+AgCD3	Bom dia @EmpSem|PrefeitoAT gostaria de 6 pacotes de soja, faria metade preço normal e metade baixo?
+EmpSem|PrefeitoAT	@AgCD3 Soja eu vendo 3 unidades a preço alto e 3 unidades a preço normal
+AgCD3	@EmpSem|PrefeitoAT  2 unidades a preço alto e 4 a preço normal, faria?
+EmpSem|PrefeitoAT	@AgCD3 Pode ser
+AgCD3	@EmpSem|PrefeitoAT obrigada

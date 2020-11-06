@@ -1,10 +1,10 @@
-EmpSem|Prefeita AT	Bom dia agricultores a preferencia será dada conforme a ordem!
+EmpSem|PrefeitoAT	Bom dia agricultores a preferencia será dada conforme a ordem!
 AgAT2	Bom dia
 AgAT2	Gostaria de 6 hortaliças, por favor
-EmpSem|Prefeita AT	Faço pelo valor normal, pode ser?
-EmpSem|Prefeita AT	Já que está levando as 6
+EmpSem|PrefeitoAT	Faço pelo valor normal, pode ser?
+EmpSem|PrefeitoAT	Já que está levando as 6
 AgAT2	Preferia preço baixo, por eu estar comprando 6, o que achas?
-EmpSem|Prefeita AT	@AgAT2 Vamos negociar assim então, 3 pelo preço normal e 3 peço preço baixo, pode ser?
+EmpSem|PrefeitoAT	@AgAT2 Vamos negociar assim então, 3 pelo preço normal e 3 peço preço baixo, pode ser?
 AgAT2	Fica ótimo
-AgAT2	@EmpSem|Prefeita AT muito obrigado
-EmpSem|Prefeita AT	@AgAT2 Negociado então!
+AgAT2	@EmpSem|PrefeitoAT muito obrigado
+EmpSem|PrefeitoAT	@AgAT2 Negociado então!

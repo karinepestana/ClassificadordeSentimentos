@@ -1,0 +1,68 @@
+RODADA 1
+AgAT1|VereadorAT	olá, gostaria de comprar agrotóxicos
+AgAT1|VereadorAT	faz um preço bacana para mim?
+EmpAgro	Olá @AgAT1|VereadorAT !
+EmpAgro	e qual seria sua proposta?
+AgAT1|VereadorAT	estou pensando em comprar 3 agrotóxico super premium
+AgAT1|VereadorAT	me vende por preço normal
+AgAT1|VereadorAT	?
+EmpAgro	tudo bem
+AgAT1|VereadorAT	show, com mais vendas/produção a cidade prosperará
+EmpAgro	alias
+EmpAgro	deu 90 R$
+EmpAgro	com certeza!
+AgAT1|VereadorAT	ok, 3 agrotóxico super premium
+AgCD1|FiscalCD	olá @EmpAgro! Gostaria de comprar 4 unidades do agrotóxico comum
+EmpAgro	Olá @AgCD1|FiscalCD tudo bem?
+EmpAgro	em que valor quer fechar?
+AgCD1|FiscalCD	um desconto é sempre bom... pode ser pelo menor valor?
+EmpAgro	Olha.. ultimamente com o aumento de pragas principalmente os gafanhotos na regiao eu recomendaria voce comprar o Premium
+EmpAgro	e faço pelo valor nromal pra você
+EmpAgro	normal*
+AgAT2|FiscalAT	boa tarde @EmpAgro , gostaria de 4 unidades do agrotóxico premium
+EmpAgro	Boa tarde! @AgAT2|FiscalAT
+EmpAgro	faço pelo valor normal pra voce
+EmpAgro	da 80R$ no total
+AgAT2|FiscalAT	fechado.
+EmpAgro	ótimo, tenha uma excelente colheita
+AgCD1|FiscalCD	humm, entendo.. eu não tenho muito recurso disponível para o premium agora. pode ser o comum no valor normal?
+EmpAgro	Tudo bem então
+EmpAgro	deu 40 R$
+AgCD1|FiscalCD	tá certo! negócio fechado
+EmpAgro	agradeço, ate mais
+RODADA 2
+AgAT1|VereadorAT	olá, gostaria de comprar 6 agrotóxicos
+AgAT1|VereadorAT	caso eu compre todos super premium, você consegue me vender por preço normal, pelo menos?
+EmpAgro	Olá @AgAT1|VereadorAT
+AgAT1|VereadorAT	é uma boa proposta hein
+EmpAgro	Feito então
+EmpAgro	Deu 180 R$
+AgAT1|VereadorAT	maravilha! 6 agrotóxicos super premium com preço normal (180)
+EmpAgro	Muito obrigado
+RODADA 3
+AgCD1|FiscalCD	Olá @EmpAgro! Gostaria de comprar 2 agrotóxicos super premium e 1 Agrotóxico premium. Quanto vai custar tudo?
+AgAT1|VereadorAT	Olá senhor empresário, estou querendo comprar do tipo super premium. a q preço estas interessado em comercializar este produto?
+EmpAgro	Olá @AgCD1|FiscalCD farei no valor normal
+EmpAgro	dará no total 80
+AgCD1|FiscalCD	tá bem @EmpAgro! vou querer!
+EmpAgro	E @AgAT1|VereadorAT farei pelo preço normal tambem
+EmpAgro	@AgCD1|FiscalCD Perfeito, obrigado pela confiança
+EmpAgro	@AgAT1|VereadorAT qual a quantidade?
+AgAT1|VereadorAT	perfeito @EmpAgro , vou querer 3 agrotóxico super premium com preço normal então
+EmpAgro	Feito! Obrigado e volte sempre
+RODADA 4
+EmpAgro	Promoção imperdivel, evite a poluição por um preço bacana compre 4 agrotoxicos SP pelo preço normal e 2 pelo preço baixo!
+AgCD1|FiscalCD	@EmpAgro gostaria de comprar 4 agrotóxicos premium
+EmpAgro	Olá @AgCD1|FiscalCD não está interessada na nossa promoção?
+AgCD1|FiscalCD	não porque a minha poluição com o super premium é 200 para cada parcela
+EmpAgro	Ok ok
+AgAT1|VereadorAT	vou querer participar desta promoção. 4 agrotóxicos super premium por preço normal e 2 por preço baixo @EmpAgro
+EmpAgro	Neste caso venderei pelo preço normal os 4 agrotoxicos premium ok? @AgCD1|FiscalCD
+EmpAgro	total de 80$
+AgCD1|FiscalCD	tá ok @EmpAgro !
+EmpAgro	@AgAT1|VereadorAT Olá, tudo bem
+EmpAgro	total de 170$
+EmpAgro	Obrigado
+RODADA 5
+EmpAgro	Promoção promoção
+EmpAgro	Na compra de 6 SP leve tudo no preço baixo
