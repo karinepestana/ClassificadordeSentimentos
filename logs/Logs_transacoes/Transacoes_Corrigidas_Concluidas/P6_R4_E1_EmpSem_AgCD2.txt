@@ -1,0 +1,7 @@
+EmpSem|FiscalAT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+AgCD2	olá, gostaria de 4 sacos de hortaliças e 2 de arroz
+AgCD2	quanto poderias fazer?
+EmpSem|FiscalAT	@AgCD2 faço pelo preço normal, se pegar 6 da mesma, faço baixo
+AgCD2	@EmpSem|FiscalAT fico com essas que mencionei pelo preço normal
+EmpSem|FiscalAT	@AgCD2 fechado então, obrigado
+AgCD2	obrigada!

@@ -1,0 +1,14 @@
+AgAT1|FiscalAT	Fechado a preço normal
+AgAT1|FiscalAT	nao esquece
+AgAT1|FiscalAT	hahahaha
+AgAT1|FiscalAT	deixamos assim
+AgAT1|FiscalAT	o pulverizador está a preço baixo ?/
+EmpMaq|VereadorAT	@AgAT1|FiscalAT somente preço alto no pulverizador
+AgAT1|FiscalAT	que pacotes tem a preço baixo ?
+EmpMaq|VereadorAT	@AgAT1|FiscalAT nenhum, somente preço normal dependendo da quantidade e preço alto
+AgAT1|FiscalAT	ok vou gerar  6 pacotes 3
+AgAT1|FiscalAT	preço normal ?
+EmpMaq|VereadorAT	@AgAT1|FiscalAT sim, nessa quantidade posso fazer preço normal
+EmpMaq|VereadorAT	Pedido fechado?
+AgAT1|FiscalAT	fechado
+EmpMaq|VereadorAT	@AgAT1|FiscalAT pedido confirmado, obrigada e volte sempre :smile:

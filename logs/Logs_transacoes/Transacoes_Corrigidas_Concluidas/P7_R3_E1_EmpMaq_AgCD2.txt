@@ -1,0 +1,16 @@
+EmpMaq|VereadorAT	Bom dia prezados clientes aguardo vocês na loja!!
+AgCD2|PrefeitoCD	Olá amigo, gostaria de saber quais as promoções do dia?
+EmpMaq|VereadorAT	Bom dia @AgCD2|PrefeitoCD como estás?
+EmpMaq|VereadorAT	nas compras acima de 3 pacotes preço baixo em qualquer pacote e pulverizador a preço normal
+AgCD2|PrefeitoCD	Vou querer um também
+AgCD2|PrefeitoCD	Um puverizador
+AgCD2|PrefeitoCD	você consegue fazer por preço baixo?
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD se comprares mais dois outros pacotes quaisquer faço todos pelo preço baixo, o que achas?
+AgCD2|PrefeitoCD	Infelizmente dessa vez vou comparar só o pulverizador
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD só consigo a preço normal
+AgCD2|PrefeitoCD	Tudo bem
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD pedido confirmado, obrigada pela preferência :smile:
+AgCD2|PrefeitoCD	De nada
+AgCD2|PrefeitoCD	Até
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD volte sempre :smile:
+AgCD2|PrefeitoCD	voltarei sim

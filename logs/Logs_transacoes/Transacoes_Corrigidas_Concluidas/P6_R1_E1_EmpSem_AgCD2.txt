@@ -1,0 +1,9 @@
+AgCD2	Bom dia, gostaria de fazer um pedido :slight_smile:
+AgCD2	Gostaria de comprar 4 sacos de arroz e 2 de hortaliças
+AgCD2	qual seria o valor?
+EmpSem|FiscalAT	@AgCD2  o que vocês gostaria?
+EmpSem|FiscalAT	agora que vi a mensagem embaixo
+EmpSem|FiscalAT	@AgCD2 para esse pedido faço o arroz pelo valor normal e as hortaliças pelo preço alto
+AgCD2	@EmpSem|FiscalAT sim aceito sua oferta!
+EmpSem|FiscalAT	@AgCD2 Fechado
+AgCD2	@EmpSem|FiscalAT certo, obrigada!

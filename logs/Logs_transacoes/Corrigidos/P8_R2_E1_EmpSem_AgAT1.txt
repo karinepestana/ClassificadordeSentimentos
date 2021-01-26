@@ -1,0 +1,6 @@
+AgAT1|VereadorAT	olá, quero plantar soja neste ano. me vendes a que preço, empresário?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Soja eu tive uma produção muito baixa, portanto só está sendo vendida pelo valor alto
+AgAT1|VereadorAT	@EmpSem|PrefeitoAT vou querer comprar mesmo com valor alto as 6 sojas. vou apostar, quero uma produtividade alta este ano
+AgAT1|VereadorAT	estamos acertados?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Ta certo agricultor, nós produtores temos que fazer o possível para termos algum lucro, faz parte!
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Pode deixar que já anotei seu pedido

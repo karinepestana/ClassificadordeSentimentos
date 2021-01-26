@@ -1,0 +1,5 @@
+AgAT1	olá, gostaria de 6 hortaliças
+EmpSem|PrefeitoAT	@AgAT1 Devido a alta procura de hortaliças as sementes estão saindo pelo valor normal
+EmpSem|PrefeitoAT	@AgAT1 Podemos fechar negócio?
+AgAT1	ok, pode ser. nos vemos ano que vem @EmpSem|PrefeitoAT
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Estarei no aguardo

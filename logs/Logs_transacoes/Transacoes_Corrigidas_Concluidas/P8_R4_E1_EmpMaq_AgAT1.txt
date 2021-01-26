@@ -1,0 +1,13 @@
+AgAT1|VereadorAT	olá
+EmpMaq	Olá, @AgAT1|VereadorAT !
+EmpMaq	Bem vindo de volta
+EmpMaq	Sabia que o Pulverizador corta a poluição da parcela pela metade?
+EmpMaq	E esse ano está em promoção! Qualquer Pulverizador está a preço baixo. Qualquer quantidade
+AgAT1|VereadorAT	como entrou um dinheiro bom ano passado, vou levar 1 pulverizador
+EmpMaq	Ótimo!
+AgAT1|VereadorAT	depois ainda dizem que não ajudo a cidade...
+EmpMaq	Mais alguma outra compra? Lembrando que o Pulverizador pode ser colocado na mesma parcela que agrotóxicos e Pacotes de Máquinas
+AgAT1|VereadorAT	@EmpMaq certo, só isto msm. obrigado!
+AgAT1|VereadorAT	qual o preço? @EmpMaq
+EmpMaq	@AgAT1|VereadorAT Certo! Compra feita! 1 pulverizador a preço baixo
+EmpMaq	@AgAT1|VereadorAT Preço de qual pacote?

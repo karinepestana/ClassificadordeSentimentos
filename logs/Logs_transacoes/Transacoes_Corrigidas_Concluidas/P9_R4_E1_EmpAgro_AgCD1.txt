@@ -1,0 +1,6 @@
+EmpAgro|FiscalCD	@AgCD1|VereadorCD conseguiu realizar as compras?
+EmpAgro|FiscalCD	parece que o empresário foi abduzido e colocaram um legal no lugar kkk
+AgCD1|VereadorCD	Eu não sei o que aconteceu, mas vamos lá hahaha Gostaria de 2 pcts de SP, por favor
+EmpAgro|FiscalCD	ok, está pelo preço baixo para ajudar nossos agricultores.
+EmpAgro|FiscalCD	total de $50
+AgCD1|VereadorCD	Muito obrigado! Fechado

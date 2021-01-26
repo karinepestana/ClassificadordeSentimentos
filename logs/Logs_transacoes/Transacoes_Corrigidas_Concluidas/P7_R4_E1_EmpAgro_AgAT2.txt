@@ -1,0 +1,11 @@
+EmpAgr|VereadorCD	olá amigos, vão querer agrotóxico hoje?
+AgAT2	Bom dia! Gostaria de 2 pacotes de SP, por favor
+EmpAgr|VereadorCD	leva mais 2 que te faço por preço baixo @AgAT2
+EmpAgr|VereadorCD	imperdível!
+AgAT2	Só plantarei em duas parcelas esse ano. Preferirira preço baixo, visto que levei multa ano passado
+EmpAgr|VereadorCD	ah. mas se eu te vender por este preço vou sair no prejuízo. fechamos 2 agrotóxico super premium, com preço NORMAL? @AgAT2
+AgAT2	Pode ser. Assim fica melhor para os dois
+EmpAgr|VereadorCD	fechado, obrigado
+AgAT2	@EmpAgr|VereadorCD Fechado?
+EmpAgr|VereadorCD	tudo certo o que combinamos @AgAT2
+AgAT2	Obrigado!

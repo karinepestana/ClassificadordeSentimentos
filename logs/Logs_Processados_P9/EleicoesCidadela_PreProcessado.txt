@@ -1,0 +1,33 @@
+RODADA 3
+AgCD1|VereadorCD	Bom dia, povo!
+AgCD1|VereadorCD	Eu gostaria de sair da prefeitura
+AgCD2	Bom dia prefeito
+AgCD1|VereadorCD	Bom dia, fiscal
+AgCD2	Eu estou com alguns problemas familiares, e gostaria de deixar meu cargo de Fiscal a disposição, ficarei apenas com meu plantio
+AgCD3	Bom dia Cidadela
+EmpFert|PrefeitoCD	olá
+AgCD3	Gostaria de saber se alguem se candidata
+AgCD3	candidatará
+EmpFert|PrefeitoCD	posso disponibilizar meu cargo e assumir outro
+AgCD1|VereadorCD	Gostarias de se candidatar pra que cargo, Vereadora @EmpFert|PrefeitoCD ?
+EmpAgro|FiscalCD	Posso ser fiscal pra substituir a @AgCD2
+EmpFert|PrefeitoCD	@AgCD1|VereadorCD  se precisar assumir algum que está a disposição, não tem problema.
+AgCD1|VereadorCD	Pode assumir o meu hahahahah
+EmpAgro|FiscalCD	Acredito que todos estão fazendo um bom trabalho por aqui... já em atlantis.... kkkk
+AgCD1|VereadorCD	Eu voto na @EmpFert|PrefeitoCD pra prefeita, @EmpAgro|FiscalCD  pra Fiscal e posso ficar como vereador
+AgCD1|VereadorCD	@EmpAgro|FiscalCD rezo para que troquem aquele fiscal
+AgCD2	acho que será muito boa essa nossa nova administração
+AgCD2	@EmpAgro|FiscalCD rezo para que troquem aquele fiscal
+AgCD2	@AgCD1|VereadorCD por favor
+AgCD3	(por favor pessoal evitem as mentions para evitar problemas na coleta de daso)
+AgCD3	dados*
+AgAT1	*os replys
+AgAT1	As mentions são ok
+AgCD1|VereadorCD	Todos concordam, então?
+AgCD1|VereadorCD	Fis -> @EmpAgro|FiscalCD 
+AgCD1|VereadorCD	Pref -> @EmpFert|PrefeitoCD 
+AgCD1|VereadorCD	Ver -> @AgCD1|VereadorCD
+EmpAgro|FiscalCD	Concordo
+EmpFert|PrefeitoCD	sim
+AgCD2	sim
+AgCD3	otimo

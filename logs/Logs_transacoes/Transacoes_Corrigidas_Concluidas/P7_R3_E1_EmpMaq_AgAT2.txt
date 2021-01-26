@@ -1,0 +1,6 @@
+EmpMaq|VereadorAT	Bom dia prezados clientes aguardo vocês na loja!!
+AgAT2	Bom dia! Gostaria de 1 pulverizador, por favor
+EmpMaq|VereadorAT	Bom dia @AgAT2 hoje estamos com o pulverizador a preço normal
+AgAT2	Sem problemas
+AgAT2	Muito obrigado! @EmpMaq
+EmpMaq|VereadorAT	@AgAT2 pedido confirmado, obrigada pela preferência :smile:

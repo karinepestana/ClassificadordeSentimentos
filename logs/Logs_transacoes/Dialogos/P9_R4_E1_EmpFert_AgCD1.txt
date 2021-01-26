@@ -1,0 +1,8 @@
+AgCD1|VereadorCD	Bom dia! Gostaria de 2 pcts de SP. A que preço fica?
+EmpFert|PrefeitoCD	Bom dia@AgCD1|VereadorCD! O super premium está com o valor baixo! o valor fica 170 dinheiros
+AgCD1|VereadorCD	Certo! Fechado, então!!
+EmpFert|PrefeitoCD	@AgCD1|VereadorCD Obrigado pela compra!
+AgCD1|VereadorCD	Na verdade eu gostaria de 4x SP, não 2
+AgCD1|VereadorCD	Me confundi aqui hahahah
+EmpFert|PrefeitoCD	@AgCD1|VereadorCD ok! sem problemas! então 4 pelo preço baixo fica 340
+AgCD1|VereadorCD	Certo! Muito agradecido

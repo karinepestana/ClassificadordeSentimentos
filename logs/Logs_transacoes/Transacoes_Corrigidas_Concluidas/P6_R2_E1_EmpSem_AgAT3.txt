@@ -1,0 +1,5 @@
+AgAT3	Gostaria de 6 sojas
+EmpSem|FiscalAT	Ok, vamos lá
+EmpSem|FiscalAT	@AgAT3 6 sojas... faço 3 pelo preço normal e 3 pelo baixo, fechado?
+AgAT3	ok
+EmpSem|FiscalAT	Fechado então, obrigado

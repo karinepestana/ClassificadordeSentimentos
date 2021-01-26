@@ -1,0 +1,7 @@
+EmpMaq	---------------------------------------------- Rodada 4 -------------------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a postura adotada pela EmpMaq se mantém ao vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à produção de tecnologia para o campo.
+EmpMaq	Todos os pedidos que se adequarem a esta postura serão aprovados
+AgAT3	quero 6 pct 3 tem?
+EmpMaq	@AgAT3 tem sim... preço alto nesta rodada... Confirma o pedido?
+AgAT3	comfirmo
+EmpMaq	Ok... Obrigado @AgAT3

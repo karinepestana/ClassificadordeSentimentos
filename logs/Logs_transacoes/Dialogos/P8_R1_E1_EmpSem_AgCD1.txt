@@ -1,0 +1,5 @@
+AgCD1|FiscalCD	olá @EmpSem|PrefeitoAT! Gostaria de comprar 4 sementes de arroz
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Confirmado agricultor
+EmpSem|PrefeitoAT	Bem vindo @AgCD1|FiscalCD podemos negociar as 4 sementes de arroz pelo valor normal? A procura de arroz está muito alta ultimamente...
+AgCD1|FiscalCD	ok @EmpSem|PrefeitoAT. vou levar!
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Negócio fechado!

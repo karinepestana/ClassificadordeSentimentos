@@ -1,0 +1,13 @@
+AgCD2|PrefeitoCD	Olá , gostaria de comprar soja
+EmpSem|PrefeitoAT	Estou atendendo os agricultores na ordem de chegada
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Deseja 6 unidades de soja?
+AgCD2|PrefeitoCD	sim, 6 unidades, qual o valor?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Somente a preço alto
+AgCD2|PrefeitoCD	tudo bem
+AgCD2|PrefeitoCD	vou querer a metade entao
+AgCD2|PrefeitoCD	apenas 3
+AgCD2|PrefeitoCD	negócio fechado ?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Como desejar agricultor, mas penso que é mais rentável para produção ter sementes nos 6 lotes. Mas se só desejas isso a venda está feita!
+AgCD2|PrefeitoCD	Muito obrigada
+AgCD2|PrefeitoCD	Certo, muito obrigada pela dica , mas nessa safra vou ficar com lotes vazios. Muitos gastos... Você viu as notícias de uma tal nuvem de gafanhoto que está vindo para nossa região?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD A vida para o pequeno produtor não é fácil, eu como pequeno empresário também sofro com pragas como essas quando atigem os agricultores! É lastimável

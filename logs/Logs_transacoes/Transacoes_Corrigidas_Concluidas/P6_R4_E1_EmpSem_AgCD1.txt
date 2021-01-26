@@ -1,0 +1,4 @@
+AgCD1|VereadorCD	Olá, gostaria de comprar 6 hortaliças
+EmpSem|FiscalAT	Mesma promoção da rodada anterior: Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	@AgCD1|VereadorCD 6 hortaliças pelo preço baixo então, fechado?
+AgCD1|VereadorCD	fechado

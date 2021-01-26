@@ -1,0 +1,12 @@
+AgCD1|FiscalCD	olá @EmpAgro! Gostaria de comprar 4 unidades do agrotóxico comum
+EmpAgro	Olá @AgCD1|FiscalCD tudo bem?
+EmpAgro	em que valor quer fechar?
+AgCD1|FiscalCD	um desconto é sempre bom... pode ser pelo menor valor?
+EmpAgro	Olha.. ultimamente com o aumento de pragas principalmente os gafanhotos na regiao eu recomendaria voce comprar o Premium
+EmpAgro	e faço pelo valor nromal pra você
+EmpAgro	normal*
+AgCD1|FiscalCD	humm, entendo.. eu não tenho muito recurso disponível para o premium agora. pode ser o comum no valor normal?
+EmpAgro	Tudo bem então
+EmpAgro	deu 40 R$
+AgCD1|FiscalCD	tá certo! negócio fechado
+EmpAgro	agradeço, ate mais

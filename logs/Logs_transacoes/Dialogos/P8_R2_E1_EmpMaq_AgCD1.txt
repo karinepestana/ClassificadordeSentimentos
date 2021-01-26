@@ -1,0 +1,5 @@
+AgCD1|FiscalCD	olá @EmpMaq! quanto sai 2 unidades do pacote 1?
+EmpMaq	Olá!! Como é o pacote 1, faço pelo preço Normal
+EmpMaq	D$ 30 cada
+AgCD1|FiscalCD	tá bom! vou levar
+EmpMaq	Certo! Fechou por D$60 tudo. Obrigado pela compra!

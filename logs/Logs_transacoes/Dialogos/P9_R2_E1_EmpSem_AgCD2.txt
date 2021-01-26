@@ -1,0 +1,14 @@
+EmpSem|FiscalAT	Comunicado da empresa Sem-Mentes-Monopólio: O caminhão de sementes de hortaliça tombou devido ao excesso de rebite consumido pelo caminhoneiro e o de arroz foi parar nas mãos dos chineses. Só temos sementes de SOJA a preço ALTO devido a cotação do dólar nesta rodada (tah ok?!)
+AgCD2|FiscalCD	Gostaria de 6 sementes de soja, faria 2 a preço baixo e o restante alto?
+AgCD2|FiscalCD	@EmpSem|FiscalAT Ou uma a preço baixo
+AgCD2|FiscalCD	Considere que é um número grande Empresário, e já comprei de você anteriormente
+EmpSem|FiscalAT	@AgCD2|FiscalCD  devido a cotação do dólar só temos pelo preço alto
+AgCD2|FiscalCD	Que absurdo Empresário
+AgCD2|FiscalCD	Você é nosso fornecedor a tempos, eu só compro de você, e não vai me fazer um pacote a preço mais baixo?
+AgCD2|FiscalCD	@EmpSem|FiscalAT Serei obrigada a reclamar com a prefeitura e com a fiscalização
+AgCD2|FiscalCD	Estou junto nessa, não pode ficar assim não empresário
+EmpSem|FiscalAT	@AgCD2|FiscalCD  o mercado q é o culpado
+AgCD2|FiscalCD	@EmpSem|FiscalAT certo então, irei pegar 6 sementes de soja a preço alto, mas para isso gostaria de um acordo. Na safra passada também comprei soja de você, me garante 2 pacotes de semente a preço baixo para a próxima safra?
+EmpSem|FiscalAT	@AgCD2|FiscalCD  ok... 6 sementes de soja a preço alto. Na próxima rodada depende de como o mercado estará 
+AgCD2|FiscalCD	@EmpSem|FiscalAT certo, certo. O senhor tem que começar a pensar um pouco mais no seu público meu caro empresário, se continuar assim vai ficar cada vez mais difícil para todos nós... Até mais
+EmpSem|FiscalAT	@AgCD2|FiscalCD  foram os imprevistos que dificultaram a disponibilidade de sementes... Para a Sem-Mentes-Monopólio o cliente vem sempre em segundo lugar 

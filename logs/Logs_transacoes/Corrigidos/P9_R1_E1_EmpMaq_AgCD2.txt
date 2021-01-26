@@ -1,0 +1,6 @@
+EmpMaq|PrefeitoAT	Boa tarde pessoal! Venham aproveitar as promoções em pacotes de máquinas para sua produção ser cada vez maior e melhor!
+EmpMaq|PrefeitoAT	Pessoal de Atlantis e Cidadela, quanto mais máquinas, menos poluição! Venham conferir as promoções!
+AgCD2|FiscalCD	Olá @EmpMaq|PrefeitoAT , gostaria de comprar um pulverizador, mas estou apertada nas contas, faria pelo valor baixo?
+EmpMaq|PrefeitoAT	Olá @AgCD2|FiscalCD, claro! Acertamos 1 pulverizador com preço baixo então.
+AgCD2|FiscalCD	@EmpMaq|PrefeitoAT muito obrigada
+EmpMaq|PrefeitoAT	Nós da empresa que agradecemos! Volte sempre!

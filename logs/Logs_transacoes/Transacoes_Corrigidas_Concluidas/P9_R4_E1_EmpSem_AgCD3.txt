@@ -1,0 +1,5 @@
+EmpSem|FiscalAT	@AgCD3 faça o pedido que será aprovado
+EmpSem|FiscalAT	O chefe é vendedor
+AgCD3	Gostaria de comprar 6 sementes de soja pelo preço baixo
+EmpSem|FiscalAT	Olá @AgCD3 ... Pedido aprovado... Tenha um ótimo plantio e rendimentos!!!
+AgCD3	Ok

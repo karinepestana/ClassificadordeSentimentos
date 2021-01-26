@@ -1,0 +1,10 @@
+RODADA 3
+
+
+EmpFert|PrefeitoCD	mas se não plantarem nada, como  todos os outros empresários ficamos? @EmpSem|FiscalAT você não pode fazer alguma coisa para minimizar essa situação?
+
+EmpAgro|FiscalCD	@EmpSem|FiscalAT  Você está prejudicando os meus negócios, muitos agricultores não estão conseguindo plantar por causa de seus preços absurdos.
+
+EmpFert|PrefeitoCD	Também espero porque ano passado deixei de vender porque causa das sementes e meus fertilizantes estragaram.  E esse ano agora só fiz 3 vendas
+
+EmpSem|FiscalAT	@EmpFert|PrefeitoCD  eu também só fiz 3 vendas

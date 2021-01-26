@@ -1,0 +1,10 @@
+EmpSem|PrefeitoAT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+AgCD2|PrefeitoCD	Olá Amigo, gostaria de de 15 sementes de hortaliças
+AgCD2|PrefeitoCD	qual o valor?
+AgCD2|PrefeitoCD	pode ser sim
+AgCD2|PrefeitoCD	fechado
+AgCD2|PrefeitoCD	6 valor normal e 7 valor baixo?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Estava respondendo ao @AgCD1|FiscalCD mas posso fazer a mesma proposta para você. 3 de valor baixo e 3 de valor normal
+EmpSem|PrefeitoAT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+AgCD2|PrefeitoCD	@EmpSem|PrefeitoAT  feito 3 baixo e 3 normal então?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Isso de hortaliças

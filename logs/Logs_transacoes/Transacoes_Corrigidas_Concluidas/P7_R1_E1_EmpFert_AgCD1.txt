@@ -1,0 +1,7 @@
+EmpFert	Bom dia pessoal, promoções especiais pra quem comprar 6 pacotes do mesmo fertilizante, faço preço baixo :smile:
+AgCD1|FiscalCD	Bom dia
+AgCD1|FiscalCD	Quero 6 fertilizantes SP
+EmpFert	Bom dia
+EmpFert	6 Fertilizantes SP pro @AgCD1|FiscalCD então
+EmpFert	Obrigado
+EmpFert	Pessoal, só prestem atenção que na próxima rodada os preços vão variar conforme a ordem de chegada

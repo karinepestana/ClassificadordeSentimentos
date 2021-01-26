@@ -1,0 +1,44 @@
+RODADA 1
+EmpMaq|PrefeitoAT	Olá! Pelo relatório anual, a prefeitura constatou que a poluição gerada na cidade não foi muito alta. Mas a poluição mundial teve um aumento considerável. Nesse sentido, gostaria de propor que a medida de prevenção de Atlantis será a medida média, de lixo.
+EmpMaq|PrefeitoAT	Sobre os impostos, receio ter que manter eles como estão, até que a poluição sofra uma queda.
+EmpMaq|PrefeitoAT	Alguma proposta?
+EmpSem|FiscalAT	Baixar impostos :slight_smile:
+EmpMaq|PrefeitoAT	Infelizmente será inviável, visto que a poluição aumentou nesse período. Podemos rever a forma como todos estão plantando, e tentar chegar a um acordo.
+AgAT3|VereadorAT	Também concordo sobre manter o imposto atual
+EmpMaq|PrefeitoAT	@EmpSem|FiscalAT como representante da empresa de máquina, gostaria de verificar se irei tomar multa. Gostaria de salientar, que as máquinas não poluem tanto quanto os agrotóxicos. Estamos fazendo o melhor para a cidade.
+EmpSem|FiscalAT	@EmpMaq|PrefeitoAT  a leia é rígida
+EmpSem|FiscalAT	e os impostos estão altos
+EmpMaq|PrefeitoAT	Como prefeita dessa cidade, e vendo a situação, vou me intrometer na conversa. O que você me diz @AgAT2|FiscalAT, se não houver multa para a empresa de máquinas, que ajuda tanto a cidade e o mundo a poluir menos, os impostos se tornam baixos?
+EmpSem|FiscalAT	A @EmpMaq|PrefeitoAT teria que tomar multa média segundo a lei
+EmpSem|FiscalAT	Se os impostos baixarem a multa pode ser baixa
+EmpMaq|PrefeitoAT	Temos um acordo @EmpSem|FiscalAT. Obrigada pela compreensão! Como prefeita, fico orgulhosa de ver pessoas íntegras e cooperativas.
+EmpSem|FiscalAT	Integridade é meu segundo nome :stuck_out_tongue:
+EmpMaq|PrefeitoAT	Certo pessoal, mais alguma colaboração? Irei encaminhar a proposta para o próximo ano.
+EmpSem|FiscalAT	Td ok
+RODADA 2
+EmpMaq|PrefeitoAT	Olá! Pessoal, a prefeitura alerta que a poluição está alta. Irei conversar com a Empresa de Máquinas para diminuir a produção. Peço que o fiscal @EmpSem|FiscalAT compreenda novamente a intenção da empresa de máquinas e não aplique uma multa tão severa.
+EmpMaq|PrefeitoAT	Sobre os impostos, acredito que possamos manter baixos, pois a produção ajudou a mantermos um bom caixa.
+EmpMaq|PrefeitoAT	Dependendo, poderemos aplicar a medida de prevenção mais eficaz.
+EmpSem|FiscalAT	Como a @EmpMaq|PrefeitoAT  conseguiu poluir tanto?
+EmpSem|FiscalAT	Deve ter algum erro nos cálculos
+EmpSem|FiscalAT	Deu o dobro da rodada passada
+EmpMaq|PrefeitoAT	Como representante da empresa, o que aconteceu foi que houve um grande interesse em pulverizador nesse ano.
+EmpMaq|PrefeitoAT	Não sabíamos que iria poluir tanto!!!
+EmpMaq|PrefeitoAT	Pois a ferramenta na verdade é para ajudar a diminuir a poluição do cultivo...
+EmpMaq|PrefeitoAT	Até vendemos por um preço menor, acreditando que seria o melhor
+EmpSem|FiscalAT	Vc vendeu o dobro do q na primeira rodada?
+EmpSem|FiscalAT	@EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	Na primeira rodada eu vendi apenas 1, e nessa foram 3...
+EmpMaq|PrefeitoAT	Qual será a multa? :persevere:
+EmpSem|FiscalAT	Pela poluição teria que ser uma multa alta
+EmpSem|FiscalAT	acima de 200 é alta... deu 246
+EmpMaq|PrefeitoAT	Não teria uma forma de ser a leve? No próximo ano, irei verificar a poluição e podemos negociar...
+EmpSem|FiscalAT	Implementa medidas de combate a poluição... Daí aplico uma multa leve ok @EmpMaq|PrefeitoAT ?
+EmpMaq|PrefeitoAT	Sim, a prefeita irá aplicar a melhor medida de combate a poluição!
+EmpMaq|PrefeitoAT	E dará um bônus pela compreensão e ótimo trabalho
+EmpSem|FiscalAT	Ok... Máquinas são importantes para a produtividade e controle da poluição... A multa será leve @EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	Obrigada!
+EmpMaq|PrefeitoAT	A prefeitura gostaria de saber se há mais alguma contribuição ou sugestão?
+EmpSem|FiscalAT	A princípio OK
+AgAT3|VereadorAT	Também ok, concordo sobre os impostos
+EmpMaq|PrefeitoAT	Obrigada pessoal!

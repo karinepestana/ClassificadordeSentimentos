@@ -1,0 +1,4 @@
+AgCD1|FiscalCD	olá @EmpFert|PrefeitoCD ! Gostaria de comprar 3 fertilizantes super premium. Quanto vai custar?
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD te faço pelo preço normal
+AgCD1|FiscalCD	tá bem @EmpFert|PrefeitoCD! vou levar!
+EmpFert|PrefeitoCD	obrigado!

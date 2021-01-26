@@ -1,0 +1,13 @@
+EmpFert|VereadorCD	5 unidades do Fertilizante Super Premium por apenas 425 dinheiros! Aumente a produtividade de suas plantações levando o melhor fertilizante disponível no mercado e por valor baixo! Aproveite essa oferta!
+AgCD2|FiscalCD	Olá @EmpFert|VereadorCD, quero levar 2 premium e 1 comum, faria o comum a preço baixo e os outros 2 a preço normal?
+AgCD2|FiscalCD	@EmpFert|VereadorCD estou esperando sua resposta
+EmpFert|VereadorCD	Olá @AgCD2|FiscalCD! hoje a fila tá grande. não querer aproveitar nossa promoção?
+EmpFert|VereadorCD	@AgCD2|FiscalCD para essas unidades, só consigo pelo valor alto
+AgCD2|FiscalCD	e o SP? Consegue a valor baixo?
+EmpFert|VereadorCD	@AgCD2|FiscalCD, sim para 5 unidades valor baixo. A sexta saiu pelo valor alto
+AgCD2|FiscalCD	É que eu só consigo colocar em 3 pedaços de terra nessa rodada, me conseguiria 3 a valor normal?
+EmpFert|VereadorCD	@AgCD2|FiscalCD 3 super premium?
+AgCD2|FiscalCD	Sim
+EmpFert|VereadorCD	@AgCD2|FiscalCD aah, nesse caso sai 3 pelo valor baixo
+AgCD2|FiscalCD	Ótimo @EmpFert|VereadorCD , fechado então
+EmpFert|VereadorCD	@AgCD2|FiscalCD ok! obrigada!

@@ -1,0 +1,11 @@
+EmpMaq|VereadorAT	Bom dia prezados clientes, aguardo vocês :smile:
+AgAT1|FiscalAT	Bom dia gostaria de 6 pacotes do tipo 2
+EmpMaq|VereadorAT	Bom dia @AgAT1|FiscalAT
+EmpMaq|VereadorAT	sim, essa quantidade pelo preço normal
+EmpMaq|VereadorAT	o que achas?
+AgAT1|FiscalAT	estou comprando em uma quantidade alta, acredito que poderia fazer pelo  preço baixo
+EmpMaq|VereadorAT	vou verificar aqui, só um minuto
+EmpMaq|VereadorAT	@AgAT1|FiscalAT certo, faço os 6 pelo preço baixo
+AgAT1|FiscalAT	Obrigada Emp
+AgAT1|FiscalAT	:smile:
+EmpMaq|VereadorAT	@AgAT1|FiscalAT pedido confirmado, obrigada pela preferência :slight_smile:

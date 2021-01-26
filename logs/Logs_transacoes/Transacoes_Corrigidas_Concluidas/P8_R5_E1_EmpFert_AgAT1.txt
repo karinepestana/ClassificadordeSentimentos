@@ -1,0 +1,11 @@
+EmpFert|PrefeitoCD	graças as baixa de impostos, quem levar mais de 4 fertlizantes premiuns, paga preço baixo
+AgAT1	oi, tudo bem? gostaria de comprar 6 fertilizantes comum. me faz 6 por preço normal?
+EmpFert|PrefeitoCD	@AgAT1 Fertilizantes comuns apenas por preço alto
+AgAT1	credo
+AgAT1	estão assaltando
+EmpFert|PrefeitoCD	prioridade é cuidar da poluição, pagarei multa caso venda esses fertilizantes para você
+EmpFert|PrefeitoCD	@AgAT1  te proponho comprar 2 comuns, e 4 premium, todos por preço baixo
+AgAT1	já ia dizer que não iria comprar nada, mas dps desta proposta vou aceitar @EmpFert|PrefeitoCD
+EmpFert|PrefeitoCD	ótima escolha @AgAT1 :handshake:
+AgAT1	@EmpFert|PrefeitoCD escolhi  2 comuns, e 4 premium, todos por preço baixo
+EmpFert|PrefeitoCD	@AgAT1 Desculpa marquei errado

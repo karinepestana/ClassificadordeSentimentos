@@ -1,0 +1,9 @@
+AgCD2|VereadorCD	Boa tarde. Gostaria de comprar sementes de hortaliças
+AgCD2|VereadorCD	6 para ser mais exato
+AgCD2|VereadorCD	qual o valor?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Para 6 sementes de hortaliças estou com promoção essa rodada! 
+AgCD2|VereadorCD	ótimo
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Faço pelo valor baixo as 6, podemos fechar negócio?
+AgCD2|VereadorCD	vou querer as 6 pelo preço que for
+AgCD2|VereadorCD	fechado
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Obrigada agircultor, pedido anotado!

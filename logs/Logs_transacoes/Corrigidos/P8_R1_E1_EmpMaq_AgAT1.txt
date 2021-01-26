@@ -1,0 +1,9 @@
+AgAT1|VereadorAT	olá empresário
+AgAT1|VereadorAT	gostaria de alugar máquinas
+AgAT1|VereadorAT	como está o preço do pacote 3?
+EmpMaq	Olá @AgAT1|VereadorAT ! Temos o Pacote 2 a D$60
+EmpMaq	Se comprar mais de 4 unidades consigo um preço mais baixo
+AgAT1|VereadorAT	só gostaria de 3 mesmo, ficamos com três pacote 3 a preço normal?
+EmpMaq	Ficaria D$180, então
+AgAT1|VereadorAT	beleza, acertado
+EmpMaq	Certo! Compra realizada. Boas plantações :slight_smile:

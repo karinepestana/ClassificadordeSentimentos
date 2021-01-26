@@ -1,0 +1,18 @@
+EmpSem|FiscalAT	As sementes então paradas no buraco negro de Curitiba... Para obter a liberação somente com uma transferência de 100 dinheiros
+AgAT1	Gostaria de comprar sementes de soja
+AgAT1	Busco sementes de qualidade garantida
+EmpSem|FiscalAT	@AgAT1 ok... 6 de soja a preço normal + transferência de 100 ok?
+AgAT1	@EmpSem|FiscalAT Se eu te transferir $150, você me garante a compra de sementes de soja pelo valor baixo no próximo ano?
+EmpSem|FiscalAT	@AgAT1 A demanda depende do mercado atual... Não tenho como fazer tal garantia
+AgAT1	Sou um cliente fiel, compro todos os anos em sua loja...
+EmpSem|FiscalAT	@AgAT1  o mercado é dinâmico... Neste ano tivemos que importar... Só consigo preço normal porque vem da China
+AgAT1	Espero que você negocie preço melhores para o próximo ano
+AgAT1	Se não seremos obrigados a procurar a venda de sementes direto da fonte!
+EmpSem|FiscalAT	O preço está normal... o custo é da importação
+AgAT1	Vou querer as 6 sementes de soja
+EmpSem|FiscalAT	@AgAT1 Ok... 6 sementes de soja a preço normal + 100 dinheiros... boa plantação!
+AgAT1	Já fiz a transferência bancária
+AgAT1	Obrigada pelas sementes
+AgAT1	Se não tiver um bom plantio vou voltar aqui e reclamar!!
+EmpSem|FiscalAT	Obrigado @AgAT1
+EmpSem|FiscalAT	Bom plantio depende do clima também

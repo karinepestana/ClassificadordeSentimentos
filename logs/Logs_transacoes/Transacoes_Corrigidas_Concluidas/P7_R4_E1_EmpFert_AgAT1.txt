@@ -1,0 +1,13 @@
+EmpFert	Promoções para a rodada, por ordem de chegada:
+EmpFert	- 2 lotes de 6 SP, preço baixo
+EmpFert	- 2 lotes de 6 P, preço baixo
+EmpFert	- 2 lotes de 6 C, preço baixo
+EmpFert	Depois dessas primeiras compras, o preço passa para normal
+EmpFert	Compras fora dos pacotes de 6 - preço alto
+EmpFert	-------------------------------------------
+AgAT1|FiscalAT	Quero SP
+AgAT1|FiscalAT	pode ser a preço normal
+EmpFert	um momentinho gente, vou atendendo pela ordem de chegada
+EmpFert	@AgAT1|FiscalAT vai querer 6?
+AgAT1|FiscalAT	isso
+EmpFert	certo, 6 pacotes SP a preço normal para @AgAT1|FiscalAT , obrigado

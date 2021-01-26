@@ -1,0 +1,11 @@
+EmpMaq|PrefeitoAT	Pessoal, venham alugar máquinas para sua produção consciente:
+EmpMaq|PrefeitoAT	--- PREÇO BAIXO: Na compra de 4, 5 ou 6 unidades do MESMO pacote
+EmpMaq|PrefeitoAT	--- PREÇO NORMAL: Na compra de 1, 2 ou 3 unidades do MESMO pacote
+AgAT1	Vou querer 6 unidades do pacote 3
+AgAT1	Consigo pelo valor baixo, correto?
+EmpMaq|PrefeitoAT	Claro @AgAT1, confirmado!
+AgAT1	Obrigada empresário, vou aguardar sua entrega
+EmpMaq|PrefeitoAT	Já está indo!
+AgAT1	Me sinto ótima vindo negociar os aluguéis das máquinas aqui todo ano, sua loja é um ambiente alto astral
+EmpMaq|PrefeitoAT	Nós queremos ver os sorrisos nos nossos clientes e a paz no meio ambiente!
+EmpMaq|PrefeitoAT	É um prazer :heart:

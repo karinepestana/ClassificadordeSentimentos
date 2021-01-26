@@ -1,0 +1,6 @@
+AgAT3	Olá
+AgAT3	quero 6 Hortaliças com preço baixo
+EmpSem|PrefeitoAT	@AgAT3 Posso fazer 3 hortaliças a preço normal e 3 a preço baixo, pode ser?
+AgAT3	Pode ser.
+EmpSem|PrefeitoAT	@AgAT3 Venda feita agricultor!
+EmpSem|PrefeitoAT	Estou atendendo os agricultores na ordem de chegada

@@ -1,0 +1,4 @@
+AgAT1|VereadorAT	oi, eu de 6 de hortaliças
+EmpSem|FiscalAT	Ok, vamos lá
+EmpSem|FiscalAT	@AgAT1|VereadorAT 6 hortaliças... mesmo esquema, 3 pelo preço normal e 3 pelo baixo, fechado?
+AgAT1|VereadorAT	@EmpSem|FiscalAT fechado!

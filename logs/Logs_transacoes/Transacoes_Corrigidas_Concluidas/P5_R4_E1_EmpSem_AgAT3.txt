@@ -1,0 +1,2 @@
+AgAT3	bom dia! Gostaria de comprar 6 sacos de soja, se possível negociar ao preço mais baixo.
+EmpSem|FiscalAT	@AgAT3 @AgAT2 6 preço baixo, já que vocês tinham reservado

@@ -1,0 +1,9 @@
+EmpSem|FiscalAT	Nessa primeira rodada o empresário de sementes está tranquilo. Todas as sementes estão disponíveis em qualquer quantidade a preço normal.
+AgAT1	Olá empresário, tenho interesse em adquirir sementes de SOJA, dizem que esse ano a produção estará maravihosa. Como podemos negociar?
+AgAT1	@EmpSem|FiscalAT ainda estou aguardando sua resposta
+EmpSem|FiscalAT	Olá @AgAT1 ... Todas as sementes estão a preço Normal... Só me informar o tipo e quantidade
+AgAT1	Vou querer então 6 sementes de Soja
+AgAT1	Consigo todas pelo preço normal?
+AgAT1	Não há nenhum desconto?
+EmpSem|FiscalAT	Ok @AgAT1 ... 6 sementes de soja pelo preço normal... Confirmado
+AgAT1	@EmpSem|FiscalAT obrigada empresário!

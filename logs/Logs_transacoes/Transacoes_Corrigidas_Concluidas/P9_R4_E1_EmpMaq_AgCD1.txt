@@ -1,0 +1,12 @@
+EmpMaq|PrefeitoAT	Pessoal, venham alugar máquinas para sua produção consciente:
+EmpMaq|PrefeitoAT	--- PREÇO BAIXO: Na compra de 4, 5 ou 6 unidades do MESMO pacote
+EmpMaq|PrefeitoAT	--- PREÇO NORMAL: Na compra de 1, 2 ou 3 unidades do MESMO pacote
+AgCD1|VereadorCD	Bom dia! Gostaria de 2 P3, por favor
+EmpMaq|PrefeitoAT	Olá, claro! Confirmado 2 pacotes do tipo 3 com preço normal para você @AgCD1.
+AgCD1|VereadorCD	Olá, @EmpMaq|PrefeitoAT . E quanto a mim?
+EmpMaq|PrefeitoAT	@AgCD1|VereadorCD respondi você, está confirmado!
+AgCD1|VereadorCD	2x P3 a que preço?
+EmpMaq|PrefeitoAT	Preço normal
+EmpMaq|PrefeitoAT	por serem apenas 2
+AgCD1|VereadorCD	Ok! Muito obrigado
+EmpMaq|PrefeitoAT	Volte sempre :slight_smile:

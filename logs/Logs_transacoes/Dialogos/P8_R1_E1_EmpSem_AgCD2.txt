@@ -1,0 +1,10 @@
+AgCD2|VereadorCD	Boa tarde senhor vendedor
+EmpSem|PrefeitoAT	Olá agricultor @AgCD2|VereadorCD como posso te ajudar?
+AgCD2|VereadorCD	desejo comprar 6 sementes por preço normal
+AgCD2|VereadorCD	de soja*
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD A temporada da soja está muito fraca esse ano, estou com safras baixissimas, o que levou a supervalorização da soja portando estou vendendo apenas a preço alto
+AgCD2|VereadorCD	desejo 6 sementes de hortaliças
+AgCD2|VereadorCD	por qual valor podemos negociar?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD as hortaliças posso te dar desconto em duas pelo valor baixo e as quatro demais pelo valor normal, o que acha colega?
+AgCD2|VereadorCD	@EmpSem|PrefeitoAT otimo
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Muito bom negociar com você agricultor, volte sempre!

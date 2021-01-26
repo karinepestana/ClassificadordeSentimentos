@@ -1,0 +1,3 @@
+AgAT1|VereadorAT	Olá, gostaria de 6 fertilizantes SuperPremium valor baixo
+EmpFert|FiscalCD	@AgAT1|VereadorAT Preço para este produto é Normal. Podemos fechar por este preço?
+AgAT1|VereadorAT	@EmpFert|FiscalCD fechado

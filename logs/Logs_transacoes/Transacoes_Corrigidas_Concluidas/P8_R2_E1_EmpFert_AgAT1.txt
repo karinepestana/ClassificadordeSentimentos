@@ -1,0 +1,4 @@
+AgAT1|VereadorAT	olá amigo, estou pensando em comprar 6 fertilizantes. faz um preço camarada?
+EmpFert|PrefeitoCD	@AgAT1|VereadorAT  ola, última rodada tinha altos números de poluição, então eu te proponho comprar fertilizantes super premium
+AgAT1|VereadorAT	@EmpFert|PrefeitoCD show! então 6 fertilizantes super premium por preço baixo (85 cada). Foi um prazer fazer negócio com o senhor
+EmpFert|PrefeitoCD	@AgAT1|VereadorAT certo

@@ -1,0 +1,4 @@
+AgAT3	Opa @EmpFert|PrefeitoCD vou levar 6 super premium, preço baixo certo?
+EmpFert|PrefeitoCD	Olá @AgAT3! sim, sim! super premium a preço baixo!
+EmpFert|PrefeitoCD	@AgAT3 obrigado pela compra!
+AgAT3	@EmpFert|PrefeitoCD muito obrigado!

@@ -1,0 +1,7 @@
+EmpFert|VereadorCD	5 unidades do Fertilizante Super Premium por apenas 425 dinheiros! Aumente a produtividade de suas plantações levando o melhor fertilizante disponível no mercado e por valor baixo! Aproveite essa oferta!
+AgCD1|PrefeitoCD	Olá, @EmpFert|VereadorCD ! Gostaria de 2x SP, por favor
+EmpFert|VereadorCD	Olá @AgCD1|PrefeitoCD ! Não vai querer aproveitar a promoção?
+AgCD1|PrefeitoCD	Esse ano não. Estou começando com plantações. Estou testando o melhor pra minha terra ainda
+EmpFert|VereadorCD	sim, entendi! então 2 SP sai pelo preço baixo, 85 cada um.
+AgCD1|PrefeitoCD	Fechado, então, @EmpFert|VereadorCD ! Muito obrigado
+EmpFert|VereadorCD	@AgCD1|PrefeitoCD eu que agradeço

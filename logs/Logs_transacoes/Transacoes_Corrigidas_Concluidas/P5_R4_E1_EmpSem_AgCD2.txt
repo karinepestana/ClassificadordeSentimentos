@@ -1,0 +1,20 @@
+AgCD2|PrefeitoCD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+AgCD2|PrefeitoCD	@EmpSem|FiscalAT estou sem resposta, como estão os preços da soja?
+AgCD2|PrefeitoCD	@EmpSem|FiscalAT como estão os preços da soja? Ainda não recebi resposta
+EmpSem|FiscalAT	@AgCD2|PrefeitoCD desculpa a demora. não temos mais soja para venda. apenas hortaliça e a preço alto. últimos sacos
+AgCD2|PrefeitoCD	Poxa, nenhuma outrao pção?
+AgCD2|PrefeitoCD	opção*
+EmpSem|FiscalAT	encontrei 3 sacos de arroz? 3 arroz alto e 3 hortaliça alto?
+EmpSem|FiscalAT	encontrei 3 sacos de arroz. 3 arroz alto e 3 hortaliça alto?*
+AgCD2|PrefeitoCD	consegue pelo menos baixar os preços pra médio? são as sementes baratas/médias ao maior preço
+AgCD2|PrefeitoCD	assim não da
+EmpSem|FiscalAT	da hortaliça consigo te vender pelo médio
+AgCD2|PrefeitoCD	não pode ser do arroz médio?
+EmpSem|FiscalAT	não...
+EmpSem|FiscalAT	ok, 1 arroz médio e 2 alto
+EmpSem|FiscalAT	última proposta
+EmpSem|FiscalAT	pois já vou fechar
+AgCD2|PrefeitoCD	ta certo, 1 arroz médio, 2 arroz alto e 3 hortaliça médio, é isso?
+AgCD2|PrefeitoCD	ta certa a proposta ali EmpSem?
+EmpSem|FiscalAT	certo @AgCD2|PrefeitoCD
+AgCD2|PrefeitoCD	beleza, obrigado

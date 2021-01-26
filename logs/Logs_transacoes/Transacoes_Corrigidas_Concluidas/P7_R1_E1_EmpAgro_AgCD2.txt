@@ -1,0 +1,17 @@
+EmpAgr|VereadorCD	olá pessoal, alguém interessado em agrotóxico?
+AgCD2|PrefeitoCD	Olá, eu quero
+AgCD2|PrefeitoCD	Qual o valor?
+AgCD2|PrefeitoCD	algum preço especial?
+EmpAgr|VereadorCD	claro, estou vendendo com preço baixo @AgCD2|PrefeitoCD
+EmpAgr|VereadorCD	se levar 6 do mesmo tipo
+EmpAgr|VereadorCD	queres o super premium? este tipo é bom para aumentar sua produtividade
+AgCD2|PrefeitoCD	não
+AgCD2|PrefeitoCD	quero comum
+EmpAgr|VereadorCD	@AgCD2|PrefeitoCD ok, 6 do comum com preço baixo?
+AgCD2|PrefeitoCD	6 não
+AgCD2|PrefeitoCD	Quero 2 unidades apenas
+EmpAgr|VereadorCD	perfeito @AgCD2|PrefeitoCD
+AgCD2|PrefeitoCD	2 unidades de comum por preço baixo, é isso?
+EmpAgr|VereadorCD	isso @AgCD2|PrefeitoCD  obrigado pela compra
+AgCD2|PrefeitoCD	de nada
+AgCD2|PrefeitoCD	até a próxima

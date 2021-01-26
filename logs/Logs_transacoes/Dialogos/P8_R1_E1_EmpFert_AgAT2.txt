@@ -1,0 +1,6 @@
+AgAT2|FiscalAT	boa tarde @EmpFert|PrefeitoCD , gostaria de comprar 4 fertilizantes premium
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT ola, 90$ cada uma
+EmpFert|PrefeitoCD	opa
+EmpFert|PrefeitoCD	60*
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD vou levar 4 fertilizantes premium por 240
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT  Perfeito!

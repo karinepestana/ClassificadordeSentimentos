@@ -1,0 +1,5 @@
+AgAT1|VereadorAT	Olá senhor empresário, estou querendo comprar do tipo super premium. a q preço estas interessado em comercializar este produto?
+EmpAgro	E @AgAT1|VereadorAT farei pelo preço normal tambem
+EmpAgro	@AgAT1|VereadorAT qual a quantidade?
+AgAT1|VereadorAT	perfeito @EmpAgro , vou querer 3 agrotóxico super premium com preço normal então
+EmpAgro	Feito! Obrigado e volte sempre

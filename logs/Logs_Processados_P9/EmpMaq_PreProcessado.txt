@@ -1,0 +1,113 @@
+RODADA 1
+EmpMaq|PrefeitoAT	Boa tarde pessoal! Venham aproveitar as promoções em pacotes de máquinas para sua produção ser cada vez maior e melhor!
+AgAT1	Fiquei interessada pelos seus pacotes 3 empresário
+AgCD1|PrefeitoCD	Olá, @EmpMaq|PrefeitoAT! Como está? Gostaria de alugar 2 Pacote2, por favor
+AgAT1	Se eu levasse para os meus 6 lotes de plantação, teria algum desconto?
+EmpMaq|PrefeitoAT	@AgAT1 olá! Se levar 6 vocês entra na promoção com preço baixo em todos os produtos!
+EmpMaq|PrefeitoAT	@AgCD1|PrefeitoCD olá! Tudo bem, como seriam apenas 2, o preço será alto. Podemos acertar?
+AgCD1|PrefeitoCD	Claro, entendo. Podemos fechar sim
+AgAT1	@EmpMaq|PrefeitoAT Vou querer então!
+AgAT1	Gostei da sua oferta
+EmpMaq|PrefeitoAT	Certo @AgCD1|PrefeitoCD. Obrigada pela preferência!
+AgCD1|PrefeitoCD	Muito obrigado!!
+EmpMaq|PrefeitoAT	@AgAT1 que maravilha! Estamos sempre pensando nos nossos clientes! Fechamos o acordo então! Abraço
+AgAT1	Obrigada! Vou aguardar a entrega
+EmpMaq|PrefeitoAT	Pessoal de Atlantis e Cidadela, quanto mais máquinas, menos poluição! Venham conferir as promoções!
+AgAT2	Olá @EmpMaq|PrefeitoAT , gostaria de trocar alguns dinheiros por algumas máquinas do pacote 3?
+AgCD2|FiscalCD	Olá @EmpMaq|PrefeitoAT , gostaria de comprar um pulverizador, mas estou apertada nas contas, faria pelo valor baixo?
+EmpMaq|PrefeitoAT	Olá! Claro, quantos pacotes você gostaria @AgAT2?
+EmpMaq|PrefeitoAT	Olá @AgCD2|FiscalCD, claro! Acertamos 1 pulverizador com preço baixo então.
+AgCD2|FiscalCD	@EmpMaq|PrefeitoAT muito obrigada
+EmpMaq|PrefeitoAT	Nós da empresa que agradecemos! Volte sempre!
+AgAT2	ficarei contente com apenas um pacote @EmpMaq|PrefeitoAT , preço normal?
+EmpMaq|PrefeitoAT	Como é apenas 1, não entra na promoção e o preço seria alto. Desculpe @AgAT2. Se forem 3, consigo o preço normal.
+AgAT2	E se nós chegarmos a um acordo? 2 pacotes pelo preço normal, e um contrato vitalício me obrigando a continuar comprando de você, mesma quantidade, preço normal?
+AgAT2	@EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	Pode ser então! Gostamos de clientes fieis! Fechamos então, 2 pacotes com preço normal. Obrigada pela confiança no nosso trabalho. E lembro que caso o acordo seja quebrado, não vamos conseguir preços baixos ou normais.
+EmpMaq|PrefeitoAT	2 Pacotes do tipo 3, certo?
+AgAT2	sim, @EmpMaq|PrefeitoAT , 2 pacotes do tipo 3, e eu te mando um cartão de natal todo ano, thanks!
+EmpMaq|PrefeitoAT	Muito obrigada pelo carinho!
+RODADA 2
+EmpMaq|PrefeitoAT	Boa noite pessoas queridas de Cidadela e Atlantis! Venham verificar as promoções em máquinas, temos ótimos preços pra vocês!
+AgCD2|FiscalCD	Olá @EmpMaq|PrefeitoAT gostaria de saber sobre o pacote 3, se eu comprar 6 unidades quanto me faz?
+EmpMaq|PrefeitoAT	Olá, poderá ser por um preço baixo.
+AgCD2|FiscalCD	Todos por preço baixo?
+EmpMaq|PrefeitoAT	Isso mesmo :smile:
+AgCD2|FiscalCD	Fechado @EmpMaq|PrefeitoAT
+AgAT1	Há alguma promoção acontecendo?
+AgAT1	Tenho interesse no pacote 3, parece ser bem completo!
+EmpMaq|PrefeitoAT	Olá! Na compra do mesmo pacote contendo 4, 5 ou 6 unidades, o preço é baixo
+EmpMaq|PrefeitoAT	Apenas 3 unidades preço normal.
+EmpMaq|PrefeitoAT	E 1 ou 2 unidades, preço alto.
+EmpMaq|PrefeitoAT	@AgCD2|FiscalCD obrigada pela preferência!
+EmpMaq|PrefeitoAT	@AgAT1 tens interesse em 6 do pacote 3?
+AgAT1	Vou querer 6 unidades
+AgAT1	Obrigada pelo desconto!
+EmpMaq|PrefeitoAT	Ok! Obrigada pela preferência
+AgAT1	Melhor do que negociar com certos empresários por ai...
+EmpMaq|PrefeitoAT	Entendo... tem pessoas que só pensam no dinheiro. Mas nós tentamos ver o lado dos nossos queridos agricultores e do meio ambiente.
+AgAT2	@EmpMaq|PrefeitoAT  2 pacotes nº3 conforme o contrato + cartão de natal
+EmpMaq|PrefeitoAT	Muito obrigada @AgAT2 ! Adoramos o cartão! :heart:
+AgAT1	@EmpMaq|PrefeitoAT Verdade, temos que analisar todos os lados..
+AgAT2	@EmpMaq|PrefeitoAT Brigadinho! Te vejo ano que vem!
+EmpMaq|PrefeitoAT	Feliz ano novo!
+AgCD2|FiscalCD	Opa @EmpMaq|PrefeitoAT resolvi voltar, vi que tenho algum dinheiro sobrando e quero diminuir a poluição que minha plantação faz
+AgCD2|FiscalCD	A quanto me faz os pulverizadores?
+EmpMaq|PrefeitoAT	Olá, pulverizador a preço baixo
+AgCD2|FiscalCD	O preço baixo dele está saindo a quanto mesmo?
+EmpMaq|PrefeitoAT	Apenas 395
+AgCD2|FiscalCD	se eu levar 3, faria a 350 cada? Preciso de algum dinheiro ainda para pagar o restante das contas @EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	Posso fazer por 395 e ressarcir 45 de cada produto
+EmpMaq|PrefeitoAT	mas
+EmpMaq|PrefeitoAT	o limite seria 360
+EmpMaq|PrefeitoAT	350 ficaria baixo
+AgCD2|FiscalCD	entendo, fechamos 3 a 360 então? que daí fica bom pra mim e para você
+EmpMaq|PrefeitoAT	ótimo
+EmpMaq|PrefeitoAT	fechado
+EmpMaq|PrefeitoAT	irei ressarcir 105
+EmpMaq|PrefeitoAT	obrigada pela escolha da nossa empresa
+AgCD2|FiscalCD	Sempre bom fazer negócio com vocês, até a próxima!
+EmpMaq|PrefeitoAT	Ainda temos todos os pacotes com promoção acima de 3 unidades! Venham conferir!!
+RODADA 3
+EmpMaq|PrefeitoAT	Olá! É um novo ano para todos e as promoções vieram para ficar!
+AgAT3	Opa! Estou muito interessado nas ofertas
+EmpMaq|PrefeitoAT	Aproveitem!!!
+EmpMaq|PrefeitoAT	--- PREÇO BAIXO: Na compra de 4, 5 ou 6 unidades do MESMO pacote
+EmpMaq|PrefeitoAT	--- PREÇO NORMAL: Na compra de 1, 2 ou 3 unidades do MESMO pacote
+AgAT1	Que promoções ótimas!
+AgAT1	Vou querer levar 6 unidades do pacote 3
+AgAT1	Consigo todas pelo valor baixo, correto?
+EmpMaq|PrefeitoAT	Oi @AgAT1, correto! 6 unidades do pacote 3 pelo preço baixo.
+EmpMaq|PrefeitoAT	Obrigada!
+AgAT2|VereadorAT	@EmpMaq|PrefeitoAT  bom dia novamente, os dois pacotes 3 estão prontos pra entrega já?
+EmpMaq|PrefeitoAT	Olá @AgAT2|VereadorAT! Sim, estão! Como combinado, os dois saem com preço normal.
+EmpMaq|PrefeitoAT	Obrigada pela fidelidade!
+AgAT3	Também vou querer 6 unidades do pacote 3 @EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	@AgAT3 claro! 6 unidades do pacote 3 pelo preço baixo. Obrigada!
+RODADA 4
+EmpMaq|PrefeitoAT	Pessoal, venham alugar máquinas para sua produção consciente:
+EmpMaq|PrefeitoAT	--- PREÇO BAIXO: Na compra de 4, 5 ou 6 unidades do MESMO pacote
+EmpMaq|PrefeitoAT	--- PREÇO NORMAL: Na compra de 1, 2 ou 3 unidades do MESMO pacote
+AgCD1|VereadorCD	Bom dia! Gostaria de 2 P3, por favor
+AgCD2	olá @EmpMaq|PrefeitoAT gostaria de 6 pacotes 3 a preço baixo, este ano vai dar certo!
+EmpMaq|PrefeitoAT	Olá, claro! Confirmado 2 pacotes do tipo 3 com preço normal para você @AgCD1.
+EmpMaq|PrefeitoAT	Olá @AgCD2, já deu certo! 6 pacotes do tipo 3 com preço baixo confirmados
+AgAT2|VereadorAT	oiee @EmpMaq|PrefeitoAT , 6 pacotes 3 desta vez, sairá pelo preço baixo levando em consideração nosso contrato?
+EmpMaq|PrefeitoAT	Olá @AgAT2|VereadorAT, sim! 6 do P3 com preço baixo. Obrigada!
+AgAT2|VereadorAT	@EmpMaq|PrefeitoAT brigadinho! se tudo der certo, te convido pra festa de final de ano também, thanks!
+EmpMaq|PrefeitoAT	Poxa, já quero! Vou chamar todos da empresa! Obrigada
+AgAT1	Vou querer 6 unidades do pacote 3
+AgAT1	Consigo pelo valor baixo, correto?
+AgCD1|VereadorCD	Olá, @EmpMaq|PrefeitoAT . E quanto a mim?
+EmpMaq|PrefeitoAT	Claro @AgAT1, confirmado!
+EmpMaq|PrefeitoAT	@AgCD1|VereadorCD respondi você, está confirmado!
+AgCD1|VereadorCD	2x P3 a que preço?
+EmpMaq|PrefeitoAT	Preço normal
+EmpMaq|PrefeitoAT	por serem apenas 2
+AgCD1|VereadorCD	Ok! Muito obrigado
+EmpMaq|PrefeitoAT	Volte sempre :slight_smile:
+AgAT1	Obrigada empresário, vou aguardar sua entrega
+EmpMaq|PrefeitoAT	Já está indo!
+AgAT1	Me sinto ótima vindo negociar os aluguéis das máquinas aqui todo ano, sua loja é um ambiente alto astral
+EmpMaq|PrefeitoAT	Nós queremos ver os sorrisos nos nossos clientes e a paz no meio ambiente!
+EmpMaq|PrefeitoAT	É um prazer :heart:

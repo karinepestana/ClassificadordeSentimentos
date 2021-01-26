@@ -1,0 +1,5 @@
+AgAT2|FiscalAT	boa tarde, gostaria de 4 pacote 2
+EmpMaq	Boa tarde @AgAT2|FiscalAT! Posso te fazer pelo preço baixo. Ficaria D$220. Pode ser?
+EmpMaq	D$ 55 cada
+AgAT2|FiscalAT	@EmpMaq fechado
+EmpMaq	Certo! Boas plantações :smile:

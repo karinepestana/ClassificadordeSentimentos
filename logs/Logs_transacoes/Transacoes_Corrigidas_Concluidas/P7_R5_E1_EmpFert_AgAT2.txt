@@ -1,0 +1,26 @@
+EmpFert	Promoções para a rodada, por ordem de chegada:
+EmpFert	- 2 lotes de 6 SP, preço baixo
+EmpFert	- 2 lotes de 6 P, preço baixo
+EmpFert	- 2 lotes de 6 C, preço baixo
+EmpFert	
+EmpFert	Depois dessas primeiras compras, o preço passa para normal
+EmpFert	
+EmpFert	Compras fora dos pacotes de 6 - preço alto
+EmpFert	-------------------------------------------
+EmpFert	SP a preço baixo acabaram, a partir de agora, preço normal
+AgAT2	Olá! Gostaria de fazer o mesmo pedido do ano passado, se possivel. 2 SP a preço baixo
+EmpFert	Você pegou pelo preço baixo
+EmpFert	@AgAT2 só vai levar 2 SP?
+EmpFert	Os SP a preço baixo acabaram, só preço normal agora
+EmpFert	Pode ser?
+AgAT2	@EmpFert Sou teu cliente sem nenhuma rodada sem pedir. Não tem como fazer a preço baixo mesmo?
+EmpFert	@AgAT2 infelizmente não, os preços estão sendo por ordem de chegada :frowning:
+EmpFert	Ano que vem, se tu conseguir chegar mais cedo, consegue levar pelo preço baixo
+AgAT2	@EmpFert Tudo bem entao. Pode ser a preço normal
+AgAT2	Fechado?
+EmpFert	@AgAT2 fechado, 2 SP a preço normal
+AgAT2	Eu pedi somente 2
+AgAT2	@EmpFert eu queria somente 2 e não 6
+EmpFert	Perdão, me enganei
+EmpFert	Vou retificar ali, são 2
+AgAT2	@EmpFert Ótimo. Obrigado

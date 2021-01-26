@@ -1,0 +1,11 @@
+AgCD1|VereadorCD	Olá sr. Empresário
+AgCD1|VereadorCD	O que aconteceu com as sementes esse ano?
+EmpSem|FiscalAT	Olá @AgCD1|VereadorCD  Nova administração!!! O cliente escolhe o tipo de semente, quantidade e preço!!!... A nossa empresa confia na justiça do consumidor!!! ( 100_Mentes_Social onde o cliente tem sempre um bom coração!!! )
+AgCD1|VereadorCD	Vish. Não to acreditando nessa história, mas vamos lá
+EmpSem|FiscalAT	vdd
+AgCD1|VereadorCD	Gostaria de 4 pcts de hortaliças, por favoe
+EmpSem|FiscalAT	ok... qual o valor?
+AgCD1|VereadorCD	Acredito que médio por serem somente 4
+EmpSem|FiscalAT	Ok... @AgCD1|VereadorCD  valor normal então?
+AgCD1|VereadorCD	Isso, por favor
+EmpSem|FiscalAT	Ok @AgCD1|VereadorCD  fechado

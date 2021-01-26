@@ -1,0 +1,11 @@
+EmpAgro	Boa tarde! Você não pode perder essa promoção! Todos os agrotoxicos superpremium com preço de premium. Eles evitam as ploriferações de pragas na sua plantação!
+EmpAgro	Os compostos super premium te ajudam na diminuição da poluição do meio ambiente
+AgAT3|VereadorAT	@EmpAgro estou interessado no agrotóxico
+EmpAgro	ele está por $20 reais o super premium
+EmpAgro	@AgAT3|VereadorAT  você não vai perder essa promoção , né?
+AgAT3|VereadorAT	@EmpAgro vou querer 3 super premium
+EmpAgro	Perfeito! 
+EmpAgro	total de $60
+EmpAgro	obrigada pela compra!
+EmpAgro	PROMOÇÃO RELAMPAGO PARA MANTER SUA PLANTAÇÃO SAUDAVEL E AJUDAR O MEIO AMBIENTE
+EmpAgro	Levando 3  premium, você ganha um super premium por apenas $80!!!

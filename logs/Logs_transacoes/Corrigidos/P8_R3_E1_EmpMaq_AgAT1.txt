@@ -1,0 +1,13 @@
+EmpMaq	Olá, gente!! Hoje temos quantidades contadas de produtos! Os primeiros que chegarem, levam os únicos 2 produtos a preço baixo de cada (do pacote que escolher). Para preço médio, somente comprando acima 4 unidades (de qualquer tipo)
+AgAT1|VereadorAT	Olá! Amigo, vou querer levar 2 pacotes do Tipo 3, com preço baixo, e mais 1 com preço médio
+AgAT1|VereadorAT	Consegue fazer por esses preços?
+EmpMaq	Como eu tinha dito, esse quarto sairá com preço alto
+EmpMaq	Esse terceiro*
+EmpMaq	Os estoques estão contados, desculpe
+AgAT1|VereadorAT	poxa @EmpMaq, os agricultores estão passando por dificuldades...
+EmpMaq	To sabendo, mas meu nível de poluição tem estado alto pra quantidade de vendas que tenho feito
+EmpMaq	Estou preocupado com o meio ambiente
+AgAT1|VereadorAT	ah, ok. desta vez vou levar então 2 pacotes tipo 3 com preço baixo e 1 com preço alto
+AgAT1|VereadorAT	mas fique atento com boicote, outros empresários já sofreram disso...
+EmpMaq	Certo! Obrigado pelo aviso e pela preferência!
+EmpMaq	Aproveitem!! Últimas 2 unidades à preço baixo do Pacote 1 e do Pacote 2

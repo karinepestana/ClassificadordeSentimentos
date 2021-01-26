@@ -1,0 +1,2 @@
+AgCD3	Gostaria de 6 fertilizantes SP a preço baixo
+EmpFert|PrefeitoCD	@AgCD3 sim, claro! obrigado pela compra

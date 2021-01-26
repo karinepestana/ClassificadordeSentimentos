@@ -1,0 +1,4 @@
+EmpFert|PrefeitoCD	graças as baixa de impostos, quem levar mais de 4 fertlizantes premiuns, paga preço baixo
+AgCD2|VereadorCD	Desejo 6 fertilizantes super premium
+EmpFert|PrefeitoCD	@AgCD2|VereadorCD fechado!
+AgCD2|VereadorCD	ok

@@ -1,0 +1,7 @@
+EmpFert|PrefeitoCD	Sigo dando a preferência para quem comprar fertilizante super premium, nessa rodada quem comprar 6 leva 2 por preço baixo e o resto normal
+AgCD2|VereadorCD	Gostaria de comprar 6 unidades de fertilizantes Premium
+AgCD2|VereadorCD	qual o valor
+EmpFert|PrefeitoCD	@AgCD2|VereadorCD  4 por preço normal e 2 por preço baixo
+AgCD2|VereadorCD	ok
+AgCD2|VereadorCD	feito
+EmpFert|PrefeitoCD	:handshake:

@@ -1,0 +1,7 @@
+AgCD3|VereadorCD	Olá! Gostaria de comprar 6 sacos de semente de SOJA pelo preço BAIXO!  :slight_smile:
+EmpSem|FiscalAT	bom dia
+EmpSem|FiscalAT	pessoal, soja vendo apenas pelo preço normal. quem quiser arroz está com promoção saindo metade pelo preço baixo
+AgCD3|VereadorCD	Eu quero 6 sacos de SOJA... Quais os valores?
+EmpSem|FiscalAT	@AgCD3|VereadorCD preço normal a soja
+AgCD3|VereadorCD	Ok... 6 sacos de SOJA a preço NORMAL... Obrigado!
+EmpSem|FiscalAT	ok

@@ -1,0 +1,11 @@
+AgCD1|FiscalCD	Bom dia @EmpSem|PrefeitoAT quais os preços de hoje?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Depende da semente comprada. Soja venda somente a preço alto. Hortaliças estou com estoque baixo...
+AgCD1|FiscalCD	Gostaria de 6 hortaliças
+EmpSem|PrefeitoAT	Estou atendendo os agricultores na ordem de chegada
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Hortaliças tenho somente 4 restantes em estoque, não gostaria de completar com soja ou arroz?
+AgCD1|FiscalCD	Faz 3 arroz e 3 hortaliças então
+AgCD1|FiscalCD	E o nosso negócio, empresária?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Isso que estava vendo agricultor, ficou pendente! Consigo te dar um desconto nas hortaliças, fazendo elas a preço baixo e o arroz a preço normal. O que acha?
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT perfeito
+AgCD1|FiscalCD	Fechado
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Desculpa a confusão agricultor. Sua compra já foi registrada no sistema

@@ -1,0 +1,9 @@
+EmpSem|PrefeitoAT	Bom dia agricultores, nessa rodada disponho de apenas de 15 sementes de cada tipo para venda. A prioridade de venda será por ordem de chegada
+EmpSem|PrefeitoAT	Vejam bem agricultores, o valor baixo já é um valor com desconto
+EmpSem|PrefeitoAT	@AgAT3 agricultor você é o único faltante para comprar sementes nesta rodada
+AgAT3	Oi! Quero 4 Hortaliças e 2 arroz, preço baixo
+EmpSem|PrefeitoAT	@AgAT3 As hortaliças já se esgotaram essa rodada. Tenho em estoque arroz e soja disponíveis
+AgAT3	então 6 de arroz com preço baixo
+EmpSem|PrefeitoAT	@AgAT3 Faço 3 a preço normal e 3 com desconto a preço baixo, conforme fiz para outros agricultores
+AgAT3	ok
+EmpSem|PrefeitoAT	@AgAT3 Compra concluída!

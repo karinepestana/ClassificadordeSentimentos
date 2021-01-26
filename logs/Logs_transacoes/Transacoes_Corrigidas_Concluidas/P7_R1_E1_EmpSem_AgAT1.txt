@@ -1,0 +1,10 @@
+EmpSem|PrefeitoAT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgAT1|FiscalAT	Bom dia, gostaria de saber  o valor das hortaliças e do arroz ?
+AgAT1|FiscalAT	só tem 4 unidades de arroz ?
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Arroz ainda tenho um estoque maior, apenas hortaliças que tenho 2 somente
+AgAT1|FiscalAT	ok vamos fechar em 2 hortaliças e 4 arroz pelo preço baixo ?
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Tudo pelo preço baixo não é possível, fico no prejuízo com o meu fornecedor
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Faço as hortaliças pelo valor baixo já são ponta de estoque e faço o arroz que são sementes novinhas e fresquinhas pelo preço normal mas te garanto que valem mais!
+AgAT1|FiscalAT	Ok Emp fechamos assim 2 hortaliças preço baixo
+AgAT1|FiscalAT	e 4 arroz preço normal
+EmpSem|PrefeitoAT	@AgAT1|FiscalAT Feito agricultor

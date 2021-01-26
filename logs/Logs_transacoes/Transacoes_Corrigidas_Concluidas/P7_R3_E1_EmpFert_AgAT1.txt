@@ -1,0 +1,12 @@
+EmpFert	Bom dia pessoal, promoções especiais pra quem comprar 6 pacotes do mesmo fertilizante, faço preço baixo :smile:
+EmpFert	Promoção temporária, enquanto durarem os estoques
+AgAT1|FiscalAT	Ola gostaria de 6 pacotes de SP a preço baixo poderia ser ?
+EmpFert	@AgAT1|FiscalAT fechado, 6 SP pelo preço baixo, obrigado
+AgAT1|FiscalAT	fechado
+EmpFert	Atualização dos pacotes:
+EmpFert	Levando 6, temos:
+EmpFert	- SP - Preço normal
+EmpFert	- Premium - Preço baixo (1 lote de 6, depois passa pra normal)
+EmpFert	- Comum - 2 lotes de 6 a preço baixo
+EmpFert	Compras fora dos pacotes de 6 são pelo preço alto
+EmpFert	@here to no aguardo do pessoal da cidadela, bora gente :slight_smile:

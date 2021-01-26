@@ -1,0 +1,5 @@
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT gostaria de comprar 4 sementes arroz. Quanto vai custar?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Hoje é seu dia de sorte! Estou com promoção na produção de arroz, já que estou com muitos lotes
+EmpSem|PrefeitoAT	Vendo a peço baixo
+AgCD1|FiscalCD	que coisa boa @EmpSem|PrefeitoAT ! vou levar
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Pedido registrado

@@ -1,0 +1,9 @@
+EmpFert|VereadorCD	5 unidades do Fertilizante Super Premium por apenas 425 dinheiros! Aumente a produtividade de suas plantações levando o melhor fertilizante disponível no mercado e por valor baixo! Aproveite essa oferta!
+AgAT1	Empresário tem disponível fertilizantes super Premium?
+EmpFert|VereadorCD	olá @AgAT1! sim temos! vai aproveitar a promoção? 5 pelo valor baixo?
+AgAT1	Gostei da promoção @EmpFert|VereadorCD
+AgAT1	Quero 6 unidades. Consigo todas pelo valor baixo?
+EmpFert|VereadorCD	@AgAT1 a sexta te consigo pelo valor alto apenas
+AgAT1	Os negócios estão difíceis para todos né... Não há o que fazer empresário!
+AgAT1	Negócio fechado
+EmpFert|VereadorCD	@AgAT1 ok! obrigado

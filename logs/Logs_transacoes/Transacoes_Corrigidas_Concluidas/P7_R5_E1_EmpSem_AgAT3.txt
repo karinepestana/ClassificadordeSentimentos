@@ -1,0 +1,7 @@
+AgAT3	Quero 6 sojas preço baixo
+EmpSem|PrefeitoAT	Soja posso negociar apenas uma bonificação a preço baixo, as outras 5 faço a preço alto
+AgAT3	Não pode fazer as 6 por preço normal?
+EmpSem|PrefeitoAT	Não, a produção da soja é muito é cara, já recebo era por um valor alto do meu fornecedor
+AgAT3	Vou aceitar então. 1 Soja preço baixo e 5 preço alto
+EmpSem|PrefeitoAT	@AgAT3 Obrigada pela compreensão empresário, tento fazer o melhor negócio possível para ambos!
+EmpSem|PrefeitoAT	@AgAT3 Registrei sua compra aqui :slight_smile:

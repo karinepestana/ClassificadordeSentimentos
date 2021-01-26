@@ -1,0 +1,20 @@
+AgAT2|FiscalAT	Oi @EmpMaq|VereadorAT tenho interesse no seu pacote 3
+AgAT2|FiscalAT	Gostaria de 6 unidades
+AgAT2|FiscalAT	@EmpMaq|VereadorAT Consigo algum desconto?
+EmpMaq|VereadorAT	Olá, @AgAT2|FiscalAT ! Consegues pelo preço normal. Infelizmente esse ano a fiscalização bateu à minha porta e tive que aumentar os preços
+AgAT2|FiscalAT	@EmpMaq|VereadorAT. Posso te fazer uma contra proposta empresário?
+EmpMaq|VereadorAT	@AgAT2|FiscalAT A tentiada é livre
+AgAT2|FiscalAT	De 4 unidades do pacote 3 pelo valor normal e 2 unidades pelo valor baixo?
+AgAT2|FiscalAT	@EmpMaq|VereadorAT hahaha justo!
+AgAT2|FiscalAT	Tenho que pensar na minha família né
+EmpMaq|VereadorAT	@AgAT2|FiscalAT, tenho que pensar na minha também. Visto que tu é o Fiscal, estás à parte da minha situação aqui
+EmpMaq|VereadorAT	Terei que te vender tudo à preço normal, mil desculpas
+AgAT2|FiscalAT	Eu tentei...
+AgAT2|FiscalAT	Os preço subiram muito este ano
+AgAT2|FiscalAT	Mas vou arriscar levar, espero que minha colheita seja boa!
+AgAT2|FiscalAT	Sou apenas um agricultor preocupado com o ambiente
+EmpMaq|VereadorAT	Eu espero isso também!! Confirmando, então: 6un do PM3 à preço normal?
+EmpMaq|VereadorAT	Eu também me preocupo @AgAT2|FiscalAT, porém acredito que com todas essas vendas, ficarei com a poluição alta igual
+AgAT2|FiscalAT	@EmpMaq Exatamente
+AgAT2|FiscalAT	Fico no aguardo da entrega em minha fazenda
+EmpMaq	Certo! Obrigado pela confiança e preferência!

@@ -1,0 +1,6 @@
+AgCD2|VereadorCD	Gostaria de 6 sementes de hortaliças
+EmpSem|PrefeitoAT	O mesmo vale para você @AgCD2|VereadorCD, consigo negociar as hortaliças apenas pelo valor normal devido a alta procura
+AgCD2|VereadorCD	ok
+AgCD2|VereadorCD	desejo 6 pelo preço normal
+AgCD2|VereadorCD	fechamos assim?
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Claro, ótimo plantio para você!

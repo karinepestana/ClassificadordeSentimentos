@@ -1,0 +1,3 @@
+AgCD3|FiscalCD	Olá! Gostaria de comprar 6 sacos de semente de SOJA pelo preço BAIXO! Sou um cliente Fiel e que dá bastante
+EmpSem|FiscalAT	@AgCD1 / @AgCD2 / @AgACD3 - 2 pelo baixo e 4 pelo normal
+AgCD3|FiscalCD	OK... Obrigado por vender 2 sacos de SOJA pelo preço BAiXO e 4 sacos de SOJA pelo preço NORMAL:slight_smile:

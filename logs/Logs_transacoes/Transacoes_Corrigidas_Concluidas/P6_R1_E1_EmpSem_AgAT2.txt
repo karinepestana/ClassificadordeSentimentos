@@ -1,0 +1,6 @@
+AgAT2|PrefeitoAT	bom dia! gostaria de comprar 6 sacos de semente de soja
+EmpSem|FiscalAT	Bom dia pessoal, vou atender na ordem em que chegaram
+EmpSem|FiscalAT	@AgAT2|PrefeitoAT 6 sacos de soja pelo preço baixo por ser o primeiro, fechado?
+AgAT2|PrefeitoAT	ótimo
+AgAT2|PrefeitoAT	obrigada
+EmpSem|FiscalAT	Feito então, obrigado

@@ -1,0 +1,10 @@
+AgAT2|FiscalAT	Olá empresário
+AgAT2|FiscalAT	Estou analisando seus pacotes de máquinas e me interessei muito pelo pacote 3, se eu levasse 6 unidades para todos os meus lotes de terra consigo algum desconto?
+EmpMaq	Olá, @AgAT2|FiscalAT ! Qual o pedido esse ano?
+EmpMaq	@AgAT2|FiscalAT Soube da promoção de Pulverizador? Qualquer quantidade a preço baixo
+EmpMaq	@AgAT2|FiscalAT , consegues pelo preço baixo, claro
+AgAT2|FiscalAT	@EmpMaq Obrigada empresário
+AgAT2|FiscalAT	Vou levar então 6 unidades do pacote 3
+EmpMaq	@AgAT2|FiscalAT Somente isso?
+AgAT2|FiscalAT	Sim, pulverizadores meu orçamento ainda não aguenta
+EmpMaq	Poxa! Tudo bem. Vendidos os 6 pacotes 3 a preço baixo, então! Obrigado pela compra @AgAT2|FiscalAT

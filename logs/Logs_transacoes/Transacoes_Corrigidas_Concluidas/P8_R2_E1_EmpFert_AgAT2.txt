@@ -1,0 +1,5 @@
+AgAT2|FiscalAT	boa tarde @EmpFert|PrefeitoCD gostaria de comprar 6 fertilizante super premium
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT  olá te faço eles por custo baixo também tbm
+AgAT2|FiscalAT	vou querer, obrigado.
+EmpFert|PrefeitoCD	certo
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT prazer é meu

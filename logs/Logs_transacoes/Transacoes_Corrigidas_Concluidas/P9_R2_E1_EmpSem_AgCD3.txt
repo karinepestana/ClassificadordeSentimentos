@@ -1,0 +1,8 @@
+EmpSem|FiscalAT	Comunicado da empresa Sem-Mentes-Monopólio: O caminhão de sementes de hortaliça tombou devido ao excesso de rebite consumido pelo caminhoneiro e o de arroz foi parar nas mãos dos chineses. Só temos sementes de SOJA a preço ALTO devido a cotação do dólar nesta rodada (tah ok?!)
+AgCD3	Eu desejo sementes de soja
+AgCD3	6 pra ser mais exato
+AgCD3	A preço normal
+EmpSem|FiscalAT	@AgCD3  somente soja a preço alto... quantidade liberada
+AgCD3	Fechamos 6 de soja?
+EmpSem|FiscalAT	Ok... @AgCD3  6 de soja pelo preço alto... tenha uma ótima colheita!
+AgCD3	Obg

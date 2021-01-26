@@ -1,0 +1,11 @@
+AgAT2	Bom dia!! Gostaria de 2 pulverizadores, por favor
+EmpMaq|VereadorAT	Bom dia @AgAT2 sim, faço pelo preço normal os dois
+AgAT2	Não faz pelo baixo?
+AgAT2	Fiz um pedido de pulverizador ano passado também. Já sou cliente da loja
+EmpMaq|VereadorAT	Infelizmente não tem como, a importação das máquinas está muito alta
+AgAT2	@EmpAgr|VereadorAT, tudo bem então. Fechado em preço normal!
+AgAT2	@EmpAgr|VereadorAT Fechado comigo?
+EmpMaq|VereadorAT	@AgAT2 2 pulverizadores a preço normal, isso?
+AgAT2	Isso mesmo
+EmpMaq|VereadorAT	@AgAT2 ok, pedido confirmado, volte sempre!
+AgAT2	Obrigado!

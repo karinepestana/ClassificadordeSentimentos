@@ -1,0 +1,12 @@
+AgAT1	Gostaria de comprar sementes
+EmpSem|FiscalAT	@AgAT1 oi, tudo bom? qual semente você gostaria?
+AgAT1	Desejo sementes de soja
+EmpSem|FiscalAT	@AgAT1 pode ser pelo preço normal?
+AgAT1	Caso compre seis, o preço pode ser reduzido?
+EmpSem|FiscalAT	@AgAT1 não, máximo que faço é 2 com preço baixo e 4 normal
+AgAT1	Em prol de novas negociações a preços mais interessantes a ti estou disposto a aceitar sua oferta.
+AgAT1	Comprarei o total de SEIS sementes de SOJA.
+EmpSem|FiscalAT	ok @AgAT1, 2 com preço baixo e 4 normal.
+AgAT1	Certo. Grato!
+EmpSem|FiscalAT	mais alguém gostaria de comprar sementes?
+EmpSem|FiscalAT	@AgAT1, qual tua sigla?

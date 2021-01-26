@@ -1,0 +1,9 @@
+EmpAgro|FiscalCD	@AgAT3 Como foi sua plantação sem o uso de agrotoxicos?
+AgAT3	@EmpAgro|FiscalCD foi um experimento curioso, obrigado por perguntar. Mas vou me conservar e negociar do jeito que sempre negociei. O que tens de agrotóxico este ano?
+EmpAgro|FiscalCD	estou com o SP a preço baixo esse ano
+EmpAgro|FiscalCD	%
+EmpAgro|FiscalCD	$25
+EmpAgro|FiscalCD	@AgAT3
+AgAT3	Perfeito, vou levar 6! @EmpAgro|FiscalCD
+EmpAgro|FiscalCD	total de $150
+EmpAgro|FiscalCD	muito obrigada pela compra!

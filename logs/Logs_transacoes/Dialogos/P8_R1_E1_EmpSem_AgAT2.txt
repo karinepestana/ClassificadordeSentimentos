@@ -1,0 +1,5 @@
+AgAT2|FiscalAT	Boa tarde @EmpSem|PrefeitoAT , gostaria de comprar 4 semente de arroz, por quanto estão saindo ?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT olá agricultor, consigo te fazer pelo valor normal do produto, te interessa fazer negócio?
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT  vou levar 6 lote de arroz, qual seria o total ?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT essa temporada está muito fraca a produção, consigo somente pelo valor normal os 6 pacotes de arroz, vamos fechar negócio?
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT negocio fechado.

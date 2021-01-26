@@ -1,0 +1,3 @@
+AgAT2|PrefeitoAT	olá, queria 6 pacotes de fertilizante sp
+EmpFert|FiscalCD	@AgAT2|PrefeitoAT Preço para este produto é Normal. fechamos?
+AgAT2|PrefeitoAT	ok, fechado

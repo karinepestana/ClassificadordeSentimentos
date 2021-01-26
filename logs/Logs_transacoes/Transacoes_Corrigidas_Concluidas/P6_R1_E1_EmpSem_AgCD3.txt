@@ -1,0 +1,5 @@
+AgCD3|PrefeitoCD	@EmpSem|FiscalAT oi, a que preço tu está comercializando a soja?
+EmpSem|FiscalAT	@AgCD3|PrefeitoCD agora somente pelo preço alto (independente da quantidade)
+AgCD3|PrefeitoCD	@EmpSem|FiscalAT e arroz, faz pelo preço normal pelo menos?
+AgCD3|PrefeitoCD	@EmpSem|FiscalAT gostaria de 6 lotes de arroz por preço normal
+EmpSem|FiscalAT	@AgCD3|PrefeitoCD Fechou

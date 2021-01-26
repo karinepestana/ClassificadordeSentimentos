@@ -1,0 +1,6 @@
+AgCD1|FiscalCD	bom dia @EmpSem|PrefeitoAT já renovou os estoques?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Como na outra rodada esqueci de você vou te dar um bônus de um desconto a mais em uma hortaliça. Faço 4 pelo preço baixo e 2 pelo valor normal. Poderia ser?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Sim! Do que gostaria?
+AgCD1|FiscalCD	Consegue me fazer 6 hortaliças por preço baixo?
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT fechado
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Obrigada pela compra agricultor!

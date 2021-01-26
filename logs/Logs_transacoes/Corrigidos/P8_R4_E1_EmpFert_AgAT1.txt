@@ -1,0 +1,3 @@
+EmpFert|PrefeitoCD	Sigo dando a preferência para quem comprar fertilizante super premium, nessa rodada quem comprar 6 leva 2 por preço baixo e o resto normal
+AgAT1|VereadorAT	olá amigo, vou aderir a esta promoção. me vê 6 fertilizantes super premium então desta maneira: 2 por preço baixo e 4 normal
+EmpFert|PrefeitoCD	sim, isso. Fechado! @AgAT1|VereadorAT

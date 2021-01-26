@@ -1,0 +1,8 @@
+EmpSem|FiscalAT	Nessa primeira rodada o empresário de sementes está tranquilo. Todas as sementes estão disponíveis em qualquer quantidade a preço normal.
+AgAT3|VereadorAT	@EmpSem|FiscalAT 6 unidades de arroz, quanto faz?
+EmpSem|FiscalAT	@AgAT3|VereadorAT tudo pelo preço normal
+AgAT3|VereadorAT	@EmpSem|FiscalAT certo, vamos negociar?
+EmpSem|FiscalAT	@AgAT3|VereadorAT preço normal qualquer tipo e quantidade
+AgAT3|VereadorAT	@EmpSem|FiscalAT Sim, 6 unidades de arroz, fecha negócio?
+EmpSem|FiscalAT	Ok @AgAT3|VereadorAT ... 6 de arroz pelo preço normal... Confirmado?
+AgAT3|VereadorAT	@EmpSem|FiscalAT Confirmado

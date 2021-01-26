@@ -1,0 +1,5 @@
+AgCD1|VereadorCD	Bom dia! Gostaria de comprar hortaliças
+EmpSem|FiscalAT	@AgCD1|VereadorCD gostaria para os 6 lotes?
+AgCD1|VereadorCD	para 3 lotes
+EmpSem|FiscalAT	@AgCD1|VereadorCD faço pelo valor normal então, podemos fechar em 3 hortaliças pelo valor normal?
+AgCD1|VereadorCD	fechado, obrigada!

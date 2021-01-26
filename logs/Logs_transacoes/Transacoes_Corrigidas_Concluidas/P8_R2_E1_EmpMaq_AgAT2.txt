@@ -1,0 +1,4 @@
+AgAT2|FiscalAT	Boa tarde @EmpMaq , gostaria de comparar 6 unidades do pacote 3
+EmpMaq	Olá, @AgAT2|FiscalAT. Posso fazer pelo preço baixo. Ficaria D$ 85 cada e D$ 510 tudo
+AgAT2|FiscalAT	pode ser, fechado.
+EmpMaq	Feito, então! Muito obrigado pela preferencia

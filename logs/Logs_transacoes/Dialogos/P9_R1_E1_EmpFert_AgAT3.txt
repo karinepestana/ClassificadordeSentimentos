@@ -1,0 +1,14 @@
+EmpFert|VereadorCD	5 unidades do Fertilizante Super Premium por apenas 425 dinheiros! Aumente a produtividade de suas plantações levando o melhor fertilizante disponível no mercado e por valor baixo! Aproveite essa oferta!
+AgAT3|VereadorAT	@EmpFert|VereadorCD desejo 6 fertilizantes comum, por quanto faz?
+EmpFert|VereadorCD	Olá @AgAT3|VereadorAT! o comum só pelo valor alto! não quer aproveitar a promoção do super premium
+EmpFert|VereadorCD	?
+EmpFert|VereadorCD	@AgAT3|VereadorAT suas plantações irão render
+EmpFert|VereadorCD	@AgAT3|VereadorAT 5 por 85
+AgAT3|VereadorAT	Hm, realmente é tentador, mas 85 cada é o melhor que podes fazer? @EmpFert|VereadorCD
+EmpFert|VereadorCD	@AgAT3|VereadorAT sim. Mas garanto produtividade na sua colheita
+AgAT3|VereadorAT	@EmpFert|VereadorCD entendo, mas vou preferir o comum, vai ser o ideal pros meus negócios
+AgAT3|VereadorAT	6 fertilizantes comum, 180, correto?
+EmpFert|VereadorCD	@AgAT3|VereadorAT ok. entendo! nesse caso o comum sai pelo valor alto(35 dinheiros)
+EmpFert|VereadorCD	@AgAT3|VereadorAT a compra fica em 210
+AgAT3|VereadorAT	@EmpFert|VereadorCD ok, negócio fechado
+EmpFert|VereadorCD	@AgAT3|VereadorAT ok! Obrigado!

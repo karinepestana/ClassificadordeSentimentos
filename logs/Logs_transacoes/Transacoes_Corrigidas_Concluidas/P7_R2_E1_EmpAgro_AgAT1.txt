@@ -1,0 +1,5 @@
+EmpAgr|VereadorCD	alguém gostaria de comprar agrotóxico?
+AgAT1|FiscalAT	gostaria de comprar 6 agrotoxicos premiuns
+EmpAgr|VereadorCD	ok, te faço por preço baixo
+EmpAgr|VereadorCD	fechado? @AgAT1|FiscalAT
+AgAT1|FiscalAT	fechado

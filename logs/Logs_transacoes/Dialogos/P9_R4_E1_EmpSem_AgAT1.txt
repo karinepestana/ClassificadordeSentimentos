@@ -1,0 +1,10 @@
+AgAT1	Você possuiu sementes de soja em seu estoque?
+EmpSem|FiscalAT	Olá @AgAT1 ... sim, temos todos os tipos de semente em estoque
+AgAT1	Que bom que conseguiu renovar seu estoque
+AgAT1	Vou querer 6 unidades de sementes de soja
+AgAT1	No último ano elas se mostraram produtivas
+EmpSem|FiscalAT	Ok @AgAT1 ... 6 sementes de soja reservada... Qual o valor que vc pretende pagar?
+AgAT1	Já que posso escolher gostaria de pagar o valor baixo, sempre fui uma cliente fiel e compro todos os anos em sua loja
+EmpSem|FiscalAT	Certo @AgAT1 ... Consigo a preço baixo com o fornecedor para você... Obrigado pela preferência!
+AgAT1	Obrigada empresário!
+AgAT1	Vou querer sementes de alta qualidade, como nos outros anos hein

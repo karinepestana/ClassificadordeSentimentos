@@ -1,0 +1,14 @@
+EmpSem|FiscalAT	As sementes então paradas no buraco negro de Curitiba... Para obter a liberação somente com uma transferência de 100 dinheiros
+AgCD1|VereadorCD	Bom dia, empresario! Temos sementes de horatliça esse ano?
+AgCD1|VereadorCD	Eu usaria 2 de hortaliça e ainda pagaria D$100?
+EmpSem|FiscalAT	@AgCD1|VereadorCD  temos sim... com uma transferência de 100 dinheiros e preço normal
+AgCD1|VereadorCD	Sem acordo, então. Isso está virando um abuso
+EmpSem|FiscalAT	@AgCD1|VereadorCD  você é muito preguiçoso... Não quer plantar
+AgCD1|VereadorCD	Sou pequeno produtor
+EmpSem|FiscalAT	Todas as sementes preço NORMAL + pedagio 100 dinheiros
+AgCD1|VereadorCD	Se pra cada ano que eu for comprar algo eu ter que pagar D$100, eu não vou ter dinheiros pra alimentar minha familia
+EmpSem|FiscalAT	Qualquer tipo e quantidade
+EmpSem|FiscalAT	Cada parcela de soja pode render até 400 dinheiros
+EmpSem|FiscalAT	vcs tem 6 parcelas
+AgCD1|VereadorCD	Mas rendendo 400 dinheiros, eu pago uma multa altissima
+AgCD1|VereadorCD	Eu não plantarei nada, tambem

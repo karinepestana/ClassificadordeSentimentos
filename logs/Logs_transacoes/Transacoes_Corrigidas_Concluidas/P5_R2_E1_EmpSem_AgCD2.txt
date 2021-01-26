@@ -1,0 +1,7 @@
+AgCD2|PrefeitoCD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+EmpSem|FiscalAT	@AgCD1 / @AgCD2 / @AgACD3 - 2 pelo baixo e 4 pelo normal
+AgCD2|PrefeitoCD	Podemos fazer 3/3 então?
+AgCD2|PrefeitoCD	3 baixo e 3 normal?
+EmpSem|FiscalAT	ok @AgCD2
+AgCD2|PrefeitoCD	Fechado então? 3/3 ? Obrigado!
+EmpSem|FiscalAT	fechado @AgCD2

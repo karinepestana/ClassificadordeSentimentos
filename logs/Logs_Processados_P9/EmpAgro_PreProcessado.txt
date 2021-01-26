@@ -1,0 +1,102 @@
+RODADA 1
+EmpAgro	Boa tarde! Você não pode perder essa promoção! Todos os agrotoxicos superpremium com preço de premium. Eles evitam as ploriferações de pragas na sua plantação!
+EmpAgro	Os compostos super premium te ajudam na diminuição da poluição do meio ambiente
+AgAT3|VereadorAT	@EmpAgro estou interessado no agrotóxico
+EmpAgro	ele está por $20 reias o super premium
+AgCD2|FiscalCD	olá @EmpAgro vou querer levar 3 SP
+EmpAgro	total de $60
+EmpAgro	obrigada
+AgCD2|FiscalCD	Obrigada
+EmpAgro	@AgAT3|VereadorAT  você não vai perder essa promoção , né?
+AgAT3|VereadorAT	@EmpAgro vou querer 3 super premium
+EmpAgro	Perfeito! 
+EmpAgro	total de $60
+EmpAgro	obrigada pela compra!
+EmpAgro	PROMOÇÃO RELAMPAGO PARA MANTER SUA PLANTAÇÃO SAUDAVEL E AJUDAR O MEIO AMBIENTE
+EmpAgro	Levando 3  premium, você ganha um super premium por apenas $80!!!
+RODADA 2
+EmpAgro	PROMOÇÃO, PROMOÇÃO!!
+EmpAgro	Agrotóxico Super Premium por $32,50
+EmpAgro	Os agrotóxicos super premium evitam as pragas na sua plantação e não agridem o meio ambiente!
+EmpAgro	@AgAT3|VereadorAT @AgCD2|FiscalCD Como foram as suas plantações? Gostariam de comprar mais alguma coisa?
+AgAT3|VereadorAT	@EmpAgro obrigado pela oferta, mas vou passar. Vivemos tempos difíceis...
+EmpAgro	Posso fazer um preço normal para você, já que realizou comprar aqui @AgAT3|VereadorAT
+AgAT3|VereadorAT	Hm, nesse caso me veja três super premium @EmpAgro
+AgAT3|VereadorAT	Irei ceder
+AgCD2|FiscalCD	Olá @EmpAgro , foram boas, mas estou muito preocupado com a poluição então neste ano não comprarei agrotóxicos, apostarei nessa nova forma, tudo depende de como fluir
+EmpAgro	@AgCD2|FiscalCD Fico muito feliz! Eu também me preocupo muito com a poluição, por isso sempre incentivo a compra de agrotóxico super premium, pois elas não poluem o meio ambiente! É o melhor que tem para sua plantação!
+EmpAgro	total de $90
+EmpAgro	obrigada!
+EmpAgro	@AgCD1|PrefeitoCD Boa tarde! Você foi premiado com 10% de desconto no agrotóxico super premium!! Ele não agride o meio ambiente e mantem sua plantação perfeita!
+AgCD1|PrefeitoCD	Não plantarei nada esse ano devido aos preços abusivos do Empresario de sementes
+EmpAgro	O mercado está bem difícil. Vou te fazer uma proposta: se eu te ajudar a comprar as sementes, você viraria um cliente fixo?
+EmpAgro	@AgCD1|PrefeitoCD
+AgCD1|PrefeitoCD	Não poderia prometer isso, visto que tenho um contrato com uma ONG
+AgCD1|PrefeitoCD	E não posso usar agrotóxico em mais de 2 parcelas de terra
+EmpAgro	O agrotóxico super premium não agride o meio ambiente, e visto que você pode usar em duas parcelas de terra como teste, você pode conferir!
+AgCD1|PrefeitoCD	Se conseguires sementes de hortaliça pra mim, terás todo ano venda de pelo menos 2 pcts de Agr SP
+EmpAgro	No momento só há soja, mas quando tiver hortaliças novamente , voltamos a conversar.
+EmpAgro	A não ser que estejas interessado na soja
+AgCD1|PrefeitoCD	Esse é o problema desde o principio, meu caro empresario
+AgCD1|PrefeitoCD	Ele não vendeu hortaliças e não posso fazer compras de outro produto
+AgCD1|PrefeitoCD	Já tive outros problemas com aquele empresário, por isso que nem discuti sobre. Só desisti de qqr compra
+RODADA 3
+EmpAgro|FiscalCD	Boa tarde queridos clientes!! 
+EmpAgro|FiscalCD	Estão precisando que sua plantação seja saudavel sem agredir o meio ambiente? Eu tenho a solução para vocês!! Agrotóxicos super premium por apenas 27,50!
+AgCD3	gostaria de comprar 6 unidades de agrotoxicos
+AgCD3	sp
+AgCD3	valor baixo?
+AgCD3	por favor
+EmpAgro|FiscalCD	O Super premium não agride o meio ambiente e está em promoção
+EmpAgro|FiscalCD	Posso fazer por 25
+EmpAgro|FiscalCD	@AgCD3
+AgCD3	desejo o super premium pelo preço que for
+AgCD3	podemos fechar?
+EmpAgro|FiscalCD	sim @AgCD3
+EmpAgro|FiscalCD	Total de $150
+EmpAgro|FiscalCD	@AgAT3  Boa tarde! Gostaria de fazer sua encomenda de agrotóxicos superpremium? Cada unidade sai por $25
+AgCD3	Otimo
+AgCD3	podemos tratar pelos valores de costume?
+AgCD3	baixo ,normal, alto...
+EmpAgro|FiscalCD	sim
+EmpAgro|FiscalCD	estão pelo valor baixo
+AgCD3	só sei escrever meu nome
+AgCD3	apenas um agricultor humilde
+AgCD3	Otimo
+AgCD3	agradecido viu moço
+EmpAgro|FiscalCD	@AgCD2 Boa tarde! Você gostaria de fazer encomenda de agrotóxicos super premium? Estão em promoção!!
+AgAT3	@EmpAgro|FiscalCD muito obrigado pela oferta amigo, mas este ano quero experimentar meu rendimento sem agrotóxico, nada contra seu produto mas boa sorte com as vendas!
+AgCD2	Infelizmente @EmpAgro|FiscalCD não plantarei nada nesta safra, não tenho condições de comprar sementes a um valor absurdo
+EmpAgro|FiscalCD	Obrigada pela atenção @AgAT3
+EmpAgro|FiscalCD	@AgCD2  o empresário de sementes está fora de controle
+EmpAgro|FiscalCD	@AgAT2|VereadorAT Boa tarde! Gostaria de manter sua plantação saudável sem agredir o meio ambiente? Experimente nosso agrotoxico super premium pelo valor baixo, ele está apenas $25!!
+EmpAgro|FiscalCD	@AgCD1|VereadorCD Boa tarde! Gostaria de manter sua plantação saudável sem agredir o meio ambiente? Experimente nosso agrotóxico super premium pelo valor baixo, ele está apenas $25!!
+AgCD1|VereadorCD	Gostaria, mas não terá plantação este ano de novo
+EmpAgro|FiscalCD	@AgAT1 Boa tarde! Gostaria de manter sua plantação saudável sem agredir o meio ambiente? Experimente nosso agrotoxico super premium pelo valor baixo, ele está apenas $25!!
+RODADA 4
+EmpAgro|FiscalCD	@AgCD1|VereadorCD conseguiu realizar as compras?
+EmpAgro|FiscalCD	parece que o empresário foi abduzido e colocaram um legal no lugar kkk
+AgCD1|VereadorCD	Eu não sei o que aconteceu, mas vamos lá hahaha Gostaria de 2 pcts de SP, por favor
+EmpAgro|FiscalCD	ok, está pelo preço baixo para ajudar nossos agricultores.
+EmpAgro|FiscalCD	total de $50
+AgCD1|VereadorCD	Muito obrigado! Fechado
+EmpAgro|FiscalCD	@AgAT3 Como foi sua plantação sem o uso de agrotoxicos?
+EmpAgro|FiscalCD	@AgCD2  Boa tarde! Conseguiu comprar as sementes esse ano? Me contaram que os preços estão mais justos!! Ainda bem :smile:
+AgCD2	@EmpAgro|FiscalCD Olá, consegui sim, devido ao investimento da prefeitura, vou prezar por produtos sem agrotóxicos nesta safra, quem sabe na próxima?
+EmpAgro|FiscalCD	@AgCD2 ok obrigada!
+AgAT3	@EmpAgro|FiscalCD foi um experimento curioso, obrigado por perguntar. Mas vou me conservar e negociar do jeito que sempre negociei. O que tens de agrotóxico este ano?
+EmpAgro|FiscalCD	estou com o SP a preço baixo esse ano
+EmpAgro|FiscalCD	%
+EmpAgro|FiscalCD	$25
+EmpAgro|FiscalCD	@AgAT3
+AgAT3	Perfeito, vou levar 6! @EmpAgro|FiscalCD
+EmpAgro|FiscalCD	total de $150
+EmpAgro|FiscalCD	muito obrigada pela compra!
+EmpAgro|FiscalCD	@AgAT1 Gostaria de experimentar nossos agrotóxicos SP com preço baixo?
+EmpAgro|FiscalCD	Garantimos a sua satisfação ou seu dinheiro de volta!!
+EmpAgro|FiscalCD	@AgCD3  como foi sua plantação? gostaria de comprar a SP por preço baixo novamente?
+AgCD3	Quero o mesmo do ano passado, foi ótimo.
+EmpAgro|FiscalCD	6 SUPER PREMIUM?
+EmpAgro|FiscalCD	$150
+EmpAgro|FiscalCD	mesmo valor do ano passado
+EmpAgro|FiscalCD	@AgCD3

@@ -1,0 +1,7 @@
+EmpSem|PrefeitoAT	Olá agricultores minha loja está aberta para negociações
+AgAT1|VereadorAT	olá, este ano irei tentar novas sementes. Gostaria de 2 de cada
+AgAT1|VereadorAT	como estão os preços?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Consigo negociar as sementes de hortaliças e as sementes de arroz pelo valor baixo, porém a de soja essa rodada só estou vendendo pelo preço alto
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT te interessa fazer negócio?
+AgAT1|VereadorAT	como ano passado obtive uma boa produtividade, vou aceitar sua oferta @EmpSem|PrefeitoAT
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Certo agricultor, espero que tenha uma boa produção esse ano também!

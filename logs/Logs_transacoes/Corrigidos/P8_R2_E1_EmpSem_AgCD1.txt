@@ -1,0 +1,6 @@
+AgCD1|FiscalCD	Olá @EmpSem|PrefeitoAT ! gostaria de comprar 2 sementes de arroz.
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Olá agricultor, seja bem vindo. Levando somente duas sementes de arroz consigo apenas te fazer por um valor alto.
+EmpSem|PrefeitoAT	Não deseja levar mais sementes?
+AgCD1|FiscalCD	tudo bem, pode ser duas no valor alto mesmo, na próxima vez eu compro mais
+EmpSem|PrefeitoAT	Como desejar
+EmpSem|PrefeitoAT	Pedido anotado

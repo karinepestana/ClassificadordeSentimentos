@@ -1,0 +1,8 @@
+AgCD3	Gostaria de comprar fertilizantes super premium
+AgCD3	6 unidades
+AgCD3	qual o preço que podemos negociar?
+EmpFert|PrefeitoCD	Olá @AgCD3! O super premium tá saindo pelo preço baixo
+AgCD3	otimo
+AgCD3	gostaria de fechar a compra
+AgCD3	podemos?
+EmpFert|PrefeitoCD	@AgCD3 muito bem! podemos sim! muito obrigado pela compra

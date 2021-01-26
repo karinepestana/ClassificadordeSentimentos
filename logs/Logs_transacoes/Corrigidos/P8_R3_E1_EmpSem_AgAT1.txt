@@ -1,0 +1,6 @@
+AgAT1	olá amigo, quais são as variedades de sementes para este ano?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Olá agricultor no momento disponho de todas as variedades de sementes, teria interesse em qual?
+AgAT1|VereadorAT	ah perfeito! estou interessado em 3 pacotes de arroz e 3 de soja. pode me vender por preço normal?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Estou com promoção esta rodada, faço as sementes de arroz pelo preço baixo e as de soja somente pelo valor normal, te interessa agricultor?
+AgAT1|VereadorAT	@EmpSem|PrefeitoAT hmm, interessante... fechamos então. 3 arroz pelo preço baixo e 3 sojas com preço normal
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT Registrei seu pedido

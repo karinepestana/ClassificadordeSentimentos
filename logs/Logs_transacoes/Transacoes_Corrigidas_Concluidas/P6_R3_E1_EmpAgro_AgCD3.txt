@@ -1,0 +1,9 @@
+AgCD3|PrefeitoCD	oi, quero comprar agrotóxico super premium. qual preço tu me faz?
+EmpAgro	Bom dia compradores
+EmpAgro	Devido à reeleição todos os agrotóxicos estão saindo a preços baixos
+EmpAgro	@AgCD3|PrefeitoCD preço baixo à todos, caro prefeito
+AgCD3|PrefeitoCD	@EmpAgro valeu, precisamos fortalecer nossa cidade
+EmpAgro	@AgCD3|PrefeitoCD queres quantos, chefia?
+AgCD3|PrefeitoCD	@EmpAgro 6 super premium com preço baixo
+EmpAgro	@AgCD3|PrefeitoCD fechado 6 SP por preço baixo
+EmpAgro	@everyone PROMOÇÃO PREÇOS BAIXOS DA REELEIÇÃO, APROVEITEM

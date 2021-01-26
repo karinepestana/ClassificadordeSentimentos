@@ -1,0 +1,5 @@
+EmpAgro	Promoção imperdível, evite a poluição por um preço bacana compre 4 agrotóxicos SP pelo preço normal e 2 pelo preço baixo!
+AgAT1|VereadorAT	vou querer participar desta promoção. 4 agrotóxicos super premium por preço normal e 2 por preço baixo @EmpAgro
+EmpAgro	@AgAT1|VereadorAT Olá, tudo bem
+EmpAgro	total de 170$
+EmpAgro	Obrigado

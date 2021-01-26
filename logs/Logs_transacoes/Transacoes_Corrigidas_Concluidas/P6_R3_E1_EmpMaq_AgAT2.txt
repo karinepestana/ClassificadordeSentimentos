@@ -1,0 +1,7 @@
+EmpMaq	------------------------------------------- Rodada 3 ---------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a NOVA postura adotada pela EmpMaq é de vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à tecnologia no campo. Todos os pedidos que se adequarem a esta postura serão aprovados. :slight_smile:
+AgAT2|PrefeitoAT	Bom dia, gostaria de alugar 6 pacotes de máquina do tipo 3. Existe alguma promoção?
+EmpMaq	@AgAT2|PrefeitoAT no momento não conseguimos realizar promoções... Seu pedido será aprovado de acordo com os valores desta rodada... Confirma o pedido?
+AgAT2|PrefeitoAT	confirmo, obrigada
+EmpMaq	@AgAT2|PrefeitoAT OK... 6 pacotes de máquina do tipo 3. Obrigado.
+AgAT2|PrefeitoAT	@EmpAgro seguimos nosso acordo?

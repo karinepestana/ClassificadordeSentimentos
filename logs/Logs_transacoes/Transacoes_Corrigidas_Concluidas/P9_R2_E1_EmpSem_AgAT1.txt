@@ -1,0 +1,12 @@
+EmpSem|FiscalAT	Comunicado da empresa Sem-Mentes-Monopólio: O caminhão de sementes de hortaliça tombou devido ao excesso de rebite consumido pelo caminhoneiro e o de arroz foi parar nas mãos dos chineses. Só temos sementes de SOJA a preço ALTO devido a cotação do dólar nesta rodada (tah ok?!)
+AgAT1	Que absurdo empresário!
+AgAT1	Você é responsável por nos fornecer variedades de sementes e nos obriga a comprar soja?
+EmpSem|FiscalAT	@AgAT1  livre comércio
+EmpSem|FiscalAT	@AgAT1 lei do mercado
+AgAT1	@EmpSem|FiscalAT Serei obrigada a reclamar com a prefeitura e com a fiscalização
+AgAT1	Porém desejo comprar 6 sementes de soja, consigo a que preço?(edited)
+EmpSem|FiscalAT	@AgAT1 nesta rodada somente pelo preço alto (para todos os compradores)
+AgAT1	@EmpSem|FiscalAT Vou levar, mas espero que suas sementes estejam no mínimo com uma qualidade excelente!
+EmpSem|FiscalAT	@AgAT1  quantas sementes?... são as que dão maior lucro 
+EmpSem|FiscalAT	@AgAT1  vai querer as sementes?
+EmpSem|FiscalAT	@AgAT1  já vi a resposta 

@@ -1,0 +1,5 @@
+AgAT2|PrefeitoAT	bom dia, gostaria de comprar 6 sacos de fertilizante super premium
+EmpFert|FiscalCD	@AgAT2|PrefeitoAT Preço Normal. Fechamos assim?
+AgAT2|PrefeitoAT	@AgAT2|PrefeitoAT Preço Normal. Fechamos assim?
+AgAT2|PrefeitoAT	@EmpFert|FiscalCD Sim, obrigada
+AgAT2|PrefeitoAT	:slight_smile:

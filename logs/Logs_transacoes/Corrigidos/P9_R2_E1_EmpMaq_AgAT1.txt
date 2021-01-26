@@ -1,0 +1,13 @@
+EmpMaq|PrefeitoAT	Boa noite pessoas queridas de Cidadela e Atlantis! Venham verificar as promoções em máquinas, temos ótimos preços pra vocês!
+AgAT1	Há alguma promoção acontecendo?
+AgAT1	Tenho interesse no pacote 3, parece ser bem completo!
+EmpMaq|PrefeitoAT	Olá! Na compra do mesmo pacote contendo 4, 5 ou 6 unidades, o preço é baixo
+EmpMaq|PrefeitoAT	Apenas 3 unidades preço normal.
+EmpMaq|PrefeitoAT	E 1 ou 2 unidades, preço alto.
+EmpMaq|PrefeitoAT	@AgAT1 tens interesse em 6 do pacote 3?
+AgAT1	Vou querer 6 unidades
+AgAT1	Obrigada pelo desconto!
+EmpMaq|PrefeitoAT	Ok! Obrigada pela preferência
+AgAT1	Melhor do que negociar com certos empresários por ai...
+EmpMaq|PrefeitoAT	Entendo... tem pessoas que só pensam no dinheiro. Mas nós tentamos ver o lado dos nossos queridos agricultores e do meio ambiente.
+AgAT1	@EmpMaq|PrefeitoAT Verdade, temos que analisar todos os lados..

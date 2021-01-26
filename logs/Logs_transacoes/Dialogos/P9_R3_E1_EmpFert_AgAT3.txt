@@ -1,0 +1,4 @@
+AgAT3	@EmpFert|PrefeitoCD vou querer 3 fertilizantes super premium
+EmpFert|PrefeitoCD	Olá @AgAT3! o super premium tá saindo pelo valor baixo
+AgAT3	Certo, muito obrigado!
+EmpFert|PrefeitoCD	@AgAT3 Eu que agradeço! Obrigada pela compra!

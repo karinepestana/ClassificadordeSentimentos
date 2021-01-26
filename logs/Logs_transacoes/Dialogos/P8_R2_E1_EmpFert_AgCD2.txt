@@ -1,0 +1,5 @@
+AgCD2|VereadorCD	Gostaria de comprar 6 fertilizantes super premium
+EmpFert|PrefeitoCD	@AgCD2|VereadorCD  te faço os 6 por 85 cada
+AgCD2|VereadorCD	otimo
+AgCD2|VereadorCD	fechamos assim?
+EmpFert|PrefeitoCD	@AgCD2|VereadorCD fechado

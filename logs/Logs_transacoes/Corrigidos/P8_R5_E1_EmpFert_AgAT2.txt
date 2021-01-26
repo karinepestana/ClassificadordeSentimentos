@@ -1,0 +1,7 @@
+EmpFert|PrefeitoCD	graças as baixa de impostos, quem levar mais de 4 fertlizantes premiuns, paga preço baixo
+AgAT2|FiscalAT	Olá! Ainda tem disponibilidade do fertlizante super-premium?
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD  @AgAT2|FiscalAT  desculpem meu erro de digitação erram os Super premium que estavam a preço baixo
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT quantos fertilizantes você quer? Dependendo da quantidade te faço todos por preço baixo
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD Então posso levar 6 unidades do fertlizante super premium pelo valor baixo?
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT Claro!
+AgAT2|FiscalAT	Obrigada empresário

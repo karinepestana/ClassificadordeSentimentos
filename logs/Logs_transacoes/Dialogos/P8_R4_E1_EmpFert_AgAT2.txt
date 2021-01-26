@@ -1,0 +1,7 @@
+EmpFert|PrefeitoCD	Sigo dando a preferencia para quem comprar fertilizante super premium, nessa rodada quem comprar 6 leva 2 por preço baixo e o resto normal
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD Olá empresário, quero levar o fertilizante super premium no valor da promoção
+AgAT2|FiscalAT	6 unidades, com 4 pelo valor normal e 2 pelo valor baixo
+AgAT2|FiscalAT	Você ainda está com a mesma promoção?
+EmpFert|PrefeitoCD	sim!
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD Vou levar então, vocês entregam na minha fazenda?
+EmpFert|PrefeitoCD	@AgAT2|FiscalAT  com certeza! Fechamos?

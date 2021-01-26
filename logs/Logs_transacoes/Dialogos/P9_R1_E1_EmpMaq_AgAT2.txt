@@ -1,0 +1,12 @@
+EmpMaq|PrefeitoAT	Boa tarde pessoal! Venham aproveitar as promoções em pacotes de máquinas para sua produção ser cada vez maior e melhor!
+EmpMaq|PrefeitoAT	Pessoal de Atlantis e Cidadela, quanto mais máquinas, menos poluição! Venham conferir as promoções!
+AgAT2	Olá @EmpMaq|PrefeitoAT , gostaria de trocar alguns dinheiros por algumas máquinas do pacote 3?
+EmpMaq|PrefeitoAT	Olá! Claro, quantos pacotes você gostaria @AgAT2?
+AgAT2	ficarei contente com apenas um pacote @EmpMaq|PrefeitoAT , preço normal?
+EmpMaq|PrefeitoAT	Como é apenas 1, não entra na promoção e o preço seria alto. Desculpe @AgAT2. Se forem 3, consigo o preço normal.
+AgAT2	E se nós chegarmos a um acordo? 2 pacotes pelo preço normal, e um contrato vitalício me obrigando a continuar comprando de você, mesma quantidade, preço normal?
+AgAT2	@EmpMaq|PrefeitoAT
+EmpMaq|PrefeitoAT	Pode ser então! Gostamos de clientes fieis! Fechamos então, 2 pacotes com preço normal. Obrigada pela confiança no nosso trabalho. E lembro que caso o acordo seja quebrado, não vamos conseguir preços baixos ou normais.
+EmpMaq|PrefeitoAT	2 Pacotes do tipo 3, certo?
+AgAT2	sim, @EmpMaq|PrefeitoAT , 2 pacotes do tipo 3, e eu te mando um cartão de natal todo ano, thanks!
+EmpMaq|PrefeitoAT	Muito obrigada pelo carinho!

@@ -1,0 +1,5 @@
+EmpSem|FiscalAT	Nessa primeira rodada o empresário de sementes está tranquilo. Todas as sementes estão disponíveis em qualquer quantidade a preço normal.
+AgCD3	Desejo comprar 6 sementes de hortaiças
+EmpSem|FiscalAT	Olá @AgCD3 faço as 6 sementes de hortaliça a preço Normal
+AgCD3	otimo, quero fechar negocio
+EmpSem|FiscalAT	Ok... @AgCD3 ... 6 sementes de hortaliça a preço normal... Confirmado

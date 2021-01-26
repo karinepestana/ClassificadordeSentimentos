@@ -1,0 +1,4 @@
+AgAT2|FiscalAT	boa tarde @EmpSem|PrefeitoAT , gostaria de compra 6 soja
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos fechar negócio pelo valor alto? Soja infelizmente não te consigo outro peço agricultor!
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT pode ser.
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Obrigada pela compreensão agricultor, vou separar suas 6 sementes de soja pelo valor alto

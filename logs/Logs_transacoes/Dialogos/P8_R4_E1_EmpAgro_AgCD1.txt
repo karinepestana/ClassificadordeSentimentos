@@ -1,0 +1,8 @@
+EmpAgro	Promoção imperdivel, evite a poluição por um preço bacana compre 4 agrotoxicos SP pelo preço normal e 2 pelo preço baixo!
+AgCD1|FiscalCD	@EmpAgro gostaria de comprar 4 agrotóxicos premium
+EmpAgro	Olá @AgCD1|FiscalCD não está interessada na nossa promoção?
+AgCD1|FiscalCD	não porque a minha poluição com o super premium é 200 para cada parcela
+EmpAgro	Ok ok
+EmpAgro	Neste caso venderei pelo preço normal os 4 agrotoxicos premium ok? @AgCD1|FiscalCD
+EmpAgro	total de 80$
+AgCD1|FiscalCD	tá ok @EmpAgro !

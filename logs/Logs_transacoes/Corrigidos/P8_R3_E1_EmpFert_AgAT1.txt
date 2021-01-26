@@ -1,0 +1,6 @@
+AgAT1|VereadorAT	quero comprar 6 fertilizantes, faz uma promoção para mim? @EmpFert|PrefeitoCD
+EmpFert|PrefeitoCD	O pacote mais vendido é o fertilizante super Premium, estou fazendo ele a preço normal essa rodada
+AgAT1|VereadorAT	@EmpFert|PrefeitoCD poxa, já estarei comprando 6 unidades de fertilizante super premium. Faz uma promoção com 3 por preço baixo e 3 normal...
+EmpFert|PrefeitoCD	@AgAT1|VereadorAT  okay, achei bem justo sua oferta
+AgAT1|VereadorAT	perfeito! até a próxima
+EmpFert|PrefeitoCD	:handshake:

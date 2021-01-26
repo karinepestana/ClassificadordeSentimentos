@@ -1,0 +1,3 @@
+AgAT2|VereadorAT	okay, eu pago pelo dano na próxima rodada se tudo der certo
+AgAT2|VereadorAT	6 sementes de soja pelo preço baixo @EmpSem|FiscalAT
+EmpSem|FiscalAT	Ok @AgAT2|VereadorAT  6 sementes de soja a preço baixo... Bom plantio!

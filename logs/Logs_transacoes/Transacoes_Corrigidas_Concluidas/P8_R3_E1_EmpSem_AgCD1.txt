@@ -1,0 +1,9 @@
+AgCD1|FiscalCD	olá @EmpSem|PrefeitoAT ! Gostaria de comprar 3 sementes de arroz. Quanto vai custar?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Somente 3? Se levar 6 sementes consigo algum desconto dependendo da variedade
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Caso deseje somente as 3 consigo te vender apenas pelo valor baixo
+AgCD1|FiscalCD	vou levar mais 3 sementes de hortaliça
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Certo agricultor, fica então 6 sementes de hortaliças pelo valor baixo
+AgCD1|FiscalCD	na verdade, vou querer 3 de arroz e mais 3 de hortaliças
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD Desculpa agricultor, confundi os pedidos.
+EmpSem|PrefeitoAT	Já fiz a correção aqui
+AgCD1|FiscalCD	tá bem @EmpSem|PrefeitoAT

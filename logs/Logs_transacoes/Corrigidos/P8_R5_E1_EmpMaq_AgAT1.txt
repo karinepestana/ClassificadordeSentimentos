@@ -1,0 +1,5 @@
+AgAT1	olá amigo, gostaria de alugar as máquinas do pacote 2
+EmpMaq|VereadorAT	Devido a problemas com a poluição, terei somente Pulverizadores a preço alto e Pacotes a partir de preço normal (acima de 4 unidades)
+EmpMaq|VereadorAT	Olá, @AgAT1 Devido a fiscalização, tive que me obrigar a mudar um pouco os preços esse ano. Acima de 4 unidades do pacote 2, te faço todos pelo preço normal
+AgAT1	certo, fechado 6 pacote 2 por preço normal @EmpMaq|VereadorAT.
+EmpMaq|VereadorAT	Certo! Mais algum pedido, @AgAT1 ?

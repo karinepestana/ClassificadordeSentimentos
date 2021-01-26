@@ -1,0 +1,8 @@
+EmpSem|FiscalAT	Bom dia pessoal
+AgAT2|PrefeitoAT	bom dia, gostaria de 6 sacos de semente de soja
+EmpSem|FiscalAT	Hoje estamos com promoção para compra de 6 pacotes da mesma semente. Ao comprar 6 sementes da mesma, faço pelo preço baixo. Sendo sementes separadas, faço preço normal
+EmpSem|FiscalAT	Já atendo os demais
+EmpSem|FiscalAT	@AgAT2|PrefeitoAT 6 sojas a preço baixo então, fechado?
+AgAT2|PrefeitoAT	@AgAT2|PrefeitoAT 6 sojas a preço baixo então, fechado?
+AgAT2|PrefeitoAT	@EmpSem|FiscalAT ótimo, obrigada
+AgAT2|PrefeitoAT	:slight_smile:

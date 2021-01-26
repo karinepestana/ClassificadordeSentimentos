@@ -1,0 +1,11 @@
+AgAT1	Oi empresário, aproveitei para passar na sua loja para saber se está com alguma promoção!
+AgAT1	Estou em busca de fertilizantes do tipo SUPER PREMIUM
+EmpFert|PrefeitoCD	Olá@AgAT1! temos sim! o fertilizante super premium está com preço baixo
+EmpFert|PrefeitoCD	@AgAT1 quantos você quer?
+AgAT1	Essa promoção me interessa muito
+AgAT1	Vou querer 6 unidades
+AgAT1	Estão bons?
+EmpFert|PrefeitoCD	muito bem! @AgAT1 esses são os melhores do mercado!
+EmpFert|PrefeitoCD	@AgAT1 muito obrigado pela compra!
+AgAT1	Obrigada pela sua atenção!
+EmpFert|PrefeitoCD	@AgAT1 eu que agradeço!

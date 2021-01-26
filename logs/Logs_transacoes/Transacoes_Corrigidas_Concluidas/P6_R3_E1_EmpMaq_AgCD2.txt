@@ -1,0 +1,17 @@
+EmpMaq	------------------------------------------- Rodada 3 ---------------------------------------------------------
+EmpMaq	Obedecendo às políticas públicas atuais a NOVA postura adotada pela EmpMaq é de vender um número ilimitado de UNIDADES de qualquer PACOTE a preço ALTO. Agradeço a compreensão de todos os clientes e aos altos impostos atribuídos à tecnologia no campo. Todos os pedidos que se adequarem a esta postura serão aprovados. :slight_smile:
+AgCD2	Bom dia, quanto é o pacote 2?
+EmpMaq	@AgCD2 todos estão com o preço alto nesta rodada
+AgCD2	@EmpMaq aceito, fechamos o pacote 2 pelo preço alto?
+AgCD2	@EmpMaq aguardo retorno
+EmpMaq	@AgCD2 todos os valores estão altos nesta rodada
+AgCD2	@EmpMaq sim, aceito o pacote 2 pelo preço alto!
+EmpMaq	@AgCD2 Ok... Pedido confirmado. Obrigado
+EmpMaq	@AgCD2 Quantas unidades?
+AgCD2	@EmpMaq aqui fechamos o pacote 2 preço alto :slight_smile:
+EmpMaq	@AgCD2 Sim... Pacote do tipo 2... Mas quantas unidades desse tipo de pacote?
+EmpMaq	1, 2, 3, 4, 5 ou 6?
+AgCD2	1
+EmpMaq	ok... 1 unidade só dá para 1 parcela
+AgCD2	ok
+EmpMaq	ok... confirmado

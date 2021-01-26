@@ -1,0 +1,7 @@
+EmpFert|PrefeitoCD	graças as baixa de impostos, quem levar mais de 4 fertlizantes premiuns, paga preço baixo
+AgCD1|FiscalCD	@EmpFert|PrefeitoCD Gostaria de comprar 4 fertilizantes premium. Quanto vai custar?
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD te recomendo comprar fertlizantes premium por preço baixo, mas se preferires assim, 2 por valor alto e 2 por valor médio
+AgCD1|FiscalCD	@EmpFert|PrefeitoCD ok! é uma proposta boa! então vou levar 4 fertilizante premium.
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD  @AgAT2|FiscalAT  desculpem meu erro de digitação erram os Super premium que estavam a preço baixo
+AgCD1|FiscalCD	ah sim! o negócio ainda é bom! então quero 4 fertilizantes super premium @EmpFert|PrefeitoCD
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD OKay 4 fertlizantes super premium por preço baixo

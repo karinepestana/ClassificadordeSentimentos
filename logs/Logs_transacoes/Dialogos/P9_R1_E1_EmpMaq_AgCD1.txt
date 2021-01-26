@@ -1,0 +1,7 @@
+EmpMaq|PrefeitoAT	Boa tarde pessoal! Venham aproveitar as promoções em pacotes de máquinas para sua produção ser cada vez maior e melhor!
+AgCD1|PrefeitoCD	Olá, @EmpMaq|PrefeitoAT! Como está? Gostaria de alugar 2 Pacote2, por favor
+EmpMaq|PrefeitoAT	@AgCD1|PrefeitoCD olá! Tudo bem, como seriam apenas 2, o preço será alto. Podemos acertar?
+AgCD1|PrefeitoCD	Claro, entendo. Podemos fechar sim
+EmpMaq|PrefeitoAT	Certo @AgCD1|PrefeitoCD. Obrigada pela preferência!
+AgCD1|PrefeitoCD	Muito obrigado!!
+EmpMaq|PrefeitoAT	Pessoal de Atlantis e Cidadela, quanto mais máquinas, menos poluição! Venham conferir as promoções!

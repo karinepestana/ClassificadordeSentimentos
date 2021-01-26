@@ -1,0 +1,5 @@
+AgCD2|VereadorCD	Gostaria de comprar 6 sementes de hortaliças
+EmpSem|PrefeitoAT	Olá agricultor
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Vendo as sementes pelo valor normal, poderia ser?
+AgCD2|VereadorCD	otimo
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Volte sempre agricultor

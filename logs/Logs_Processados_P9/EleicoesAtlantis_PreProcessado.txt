@@ -1,0 +1,52 @@
+RODADA 3
+EmpMaq|PrefeitoAT	Oi pessoal, alguém tem interesse em se candidatar como prefeito, vereador ou fiscal?
+EmpMaq|PrefeitoAT	Ou gostariam de fazer uma votação para mudar algum cargo?
+AgAT1	Eu como agricultor, gostaria de manter a administração do jeito que está!
+AgAT1	Acredito que esta equipe está fazendo um bom trabalho na nossa cidade
+AgAT3	Gostei muito do desempenho do @AgAT2|VereadorAT nas negociações da última partida, gostaria que ele tivesse a chance de se tornar vereador e assumir o meu lugar neste cargo. Claro, se ele tiver interesse.
+EmpSem|FiscalAT	Acredito que podemos manter a atual administração
+EmpMaq|PrefeitoAT	@AgAT2|VereadorAT está por ai?
+AgAT2|VereadorAT	ownt, obrigado pelo elogio
+EmpSem|FiscalAT	Vereador pode ser qualquer um
+AgAT1	Sim, se o @AgAT2|VereadorAT desejar ter uma candidatura podemos votar
+AgAT2|VereadorAT	1 minuto, tomarei minha decisão assim que lembrar do que o cargo de vereador é capaz
+AgAT2|VereadorAT	okay
+EmpSem|FiscalAT	Eu voto em @AgAT2|VereadorAT para vereador
+AgAT1	Ok, vou apoiar essa mudança
+AgAT2|VereadorAT	minha decisão é: se é o que a cidade quer, eu posso me tornar vereador
+AgAT1	Bacana da sua parte @AgAT2|VereadorAT
+EmpMaq|PrefeitoAT	Também apoio
+AgAT2|VereadorAT	não sei se conseguirei atender as expectativas, mas irei tentar ao máximo
+EmpMaq|PrefeitoAT	são essas as mudanças então?
+EmpMaq|PrefeitoAT	prefeito ou fiscal, ninguém tem interesse?
+AgAT3	Estamos recebendo pressão pra trocar o Fiscal na mídia, o que acham?
+AgAT3	kkkkkkkkkkkkkkkk
+AgAT2|VereadorAT	wkyhtoripqjgoiagofmághjidfghdapova
+EmpMaq|PrefeitoAT	Podemos fazer uma votação
+EmpMaq|PrefeitoAT	alguém se candidata?
+AgAT1	No momento não consigo assumir o cargo de fiscal, pois estou muito envolvida com a minha fazendo
+AgAT3	Eu prefiro deixar a decisão pro atual fiscal, se ele aceita aguentar a pressão ou renuncia
+EmpMaq|PrefeitoAT	eu sou prefeito, então não posso... mas se alguém quiser o cargo de prefeito, posso tranquilamente ser fiscal
+AgAT1	Com certeza
+AgAT3	@EmpSem|FiscalAT o que tens a dizer sobre o que eu disse?
+AgAT1	Mas não podemos assumir algo sem responsabilidade
+EmpSem|FiscalAT	Só observo :face_with_monocle:
+AgAT3	Então aceita aguentar a pressão?
+AgAT3	Seria bom saber que está firme
+EmpMaq|PrefeitoAT	@AgAT3 3 já que você não é mais vereador, pode se candidatar
+EmpMaq|PrefeitoAT	ahhaha
+AgAT3	Estou tranquilo, quero me focar na minha fazenda a partir de agora junto da outra agricultora
+EmpMaq|PrefeitoAT	seria bom arrumar o apelido também
+AgAT1	Certo
+AgAT1	Fechamos as eleições então?
+EmpMaq|PrefeitoAT	@AgAT3 e @AgAT2|VereadorAT arrumem os nomes pra ficar mais fácil
+EmpMaq|PrefeitoAT	acho que é isso
+AgAT3	Certo
+EmpSem|FiscalAT	@AgAT3  não quer ser fiscal?
+EmpSem|FiscalAT	Por mim tranquilo
+AgAT3	@EmpSem|FiscalAT Não não, falei ali que não tenho interesse
+AgAT3	Mas obrigado pela consideração
+AgAT2|VereadorAT	qualquer coisa a gente deporta o fiscal
+AgAT1	kkkk
+EmpSem|FiscalAT	O fiscal tá tranquilo nestas rodadas. Vcs estão confundindo os poderes dos papéis
+EmpSem|FiscalAT	hahahha

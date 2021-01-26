@@ -1,0 +1,25 @@
+EmpFert	Bom dia! Estamos com promoção:
+EmpFert	- Premium (estoque  20 un.): preço baixo, máximo 5 un. por cliente 
+EmpFert	- Super Premium (estoque 20 un.): preço normal, máximo 5 un. por cliente
+EmpFert	Valores após final do estoque promocional:
+EmpFert	- Comum: preço baixo
+EmpFert	- Premium: preço normal, a partir de 3 unidades uma sai com preço baixo.
+EmpFert	- Super Premium: preço alto, a partir de 6 unidades podemos negociar!
+EmpFert	** OBS: peço que ao iniciar a sua compra informe sua Ag e tipo de fertilizante que deseja comprar :smile:
+AgCD2|PrefeitoCD	Gostaria de comprar 6 sementes de soja. Consegue fazer pelo preço baixo?
+AgCD2|PrefeitoCD	Gostaria de comprar 6 fertiliantes super premium. Consegue fazer pelo preço baixo?
+AgCD2|PrefeitoCD	Ixi, mandei errado antes
+AgCD2|PrefeitoCD	Ainda estou sem resposta :frowning:
+EmpFert	Um momento
+AgCD2|PrefeitoCD	Empresário, eu ainda não recebi resposta :frowning:
+EmpFert	CD2, desculpa me perdi kkkkkkkkkkkkkkk
+AgCD2|PrefeitoCD	Haha
+AgCD2|PrefeitoCD	Quero um preço bom, na última rodada tive que pagar as taxas maiores
+AgCD2|PrefeitoCD	E nessa eu pedi no início :frowning:
+EmpFert	Posso fazer 6 super premium por preço normal
+AgCD2|PrefeitoCD	Pode ser, obrigado
+EmpFert	feito :slight_smile:
+AgCD2|PrefeitoCD	:wink:
+EmpFert	promoção relampago
+EmpFert	fertilizante premium preço baixo
+EmpFert	super premium preço normal

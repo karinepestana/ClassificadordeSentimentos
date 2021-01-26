@@ -1,0 +1,16 @@
+EmpFert	Bom dia pessoal, pacotes promocionais
+EmpFert	12 unidades de cada fertilizante pelo preço baixo, para os primeiros que chegarem
+EmpFert	bora pessoal, vai ser por ordem de chegada
+EmpFert	bora pessoal, antes que acabem os estoques
+EmpFert	pessoal, nessa rodada, acabaram os premium e sp pelo preço baixo
+EmpFert	agora os pacotes de promoção são:
+EmpFert	pacotes de 6 do comum sai preço baixo
+EmpFert	pacotes de 6 do premium e sp saem preço normal
+EmpFert	compras fora do pacote de 6 preço alto
+EmpFert	então temos +6 SP a preço baixo pessoal
+AgAT3	quero 6 fertilizantes premium com preço baixo
+EmpFert	@AgAT3 a preço baixo só tenho pacote de 6 comum
+EmpFert	depois tenho 6 premium ou sp a preço normal
+EmpFert	compras fora dos pacotes a preço alto, em qualquer forma
+AgAT3	quero 6 comum entao com o preço baixo
+EmpFert	certo, 6 comum a preço baixo para o @AgAT3, obrigado

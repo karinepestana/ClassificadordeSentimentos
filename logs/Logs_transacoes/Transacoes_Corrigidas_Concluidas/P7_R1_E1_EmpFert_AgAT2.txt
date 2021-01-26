@@ -1,0 +1,8 @@
+EmpFert	Bom dia pessoal, promoções especiais pra quem comprar 6 pacotes do mesmo fertilizante, faço preço baixo :smile:
+AgAT2	Bom dia! Gostaria de 6 pacotes comum, por favor
+EmpFert	Certo, 6 pacotes comum pelo preço baixo para o @AgAT2
+EmpFert	Obrigado
+AgAT2	@EmpFert Obrigado!
+EmpFert	Eu que agradeço :0
+EmpFert	:slight_smile:
+EmpFert	Pessoal, só prestem atenção que na próxima rodada os preços vão variar conforme a ordem de chegada

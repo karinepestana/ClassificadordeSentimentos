@@ -1,0 +1,10 @@
+AgCD3|VereadorCD	Olá! Gostaria de comprar 6 (SEIS) sacos de fertilizante SUPER PREMIUM... Qual o valor? :slight_smile:
+EmpFert	Bom dia
+EmpFert	@AgCD3, AgCD1 posso fazer 4 SP a preço normal e 2 a preço baixo
+AgCD3|VereadorCD	QUERO 3 PACOTE 3... Qual valor dai?
+EmpFert	um momento
+AgCD3|VereadorCD	Me vê 3 super premium pelo preço normal então
+AgCD3|VereadorCD	pode ser?
+EmpFert	@AgCD3 posso fazer 3 SP preço normal 1 SP preço baixo ??
+AgCD3|VereadorCD	Ok... Vou querer somente os 3 SP pelo preço NORMAL! Obrigado! :slight_smile:
+EmpFert	ok

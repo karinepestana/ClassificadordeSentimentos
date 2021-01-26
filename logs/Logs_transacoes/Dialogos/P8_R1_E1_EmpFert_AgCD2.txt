@@ -1,0 +1,7 @@
+AgCD2|VereadorCD	Boa tarde
+AgCD2|VereadorCD	desejo comprar fertilizantes super premium
+AgCD2|VereadorCD	6 fertilizantes SP, qual valor podemos negociar?
+EmpFert|PrefeitoCD	@AgCD2|VereadorCD te faço pelo preço baixo também, para ser justo.
+AgCD2|VereadorCD	otimo
+AgCD2|VereadorCD	fechamos assim?
+EmpFert|PrefeitoCD	fechado @AgCD2|VereadorCD

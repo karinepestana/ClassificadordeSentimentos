@@ -1,0 +1,8 @@
+EmpSem|PrefeitoAT	Olá agricultores minha loja está aberta para negociações
+AgAT2|FiscalAT	Gostaria de comprar 6 sementes de soja, qual o valor?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Soja estou vendendo apenas pelo valor alto
+EmpSem|PrefeitoAT	Minhas sementes são de excelente qualidade, posso garantir
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT Poxa empresário, sou um cliente fiel. Não conseguiria desconto em nenhuma semente? Tenho sempre preferência em comprar com você!
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos então negociar 2 pelo valor baixo e as demais 4 pelo valor alto, te interessa?
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT Agora estamos conversando...
+AgAT2|FiscalAT	Vou levar!

@@ -1,0 +1,17 @@
+EmpMaq|VereadorAT	Prezados (as) clientes, promoção nesta rodada, PULVERIZADOR E PACOTE 1 a preço BAIXO, para qualquer quantidade :smile: :smile: Aproveitem!!
+AgAT3	Quero 6 máquinas pacote 1 com preço baixo
+EmpMaq|VereadorAT	Bom dia @AgAT3 hj é seu dia de sorte, pacote 1 em promoção, preço baixo :slight_smile:
+EmpMaq|VereadorAT	6 pacotes do tipo 1 pelo preço baixo, fechamos?
+AgAT3	Fechado. 6 pacotes tipo 1 preço baixo
+EmpMaq|VereadorAT	@AgAT3 pedido processado, obrigada e volte sempre :smile:
+AgAT3	aqui que vende pulverizador?
+EmpMaq|VereadorAT	isso, está na promoção preço baixo
+AgAT3	Quero 1
+EmpMaq|VereadorAT	ok, mais um pulverizador no seu pedido?
+EmpMaq|VereadorAT	preço baixo
+AgAT3	Não, quero 1 pulverizador preço baixo apenas
+EmpMaq|VereadorAT	quer cancelar o pedido anterior e ficar com apenas 1 pulverizador?
+AgAT3	não quero cancelar pedido. Eu comprei 6 pacotes tipo 1 preço baixo e agora quero comprar 1 pulverizador preço baixo
+EmpMaq|VereadorAT	Sim, então 6 pacotes do tipo 1 a preço baixo e mais um pulverizador a preço baixo, seria isto?
+AgAT3	isso
+EmpMaq|VereadorAT	ok, pedido processado, obrigada e volte sempre :slight_smile:

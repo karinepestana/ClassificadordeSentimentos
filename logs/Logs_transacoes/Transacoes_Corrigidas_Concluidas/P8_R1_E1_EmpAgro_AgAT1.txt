@@ -1,0 +1,13 @@
+AgAT1|VereadorAT	olá, gostaria de comprar agrotóxicos
+AgAT1|VereadorAT	faz um preço bacana para mim?
+EmpAgro	Olá @AgAT1|VereadorAT !
+EmpAgro	e qual seria sua proposta?
+AgAT1|VereadorAT	estou pensando em comprar 3 agrotóxico super premium
+AgAT1|VereadorAT	me vende por preço normal
+AgAT1|VereadorAT	?
+EmpAgro	tudo bem
+AgAT1|VereadorAT	show, com mais vendas/produção a cidade prosperará
+EmpAgro	alias
+EmpAgro	deu 90 R$
+EmpAgro	com certeza!
+AgAT1|VereadorAT	ok, 3 agrotóxico super premium

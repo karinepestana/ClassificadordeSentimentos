@@ -1,0 +1,6 @@
+AgCD2|VereadorCD	Boa tarde
+AgCD2|VereadorCD	gostaria de 6 unidades de fertilizante SP, qual o valor?
+EmpFert|PrefeitoCD	opa, podemos fechar pelo valor normal @AgCD2|VereadorCD ?
+AgCD2|VereadorCD	podemos
+AgCD2|VereadorCD	por mim esta fechado
+EmpFert|PrefeitoCD	Fechado! Bom negocio

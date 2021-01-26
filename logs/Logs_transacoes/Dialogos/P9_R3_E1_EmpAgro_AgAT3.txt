@@ -1,0 +1,5 @@
+EmpAgro|FiscalCD	Boa tarde queridos clientes!! 
+EmpAgro|FiscalCD	Estão precisando que sua plantação seja saudavel sem agredir o meio ambiente? Eu tenho a solução para vocês!! Agrotóxicos super premium por apenas 27,50!
+EmpAgro|FiscalCD	@AgAT3  Boa tarde! Gostaria de fazer sua encomenda de agrotóxicos superpremium? Cada unidade sai por $25
+AgAT3	@EmpAgro|FiscalCD muito obrigado pela oferta amigo, mas este ano quero experimentar meu rendimento sem agrotóxico, nada contra seu produto mas boa sorte com as vendas!
+EmpAgro|FiscalCD	Obrigada pela atenção @AgAT3

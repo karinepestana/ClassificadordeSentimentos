@@ -1,0 +1,7 @@
+AgCD2|PrefeitoCD	Olá amigo, gostaria de 6 pacotes de sementes de arroz
+AgCD2|PrefeitoCD	qual o valor?
+EmpSem|PrefeitoAT	@AgCD2|PrefeitoCD Consigo fazer 2 pelo valor baixo e 4 pelo valor normal, pode ser?
+AgCD2|PrefeitoCD	pode sim
+EmpSem|PrefeitoAT	Okk, anotado sua compra de arroz aqui
+EmpSem|PrefeitoAT	Vou deixar sua encomenda separada agricultor
+AgCD2|PrefeitoCD	Ok, tchau tchau

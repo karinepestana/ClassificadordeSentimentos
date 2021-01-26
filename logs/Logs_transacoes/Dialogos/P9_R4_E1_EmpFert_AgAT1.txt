@@ -1,0 +1,9 @@
+AgAT1	Tenho interesse em seus fertlizantes
+AgAT1	Quanto está saindo o super premium?
+EmpFert|PrefeitoCD	@AgAT1 preço baixo! quantas unidades vai levar?
+AgAT1	Você tem sempre ótimos preços empresário
+AgAT1	Vou levar 6
+AgAT1	Para utilizar em toda a minha plantação
+EmpFert|PrefeitoCD	@AgAT1 prezamos  e incentivamos a utilização dos produtos de qualidade
+EmpFert|PrefeitoCD	@AgAT1 obrigado pela compra!
+AgAT1	Obrigada empresário, muito bom negociar com você

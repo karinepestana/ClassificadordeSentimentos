@@ -1,0 +1,4 @@
+AgCD2|PrefeitoCD	Olá Amigo, gostaria de 3 pacotes 3
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD consigo preço baixo nestes 3
+AgCD2|PrefeitoCD	ótimo, vou querer levar então
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD obrigada e volte sempre

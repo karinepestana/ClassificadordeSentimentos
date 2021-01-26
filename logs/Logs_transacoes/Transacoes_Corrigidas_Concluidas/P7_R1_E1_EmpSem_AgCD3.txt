@@ -1,0 +1,18 @@
+EmpSem|PrefeitoAT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgCD3	Bom dia, gostaria de 5 sementes de arroz
+EmpSem|PrefeitoAT	@AgCD3 5 sementes de arroz faço pelo valor alto
+EmpSem|PrefeitoAT	@AgCD3 não deseja levar mais uma semente para o último lote?
+AgCD3	Você faria por um valor mais baixo se eu levasse as 6? @EmpSem|PrefeitoAT
+EmpSem|PrefeitoAT	@AgCD3 Mais baixo sim, só não o valor baixo (ficou confuso mas acredito que deu para entender)
+AgCD3	Está bem então @EmpSem|PrefeitoAT , obrigada vou levar as 6
+EmpSem|PrefeitoAT	@AgCD3 4 sementes de arros pelo valor normal e te dou desconto em duas, fazendo pelo valor baixo, pode ser?
+EmpSem|PrefeitoAT	*arroz
+AgCD3	Perfeito @EmpSem|PrefeitoAT
+EmpSem|PrefeitoAT	@AgCD3 Vou registrar a sua compra aqui agricultor
+AgCD3	Bom dia @EmpSem|PrefeitoAT gostaria de comprar 4 pacotes de soja, faria algum desconto?
+EmpSem|PrefeitoAT	@AgCD3 Já haviamos negociado anteriormente por 4 sementes de arroz pelo valor normal e duas pelo valor baixo, gostaria de alterar?
+AgCD3	Sim, gostaria de acrescentar mais 3 pacotes de soja
+AgCD3	@EmpSem|PrefeitoAT
+EmpSem|PrefeitoAT	@AgCD3 Você só tem 6 lotes de terra para plantar, não há porque comprar mais do que 6 sementes
+AgCD3	@EmpSem|PrefeitoAT ah desculpa entendi
+EmpSem|PrefeitoAT	@AgCD3 Se desejar fazer alguma alteração podemos renegociar, caso contrário sugiro que tente o plantio de soja na próxima rodada

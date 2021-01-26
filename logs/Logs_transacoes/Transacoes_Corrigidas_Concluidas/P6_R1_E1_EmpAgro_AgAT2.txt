@@ -1,0 +1,5 @@
+AgAT2|PrefeitoAT	bom dia! gostaria de comprar 3 pacotes de agrotóxico premium
+AgAT2|PrefeitoAT	desculpe, mas cancelo meu pedido
+EmpAgro	calma q eu to me resolvendo
+EmpAgro	Bom dia!
+EmpAgro	Hoje todos os agrotóxicos estão saindo à preços normais

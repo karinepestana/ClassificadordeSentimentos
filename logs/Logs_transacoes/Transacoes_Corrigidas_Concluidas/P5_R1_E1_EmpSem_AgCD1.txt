@@ -1,0 +1,18 @@
+AgCD1|VereadorCD	bom dia
+AgCD1|VereadorCD	eu gostaria de comprar sementes
+EmpSem|FiscalAT	bom dia
+AgCD1|VereadorCD	queria 2 de hortaliça, 2 de arroz e 2 de soja :slight_smile:
+EmpSem|FiscalAT	neste momento não estou vendendo hortaliça
+AgCD1|VereadorCD	ah entendi
+EmpSem|FiscalAT	pode ser 3 de arroz e 3 de soja?
+AgCD1|VereadorCD	então pode ser isso
+AgCD1|VereadorCD	3 de arroz e 3 de soja
+AgCD1|VereadorCD	mas qual o valor?
+EmpSem|FiscalAT	3 preço normal e 3 alto
+AgCD1|VereadorCD	alto da soja?
+AgCD1|VereadorCD	não posso pagar :/
+EmpSem|FiscalAT	hm, te faço 3 alto de arroz e 3 normal de soja então
+AgCD1|VereadorCD	pode ser 2 de arroz e 4 de soja então?
+EmpSem|FiscalAT	pode
+AgCD1|VereadorCD	obrigada!
+EmpSem|FiscalAT	mais alguém gostaria de comprar sementes?

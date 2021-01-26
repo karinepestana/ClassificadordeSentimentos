@@ -1,0 +1,6 @@
+EmpAgro|FiscalCD	@AgCD3  como foi sua plantação? gostaria de comprar a SP por preço baixo novamente?
+AgCD3	Quero o mesmo do ano passado, foi ótimo.
+EmpAgro|FiscalCD	6 SUPER PREMIUM?
+EmpAgro|FiscalCD	$150
+EmpAgro|FiscalCD	mesmo valor do ano passado
+EmpAgro|FiscalCD	@AgCD3

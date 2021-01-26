@@ -1,0 +1,5 @@
+AgAT3	To querendo 2 SP a preço baixo
+EmpAgr|VereadorCD	@AgAT3  te consigo 1 com preço baixo e 1 com preço normal
+EmpAgr|VereadorCD	pode ser? @AgAT3
+AgAT3	Pode ser.
+EmpAgr|VereadorCD	beleza

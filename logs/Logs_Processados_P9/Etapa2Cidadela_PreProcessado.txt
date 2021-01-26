@@ -1,0 +1,73 @@
+RODADA 1
+AgCD1|PrefeitoCD	Boa tarde, cidadãos!
+AgCD1|PrefeitoCD	Empresário de fertilizante produziu bem esse ano
+AgCD1|PrefeitoCD	Mas a poluição está altíssima
+AgCD1|PrefeitoCD	@AgAT3|VereadorAT O que tu acha? Conseguimos bastante dinheiro devido aos impostos e acredito que seria uma boa ideia implantar, pelo menos, uma estação de tratamento de lixo
+EmpFert|VereadorCD	@AgCD1|PrefeitoCD aqui
+AgCD1|PrefeitoCD	Opa
+AgCD1|PrefeitoCD	Errei
+AgCD1|PrefeitoCD	Hahahahaha
+EmpFert|VereadorCD	kkkkkkkk
+AgCD1|PrefeitoCD	@EmpFert|VereadorCD, mil desculpas
+AgCD1|PrefeitoCD	Dislexia pegando ahahahha
+EmpFert|VereadorCD	acontece
+AgCD2|FiscalCD	Boa tarde
+EmpFert|VereadorCD	esse ano tentei incentivar os agricultores a comprar o fertiliante super premium
+AgCD2|FiscalCD	Tivemos um nível de poluição um pouco alto para início de ano
+EmpFert|VereadorCD	para tentar causar menos estragos
+AgCD1|PrefeitoCD	Errei inclusive o empresario a quem eu me referia
+AgCD2|FiscalCD	O Empresário de Fertilizantes vendeu muita, apliquei multa média, para que se conscientize que na próxima será pior
+AgCD2|FiscalCD	Os Ag CD1 e CD2 produziram de maneira exemplar, ganharam selo verde
+AgCD2|FiscalCD	Opa
+AgCD2|FiscalCD	Ag CD3
+AgCD2|FiscalCD	o AgCD2 poluiu mais e recebeu uma multa
+AgCD3	Opa
+EmpFert|VereadorCD	infelizmente não tenho muito a fazer porque o fertilizante que menos polui é o mais caro
+AgCD2|FiscalCD	Sim, imagino que seja complicado até para baixar o preço
+AgCD2|FiscalCD	mas nossa cidade atingiu mais de 25% de poluição, é um número muito alto
+AgCD2|FiscalCD	Se me permitirem, irei ser mais rigida na próxima colheita
+AgCD2|FiscalCD	Sei que enquanto agricultou polui muito, irei tentar melhorar também
+AgCD1|PrefeitoCD	Visto todas essas informações da nossa Fiscal, acredito que seria uma boa o aumento das taxas para grandes produtores
+AgCD1|PrefeitoCD	Com produtividade > 200pts
+AgCD1|PrefeitoCD	200 de produtividade
+AgCD2|FiscalCD	Acho que seria uma boa Prefeito
+AgCD2|FiscalCD	Assim também podemos arrecadar mais para investir na cidade, sabemos que os grandes produtores são os que mais geram poluição
+AgCD1|PrefeitoCD	Exato
+EmpFert|VereadorCD	concordo nesse ponto.
+AgCD1|PrefeitoCD	Feito então. Implantaremos uma estação de tratamento de lixo e aumento na taxa de impostos dos grandes produtores
+AgCD2|FiscalCD	Ótimo, começaremos agora o planejamento e na próxima safra podemos aplicar tais medidas
+AgCD1|PrefeitoCD	@AgCD2|FiscalCD podia ter me dado selo verde em todas as parcelas hahahahha
+AgCD1|PrefeitoCD	Visto que parcela que não produz tbm paga imposto
+AgCD2|FiscalCD	Opa prefeito, realmente, me fugiu este ponto
+AgCD2|FiscalCD	Tomarei cuidado nos próximos
+AgCD1|PrefeitoCD	Hahahahahha sem problema
+AgCD1|PrefeitoCD	Mas, se ainda quiser trocar, fica a vontade
+AgCD2|FiscalCD	Se dá tempo, não mandamos os registros ainda
+AgCD2|FiscalCD	Foi hahaha
+AgCD1|PrefeitoCD	Certo! Muito obrigado hahahah
+RODADA 2
+AgCD1|PrefeitoCD	Gente
+AgCD2|FiscalCD	Boa noite pessoal
+AgCD1|PrefeitoCD	Poluição aumentou e pessoas poluíram de mais
+AgCD2|FiscalCD	Poluição aumentou 1% prefeito, conseguimos controlar ainda
+AgCD1|PrefeitoCD	Como meu último ano no poder, e visto que o caixa deixa, gostaria de aplicar um tratamento de esgoto
+AgCD2|FiscalCD	O aumento das taxas fez com que os Agricultores não comprassem agrotóxicos, e infelizmente o aumento abusivo no valor das sementes fez com que não tivéssemos todos os agricultores plantando
+AgCD2|FiscalCD	É um absurdo
+AgCD1|PrefeitoCD	@AgCD2|FiscalCD Tínhamos diminuído ela em 20% e acabou aumentando de novo. Se deixarmos subir mais 3%, a produtividade dos cidadãos vai começar a cais
+AgCD1|PrefeitoCD	Cair*
+AgCD2|FiscalCD	Sim, aumentou da última safra pra cá, mas ainda controlamos mais, acredito que mais uma multa severa em todos, vá controlar
+AgCD1|PrefeitoCD	E eu concordo na situação da semente. É deplorável. Espero que os cidadãos de Atlantis resolvam o problema ano que vem
+AgCD1|PrefeitoCD	Ok. Aplicarei a estação de Esgoto pra diminuir e multe eles para não aumentar de novo
+AgCD2|FiscalCD	E concordo com a opção de tratamento de esgoto, vai ajudar muito na nossa cidade e saíremos com uma imagem ótima, até se quisermos reeleição
+AgCD2|FiscalCD	certo, irei aplicar uma multa média em todos os agricultores e empresários
+AgCD1|PrefeitoCD	Não quero reeleição hahahah Gostaria deaproveitar e deixar aqui a minha intenção de deixar o cargo para a EmpAgr
+AgCD2|FiscalCD	Cansou do cargo?
+AgCD1|PrefeitoCD	Acredito que ela faz muito pelo povo e, como empresária, acredito que ela fará um ótimo trabalho administrando a cidade
+AgCD1|PrefeitoCD	@AgCD2|FiscalCD Não diria "cansar", mas ela me pareceu uma pessoa melhor que eu
+EmpFert|VereadorCD	todos os agricultores e empresários dessa cidade ganharam multa?
+AgCD2|FiscalCD	Vou buscar conhecer mais das propostas da mesma, mas acredito em sua indicação
+AgCD1|PrefeitoCD	E estou com problemas pessoais, o que me impedirão de me candidatar
+AgCD2|FiscalCD	Sim
+AgCD2|FiscalCD	todos os agricultores e empresários dessa cidade ganharam multa?
+AgCD2|FiscalCD	@EmpFert|VereadorCD
+AgCD2|FiscalCD	Níveis de poluição ainda estão altos, mas subiu pouco comparado ao passado, notei que a única forma de fazer diminuir é apertar no bolso

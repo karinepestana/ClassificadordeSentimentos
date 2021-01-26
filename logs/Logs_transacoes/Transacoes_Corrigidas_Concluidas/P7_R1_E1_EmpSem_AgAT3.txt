@@ -1,0 +1,6 @@
+EmpSem|PrefeitoAT	Bom dia agricultores a preferencia será dada conforme a ordem!
+AgAT3	Bom dia! Quero comprar 3 sementes de soja e 3 de hortaliças. Como a soja é cara eu gostaria que as hortaliças fossem de graça como "desconto"
+EmpSem|PrefeitoAT	@AgAT3 Agricultor isso não será possível! Tenho um estoque baixo, por isso vendo apenas 2 sojas por agricultor, e soja vendo somente a preço alto
+AgAT3	Então vou querer 6 hortaliças com desconto, o que acha?
+EmpSem|PrefeitoAT	@AgAT3 Hortaliças posso fazer o mesmo desconto que fiz para os demais agricultores, 3 pelo valor normal e 3 pelo valor baixo, pode ser?
+AgAT3	Ok

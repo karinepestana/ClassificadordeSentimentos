@@ -1,0 +1,5 @@
+EmpAgro|FiscalCD	Boa tarde queridos clientes!! 
+EmpAgro|FiscalCD	Estão precisando que sua plantação seja saudavel sem agredir o meio ambiente? Eu tenho a solução para vocês!! Agrotóxicos super premium por apenas 27,50!
+EmpAgro|FiscalCD	@AgCD2 Boa tarde! Você gostaria de fazer encomenda de agrotóxicos super premium? Estão em promoção!!
+AgCD2	Infelizmente @EmpAgro|FiscalCD não plantarei nada nesta safra, não tenho condições de comprar sementes a um valor absurdo
+EmpAgro|FiscalCD	@AgCD2  o empresário de sementes está fora de controle

@@ -1,0 +1,13 @@
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.
+AgCD1|VereadorCD	Bom dia, gostaria de comprar 6 unidades de fertilizantes SP.
+EmpFert|FiscalCD	@AgCD1|VereadorCD 
+EmpFert|FiscalCD	Okay, fechado!
+AgCD1|VereadorCD	Desculpe, eu decidi aguardar um pouco para ver minhas finanças antes de fechar o pedido.
+EmpFert|FiscalCD	@AgCD1|VereadorCD Sendo assim cancelamos teu pedido?
+EmpFert|FiscalCD	Ao menos por enquanto.
+AgCD1|VereadorCD	@EmpFert|FiscalCD Sim, logo retorno.
+EmpFert|FiscalCD	Otimo
+EmpFert|FiscalCD	Olá, gostaria de propor aos @AgCD3|PrefeitoCD @AgCD2 @AgCD1|VereadorCD que comprem enquanto ainda temos estoque.
+AgCD1|VereadorCD	Vou querer fechar contigo as 6 unidades de SP. Segue o preço normal?
+EmpFert|FiscalCD	@AgCD1|VereadorCD Feito.

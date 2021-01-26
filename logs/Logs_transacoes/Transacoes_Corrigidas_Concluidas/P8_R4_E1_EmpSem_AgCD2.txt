@@ -1,0 +1,7 @@
+EmpSem|PrefeitoAT	Olá agricultores minha loja está aberta para negociações
+AgCD2|VereadorCD	Olá
+AgCD2|VereadorCD	desejo comprar 6 sementes de hortaliças
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Certo agricultor, como irá levar as 6 sementes posso fazer todas pelo valor baixo
+AgCD2|VereadorCD	otimo compro
+EmpSem|PrefeitoAT	@AgCD2|VereadorCD Vou separar suas sementes e elas serão enviadas para você
+AgCD2|VereadorCD	@EmpSem|PrefeitoAT Okay, agradeço;

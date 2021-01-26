@@ -1,0 +1,12 @@
+EmpAgr|VereadorCD	bom dia!
+EmpAgr|VereadorCD	estou vendendo com um preço especial
+EmpAgr|VereadorCD	e produtos de ótima qualidade
+EmpAgr|VereadorCD	alguém mais? alguém mais? estou com promoção! não podem perder essa
+AgCD3	Bom dia @EmpAgr|VereadorCD gostaria de 4 P e 2 SP, faria pelo menos um a preço baixo?
+EmpAgr|VereadorCD	claro @AgCD3
+EmpAgr|VereadorCD	tem consigo os 2 SP por preço baixo e 4 com preço normal @AgCD3
+AgCD3	@EmpAgr|VereadorCD
+AgCD3	@EmpAgr|VereadorCD certo, irei fechar
+EmpAgr|VereadorCD	muito obrigado, e volte sempre!! @AgCD3
+EmpAgr|VereadorCD	@AgCD1|FiscalCD vamos de agrotóxico? faço um preço camarada
+EmpAgr|VereadorCD	@AgAT1|FiscalAT e @AgAT3 considerem comprar agrotóxico no próximo ano. ajudará a melhorarem suas produções. tempos difíceis estão se aproximando

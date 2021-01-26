@@ -1,0 +1,4 @@
+AgAT1|VereadorAT	olá amigo, como estão os preços de soja e arroz?
+EmpSem|PrefeitoAT	@AgAT1|VereadorAT olá agricultor, bem vindo a minha loja, no momento disponho de baixos estoques de soja e só vendo por valor alto, já arroz se desejar levar os 6 lotes consigo te fazer pelo preço normal
+AgAT1|VereadorAT	ok! vou ficar com 6 pacotes de arroz com preço normal. agradeço @EmpSem|PrefeitoAT
+

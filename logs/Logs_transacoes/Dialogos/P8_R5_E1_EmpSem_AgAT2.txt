@@ -1,0 +1,6 @@
+AgAT2|FiscalAT	Gostaria de sementes de Soja, como podemos negociar?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Seriam 6 sementes agricultor?
+AgAT2|FiscalAT	Exatamente, para os 6 lotes de terra
+EmpSem|PrefeitoAT	Consigo esse valor apenas 4 pelo valor baixo e as demais 2 pelo valor alto
+EmpSem|PrefeitoAT	Temos um negócio?
+AgAT2|FiscalAT	Isso, vou querer

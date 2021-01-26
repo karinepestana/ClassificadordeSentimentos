@@ -1,0 +1,6 @@
+AgCD1|VereadorCD	bom dia, gostaria de comprar 3 unidades do pacote 3, pode fazer a preço baixo?
+EmpMaq	preço baixo somente para 6 unidades
+EmpMaq	4 a 5 preço médio
+EmpMaq	3 ou menos preço alto
+AgCD1|VereadorCD	Se puder me fazer 3 a preço médio ganhas uma cliente vitalícia
+EmpMaq	Ok @AgCD1|VereadorCD  3 unidades do tipo 3 por preço médio

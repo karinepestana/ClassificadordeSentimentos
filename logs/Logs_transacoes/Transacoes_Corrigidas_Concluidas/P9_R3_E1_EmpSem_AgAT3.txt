@@ -1,0 +1,5 @@
+EmpSem|FiscalAT	As sementes então paradas no buraco negro de Curitiba... Para obter a liberação somente com uma transferência de 100 dinheiros
+AgAT3	Eu não vou olhar a minha carteira, apenas me entregue 6 sementes de arroz
+AgAT3	@EmpSem|FiscalAT
+EmpSem|FiscalAT	@AgAT3  Ok... 6 sementes de arroz a preço normal + 100 dinheiros... Ok?
+AgAT3	@EmpSem|FiscalAT Ok.

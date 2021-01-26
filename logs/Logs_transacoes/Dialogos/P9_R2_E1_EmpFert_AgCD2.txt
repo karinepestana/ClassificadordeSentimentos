@@ -1,0 +1,3 @@
+EmpFert|VereadorCD	Você quer aumentar a produtividade de suas plantações? Com o Fertilizante Super Premium você consegue uma produtividade incrível! As primeiras 30 unidades do Super Premium estão com preço baixo (85 dinheiros)! Garanta logo o seu!
+AgCD2|FiscalCD	Olá @EmpFert|VereadorCD vou querer 6 unidades SP a preço baixo
+EmpFert|VereadorCD	@AgCD2|FiscalCD ok! feito! obrigado

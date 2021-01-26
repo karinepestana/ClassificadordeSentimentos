@@ -1,0 +1,9 @@
+EmpMaq|PrefeitoAT	Boa tarde pessoal! Venham aproveitar as promoções em pacotes de máquinas para sua produção ser cada vez maior e melhor!
+AgAT1	Fiquei interessada pelos seus pacotes 3 empresário
+AgAT1	Se eu levasse para os meus 6 lotes de plantação, teria algum desconto?
+EmpMaq|PrefeitoAT	@AgAT1 olá! Se levar 6 vocês entra na promoção com preço baixo em todos os produtos!
+AgAT1	@EmpMaq|PrefeitoAT Vou querer então!
+AgAT1	Gostei da sua oferta
+EmpMaq|PrefeitoAT	@AgAT1 que maravilha! Estamos sempre pensando nos nossos clientes! Fechamos o acordo então! Abraço
+AgAT1	Obrigada! Vou aguardar a entrega
+EmpMaq|PrefeitoAT	Pessoal de Atlantis e Cidadela, quanto mais máquinas, menos poluição! Venham conferir as promoções!

@@ -1,0 +1,4 @@
+EmpSem|PrefeitoAT	Olá agricultores minha loja está aberta para negociações
+AgCD1|FiscalCD	@EmpSem|PrefeitoAT gostaria de comprar 4 sementes de arroz. Quanto vai custar?
+EmpSem|PrefeitoAT	@AgCD1|FiscalCD 4 sementes de arroz vendo todas pelo valor normal
+AgCD1|FiscalCD	tá bem @EmpSem|PrefeitoAT! vou levar

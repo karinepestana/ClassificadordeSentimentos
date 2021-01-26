@@ -1,0 +1,20 @@
+EmpAgro	Bom dia compradores
+EmpAgro	Devido à reeleição todos os agrotóxicos estão saindo a preços baixos
+AgAT3	gostaria de 6 pacotes SP por favor
+EmpAgro	Nao estou possibilitado à vender à você @AgAT3
+EmpAgro	Por normas da cidade
+AgAT3	como assim
+AgAT3	e quanto ta valendo as normas da cidade
+EmpAgro	Atlantis proibiu a venda a você devido à sua taxa de poluição
+AgAT3	na verdade eles pediram pra ti n vender em troca de alguma coisa(provavelmente dinheiro)
+AgAT3	e eu quero saber quanto
+EmpAgro	Eles me ofereceram 150 garantidos por rodada
+AgAT3	eu te pago isso mais a semente
+EmpAgro	Qualquer reclamação contate a prefeitura @AgAT2|PrefeitoAT
+AgAT3	topa?
+EmpAgro	Serei obrigado a negar a proposta
+EmpAgro	Entre em contato com a prefeitura
+AgAT3	200
+EmpAgro	só vendo com a papelada em mãos te autorizando
+AgAT3	ok
+EmpAgro	@everyone PROMOÇÃO PREÇOS BAIXOS DA REELEIÇÃO, APROVEITEM

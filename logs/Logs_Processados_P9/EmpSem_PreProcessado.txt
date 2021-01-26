@@ -1,0 +1,222 @@
+RODADA 1
+EmpSem|FiscalAT	Nessa primeira rodada o empresário de sementes está tranquilo. Todas as sementes estão disponíveis em qualquer quantidade a preço normal.
+AgCD2|FiscalCD	Boa tarde
+EmpSem|FiscalAT	Boa tarde... Podem fazer os pedidos
+AgCD2|FiscalCD	Gostaria de comprar 6 sementes de arroz, faria metade a preço baixo e o restante normal?
+AgCD3	Desejo comprar 6 sementes de hortaiças
+AgCD1|PrefeitoCD	Boa tarde, @EmpSem|FiscalAT ! Eu gostaria de w sementes de hortaliça, por favor
+AgAT1	Olá empresário, tenho interesse em adquirir sementes de SOJA, dizem que esse ano a produção estará maravihosa. Como podemos negociar?
+EmpSem|FiscalAT	@AgCD2|FiscalCD todas as sementes estão com preço NORMAl
+AgCD2|FiscalCD	@EmpSem|FiscalAT Poxa, irei comprar para toda minha terra, não faria nenhum desconto?
+EmpSem|FiscalAT	Olá @AgCD3 faço as 6 sementes de hortaliça a preço Normal
+EmpSem|FiscalAT	@AgCD2|FiscalCD nessa rodada não tem descontos.
+AgCD3	otimo, quero fechar negocio
+AgCD2|FiscalCD	@EmpSem|FiscalAT Está bem, irei levar 3 sementes de soja a preço normal então, vou esperar para a próxima rodada pelos descontos
+EmpSem|FiscalAT	Ok... @AgCD3 ... 6 sementes de hortaliça a preço normal... Confirmado
+AgCD1|PrefeitoCD	@EmpSem|FiscalAT 2 hortaliça*
+AgAT1	@EmpSem|FiscalAT ainda estou aguardando sua resposta
+EmpSem|FiscalAT	Olá @AgAT1 ... Todas as sementes estão a preço Normal... Só me informar o tipo e quantidade
+EmpSem|FiscalAT	Olá @AgCD1|PrefeitoCD as sementes estão com o preço normal... Só me informar o tipo e quantidade
+AgAT1	Vou querer então 6 sementes de Soja
+AgAT1	Consigo todas pelo preço normal?
+AgAT1	Não há nenhum desconto?
+AgCD1|PrefeitoCD	@EmpSem|FiscalAT 2x hotaliça, por favor
+EmpSem|FiscalAT	Ok @AgAT1 ... 6 sementes de soja pelo preço normal... Confirmado
+AgCD2|FiscalCD	@EmpSem|FiscalAT estou aguardando seu retorno
+EmpSem|FiscalAT	Ok @AgCD1|PrefeitoCD 2 sementes de hortaliça pelo preço Normal... Confirmado
+AgCD1|PrefeitoCD	Obrigado!
+AgAT3|VereadorAT	@EmpSem|FiscalAT 6 unidades de arroz, quanto faz?
+AgAT1	@EmpSem|FiscalAT obrigada empresário!
+EmpSem|FiscalAT	@AgAT3|VereadorAT tudo pelo preço normal
+AgAT2	Bom dia @EmpSem|FiscalAT , gostaria de 6 sementes de hortaliças: 4 pelo preço normal e 2 pelo preço baixo, e você ganhará um contrato vitalício explicitando que eu somente poderei comprar de você, justo?
+AgAT3|VereadorAT	@EmpSem|FiscalAT certo, vamos negociar?
+EmpSem|FiscalAT	@AgAT3|VereadorAT preço normal qualquer tipo e quantidade
+EmpSem|FiscalAT	@AgAT2|FiscalAT todas as sementes estão pelo preço normal nesta rodada
+AgAT3|VereadorAT	@EmpSem|FiscalAT Sim, 6 unidades de arroz, fecha negócio?
+AgCD2|FiscalCD	@EmpSem|FiscalAT Quero fechar negócio, 3 sementes de soja a preço normal, fechamos?
+EmpSem|FiscalAT	Ok @AgAT3|VereadorAT ... 6 de arroz pelo preço normal... Confirmado?
+AgAT3|VereadorAT	@EmpSem|FiscalAT Confirmado
+EmpSem|FiscalAT	Ok @AgCD2|FiscalCD ... 3 de soja pelo preço normal... Confirmado
+AgAT2	ok, 6 sementes de hortaliça então, e nenhum contrato vitalício @EmpSem|FiscalAT
+EmpSem|FiscalAT	Confirmado @AgAT2 ... 6 sementes de hortaliça pelo preço normal
+RODADA 2
+AgCD1|PrefeitoCD	Boa tarde! Gostaria de 2 sementes de hortaliça, por favor
+EmpSem|FiscalAT	Comunicado da empresa Sem-Mentes-Monopólio: O caminhão de sementes de hortaliça tombou devido ao excesso de rebite consumido pelo caminhoneiro e o de arroz foi parar nas mãos dos chineses. Só temos sementes de SOJA a preço ALTO devido a cotação do dólar nesta rodada (tah ok?!)
+EmpSem|FiscalAT	@AgCD1|PrefeitoCD  só temos soja a preço alto no momento
+AgCD3	Eu desejo sementes de soja
+AgCD3	6 pra ser mais exato
+AgCD3	A preço normal
+AgCD1|PrefeitoCD	Devido ao excesso de rebite?
+AgCD1|PrefeitoCD	Vish
+AgCD1|PrefeitoCD	SHUAHUAHSUAHSUAHS
+AgCD1|PrefeitoCD	Então não plantarei esse ano, obrigado
+EmpSem|FiscalAT	@AgCD3  somente soja a preço alto... quantidade liberada
+AgCD2|FiscalCD	Gostaria de 6 sementes de soja, faria 2 a preço baixo e o restante alto?
+AgCD2|FiscalCD	@EmpSem|FiscalAT Ou uma a preço baixo
+AgAT1	Que absurdo empresário!
+AgCD2|FiscalCD	Considere que é um número grande Empresário, e já comprei de você anteriormente
+EmpSem|FiscalAT	@AgCD2|FiscalCD  devido a cotação do dólar só temos pelo preço alto
+AgAT1	Você é responsável por nos fornecer variedades de sementes e nos obriga a comprar soja?
+AgCD2|FiscalCD	Que absurdo Empresário
+EmpSem|FiscalAT	@AgAT1  livre comércio
+EmpSem|FiscalAT	@AgAT1 lei do mercado
+AgCD2|FiscalCD	Você é nosso fornecedor a tempos, eu só compro de você, e não vai me fazer um pacote a preço mais baixo?
+AgCD3	Fechamos 6 de soja?
+EmpSem|FiscalAT	Ok... @AgCD3  6 de soja pelo preço alto... tenha uma ótima colheita!
+AgAT1	@EmpSem|FiscalAT Serei obrigada a reclamar com a prefeitura e com a fiscalização
+AgAT1	[7:00 PM]
+AgAT1	Porém desejo comprar 6 sementes de soja, consigo a que preço?(edited)
+EmpSem|FiscalAT	@AgAT1 nesta rodada somente pelo preço alto (para todos os compradores)
+AgCD2|FiscalCD	@EmpSem|FiscalAT Serei obrigada a reclamar com a prefeitura e com a fiscalização
+AgCD2|FiscalCD	Estou junto nessa, não pode ficar assim não empresário
+AgCD3	Obg
+EmpSem|FiscalAT	@AgCD2|FiscalCD  o mercado q é o culpado
+AgAT3|VereadorAT	@EmpAgro mantendo o profissionalismo aqui, por quanto faz 6 de hortaliça e 3 de arroz?
+EmpSem|FiscalAT	@AgAT3|VereadorAT  só temos semente de soja a preço alto
+AgAT1	@EmpSem|FiscalAT Vou levar, mas espero que suas sementes estejam no mínimo com uma qualidade excelente!
+AgCD2|FiscalCD	@EmpSem|FiscalAT certo então, irei pegar 6 sementes de soja a preço alto, mas para isso gostaria de um acordo. Na safra passada também comprei soja de você, me garante 2 pacotes de semente a preço baixo para a próxima safra?
+EmpSem|FiscalAT	@AgAT1  quantas sementes?... são as que dão maior lucro 
+AgAT3|VereadorAT	@EmpSem|FiscalAT ah desculpa, não havia visto
+EmpSem|FiscalAT	@AgCD2|FiscalCD  ok... 6 sementes de soja a preço alto. Na próxima rodada depende de como o mercado estará 
+AgCD2|FiscalCD	@EmpSem|FiscalAT certo, certo. O senhor tem que começar a pensar um pouco mais no seu público meu caro empresário, se continuar assim vai ficar cada vez mais difícil para todos nós... Até mais
+AgAT3|VereadorAT	Bem, por quanto sai 6 soja pelo preço mais alto? @EmpSem|FiscalAT
+EmpSem|FiscalAT	@AgCD2|FiscalCD  foram os imprevistos que dificultaram a disponibilidade de sementes... Para a Sem-Mentes-Monopólio o cliente vem sempre em segundo lugar 
+EmpSem|FiscalAT	@AgAT3|VereadorAT pode comprar que não tem limite de crédito
+EmpSem|FiscalAT	@AgAT3|VereadorAT  vai querer as 6 sementes de soja?
+AgAT3|VereadorAT	Ah sim...
+AgAT3|VereadorAT	@EmpSem|FiscalAT sim, vou querer.
+EmpSem|FiscalAT	@AgAT3|VereadorAT  ok... vendido 6 de soja pelo preço alto
+EmpSem|FiscalAT	@AgAT1  vai querer as sementes?
+EmpSem|FiscalAT	@AgAT1  já vi a resposta 
+AgAT2	Então @EmpSem|FiscalAT , soube que tu gosta de vender teus produtos a um preço bem alto
+EmpSem|FiscalAT	@AgAT2 é por causa do dólar
+AgAT2	@EmpSem|FiscalAT sim sim, claro claro
+AgAT2	sabe, eu não fiz nenhum curso relacionado a economia, mas eu sei de uma forma melhor de ganhar ainda mais dinheiro com teus produtos
+AgAT2	eu tenho uma proposta pra te fazer
+EmpSem|FiscalAT	Se soubesse já estaria rico @AgAT2 hahaha
+AgAT2	@EmpSem|FiscalAT se tu soubesse estaria ainda mais rico, não?
+EmpSem|FiscalAT	Qual é a proposta?
+EmpSem|FiscalAT	A maior riqueza é a saúde 
+AgAT2	É o seguinte: já ouviu falar na expressão "contrato com o diabo?" (convenhamos que "deal with the devil" é bem mais legal)
+AgAT2	ou contrato com empresa telefónica/de internet também vale
+EmpSem|FiscalAT	Não ouvi falar
+EmpSem|FiscalAT	Aqui se vende sementes
+EmpSem|FiscalAT	internet é noutro setor
+AgAT2	oookay, anyway
+EmpSem|FiscalAT	hahahahahha
+EmpSem|FiscalAT	Só temos soja a preço alto
+EmpAgro	qual o valor das sementes de hortaliças?
+EmpSem|FiscalAT	@EmpAgro ... Não tem hortaliça nesta rodada... Somente soja
+EmpSem|FiscalAT	A loja fecha as 20h30
+EmpSem|FiscalAT	hahahah
+EmpSem|FiscalAT	A integridade da Sem-mentes-Monopólio é inabalável
+AgAT2	por meio de contratos com seus clientes, vais fazer uma quantidade absurda de lucro ao longo do tempo. Começando com uma proposta justa e acolhedora: na compra de cinco sementes  quaisquer (a preço médio/baixo), o comprador ganha uma semente de soja de graça, depois de 2 anos, uma semente de arroz, depois, uma de hortaliças. Depois de expirar os 2 aninhos das hortaliças, o contrato dirá que os preços voltarão ao preço normal, depois de mais 2 anos, o preço começa a subir lentamente
+EmpSem|FiscalAT	Vai querer alguma semente @AgAT2 ?
+AgAT2	e graças ao contrato vitalício, os compradores terão que comprar seus produtos ou pagar uma quantidade exorbitante de multa
+EmpSem|FiscalAT	Monopólio é melhor que contrato 
+AgAT2	@EmpSem|FiscalAT e esse é o único jeito de manter tua empresa e ainda garantir o monopólio, soube que irão boicota-la no próximo ano...
+EmpAgro	Empresário, acredito que tudo trata-se de valor para o senhor e que deves ter hortaliças guardadas para seus grandes compradores.
+EmpSem|FiscalAT	A Sem-mentes-Monopólio trata todos os clientes iguais
+EmpAgro	Sou um empresário bem sucedido, posso pagar o valor
+AgAT2	2 sementes de soja de graça ou eu alimento teu corpo para os porcos também hahaha
+EmpSem|FiscalAT	O verdureiro tombou @EmpAgro  por isso q só temos soja
+EmpSem|FiscalAT	@AgAT2  vc quer comprar alguma semente?
+AgAT2	@EmpSem|FiscalAT tua empresa faliu e minha família roubou já tuas sementes enquanto eu te distraia, obrigado pela compreensão!
+EmpSem|FiscalAT	@AgAT2  ok
+RODADA 3
+AgCD1|VereadorCD	Bom dia, empresario! Temos sementes de horatliça esse ano?
+EmpSem|FiscalAT	As sementes então paradas no buraco negro de Curitiba... Para obter a liberação somente com uma transferência de 100 dinheiros
+AgCD3	Gostaria de comprar 6 sementes de soja
+EmpSem|FiscalAT	@AgCD3 ... 6 de soja preço normal + transferencia de 100 dinheiros
+AgCD3	sem propina amigo
+AgCD3	ou vende ou boicotaremos seus serviços
+AgCD3	aqui nao é a disneylandia
+AgCD1|VereadorCD	Eu usaria 2 de hortaliça e ainda pagaria D$100?
+AgCD2	@EmpSem|FiscalAT todas as sementes estão nesta suposta apreensão? por favor né...
+AgCD3	que é o vendedor de sementes sem quem compre as sementes?
+EmpSem|FiscalAT	@AgCD1|VereadorCD  temos sim... com uma transferência de 100 dinheiros e preço normal
+EmpSem|FiscalAT	@AgCD2 sim... todas as sementes mas o preço tá normal
+AgCD2	@EmpSem|FiscalAT que absurdo, todo ano vai ser essa palhaçada?
+EmpSem|FiscalAT	@AgCD3 vem da china
+EmpSem|FiscalAT	@AgCD2 culpa do mercado internacional... os produtores só exportam... tivemos que recorrer a China
+AgCD1|VereadorCD	Sem acordo, então. Isso está virando um abuso
+EmpSem|FiscalAT	@AgCD1|VereadorCD  você é muito preguiçoso... Não quer plantar
+AgCD1|VereadorCD	Sou pequeno produtor
+EmpSem|FiscalAT	Todas as sementes preço NORMAL + pedagio 100 dinheiros
+AgCD1|VereadorCD	Se pra cada ano que eu for comprar algo eu ter que pagar D$100, eu não vou ter dinheiros pra alimentar minha familia
+EmpSem|FiscalAT	Qualquer tipo e quantidade
+EmpSem|FiscalAT	Cada parcela de soja pode render até 400 dinheiros
+EmpSem|FiscalAT	vcs tem 6 parcelas
+AgAT2|VereadorAT	"não plante sementes, plante um vendedor de sementes", nova campanha?
+AgCD2	isso é absurdo @EmpSem|FiscalAT
+AgCD2	apoio um boicote ao empresário, NÃO PLANTAREI NADA!
+AgCD1|VereadorCD	Mas rendendo 400 dinheiros, eu pago uma multa altissima
+AgCD1|VereadorCD	Eu não plantarei nada, tambem
+AgAT1	Gostaria de comprar sementes de soja
+AgAT1	Busco sementes de qualidade garantida
+EmpSem|FiscalAT	@AgAT1 ok... 6 de soja a preço normal + transferência de 100 ok?
+AgCD3	Gostaria de compra 6 sementes de soja, sem adicionais, podemos negociar?
+EmpFert|PrefeitoCD	mas se não plantarem nada, como  todos os outros empresários ficamos? @EmpSem|FiscalAT você não pode fazer alguma coisa para minimizar essa situação?
+EmpSem|FiscalAT	@AgCD3 preço normal + 100 de transferência... A política é para todos
+AgAT3	Eu não vou olhar a minha carteira, apenas me entregue 6 sementes de arroz
+AgAT3	@EmpSem|FiscalAT
+EmpAgro|FiscalCD	@EmpSem|FiscalAT  Você está prejudicando os meus negócios, muitos agricultores não estão conseguindo plantar por causa de seus preços absurdos.
+EmpSem|FiscalAT	@AgAT3  Ok... 6 sementes de arroz a preço normal + 100 dinheiros... Ok?
+AgAT1	@EmpSem|FiscalAT Se eu te transferir $150, você me garante a compra de sementes de soja pelo valor baixo no próximo ano?
+AgAT3	@EmpSem|FiscalAT Ok.
+AgCD3	@EmpSem|FiscalAT Gostaria de compra mesmo assim;
+EmpSem|FiscalAT	@AgAT1 A demanda depende do mercado atual... Não tenho como fazer tal garantia
+AgAT2|VereadorAT	@EmpSem|FiscalAT 6 hortaliças + a sua família de volta, o que acha?
+AgAT1	Sou um cliente fiel, compro todos os anos em sua loja...
+EmpSem|FiscalAT	OK @AgCD3  6 sementes de soja a preço normal + 100 dinheiros... Bom plantio
+EmpSem|FiscalAT	@AgAT1  o mercado é dinâmico... Neste ano tivemos que importar... Só consigo preço normal porque vem da China
+AgAT1	Espero que você negocie preço melhores para o próximo ano
+AgAT1	Se não seremos obrigados a procurar a venda de sementes direto da fonte!
+EmpSem|FiscalAT	O preço está normal... o custo é da importação
+AgAT1	Vou querer as 6 sementes de soja
+EmpFert|PrefeitoCD	Também espero porque ano passado deixei de vender porque causa das sementes e meus fertilizantes estragaram.  E esse ano agora só fiz 3 vendas
+EmpSem|FiscalAT	@AgAT1 Ok... 6 sementes de soja a preço normal + 100 dinheiros... boa plantação!
+AgAT1	Já fiz a transferência bancária
+AgAT1	Obrigada pelas sementes
+AgAT1	Se não tiver um bom plantio vou voltar aqui e reclamar!!
+EmpSem|FiscalAT	Obrigado @AgAT1
+EmpSem|FiscalAT	Bom plantio depende do clima também
+EmpSem|FiscalAT	@EmpFert|PrefeitoCD  eu também só fiz 3 vendas
+RODADA 4
+AgCD1|VereadorCD	Olá sr. Empresário
+AgCD1|VereadorCD	O que aconteceu com as sementes esse ano?
+EmpSem|FiscalAT	Olá @AgCD1|VereadorCD  Nova administração!!! O cliente escolhe o tipo de semente, quantidade e preço!!!... A nossa empresa confia na justiça do consumidor!!! ( 100_Mentes_Social onde o cliente tem sempre um bom coração!!! )
+AgCD1|VereadorCD	Vish. Não to acreditando nessa história, mas vamos lá
+EmpSem|FiscalAT	vdd
+AgCD1|VereadorCD	Gostaria de 4 pcts de hortaliças, por favoe
+EmpSem|FiscalAT	ok... qual o valor?
+AgCD1|VereadorCD	Acredito que médio por serem somente 4
+AgCD2	Olá @EmpSem|FiscalAT , admito que considerando o histórico desta empresa fico com receio, mas tudo bem
+AgCD2	Gostaria de 6 sementes de arroz, a preço normal
+EmpSem|FiscalAT	Ok... @AgCD1|VereadorCD  valor normal então?
+AgCD1|VereadorCD	Isso, por favor
+EmpSem|FiscalAT	Ok @AgCD1|VereadorCD  fechado
+AgAT2|VereadorAT	okay, eu pago pelo dano na próxima rodada se tudo der certo
+AgAT2|VereadorAT	6 sementes de soja pelo preço baixo @EmpSem|FiscalAT
+EmpSem|FiscalAT	@AgCD2  6 sementes de arroz a preço normal... OK
+AgAT1	Você possuiu sementes de soja em seu estoque?
+EmpSem|FiscalAT	Olá @AgAT1 ... sim, temos todos os tipos de semente em estoque
+AgAT1	Que bom que conseguiu renovar seu estoque
+AgAT1	Vou querer 6 unidades de sementes de soja
+AgAT1	No último ano elas se mostraram produtivas
+EmpSem|FiscalAT	Ok @AgAT2|VereadorAT  6 sementes de soja a preço baixo... Bom plantio!
+EmpSem|FiscalAT	Ok @AgAT1 ... 6 sementes de soja reservada... Qual o valor que vc pretende pagar?
+AgAT3	Opa, gostei da oferta, até demais :eyes:
+AgAT3	Vamos aproveitar, 6 sementes de soja a preço baixo
+EmpSem|FiscalAT	Olá @AgAT3 ... sim, consigo 6 semente de soja a preço baixo... Combinado?
+AgAT1	Já que posso escolher gostaria de pagar o valor baixo, sempre fui uma cliente fiel e compro todos os anos em sua loja
+EmpSem|FiscalAT	Certo @AgAT1 ... Consigo a preço baixo com o fornecedor para você... Obrigado pela preferência!
+AgAT3	@EmpSem|FiscalAT combinadíssimo! Muito obrigado pela oferta
+EmpSem|FiscalAT	@AgAT3  Volte sempre!
+AgAT1	Obrigada empresário!
+AgAT1	Vou querer sementes de alta qualidade, como nos outros anos hein
+EmpSem|FiscalAT	@AgCD3 faça o pedido que será aprovado
+EmpSem|FiscalAT	O chefe é vendedor
+AgCD3	Gostaria de comprar 6 sementes de soja pelo preço baixo
+EmpSem|FiscalAT	Olá @AgCD3 ... Pedido aprovado... Tenha um ótimo plantio e rendimentos!!!
+AgCD3	Ok

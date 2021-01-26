@@ -1,0 +1,23 @@
+EmpAgro|FiscalCD	Boa tarde queridos clientes!! 
+EmpAgro|FiscalCD	Estão precisando que sua plantação seja saudavel sem agredir o meio ambiente? Eu tenho a solução para vocês!! Agrotóxicos super premium por apenas 27,50!
+AgCD3	gostaria de comprar 6 unidades de agrotoxicos
+AgCD3	sp
+AgCD3	valor baixo?
+AgCD3	por favor
+EmpAgro|FiscalCD	O Super premium não agride o meio ambiente e está em promoção
+EmpAgro|FiscalCD	Posso fazer por 25
+EmpAgro|FiscalCD	@AgCD3
+AgCD3	desejo o super premium pelo preço que for
+AgCD3	podemos fechar?
+EmpAgro|FiscalCD	sim @AgCD3
+EmpAgro|FiscalCD	Total de $150
+
+AgCD3	Otimo
+AgCD3	podemos tratar pelos valores de costume?
+AgCD3	baixo ,normal, alto...
+EmpAgro|FiscalCD	sim
+EmpAgro|FiscalCD	estão pelo valor baixo
+AgCD3	só sei escrever meu nome
+AgCD3	apenas um agricultor humilde
+AgCD3	Otimo
+AgCD3	agradecido viu moço

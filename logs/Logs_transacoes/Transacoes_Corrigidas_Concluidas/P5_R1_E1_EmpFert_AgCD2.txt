@@ -1,0 +1,9 @@
+AgCD2|PrefeitoCD	AgCD2: bom dia, queria comprar 4 fertilizantes premium e 2 super-premium... consegue me fazer um preço bom?
+EmpFert	@AgCD2, bom dia! Possuo apenas fertilizantes premium (preço normal) e comum (preço baixo).
+AgCD2|PrefeitoCD	Consegue fazer 4 comum (preço baixo) e 2 premium (preço baixo)? O premium já é mais caro :frowning:
+EmpFert	Não consigo fazer desconto, pois o super premium estava com preço baixo e acabaram os estoques
+EmpFert	rodada que vem teremos promoção novamente, fique atento, pois acaba rápido
+AgCD2|PrefeitoCD	Ta certo... eu fecho no preço que tu propôs, mas quero um desconto que fica pendente pra próxima rodada, feito?
+EmpFert	AgCD2, vai querer 4 comum (preço baixo) e 2 premium (preço normal)? Rodada que vem teremos estoque com desconto, mas você deve vir no início da rododa pois teremos estoque dos produtos com desconto
+AgCD2|PrefeitoCD	Certo, fechado então, obrigado
+EmpFert	Volte sempre!

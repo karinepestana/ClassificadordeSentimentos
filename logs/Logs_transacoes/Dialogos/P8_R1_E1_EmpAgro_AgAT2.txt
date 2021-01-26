@@ -1,0 +1,6 @@
+AgAT2|FiscalAT	boa tarde @EmpAgro , gostaria de 4 unidades do agrotóxico premium
+EmpAgro	Boa tarde! @AgAT2|FiscalAT
+EmpAgro	faço pelo valor normal pra voce
+EmpAgro	da 80R$ no total
+AgAT2|FiscalAT	fechado.
+EmpAgro	ótimo, tenha uma excelente colheita

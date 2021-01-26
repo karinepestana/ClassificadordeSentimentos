@@ -1,0 +1,8 @@
+AgAT1|VereadorAT	olá, gostaria de comprar 6 agrotóxicos
+AgAT1|VereadorAT	caso eu compre todos super premium, você consegue me vender por preço normal, pelo menos?
+EmpAgro	Olá @AgAT1|VereadorAT
+AgAT1|VereadorAT	é uma boa proposta hein
+EmpAgro	Feito então
+EmpAgro	Deu 180 R$
+AgAT1|VereadorAT	maravilha! 6 agrotóxicos super premium com preço normal (180)
+EmpAgro	Muito obrigado

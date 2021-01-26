@@ -1,0 +1,27 @@
+EmpMaq|VereadorAT	Bom dia prezados clientes, aguardo vocês :smile:
+AgCD2|PrefeitoCD	Olá Empresário, gostaria de saber como devo proceder para comprar 3 pacotes 3... Qual o valor? Você tem disponível?
+EmpMaq|VereadorAT	Bom dia @AgCD2|PrefeitoCD gostaria de comprar 3 pacotes do tipo 3?
+EmpMaq|VereadorAT	Tenho disponível sim, como são 3 posso fazer preço normal
+AgCD2|PrefeitoCD	não, tenho interessem em colheitadeira, semeadora e drones para expandir meu negócio
+AgCD2|PrefeitoCD	O preço normal é quanto?
+EmpMaq|VereadorAT	@AgCD2|PrefeitoCD sim, estas máquinas pertencem ao pacote 3
+EmpMaq|VereadorAT	Não temos valores em números, apenas os tipos baixo, normal e alto
+AgCD2|PrefeitoCD	e nesse caso é baixo?
+EmpMaq|VereadorAT	Só um minuto, me perdi aqui
+EmpMaq|VereadorAT	vou lhe informar
+AgCD2|PrefeitoCD	tudo bem
+AgCD2|PrefeitoCD	Aguardo para fecharmos negócio
+EmpMaq|VereadorAT	Pacote 3: baixo 85, normal 90 e alto 95
+EmpMaq|VereadorAT	temos pulverizador também
+EmpMaq|VereadorAT	no preço baixo 395
+AgCD2|PrefeitoCD	Amigo, não tenho interesse em pulverizador
+AgCD2|PrefeitoCD	Vou querer apenas 2 pacotes então
+AgCD2|PrefeitoCD	seu preço está caro
+EmpMaq|VereadorAT	Certo, de repente sua produção aumenta no próximo ano, daí fechamos :slight_smile:
+AgCD2|PrefeitoCD	2 pacotes 3
+EmpMaq|VereadorAT	São os impostos
+EmpMaq|VereadorAT	2 pacotes do tipo 3 dá pra fazer preço normal
+EmpMaq|VereadorAT	fechamos?
+AgCD2|PrefeitoCD	ótimo
+AgCD2|PrefeitoCD	fechamos
+EmpMaq|VereadorAT	pedido confirmado,obrigada pela preferência :smile:

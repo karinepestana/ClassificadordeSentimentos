@@ -1,0 +1,4 @@
+AgCD2	Olá @EmpFert|PrefeitoCD gostaria de comprar 6 pacotes do SP, valor baixo?
+EmpFert|PrefeitoCD	Olá @AgCD2! sim, sim! valor baixo
+AgCD2	@EmpFert|PrefeitoCD fechado então
+EmpFert|PrefeitoCD	@AgCD2 certo! obrigado pela compra!

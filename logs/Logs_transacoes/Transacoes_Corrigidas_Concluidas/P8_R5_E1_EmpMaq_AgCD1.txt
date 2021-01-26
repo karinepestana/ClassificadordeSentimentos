@@ -1,0 +1,4 @@
+AgCD1|FiscalCD	@EmpMaq|VereadorAT Gostaria de alugar 4 unidades do pacote 3. Quanto vai custar?
+EmpMaq|VereadorAT	Olá, @AgCD1|FiscalCD ! Sai pelo preço normal (D$ 90)
+AgCD1|FiscalCD	tá ok @EmpMaq|VereadorAT! vou levar
+EmpMaq|VereadorAT	Certo, @AgCD1|FiscalCD ! Venda de 4 un PM3 pelo preço normal

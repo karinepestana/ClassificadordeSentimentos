@@ -1,0 +1,8 @@
+EmpAgr|VereadorCD	olá pessoal, alguém interessado em agrotóxico?
+AgAT1|FiscalAT	Bom dia gostaria de saber sobre  o valor do agroxotico comum ?
+EmpAgr|VereadorCD	estou com promoção, se comprar 6 unidades te faço pelo preço baixo @AgAT1|FiscalAT
+AgAT1|FiscalAT	ok vou gerar 6 comuns
+EmpAgr|VereadorCD	certo!
+AgAT1|FiscalAT	os agrotóxicos sairam pelo preço baixo ?
+EmpAgr|VereadorCD	isso
+AgAT1|FiscalAT	negocio fechado entao

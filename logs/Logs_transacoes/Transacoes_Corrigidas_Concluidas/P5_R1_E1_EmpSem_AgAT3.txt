@@ -1,0 +1,7 @@
+EmpSem|FiscalAT	mais alguém gostaria de comprar sementes?
+AgAT3	bom dia! eu gostaria de comprar sementes. quais estão em estoque hoje?
+EmpSem|FiscalAT	@AgAT3 bom dia, estou vendendo arroz e soja
+AgAT3	gostaria de comprar 4 soja e 2 de arroz, por qual preço poderia fazer?
+EmpSem|FiscalAT	@AgAT3 soja consigo te vender pelo preço normal, mas arroz só pelo alto
+AgAT3	tudo bem, comprarei
+EmpSem|FiscalAT	ok @AgAT3, 4 soja com preço normal e 2 arroz com preço alto

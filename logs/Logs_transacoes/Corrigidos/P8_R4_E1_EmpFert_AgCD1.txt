@@ -1,0 +1,5 @@
+EmpFert|PrefeitoCD	Sigo dando a preferência para quem comprar fertilizante super premium, nessa rodada quem comprar 6 leva 2 por preço baixo e o resto normal
+AgCD1|FiscalCD	@EmpFert|PrefeitoCD gostaria de comprar 4 fertilizantes super premium. Quanto vai custar?
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD preço médio
+AgCD1|FiscalCD	tá bem @EmpFert|PrefeitoCD, vou levar!
+EmpFert|PrefeitoCD	@AgCD1|FiscalCD :handshake:

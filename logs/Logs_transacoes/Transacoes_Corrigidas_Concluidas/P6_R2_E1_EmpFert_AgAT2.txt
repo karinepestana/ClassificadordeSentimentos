@@ -1,0 +1,9 @@
+AgAT2|PrefeitoAT	olá, gostaria de 6 sacos de fertilizante super premium
+EmpFert|FiscalCD	Ok
+EmpFert|FiscalCD	@AgAT2|PrefeitoAT Vendido.
+AgAT2|PrefeitoAT	qual o preço?
+AgAT2|PrefeitoAT	nomal?
+EmpFert|FiscalCD	Normal
+AgAT2|PrefeitoAT	ok
+EmpFert|FiscalCD	Seguimos a tabela de vendas normalmente caros colegas
+EmpFert|FiscalCD	Compras de 6un de Fertilizantes Premium ou Super Premium serão por preço Normal.

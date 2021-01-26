@@ -1,0 +1,6 @@
+AgAT2|FiscalAT	Olá empresário, há alguma promoção na compra de 6 unidades?
+EmpFert|PrefeitoCD	O pacote mais vendido é o fertilizante super Premium, estou fazendo ele a preço normal essa rodada
+AgAT2|FiscalAT	Podemos negociar a mesma promoção?
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD Fertilizantes super premium, sendo 3 por valor baixo e 3 por valor normal?
+EmpFert|PrefeitoCD	claro!
+AgAT2|FiscalAT	@EmpFert|PrefeitoCD Obrigado empresário

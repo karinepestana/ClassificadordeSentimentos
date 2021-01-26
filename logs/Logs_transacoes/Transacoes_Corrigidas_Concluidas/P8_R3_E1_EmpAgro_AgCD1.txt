@@ -1,0 +1,5 @@
+AgCD1|FiscalCD	Olá @EmpAgro! Gostaria de comprar 2 agrotóxicos super premium e 1 Agrotóxico premium. Quanto vai custar tudo?
+EmpAgro	Olá @AgCD1|FiscalCD farei no valor normal
+EmpAgro	dará no total 80
+AgCD1|FiscalCD	tá bem @EmpAgro! vou querer!
+EmpAgro	@AgCD1|FiscalCD Perfeito, obrigado pela confiança

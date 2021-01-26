@@ -1,0 +1,5 @@
+AgAT2|FiscalAT	Gostaria de comprar 4 sementes de hortaliças e 2 de soja, qual o valor que você me consegue empresário?
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Devido a promoção dessa rodada consigo negociar as sementes de hortaliças pelo valor baixo e as duas de soja pelo valor normal
+EmpSem|PrefeitoAT	@AgAT2|FiscalAT Podemos fechar negócio?
+AgAT2|FiscalAT	@EmpSem|PrefeitoAT huum, gostei dessa proposta empresário.
+AgAT2|FiscalAT	Fechado
