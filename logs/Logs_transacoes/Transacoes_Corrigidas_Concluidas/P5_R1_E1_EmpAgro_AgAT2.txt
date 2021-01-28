@@ -1,0 +1,9 @@
+EmpAgro	bom dia pessoal! bora comprar agrotóxico
+AgAT2|VereadorAT	me ve agrotóxico super premium
+AgAT2|VereadorAT	por favor
+EmpAgro	sim
+EmpAgro	sai pelo valor normal
+EmpAgro	:slight_smile:
+EmpAgro	quantos deseja?
+AgAT2|VereadorAT	vou querer 6
+EmpAgro	feito

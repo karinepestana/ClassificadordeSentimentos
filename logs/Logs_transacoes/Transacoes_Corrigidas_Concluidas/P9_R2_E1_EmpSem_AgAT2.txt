@@ -16,8 +16,6 @@ EmpSem|FiscalAT	internet é noutro setor
 AgAT2	oookay, anyway
 EmpSem|FiscalAT	hahahahahha
 EmpSem|FiscalAT	Só temos soja a preço alto
-EmpAgro	qual o valor das sementes de hortaliças?
-EmpSem|FiscalAT	@EmpAgro ... Não tem hortaliça nesta rodada... Somente soja
 EmpSem|FiscalAT	A loja fecha as 20h30
 EmpSem|FiscalAT	hahahah
 EmpSem|FiscalAT	A integridade da Sem-mentes-Monopólio é inabalável
@@ -26,11 +24,7 @@ EmpSem|FiscalAT	Vai querer alguma semente @AgAT2 ?
 AgAT2	e graças ao contrato vitalício, os compradores terão que comprar seus produtos ou pagar uma quantidade exorbitante de multa
 EmpSem|FiscalAT	Monopólio é melhor que contrato 
 AgAT2	@EmpSem|FiscalAT e esse é o único jeito de manter tua empresa e ainda garantir o monopólio, soube que irão boicota-la no próximo ano...
-EmpAgro	Empresário, acredito que tudo trata-se de valor para o senhor e que deves ter hortaliças guardadas para seus grandes compradores.
-EmpSem|FiscalAT	A Sem-mentes-Monopólio trata todos os clientes iguais
-EmpAgro	Sou um empresário bem sucedido, posso pagar o valor
 AgAT2	2 sementes de soja de graça ou eu alimento teu corpo para os porcos também hahaha
-EmpSem|FiscalAT	O verdureiro tombou @EmpAgro  por isso q só temos soja
 EmpSem|FiscalAT	@AgAT2  vc quer comprar alguma semente?
 AgAT2	@EmpSem|FiscalAT tua empresa faliu e minha família roubou já tuas sementes enquanto eu te distraia, obrigado pela compreensão!
 EmpSem|FiscalAT	@AgAT2  ok

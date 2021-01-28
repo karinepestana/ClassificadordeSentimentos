@@ -1,0 +1,6 @@
+EmpAgro	bom dia pessoal! bora comprar agrotóxico
+AgCD2|PrefeitoCD	Consegue fazer 4 comum (preço baixo) e 2 premium (preço baixo)? O premium já é mais caro :frowning:
+EmpAgro	sim
+EmpAgro	:slight_smile:
+EmpAgro	feito?
+AgCD2|PrefeitoCD	Certo, fechado então, obrigado

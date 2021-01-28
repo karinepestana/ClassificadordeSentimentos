@@ -3,4 +3,3 @@ EmpFert|PrefeitoCD	95 cada, se você quiser te vendo 3 por 90 cada
 AgCD1|FiscalCD	pode ser 2 por 95
 EmpFert|PrefeitoCD	fechado!
 AgCD1|FiscalCD	ok
-

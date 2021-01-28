@@ -1,7 +1,7 @@
-AgAT2	Oi o q vc tem de estoque
-EmpSem|FiscalAT	@AgAT2 no momento soja e hortaliça estou vendendo no máximo 3 por cliente, arroz tem bastante
-AgAT2	me ve 6 arroz então pelo preço baixo
-AgAT2	pode ser :slight_smile:
-EmpSem|FiscalAT	@AgAT2, pelo preço médio nós fechamos. As vendas não foram tão boas assim...
-AgAT2	ok
-AgAT2	6 arroz a preço normal para AgAT2
+AgAT2|VereadorAT	Oi o q vc tem de estoque
+EmpSem|FiscalAT	@AgAT2|VereadorAT no momento soja e hortaliça estou vendendo no máximo 3 por cliente, arroz tem bastante
+AgAT2|VereadorAT	me ve 6 arroz então pelo preço baixo
+AgAT2|VereadorAT	pode ser :slight_smile:
+EmpSem|FiscalAT	@AgAT2|VereadorAT, pelo preço médio nós fechamos. As vendas não foram tão boas assim...
+AgAT2|VereadorAT	ok
+AgAT2|VereadorAT	6 arroz a preço normal para AgAT2

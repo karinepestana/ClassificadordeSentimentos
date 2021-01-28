@@ -11,7 +11,6 @@ AgCD3	desejo o super premium pelo preço que for
 AgCD3	podemos fechar?
 EmpAgro|FiscalCD	sim @AgCD3
 EmpAgro|FiscalCD	Total de $150
-
 AgCD3	Otimo
 AgCD3	podemos tratar pelos valores de costume?
 AgCD3	baixo ,normal, alto...

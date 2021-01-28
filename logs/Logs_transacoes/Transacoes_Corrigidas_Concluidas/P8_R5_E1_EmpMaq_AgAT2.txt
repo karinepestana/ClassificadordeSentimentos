@@ -15,6 +15,6 @@ AgAT2|FiscalAT	Mas vou arriscar levar, espero que minha colheita seja boa!
 AgAT2|FiscalAT	Sou apenas um agricultor preocupado com o ambiente
 EmpMaq|VereadorAT	Eu espero isso também!! Confirmando, então: 6un do PM3 à preço normal?
 EmpMaq|VereadorAT	Eu também me preocupo @AgAT2|FiscalAT, porém acredito que com todas essas vendas, ficarei com a poluição alta igual
-AgAT2|FiscalAT	@EmpMaq Exatamente
+AgAT2|FiscalAT	@EmpMaq|VereadorAT Exatamente
 AgAT2|FiscalAT	Fico no aguardo da entrega em minha fazenda
-EmpMaq	Certo! Obrigado pela confiança e preferência!
+EmpMaq|VereadorAT	Certo! Obrigado pela confiança e preferência!

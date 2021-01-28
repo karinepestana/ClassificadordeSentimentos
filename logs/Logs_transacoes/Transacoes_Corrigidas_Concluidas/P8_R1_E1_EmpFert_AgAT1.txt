@@ -2,4 +2,3 @@ AgAT1|VereadorAT	olá, estou pensando em comprar fertilizantes super premium. fa
 EmpFert|PrefeitoCD	olá vereador, se você comprar mais de 5, de faço um preço bom
 AgAT1|VereadorAT	@EmpFert|PrefeitoCD show, então se eu comprar 6 me vendes a preço baixo?
 EmpFert|PrefeitoCD	@AgAT1|VereadorAT  claro meu vereador, 85 cada
-

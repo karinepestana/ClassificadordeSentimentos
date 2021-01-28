@@ -1,11 +1,11 @@
 EmpAgro	@everyone Promoção, bora comprar agrotóxico
 EmpAgro	@everyone Promoção, bora comprar agrotóxico
 EmpAgro	@everyone Promoção, bora comprar agrotóxico
-AgAT2	me ve 6 comum
-AgAT2	plis
+AgAT2|VereadorAT	me ve 6 comum
+AgAT2|VereadorAT	plis
 EmpAgro	sim
 EmpAgro	a preço baixo
 EmpAgro	:slight_smile:
-AgAT2	feito
+AgAT2|VereadorAT	feito
 EmpAgro	clientes antigos tem privilégios
 EmpAgro	:slight_smile:

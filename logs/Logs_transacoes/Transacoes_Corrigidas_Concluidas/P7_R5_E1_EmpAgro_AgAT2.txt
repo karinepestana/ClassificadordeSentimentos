@@ -1,4 +1,4 @@
 AgAT2	Bom dia! Gostaria de 2 SP, por favor
-EmpAgr|VereadorCD	mesma promoção para o outro agricultor, 1 com preço baixo e 1 normal @AgAT2  feito?
-AgAT2	@EmpAgr|VereadorCD Certo!
-EmpAgr|VereadorCD	obrigado amigo, volte sempre @AgAT2
+EmpAgro|VereadorCD	mesma promoção para o outro agricultor, 1 com preço baixo e 1 normal @AgAT2  feito?
+AgAT2	@EmpAgro|VereadorCD Certo!
+EmpAgro|VereadorCD	obrigado amigo, volte sempre @AgAT2
