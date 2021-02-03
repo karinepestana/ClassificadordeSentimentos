@@ -2,7 +2,7 @@ EmpAgro|VereadorCD	bom dia!
 EmpAgro|VereadorCD	estou vendendo com um preço especial
 EmpAgro|VereadorCD	e produtos de ótima qualidade
 AgAT2	Booom dia!! Pretendo comprar 6 sacos de SP. Que preço o senhor me faria?
-EmpAgr|VereadorCD	@AgAT2 bom dia, ótimo. te faço por preço normal
+EmpAgro|VereadorCD	@AgAT2 bom dia, ótimo. te faço por preço normal
 EmpAgro|VereadorCD	fechado? @AgAT2
 AgAT2	@EmpAgr|VereadorCD Não poderia ser preço baixo? São 6 do mesmo
 EmpAgro|VereadorCD	@AgAT2 te consigo 3 com preço baixo e 3 normal. é o máximo viável
