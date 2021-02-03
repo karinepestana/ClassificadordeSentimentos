@@ -1,6 +1,0 @@
-	0
-alegria	alegria
-medo	medo
-nojo	nojo
-raiva	raiva
-tristeza	tristeza
