@@ -1,4 +1,4 @@
-# ClassificadordeSentimentos
+# Classificador de Sentimentos
 
 Classificador de Sentimentos desenvolvido no conexto de uma Dissertação de Mestrado realizada na Universidade Federal de Pelotas. 
 Também foi desenvolvido léxicos de sentimentos através de uma lista iniciais de termos com bases nas teorias de Paul Ekman e Robert Plutchik que são eventualmente utilizados pelo classificador.
